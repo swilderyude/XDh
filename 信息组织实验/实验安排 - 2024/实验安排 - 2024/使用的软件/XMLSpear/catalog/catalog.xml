@@ -1,0 +1,16 @@
+<!DOCTYPE catalog
+ PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN"
+ "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<!-- this catalog is used by XMLSpear  itself -->
+<!-- Please do not change it or remove it -->
+<!-- You can define your own catalogs and then register them to XMLSpear by  -->
+<!-- changing the XMLSpear.properties. Look for XML Catalogs and add your own catalogs-->
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="public">
+   <uri name="http://www.w3.org/1999/XSL/Transform" uri="xslt20.xsd"/>
+   <uri name="http://www.w3.org/XML/1998/namespace" uri="xml.xsd"/>
+   <uri name="http://www.w3.org/2001/XMLSchema" uri="XMLSchema.xsd"/>
+   <public publicId="-//W3C//DTD XMLSCHEMA 200102//EN" uri="XMLSchema.dtd"/>
+   <public publicId="-//Apple Computer//DTD PLIST 1.0//EN" uri="PropertyList-1.0.dtd"/>
+   <public publicId="-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" uri="catalog.dtd"/>
+   <public publicId="datatypes" uri="datatypes.dtd"/>
+</catalog>

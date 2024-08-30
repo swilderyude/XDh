@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="person">
+        <xs:annotation>
+            <xs:documentation xml:lang="en">English annotation <b>bold</b> for person</xs:documentation>
+             <xs:documentation>No-language annotation <b>bold</b> for person</xs:documentation>
+        </xs:annotation>
+        <xs:complexType>
+            <xs:sequence maxOccurs="unbounded">
+                <xs:element ref="child">
+                    <xs:annotation>
+                        <xs:documentation xml:lang="en">English annotation <b>referencing</b> the child element</xs:documentation>
+                        <xs:documentation>No-language annotation <b>referencing</b> the child element</xs:documentation>
+                    </xs:annotation>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="title">
+                <xs:annotation>
+                    <xs:documentation>
+                        <body
+                                bgcolor="#E6E6FA">No-language documentation for <font
+                                color="red">title</font> attribute <b>object</b> with a link example. See
+<a href="http://donkeydevelopment.com">my
+website</a>
+                        </body>
+                    </xs:documentation>
+                </xs:annotation>
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="Mr."/>
+                        <xs:enumeration value="Ms."/>
+                        <xs:enumeration value="Dr."/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="child">
+        <xs:annotation>
+            <xs:documentation xml:lang="en">English annotation for<b>child</b> target<br/>This a another line<br/>
+                <ul>
+                    <li>item1</li>
+                    <li>item2</li>
+                    <li>item3</li>
+                </ul>
+            </xs:documentation>
+            <xs:documentation xml:lang="nl">Nederlandse annotatie voor <b>kind</b> element zelf</xs:documentation>
+        </xs:annotation>
+    </xs:element>
+</xs:schema>

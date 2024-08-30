@@ -1,0 +1,15 @@
+<?xml version="1.0"?> 
+<!DOCTYPE notes [ 
+  <!ELEMENT note (heading,body,sub)> 
+  <!ATTLIST note from CDATA #REQUIRED> 
+  <!ATTLIST note to CDATA #REQUIRED> 
+  <!ELEMENT to      (#PCDATA)> 
+  <!ELEMENT from    (#PCDATA)> 
+  <!ELEMENT heading (#PCDATA)> 
+  <!ELEMENT body    (#PCDATA)>
+  <!ELEMENT sub   (#PCDATA)> 
+]> 
+<note from="Santhosh" to="JRoller"> 
+  <heading>Reminder</heading> 
+  <bodsy>Don't forget me this weekend</bodsy> 
+</note>

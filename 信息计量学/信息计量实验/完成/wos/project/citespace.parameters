@@ -1,0 +1,19 @@
+Date	December 7, 2023 at 11:53:31 PM CST
+Project Home	/Users/zhao/Desktop/大三课作业/信息计量实验/完成/wos/project
+Data Home	/Users/zhao/Desktop/大三课作业/信息计量实验/完成/wos/data
+Data Source	WoS
+Language	English
+From	2013-JAN
+To	2023-DEC
+Slice Length	4
+Title	true
+Abstract	true
+Descriptor	true
+Identifier	true
+Prune with PF	true
+Prune with MST	false
+Prune Slices	true
+Prune Merged	false
+Threshold Group 0	2, 2, 20
+Threshold Group 1	4, 3, 20
+Threshold Group 2	4, 3, 20

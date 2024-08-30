@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Slides with a fatal error -->
+<slideshow author="Yours Truly" date="Date of publication" title="Sample Slide Show">
+   <slide type="all">
+      <title>Wake up to WonderWidgets!</title>
+   </slide>
+
+<!-- OVERVIEW -->
+   <slide type="all">
+      <title>Overview</titl>
+      <item>
+         <em>WonderWidgets</em>
+      </item>
+      <item>
+         <em>buys</em>
+      </item</slide>
+</slideshow>

@@ -1,0 +1,1305 @@
+PT J
+AU Huang, CL
+   Wu, MS
+   Jeng, SH
+AF Huang, CL
+   Wu, MS
+   Jeng, SH
+TI Gesture recognition using the multi-PDM method and Hidden Markov Model
+SO IMAGE AND VISION COMPUTING
+LA English
+DT Article
+DE gesture recognition; multi-PDM method; Hidden Markov Model
+ID language
+AB This paper introduces a multi-Principal-Distribution-Model (PDM) method and Hidden Markov Model (I-m IM) for gesture recognition. To track the hand-shape, it uses the PDM model which is built by learning patterns of variability from a training set of correctly annotated images. However, it can only fit the hand examples that are similar to shapes of the corresponding training set. For gesture recognition, we need to deal with a large variety of hand-shapes. Therefore, we divide all the training hand shapes into a number of similar groups, with each group trained for an individual PDM shape model. Finally, we use the HMM to determine model transition among these PDM shape models. From the model transition sequence, the system can identify the continuous gestures representing one-digit or two-digit numbers. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Natl Tsing Hua Univ, Inst Elect Engn, Hsinchu, Taiwan.
+C3 National Tsing Hua University
+RP Huang, CL (通讯作者)，Natl Tsing Hua Univ, Inst Elect Engn, Hsinchu, Taiwan.
+EM clhuang@ee.nthu.edu.tw
+CR CHARAYAPHAN C, 1992, J BIOMED ENG, V14, P419, DOI 10.1016/0141-5425(92)90088-3
+   COOTES TF, 1995, COMPUT VIS IMAGE UND, V61, P38, DOI 10.1006/cviu.1995.1004
+   CUI Y, 1995, P INT WORKSH AUT FAC, V0, P0
+   Davis J, 1994, IEE P VIS IMAGE SIGN, V141, P0
+   Freeman W, 1995, P INT WORKSH AUT FAC, V0, P0
+   Heap T, 1996, IMAGE VISION COMPUT, V14, P589, DOI 10.1016/0262-8856(96)01094-3
+   Huang CL, 1998, MACH VISION APPL, V10, P292, DOI 10.1007/s001380050080
+   HUNTER E, 1995, P INT WORKSH AUT FAC, V0, P0
+   JUANG BH, 1990, IEEE T ACOUST SPEECH, V38, P1639, DOI 10.1109/29.60082
+   KJELDSEN R, 1995, P INT WORKSH AUT FAC, V0, P0
+   LANTIS A, 1994, ELECTRON LETT, V30, P1587
+   Maggioni C, 1995, P INT WORKSH AUT FAC, V0, P0
+   Pavlovic VI, 1997, IEEE T PATTERN ANAL, V19, P677, DOI 10.1109/34.598226
+   REHG JM, 1995, P INT WORKSH AUT FAC, V0, P0
+   SABIN MJ, 1984, THESIS STANFORD U ST, V0, P0
+   Schuster-Bockler Benjamin, 2007, CURR PROTOC BIOINFORMATICS, VAppendix 3, P3A, DOI 10.1109/MASSP.1986.1165342
+   STARNER A, 1995, P INT WORKSH AUT FAC, V0, P0
+   Takahashi T, 1992, SYSTEMS AND COMPUTERS IN JAPAN, V23, P38, DOI 10.1002/scj.4690230304
+   TAMURA S, 1988, PATTERN RECOGN, V21, P343, DOI 10.1016/0031-3203(88)90048-9
+   Tou JT, 1981, PATTERN RECOGNITION, V0, P0
+   WILSON AD, 1995, P INT WORKSH AUT FAC, V0, P0
+NR 22
+TC 9
+Z9 10
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0262-8856
+EI 1872-8138
+J9 IMAGE VISION COMPUT
+JI Image Vis. Comput.
+PD AUG 15
+PY 2000
+VL 18
+IS 11
+BP 865
+EP 879
+DI 10.1016/S0262-8856(99)00042-6
+PG 15
+WC Computer Science, Artificial Intelligence; Computer Science, Software Engineering; Computer Science, Theory & Methods; Engineering, Electrical & Electronic; Optics
+SC Computer Science; Engineering; Optics
+GA 338HC
+UT WOS:000088412200001
+DA 2023-11-10
+ER
+
+PT J
+AU Stolcke, A
+   Ries, K
+   Coccaro, N
+   Shriberg, E
+   Bates, R
+   Jurafsky, D
+   Taylor, P
+   Martin, R
+   Van Ess-Dykema, C
+   Meteer, M
+AF Stolcke, A
+   Ries, K
+   Coccaro, N
+   Shriberg, E
+   Bates, R
+   Jurafsky, D
+   Taylor, P
+   Martin, R
+   Van Ess-Dykema, C
+   Meteer, M
+TI Dialogue act modeling for automatic tagging and recognition of conversational speech
+SO COMPUTATIONAL LINGUISTICS
+LA English
+DT Article
+ID language model; probability; organization; frequency
+AB We describe a statistical approach for modeling dialogue acts in conversational speech, i.e., speech-act-like units such as STATEMENT, QUESTION, BACKCHANNEL, AGREEMENT, DISAGREEMENT, and APOLOGY. Our model detects and predicts dialogue acts based on lexical, collocational, and prosodic cues, as well as on the discourse coherence of the dialogue act sequence. The dialogue model is based on treating the discourse structure of a conversation as a hidden Markov model and the individual dialogue acts as observations emanating from the model states. Constraints on the likely sequence of dialogue acts are modeled via a dialogue act n-gram. The statistical dialogue grammar is combined with word N-grams, decision frees, and neural networks modeling the idiosyncratic lexical nl td prosodic manifestations of each dialogue act. We develop a probabilistic integration of speech recognition with dialogue modeling, to improve both speech recognition and dialogue act classification accuracy. Models are trained and evaluated using a large hand-labeled database of 1,155 conservations from the Switchboard corpus of spontaneous human-to-human telephone speech. We achieved good dialogue act labeling accuracy (65% based on errorful, automatically recognized words and prosody, and 71% based on word transcripts, compared to a chance baseline accuracy of 35% and human accuracy of 84%) and a small reduction in word recognition error.
+C1 SRI Int, Speech Technol & Res Lab, Menlo Pk, CA 94025 USA.
+   Univ Colorado, Boulder, CO 80309 USA.
+   Univ Washington, Seattle, WA 98195 USA.
+   Univ Edinburgh, Edinburgh EH8 9YL, Midlothian, Scotland.
+   US Dept Def, Washington, DC 20305 USA.
+   Carnegie Mellon Univ, Pittsburgh, PA 15213 USA.
+   Univ Karlsruhe, Karlsruhe, Germany.
+   Johns Hopkins Univ, Baltimore, MD 21218 USA.
+C3 SRI International; University of Colorado System; University of Colorado Boulder; University of Washington; University of Washington Seattle; University of Edinburgh; United States Department of Defense; Carnegie Mellon University; Helmholtz Association; Karlsruhe Institute of Technology; Johns Hopkins University
+RP Stolcke, A (通讯作者)，SRI Int, Speech Technol & Res Lab, 333 Ravenswood Ave, Menlo Pk, CA 94025 USA.
+EM stolcke@speech.sri.com
+CR ANDERSON AH, 1991, LANG SPEECH, V34, P351, DOI 10.1177/002383099103400404
+   [Anonymous], 1997, PROSODY SPEECH UNDER, V0, P0
+   [Anonymous], 1997, 9702 U COL I COGN SC, V0, P0
+   [Anonymous], 1995, DYSFLUENCY ANNOTATIO, V0, P0
+   [Anonymous], 1998, P ACL COLING 98 WORK, V0, P0
+   Austin JL, 1962, DO THINGS WORDS, V0, P0
+   BAHL LR, 1983, IEEE T PATTERN ANAL, V5, P179, DOI 10.1109/TPAMI.1983.4767370
+   BARD EG, 1995, P ESCA NATO TUT WORK, V0, P25
+   BAUM LE, 1970, ANN MATH STAT, V41, P164, DOI 10.1214/aoms/1177697196
+   Berger AL, 1996, COMPUT LINGUIST, V22, P39
+   Bourlard HA, 1993, CONNECTIONIST SPEECH, V0, P0, DOI DOI 10.1007/978-1-4615-3210-1
+   Breiman L, 1984, CLASSIFICATION ALGOR, V40, P358, DOI 10.1201/9781315139470
+   Bridle JS, 1990, NEUROCOMPUTING, V0, P0
+   Carletta J, 1996, COMPUT LINGUIST, V22, P249
+   Carlson Lauri, 1983, DIALOGUE GAMES APPRO, V0, P0
+   Castellan, 1988, NONPARAMETRIC STAT B, V0, P0
+   Chu-Carroll J, 1998, APPLYING MACHINE LEARNING TO DISCOURSE PROCESSING. PAPERS FROM THE 1998 AAAI SYMPOSIUM, V0, P12
+   Church KW, 1988, SECOND CONFERENCE ON APPLIED NATURAL LANGUAGE PROCESSING, V0, P136
+   CORE MG, 1997, WORK NOT AAAI FALL S, V0, P28
+   DERMATAS E, 1995, COMPUT LINGUIST, V21, P137
+   ECKERT W, 1996, P INT C AC SPEECH SI, V1, P423
+   FOWLER CA, 1987, J MEM LANG, V26, P489, DOI 10.1016/0749-596X(87)90136-7
+   Grosz BJ, 1986, COMPUTATIONAL LINGUISTICS, V12, P175
+   Hirschberg J, 1993, COMPUTATIONAL LINGUISTICS, V19, P501
+   IYER R, 1994, P WORKSH HUM LANG TE, V0, P82
+   Jefferson G, 1984, PAPERS LINGUISTICS, V17, P197, DOI 10.1080/08351818409389201
+   JURAFSKY D, 1998, 30 J HOPK U CTR LANG, V0, P0
+   KATZ SM, 1987, IEEE T ACOUST SPEECH, V35, P400, DOI 10.1109/TASSP.1987.1165125
+   KOWTKO JC, 1996, THESIS U EDINBURGH E, V0, P0
+   KUHN R, 1990, IEEE T PATTERN ANAL, V12, P570, DOI 10.1109/34.56193
+   Levin J, 1977, COGNITIVE SCI, V1, P395, DOI 10.1016/S0364-0213(77)80016-5
+   Linell P, 1990, DYNAMICS DIALOGUE, V0, P147
+   MAST M, 1996, P INT C SPOK LANG PR, V3, P1732
+   MENN L, 1982, LANG SPEECH, V25, P341, DOI 10.1177/002383098202500403
+   MORGAN N, 1997, P 5 EUR C SPEECH COM, V4, P2079
+   NAGATA M, 1994, SPEECH COMMUN, V15, P193, DOI 10.1016/0167-6393(94)90071-X
+   Pearl J, 1988, MORGAN KAUFMANN SERI, V0, P0
+   POWER R, 1979, LINGUISTICS, V17, P107, DOI 10.1515/ling.1979.17.1-2.107
+   SACKS H, 1974, LANGUAGE, V50, P696, DOI 10.2307/412243
+   SCHEGLOFF EA, 1968, AM ANTHROPOL, V70, P1075, DOI 10.1525/aa.1968.70.6.02a00030
+   Schegloff EA, 1982, ANAL DISCOURSE TEXT, V71, P71, DOI 10.2307/324165
+   Schuster-Bockler Benjamin, 2007, CURR PROTOC BIOINFORMATICS, VAppendix 3, P3A, DOI 10.1109/MASSP.1986.1165342
+   Searle JR, 1969, SPEECH ACTS, V0, P0
+   Shriberg E, 1998, LANG SPEECH, V41, P443, DOI 10.1177/002383099804100410
+   SUHM B, 1994, P INT C SPOK LANG PR, V2, P831
+   Taylor P, 2000, J ACOUST SOC AM, V107, P1697, DOI 10.1121/1.428453
+   TAYLOR P, 1998, LANG SPEECH, V41, P489
+   VITERBI AJ, 1967, IEEE T INFORM THEORY, V13, P260, DOI 10.1109/TIT.1967.1054010
+   Weber Elizabeth, 1993, VARIETIES QUESTIONS, V0, P0
+   WITTEN IH, 1991, IEEE T INFORM THEORY, V37, P1085, DOI 10.1109/18.87000
+   WRIGHT H, 1998, P 5 INT C SPOK LANG, V4, P1403
+   Yngve V, 1970, 6 REG M CHIC LING SO, V0, P567
+NR 79
+TC 466
+Z9 489
+U1 1
+U2 37
+PU MIT PRESS
+PI CAMBRIDGE
+PA ONE ROGERS ST, CAMBRIDGE, MA 02142-1209 USA
+SN 0891-2017
+EI 1530-9312
+J9 COMPUT LINGUIST
+JI Comput. Linguist.
+PD SEP 15
+PY 2000
+VL 26
+IS 3
+BP 339
+EP 373
+DI 10.1162/089120100561737
+PG 35
+WC Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications; Linguistics; Language & Linguistics
+SC Computer Science; Linguistics
+GA 359WU
+UT WOS:000089635700003
+DA 2023-11-10
+ER
+
+PT J
+AU Weitzenfeld, A
+   Peguero, O
+   Gutiérrez, S
+AF Weitzenfeld, A
+   Peguero, O
+   Gutiérrez, S
+TI NSL/ASL:: Distributed simulation of modular neural networks
+SO MICAI 2000: ADVANCES IN ARTIFICIAL INTELLIGENCE, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+DE neural networks; simulation; modular; distributed
+AB As neural systems become large and complex, sophisticated tools are needed to support effective model development and efficient simulation processing. Initially, during model development, rich graphical interfaces linked to powerful programming languages and component libraries are the primary requirement. Later, during model simulation, processing efficiency is the primary concern. Workstations and personal computers are quite effective during model development, while parallel and distributed computation become necessary during simulation processing. We give first an overview of modeling and simulation in NSL together with a depth perception model example. We then discuss current and future work with the NSL/ASL system: in the development and simulation of modular neural systems executed in a single computer or distributed computer network.
+C1 Inst Tecnol Autonomo Mexico, Dept Acad Computac, Mexico City 01000, DF, Mexico.
+C3 Instituto Tecnologico Autonomo de Mexico
+RP Weitzenfeld, A (通讯作者)，Inst Tecnol Autonomo Mexico, Dept Acad Computac, Rio Hondo 1,San Angel Tizapan, Mexico City 01000, DF, Mexico.
+CR ALEXANDER A, 1999, P 1999 INT C WEB BAS, V0, P124
+   [Anonymous], 1998, BOOK GENESIS EXPLORI, V0, P0, DOI DOI 10.1007/978-1-4612-1634-63
+   [Anonymous], 1998, MULTITHREADED PROGRA, V0, P0
+   Arbib MA, 1992, ENCY ARTIFICIAL INTE, V2, P1427, DOI 10.5555/122836
+   ARBIB MA, 1989, METAPHORICAL BRAIN, V2, P124
+   CORBACHO F, 1997, SOC NEUR ABS, V0, P0
+   DESCHUTTER E, 1992, TRENDS NEUROSCI, V15, P462, DOI 10.1016/0166-2236(92)90011-V
+   Geist A, 1994, PVM PARALLEL VIRTUAL, V0, P0
+   GUTIERREZ S, 1999, TR9901 ITAM DEP COMP, V0, P0
+   Hines ML, 1997, NEURAL COMPUT, V9, P1179, DOI 10.1162/neco.1997.9.6.1179
+   HOUSE D, 1985, LECT NOTES BIOMATHEM, V0, P0
+   KICZALES G, 1996, OPEN IMPLEMENTATIONS, V0, P0
+   LEIGTHON RR, 1994, NEURAL NETWORK SIMUL, V0, P209
+   MOWBRAY TJ, 1998, INSIDE CORBA DISTRIB, V0, P0
+   MURRE J, 1995, HDB BRAIN THEORY NEU, V0, P634
+   PITTS W, 1943, B MATH BIOPHYS, V5, P115
+   RALL W, 1960, EXP NEUROL, V2, P503, DOI 10.1016/0014-4886(60)90029-7
+   WEITZENFELD A, 1991, OOPS MESSENGER, V2, P120
+   WEITZENFELD A, 1998, P 1998 INT S ROB AUT, V0, P0
+   WEITZENFELD A, 1993, P WORKSH NEUR ARCH D, V0, P0
+   WEITZENFELD A, 2000, NEURAL SIMULATION LA, V0, P0
+NR 22
+TC 3
+Z9 3
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1793
+IS 
+BP 326
+EP 337
+DI 
+PG 12
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BQ61W
+UT WOS:000088970800030
+DA 2023-11-10
+ER
+
+PT J
+AU Mangu, L
+   Brill, E
+   Stolcke, A
+AF Mangu, L
+   Brill, E
+   Stolcke, A
+TI Finding consensus in speech recognition: word error minimization and other applications of confusion networks
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+AB We describe a new framework for distilling information from word lattices to improve the accuracy of the speech recognition output and obtain a more perspicuous representation of a set of alternative hypotheses. In the standard MAP decoding approach the recognizer outputs the string of words corresponding to the path with the highest posterior probability given the acoustics and a language model. However, even given optimal models, the MAP decoder does not necessarily minimize the commonly used performance metric, word error rate (WER). We describe a method for explicitly minimizing WER by extracting word hypotheses with the highest posterior probabilities from word lattices. We change the standard problem formulation by replacing global search over a large set of sentence hypotheses with local search over a small set of word candidates. In addition to improving the accuracy of the recognizer, our method produces a new representation of a set of candidate hypotheses that specifies the sequence of word-level confusions in a compact lattice format. We study the properties of confusion networks and examine their use for other tasks, such as lattice compression, word spotting, confidence annotation, and reevaluation of recognition hypotheses using higher-level knowledge sources. (C) 2000 Academic Press.
+C1 SRI Int, Menlo Pk, CA 94025 USA.
+   IBM Corp, Thomas J Watson Res Ctr, Yorktown Hts, NY 10598 USA.
+   Microsoft Res, Redmond, WA 98052 USA.
+C3 SRI International; International Business Machines (IBM); Microsoft
+RP Stolcke, A (通讯作者)，SRI Int, 333 Ravenswood Ave, Menlo Pk, CA 94025 USA.
+EM mangu@us.ibm.com; brill@microsoft.com; stolcke@speech.sri.com
+CR [Anonymous], 1997, 5 EUR C SPEECH COMM, V0, P0
+   BAHL LR, 1983, IEEE T PATTERN ANAL, V5, P179, DOI 10.1109/TPAMI.1983.4767370
+   Duda RO, 1973, PATTERN CLASSIFICATI, V3, P0
+   Evermann G, 2000, NIST SPEECH TRANSCR, V0, P78
+   EVERMANN G, 2000, P IEEE C AC SPEECH S, V3, P1659
+   Fiscus JG, 1997, 1997 IEEE WORKSHOP ON AUTOMATIC SPEECH RECOGNITION AND UNDERSTANDING, V0, P347, DOI 10.1109/ASRU.1997.659110
+   Godfrey JJ, 1992, ICASSP-92: 1992 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, V0, P517, DOI 10.1109/ICASSP.1992.225858
+   Goel V, 2000, COMPUT SPEECH LANG, V14, P115, DOI 10.1006/csla.2000.0138
+   GOEL V, 1998, P IEEE ICASSP, V1, P425
+   Graff D, 1997, P DARPA WORKSH SPOK, V0, P11
+   GUSFIELD D, 1993, B MATH BIOL, V55, P141, DOI 10.1007/BF02460299
+   JELINEK F, 1997, 30 J HOPK U CTR LANG, V0, P0
+   Kemp Thomas, 1997, PROC EUR C SPEECH CO, V0, P827
+   LJOLJE A, 1999, P 6 EUR C SPEECH COM, V3, P1251
+   MANGU L, 1999, P 3 WORLD MULT SYST, V5, P246
+   Mangu L, 1999, EUROSPEECH 99, V0, P495
+   Mohri M, 1997, COMPUT LINGUIST, V23, P269
+   SIU MH, 1997, P 5 EUR C SPEECH COM, V2, P831
+   Stolcke A, 2000, P NIST SPEECH TRANSC, V0, P0
+   WEINTRAUB M, 1995, INT CONF ACOUST SPEE, V0, PP297, DOI 10.1109/ICASSP.1995.479532
+   WEINTRAUB M, 1997, P ICASSP, V2, P887
+   WENG F, 1998, P DARPA BROADC NEWS, V0, P138
+   WESSEL F, 1999, P 6 EUR C SPEECH COM, V1, P315
+   YOUNG S, 1997, HTK 2 1 ENTR CAMBR R, V0, P0
+NR 24
+TC 372
+Z9 454
+U1 0
+U2 18
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD OCT 15
+PY 2000
+VL 14
+IS 4
+BP 373
+EP 400
+DI 10.1006/csla.2000.0152
+PG 28
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 368DG
+UT WOS:000090102000004
+DA 2023-11-10
+ER
+
+PT J
+AU Shen, VRL
+AF Shen, VRL
+TI Correctness in hierarchical knowledge-based requirements
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART B-CYBERNETICS
+LA English
+DT Article
+DE CAD tool; formal analysis; knowledge base; Petri net; predicate/transition net; requirements specification
+ID digital-systems; specification; verification; hardware; design
+AB As expert system technology gains broader acceptance, the need to build and maintain large-scale knowledge bases will assume greater importance. Traditional approaches to knowledge-based systems (KBSs) verification have generally adopted a pairwise comparison of rules, making them slow for large-scale KBSs. This paper introduces the least fixpoint semantics of a predicate/transition (pr/t) net model into the KBSs for the purposes of speeding up the computation and saving the design time of KBSs, An efficient fault diagnosis algorithm is presented to locate some fault(s) made in the KBS design. The significance of this work is that frame- and rule-based hardware description language (FARHDL) fan easily form a KBS, and the pr/t net model provides a T-invariant technique to verify the correctness of KBS requirements. Thus, the performance of a computer-aided design (CAD) tool for digital systems can be improved to some extent.
+C1 Mingchi Inst Technol, Dept Elect Engn, Taipei 243, Taiwan.
+C3 Ming Chi University of Technology
+RP Shen, VRL (通讯作者)，Mingchi Inst Technol, Dept Elect Engn, Taipei 243, Taiwan.
+EM rlshen@ccsun.mit.edu.tw
+CR AGARWAL R, 1992, INT J MAN MACH STUD, V36, P447, DOI 10.1016/0020-7373(92)90043-K
+   [Anonymous], 1986, GUIDE EXPERT SYSTEMS, V0, P0
+   CLOCKSIN WF, 1987, J LOGIC PROGRAM, V4, P59, DOI 10.1016/0743-1066(87)90022-7
+   COUDERT O, 1989, P WORKSH AUT VER MET, V0, P1
+   DILL DL, 1992, FORM METHOD SYST DES, V0, P29
+   GOPALAKRISHNAN G, 1993, ACM T COMPUT SYST, V11, P109, DOI 10.1145/151244.151245
+   GUIDA G, 1993, IEEE T KNOWL DATA EN, V5, P204, DOI 10.1109/69.219731
+   GUPTA AP, 1993, IEEE T COMPUT AID D, V12, P473, DOI 10.1109/43.229731
+   Heimdahl MPE, 1996, IEEE T SOFTWARE ENG, V22, P363, DOI 10.1109/32.508311
+   KABAT WC, 1985, IEEE T COMPUT, V34, P610, DOI 10.1109/TC.1985.1676600
+   KOWALSKI RA, 1983, P IFIP 83, V0, P133
+   LEE DY, 1992, 1992 IEEE INTERNATIONAL CONF ON ROBOTICS AND AUTOMATION : PROCEEDINGS, VOLS 1-3, P1057, DOI 10.1109/ROBOT.1992.220208
+   Lin L-Z, 1993, NAT PROD LETT, V3, P5, DOI 10.1080/10575639308043831
+   MCFARLAND MC, 1993, IEEE T COMPUT AID D, V12, P633, DOI 10.1109/43.277609
+   MCFARLAND MC, 1990, P IEEE, V78, P301, DOI 10.1109/5.52214
+   MURATA T, 1988, IEEE T SOFTWARE ENG, V14, P481, DOI 10.1109/32.4671
+   NAZARETH DL, 1993, IEEE T KNOWL DATA EN, V5, P402, DOI 10.1109/69.224193
+   Peterson JL, 1981, PETRI NET THEORY MOD, V0, P0
+   PROSSER FP, 1987, ART DIGITAL DESIGN, V0, P0
+   Rumbaugh J, 1991, OBJECT ORIENTED MODE, V0, P0
+   Shen VRL, 1998, IEICE T INF SYST, VE81D, P317
+   Shen VRL, 1998, IEEE T SYST MAN CY B, V28, P748, DOI 10.1109/3477.718525
+   SHEN VRL, 1994, J MINGCHI I TECH, V26, P33
+   SHEN VRL, 1993, J MING CHI I TECH, V25, P111
+   TECUCI GD, 1992, IEEE T SYST MAN CYB, V22, P1444, DOI 10.1109/21.199468
+   TSAI JJP, 1992, IEEE T SOFTWARE ENG, V18, P1076, DOI 10.1109/32.184762
+NR 26
+TC 11
+Z9 11
+U1 0
+U2 0
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1083-4419
+EI 1941-0492
+J9 IEEE T SYST MAN CY B
+JI IEEE Trans. Syst. Man Cybern. Part B-Cybern.
+PD AUG 15
+PY 2000
+VL 30
+IS 4
+BP 625
+EP 631
+DI 10.1109/3477.865185
+PG 7
+WC Automation & Control Systems; Computer Science, Artificial Intelligence; Computer Science, Cybernetics
+SC Automation & Control Systems; Computer Science
+GA 350TV
+UT WOS:000089118000015
+PM 18252395
+DA 2023-11-10
+ER
+
+PT J
+AU Ortmanns, S
+   Ney, H
+AF Ortmanns, S
+   Ney, H
+TI Look-ahead techniques for fast beam search
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+AB This paper presents two look-ahead techniques for speeding up large vocabulary continuous speech recognition. These two techniques are the language model look-ahead and the phoneme look-ahead; both are incorporated into the pruning process of the time-synchronous one-pass beam search algorithm. The search algorithm is based on a tree-organized pronunciation lexicon in connection with a bigram language model. Both look-ahead techniques have been tested on the 20 000-word NAB'94 task (ARPA North American Business Corpus). The recognition experiments show that the combination of bigram language model look-ahead and phoneme look-ahead reduces the size of search space by a factor of about 30 and the computational effort by a factor of 5 without affecting the word recognition accuracy in comparison with no look-ahead pruning technique. (C) 2000 Academic Press.
+C1 Bell Labs, Lucent Technol, Murray Hill, NJ 07974 USA.
+   Rhein Westfal TH Aachen Univ Technol, Dept Comp Sci, Lehrstuhl Informat 6, D-52056 Aachen, Germany.
+C3 Alcatel-Lucent; Lucent Technologies; AT&T; RWTH Aachen University
+RP Ortmanns, S (通讯作者)，Bell Labs, Lucent Technol, 600-700 Mt Ave, Murray Hill, NJ 07974 USA.
+CR ALLEVA F, 1996, P IEEE INT C AC SPEE, V0, P133
+   [Anonymous], 1994, P HUMAN LANG TECHN W, V0, P0
+   ANTONIOL G, 1995, P IEEE INT C AC SPEE, V1, P588
+   AUBERT X, 1995, P IEEE INT C AC SPEE, V0, P49
+   Bahl LR, 1993, IEEE T SPEECH AUDI P, V1, P59, DOI 10.1109/89.221368
+   BEYERLEIN P, 1995, P EUR C SPEECH COMM, V0, P1083
+   DUGAST C, 1995, P ARPA SPOK LANG TEC, V0, P156
+   Haeb-Umbach R, 1994, IEEE T SPEECH AUDI P, V2, P353, DOI 10.1109/89.279287
+   Knill KM, 1996, ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING, V0, P0
+   NEY H, 1990, P 5 EUR SIGN PROC C, V0, P65
+   NEY H, 1993, SPEECH RECOGNITION C, V0, P210
+   Ney Hermann, 1992, PROC IEEE INT C ACOU, V0, P0
+   Ortmanns S, 1997, COMPUT SPEECH LANG, V11, P43, DOI 10.1006/csla.1996.0022
+   Ortmanns S, 1996, ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING, V0, P0
+   ORTMANNS S, 1995, P 4 EUR C SPEECH COM, V0, P901
+   ORTMANNS S, 1997, 5 EUR C SPEECH COMM, V0, P143
+   ORTMANNS S, 1997, P IEEE INT C AC SPEE, V0, P1783
+   RENALS S, 1995, P IEEE INT C AC SPEE, V1, P596
+   STEINBISS V, 1994, P INT C SPOK LANG PR, V0, P2143
+   Wessel F, 1997, P SQEL WORKSH MULT I, V0, P55
+NR 21
+TC 24
+Z9 25
+U1 0
+U2 1
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JAN 15
+PY 2000
+VL 14
+IS 1
+BP 15
+EP 32
+DI 10.1006/csla.1999.0131
+PG 18
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 286XK
+UT WOS:000085474000002
+DA 2023-11-10
+ER
+
+PT J
+AU Felfernig, A
+   Zanker, M
+AF Felfernig, A
+   Zanker, M
+TI Diagrammatic acquisition of functional knowledge for product configuration systems with the unified modeling language
+SO THEORY AND APPLICATION OF DIAGRAMS, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB Shorter product cycles, lower prices of products, and the production of goods that axe tailored to the customers needs made knowledge based product configuration systems a great success of AI technology. However, configuration knowledge bases tend to become large and complex. Therefore, knowledge acquisition and maintenance are crucial phases in the life-cycle of a configuration system. We will show how to meet this challenge by extending a standard design language from the area of Software Engineering with classical description concepts for expressing configuration knowledge. We automatically translate this graphical depiction into logical sentences which can be exploited by a general inference engine to solve the configuration task. In order to cope with usability restrictions of diagrammatic notations for large applications, we introduce the usage of contextual diagrams. This mechanism makes the conceptual model more readable and understandable and supports intuitively the acquisition of functional configuration knowledge.
+C1 Univ Klagenfurt, Inst Wirtschaftsinformat & Anwendungssyst, A-9020 Klagenfurt, Austria.
+C3 University of Klagenfurt
+RP Felfernig, A (通讯作者)，Univ Klagenfurt, Inst Wirtschaftsinformat & Anwendungssyst, A-9020 Klagenfurt, Austria.
+CR [Anonymous], 1998, OBJECT TECHNOLOGY SE, V0, P0
+   BARKER VE, 1989, COMMUN ACM, V32, P298, DOI 10.1145/62065.62067
+   Chandrasekaran B, 1993, APPL ARTIFICIAL INTE, V0, P227
+   DELISLE NM, 1987, ACM T INFORM SYST, V5, P168, DOI 10.1145/27636.27639
+   FELDKAMP F, 1998, AI EDAM ARTIFICIAL I, V12, P4
+   Felfernig A, 1999, PROCEEDINGS. SEKE99. ELEVENTH INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING, V0, P337
+   FLEISCHANDERL G, 1998, IEEE INT SYST CONF G, V0, P0
+   FLEISCHANDERL G, 1996, AAAI 96 FALL S CONF, V0, P0
+   FRIEDRICH G, 1999, AAAI WORKSH CONF ORL, V0, P35
+   GUHA R, 1991, THESIS STANFORD U, V0, P0
+   GUHA RV, 1991, STANCS911399 STANF U, V0, P0
+   HAAG A, 1998, IEEE INT SYST CONF G, V0, P0
+   Heinrich M, 1991, PROCEEDINGS. SEVENTH IEEE CONFERENCE ON ARTIFICIAL INTELLIGENCE APPLICATIONS (CAT. NO.91CH2967-8), V0, PP257, DOI 10.1109/CAIA.1991.120878
+   MANOS T, 1998, P 3 INT C COOP INF S, V0, P260
+   McCarthy J, 1993, P IJCAI, V0, P0
+   McGuinness DL, 1998, AI EDAM, V12, P333, DOI 10.1017/S089006049812406X
+   Mittal S, 1989, PROC 11 INT JOINT C, V0, P1395
+   *OBJ MAN GROUP OMG, 1999, XMI SPEC, V0, P0
+   Peltonen Hannu, 1998, P EUR C PROD DAT TEC, V0, P189
+   PINE B, 1993, HARVARD BUSINESS SEP, V0, P0
+   RUNKEL JT, 1994, P ART INT DES 94, V0, P183
+   SABIN D, 1999, ART INT MAN RES PLAN, V0, P0
+   Soininen T, 1998, AI EDAM, V12, P357, DOI 10.1017/S0890060498124083
+   Stumptner M, 1997, AI COMMUN, V10, P111
+   STUMPTNER M, 1997, P 10 C AI APPL, V10, P373
+   Yu B, 1998, IEEE INTELL SYST APP, V13, P34, DOI 10.1109/5254.708431
+NR 26
+TC 2
+Z9 2
+U1 0
+U2 5
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1889
+IS 
+BP 361
+EP 375
+DI 
+PG 15
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+SC Computer Science
+GA BU08P
+UT WOS:000174950500025
+DA 2023-11-10
+ER
+
+PT J
+AU Czarkowski, M
+   Kay, J
+AF Czarkowski, M
+   Kay, J
+TI Bringing scrutability to adaptive hypertext teaching
+SO INTELLIGENT TUTORING SYSTEMS, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+ID hypermedia
+AB There is considerable appeal in using adaptive hypertext for teaching. It should provide the teacher with the possibility of creating teaching materials which can be customised to match the individual student's background and preferences. This paper describes ADAPT-Tutor, a scrutable adaptive hypertext system. This enables the learner to scrutinise the system to determine how the document was adapted. They axe also able to control the adaptation by altering the student model at any time in the interaction. The student can see which parts of the student model have been used to control aspects which appear in the document. The system has three major parts: ADAPT for authoring; Tutor for the student interface; and ATML is the language used for adaptive hypertext source documents. This paper describes the student view, in Tutor, especially the scrutability support. We describe the use of ADAPT-Tutor in a large first year course. The paper discusses the use made of the scrutability support.
+C1 Univ Sydney, Dept Comp Sci, Sydney, NSW 2006, Australia.
+C3 University of Sydney
+RP Czarkowski, M (通讯作者)，Univ Sydney, Dept Comp Sci, Sydney, NSW 2006, Australia.
+EM marek@cs.usyd.edu.au; judy@cs.usyd.edu.au
+CR Brusilovsky P, 1996, USER MODEL USER-ADAP, V6, P87, DOI 10.1007/BF00143964
+   Brusilovsky P, 1996, LECT NOTES COMPUT SC, V1077, P288
+   BRUSILOVSKY P, 1993, LECT NOTES COMPUTER, V0, P348
+   BRUSILOVSKY P, 1996, P 3 INT C INT TUT SY, V0, P261
+   BULL S, 1995, USER MODEL USER-ADAP, V5, P45, DOI 10.1007/BF01101801
+   CORBETT AT, 1994, USER MODEL USER-ADAP, V4, P253, DOI 10.1007/BF01099821
+   CRAWFORD K, 1993, PERSPECTIVES COGNITI, V0, P63
+   CZARKOWSKI M, 1998, THESIS U SYDNEY, V0, P0
+   EKLUND J, 1998, P 2 AD HYP HYP WORKS, V0, P11
+   FISCHER G, 1991, MENTAL MODELS HUMAN, V2, P22
+   Hook K, 1996, USER MODEL USER-ADAP, V6, P157, DOI 10.1007/BF00143966
+   KAY J, 1994, USER MODEL USER-ADAP, V4, P149
+   KAY J, 1997, ADV HYPERTEXT WORLD, V0, P47
+   KINGSTON J, 1998, INTRO COMPUTER PROGR, V0, P0
+   PAIVA A, 1995, P WORLD C ART INT ED, V0, P509
+   SELF J, 1988, P 1 INT C INT TUT SY, V0, P18
+   WEBER G, 1997, P UM99 7 INT C US MO, V0, P371
+NR 17
+TC 5
+Z9 5
+U1 0
+U2 2
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2000
+VL 1839
+IS 
+BP 423
+EP 432
+DI 
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+SC Computer Science
+GA BS90A
+UT WOS:000171336100046
+DA 2023-11-10
+ER
+
+PT J
+AU Rico-Juan, JR
+   Calera-Rubio, J
+   Carrasco, RC
+AF Rico-Juan, JR
+   Calera-Rubio, J
+   Carrasco, RC
+TI Probabilistic <i>k</i>-testable tree languages
+SO GRAMMATICAL INFERENCE: ALGORITHMS AND APPLICATIONS
+LA English
+DT Article; Proceedings Paper
+AB In this paper, we present a natural generalization of k-gram models for tree stochastic languages based on the k-testable class. In this class of models, frequencies are estimated for a probabilistic regular tree grammar wich is bottom-up deterministic. One of the advantages of this approach is that the model can be updated in an incremental fashion. This method is an alternative to costly learning algorithms (as inside-outside-based methods) or algorithms that require larger samples (as many state merging/splitting methods).
+C1 Univ Alacant, Dept Llenguatges Sistemes Informat, E-03071 Alacant, Spain.
+C3 Universitat d'Alacant
+RP Rico-Juan, JR (通讯作者)，Univ Alacant, Dept Llenguatges Sistemes Informat, E-03071 Alacant, Spain.
+EM juanra@dlsi.ua.es; calera@dlsi.ua.es; carrasco@dlsi.ua.es
+CR [Anonymous], 1998, STAT METHODS SPEECH, V0, P0
+   Brown PF, 1992, COMPUTATIONAL LINGUISTICS, V18, P467
+   Calera-Rubio J, 1998, INFORM PROCESS LETT, V68, P283, DOI 10.1016/S0020-0190(98)00172-0
+   CARRASCO RC, 2000, IN PRESS MACHINE LEA, V0, P0
+   Charniak E, 1996, PROCEEDINGS OF THE THIRTEENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE AND THE EIGHTH INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE, VOLS 1 AND 2, P1031
+   Charniak E, 1993, STAT LANGUAGE LEARNI, V0, P0
+   CHAUDHURI R, 1986, J ACM, V33, P702, DOI 10.1145/6490.214099
+   Chung KL, 1967, MARKOV CHAINS STATIO, V2nd, P0
+   Cover T, 1991, WILEY SERIES TELECOM, V0, P0
+   GARCIA P, 1990, IEEE T PATTERN ANAL, V12, P920, DOI 10.1109/34.57687
+   GARCIA P, 1993, DSICII199346 U POL V, V0, P0
+   KNUUTILA T, 1993, ADV STRUCTURAL SYNTA, V0, P0
+   NEY H, 1995, IEEE T PATTERN ANAL, V17, P1202, DOI 10.1109/34.476512
+   RUBIN F, 1976, COMMUN ACM, V19, P617, DOI 10.1145/360363.360368
+   SAKAKIBARA Y, 1992, INFORM COMPUT, V97, P23, DOI 10.1016/0890-5401(92)90003-X
+   STOLCKE A, 1995, COMPUT LINGUIST, V21, P165
+   STOLCKE A, 1994, TR94007 INT COMP SCI, V0, P0
+   WETHERELL CS, 1980, COMPUT SURV, V12, P361, DOI 10.1145/356827.356829
+   YOKOMORI T, 1995, MACH LEARN, V19, P153, DOI 10.1023/A:1022615325466
+NR 19
+TC 7
+Z9 8
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 2945-9133
+EI 1611-3349
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1891
+IS 
+BP 221
+EP 228
+DI 
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications
+SC Computer Science
+GA BU08Q
+UT WOS:000174950700018
+DA 2023-11-10
+ER
+
+PT J
+AU Howse, J
+   Molina, F
+   Taylor, J
+AF Howse, J
+   Molina, F
+   Taylor, J
+TI On the completeness and expressiveness of spider diagram systems
+SO THEORY AND APPLICATION OF DIAGRAMS, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+DE diagrammatic reasoning; visual formalisms
+AB Spider diagram systems provide a visual language that extends the popular and intuitive Venn diagrams and Euler circles. Designed to complement object-oriented modelling notations in the specification of large software systems they can be used to reason diagrammatically about sets, their cardinalities and their relationships with other sets. A set of reasoning rules for a spider diagram system is shown to be sound and complete. We discuss the extension of this result to diagrammatically richer notations and also consider their expressiveness. Finally, we show that for a rich enough system we can diagrammatically express the negation of any diagram.
+C1 Univ Brighton, Sch Comp & Math Sci, Brighton BN2 4AT, E Sussex, England.
+C3 University of Brighton
+RP Howse, J (通讯作者)，Univ Brighton, Sch Comp & Math Sci, Brighton BN2 4AT, E Sussex, England.
+CR ALLWEIN G, 1996, LOGICAL REASONING DI, V0, P0
+   [Anonymous], 1933, COLLECTED PAPERS, V0, P0
+   GIL Y, 1999, P TOOLS US 1999, V0, P0
+   GIL Y, 1999, P IEEE S VIS LANG VL, V0, P0
+   GLASGOW J, 1995, DIAGRAMMATIC REASONI, V0, P0
+   HAMMER E, 1995, LOGIC VISUAL INFORMA, V0, P0
+   HOWSE J, 2000, IN PRESS ASC 2000 IA, V0, P0
+   HOWSE J, 2000, IN PRESS VL2000 IEEE, V0, P0
+   HOWSE J, 1999, P IEEE S VIS LANG VL, V0, P0
+   KENT S, 1997, P OOPSLA 97, V0, P0
+   Rumbaugh JE, 1999, UNIFIED MODELING LAN, V0, P0
+   Shin S-J, 1994, LOGICAL STATUS DIAGR, V0, P0
+   VENN J, 1880, PHIL MAG, V123, P0
+NR 14
+TC 16
+Z9 16
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1889
+IS 
+BP 26
+EP 41
+DI 
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+SC Computer Science
+GA BU08P
+UT WOS:000174950500002
+DA 2023-11-10
+ER
+
+PT J
+AU Kovács, L
+   Vassilakis, C
+AF Kovács, L
+   Vassilakis, C
+TI Function oriented history representation in databases
+SO COMPUTERS AND ARTIFICIAL INTELLIGENCE
+LA English
+DT Article
+DE temporal databases; calendars; history; history algebra
+ID query language; models
+AB In the past years the management of temporal data has attracted numerous researchers resulting to a large number of temporal data extensions to the relational and object oriented data models. In this paper, the proposed temporal data model focuses on the functional characteristics of the histories. The paper introduces a set oriented description of the calendars together with a function oriented history concept with a history-algebra. The completeness of the proposed model with respect to the reduced temporal algebra TA is also proven. The expressive power of the proposed model is demonstrated in. the end of the paper by a hospital example.
+C1 Univ Miskolc, Dept Informat Technol, H-3515 Miskolc Egyetemvaros, Hungary.
+   Univ Athens, Dept Informat, GR-15771 Athens, Greece.
+C3 University of Miskolc; National & Kapodistrian University of Athens
+RP Kovács, L (通讯作者)，Univ Miskolc, Dept Informat Technol, H-3515 Miskolc Egyetemvaros, Hungary.
+CR Bertino E, 1997, THEORY AND PRACTICE OF OBJECT SYSTEMS, V3, P103, DOI 10.1002/(SICI)1096-9942(1997)3:2<103::AID-TAPO3>3.0.CO;2-W
+   Chiu JS, 1996, IEEE T KNOWL DATA EN, V8, P189, DOI 10.1109/69.485648
+   CLIFFORD J, 1994, ACM T DATABASE SYST, V19, P64, DOI 10.1145/174638.174642
+   ELMASRI R, 1990, PROCEEDINGS : 6TH INTERNATIONAL CONFERENCE ON DATA ENGINEERING, V0, P76
+   GADIA SK, 1988, P ACM SIGMOD INT C M, V0, P251
+   Goh CH, 1996, DATA KNOWL ENG, V18, P147, DOI 10.1016/0169-023X(95)00034-P
+   Gregersen H, 1999, IEEE T KNOWL DATA EN, V11, P464, DOI 10.1109/69.774104
+   JENSEN C, 1993, 932034 R AALB U I EL, V0, P0
+   KALUA P, 1993, 379 IND U COMP SCI D, V0, P0
+   KURT A, 1900, P124, V0, P0
+   Lee CK, 1998, MOD CHINA, V24, P3
+   NAVATHE SB, 1989, INFORM SCIENCES, V49, P147, DOI 10.1016/0020-0255(89)90026-1
+   ROSE E, 1993, 12 INT C ENT REL APP, V0, P122
+   SCHMIDT D, 1995, P INT WORKSH TEMP DA, V0, P214
+   SNODGRASS R, 1987, ACM T DATABASE SYST, V12, P247, DOI 10.1145/22952.22956
+   SOTIROPOULOU A, 1998, P 3 BIENN WORLD C IN, V2, P304
+   *TSQL2 LANG DES CO, 1995, TSQL2 TEMP QUER LANG, V0, P0
+   Vassilakis C, 1996, PROCEEDINGS. SEVENTH INTERNATIONAL WORKSHOP ON DATABASE AND EXPERT SYSTEMS APPLICATIONS, V0, PP153, DOI 10.1109/DEXA.1996.558289
+   Vassilakis C, 1998, INFORM SYST, V23, P335, DOI 10.1016/S0306-4379(98)00015-5
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SLOVAK ACADEMIC PRESS LTD
+PI BRATISLAVA
+PA PO BOX 57 NAM SLOBODY 6, 810 05 BRATISLAVA, SLOVAKIA
+SN 0232-0274
+EI 
+J9 COMPUT ARTIF INTELL
+JI Comput. Artif. Intell.
+PD JUN 15
+PY 2000
+VL 19
+IS 5
+BP 417
+EP 444
+DI 
+PG 28
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 394XC
+UT WOS:000166548800002
+DA 2023-11-10
+ER
+
+PT J
+AU Shastri, L
+AF Shastri, L
+TI Types and quantifiers in SHRUTI - A connectionist model of rapid reasoning and relational processing
+SO HYBRID NEURAL SYSTEMS
+LA English
+DT Article; Proceedings Paper
+ID temporal synchrony; representation; memory
+AB In order to understand language, a hearer must draw inferences to establish referential and causal coherence. Hence our ability to understand language suggests that we are capable of performing a wide range of inferences rapidly and spontaneously. This poses a challenge for cognitive science: How can a system of slow neuron-like elements encode a large body of knowledge and perform inferences with such speed? SHRUTI attempts to answer this question by demonstrating how a neurally plausible network can encode a large body of semantic and episodic facts, and systematic rule-like knowledge, and yet perform a range of inferences,within a few hundred milliseconds. This paper describes a novel representation of types and instances in SHRUTI that supports the encoding of rules and facts involving types and quantifiers, enables SHRUTI to distinguish between hypothesized and asserted entities, and facilitates the dynamic instantiation and unification of entities during inference.
+C1 Int Comp Sci Inst, Berkeley, CA 94704 USA.
+RP Shastri, L (通讯作者)，Int Comp Sci Inst, Berkeley, CA 94704 USA.
+CR AJJANAGADDE V, 1990, PROGRAM OF THE TWELFTH ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, V0, P285
+   AJJANAGADDE V, 1991, 916 U TUB WILH SCHIC, V0, P0
+   AJJANAGADDE V, 1989, P 11 C COGN SCI SOC, V0, P396
+   Bailey D, 1998, PROCEEDINGS OF THE TWENTIETH ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, V0, P84
+   Barnden J, 1991, CONNECTION SCIENCE, V3, P269, DOI 10.1080/09540099108946588
+   BLISS TVP, 1993, NATURE, V361, P31, DOI 10.1038/361031a0
+   GASSER M, 1998, 221 IND U COGN SCI P, V0, P0
+   HOBBS JR, 1993, ARTIF INTELL, V63, P69, DOI 10.1016/0004-3702(93)90015-4
+   Hummel JE, 1997, PSYCHOL REV, V104, P427, DOI 10.1037/0033-295X.104.3.427
+   Lakoff G, 1987, WOMEN FIRE DANGEROUS, V0, P0, DOI DOI 10.7208/chicago/9780226471013.001.0001
+   Lange TE, 1989, CONNECTION SCIENCE, V1, P181, DOI 10.1080/09540098908915635
+   LISMAN JE, 1995, SCIENCE, V267, P1512, DOI 10.1126/science.7878473
+   Luck SJ, 1997, NATURE, V390, P279, DOI 10.1038/36846
+   Mani DR, 1993, CONNECTION SCIENCE, V5, P205, DOI 10.1080/09540099308915700
+   Park NS, 1995, KNOWL-BASED SYST, V8, P345, DOI 10.1016/0950-7051(96)81918-6
+   Regier T, 1996, HUMAN SEMANTIC POTEN, V0, P0
+   SHASTRI L, 1992, PROCEEDINGS OF THE FOURTEENTH ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, V0, P159
+   SHASTRI L, 1993, BEHAV BRAIN SCI, V16, P417, DOI 10.1017/S0140525X00030910
+   Shastri L, 1999, PROCEEDINGS OF THE SECOND INTERNATIONAL CONFERENCE ON INFORMATION FUSION. FUSION 99, V0, P1262
+   Shastri L, 1999, APPL INTELL, V11, P79, DOI 10.1023/A:1008380614985
+   Shastri L, 1999, NEUROCOMPUTING, V26-7, P865, DOI 10.1016/S0925-2312(98)00131-3
+   Shastri L, 1997, PROCEEDINGS OF THE NINETEENTH ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, V0, P680
+   SHASTRI L, 1997, TR97003 INT COMP SCI, V0, P0
+   SHASTRI L, 1996, P 18 C COGN SCI SOC, V0, P0
+   SINGER W, 1993, ANNU REV PHYSIOL, V55, P349, DOI 10.1146/annurev.physiol.55.1.349
+   Sun R, 1992, CONNECTION SCIENCE, V4, P93, DOI 10.1080/09540099208946607
+   Von der Malsburg C, 1986, BRAIN THEORY, V0, P0
+NR 28
+TC 4
+Z9 4
+U1 0
+U2 2
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1778
+IS 
+BP 28
+EP 45
+DI 
+PG 18
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BS61R
+UT WOS:000170570700003
+DA 2023-11-10
+ER
+
+PT J
+AU Barbero, C
+   Falavigna, D
+   Gretter, R
+   Orlandi, M
+   Pianta, E
+AF Barbero, C
+   Falavigna, D
+   Gretter, R
+   Orlandi, M
+   Pianta, E
+TI Some improvements on the IRST mixed initiative dialogue technology
+SO TEXT, SPEECH AND DIALOGUE, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB The paper describes the ITC-irst approach for handling spoken dialogue interactions over the telephone network. Barge-in and utterance verification capabilities are going to be introduced into the developed software architecture. Some research activities that should enable accessing information in a new large applicative domain (i.e. the tourism domain) have been started. Objectives of the research are: language model adaptation and efficient information presentation, using a mixed representation approach.
+C1 IRST, ITC, I-38050 Trent, Italy.
+RP Barbero, C (通讯作者)，IRST, ITC, I-38050 Trent, Italy.
+CR BRUGNARA F, 1997, P EUR RHOD GREEC, V0, P1827
+   BUSEMANN S, 1998, P 9 INT NAT LANG GEN, V0, P0
+   CANCEDDA N, 1997, P 3 WORKSH APPL NAT, V0, P0
+   PIANTA E, 1999, P AISB 99 WORKSH REF, V0, P0
+   Reiter Ehud, 1995, P 5 EUR WORKSH NAT L, V0, P0
+   Sukkar RA, 1996, IEEE T SPEECH AUDI P, V4, P420, DOI 10.1109/89.544527
+   VALAVIGNA D, 1999, P INT WORKSH AUT SPE, V0, P0
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1902
+IS 
+BP 351
+EP 356
+DI 
+PG 6
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BS62J
+UT WOS:000170595900059
+DA 2023-11-10
+ER
+
+PT J
+AU Wotawa, F
+AF Wotawa, F
+TI Debugging VHDL designs using model-based reasoning
+SO ARTIFICIAL INTELLIGENCE IN ENGINEERING
+LA English
+DT Article
+DE model-based diagnosis; hardware design; software debugging
+ID verification; diagnosis; checking
+AB The application of formal methods in software engineering and hardware design has become an important field of research. It aims at minimizing time to market and reduce the overall development costs. While formal verification, e.g. model-checking, is widely used, methods for helping programmers or engineers in locating and fixing faults within a hardware design or software are rarely available. In this paper we describe part of the advanced diagnosis and measurement selection capabilities of the model-based diagnosis tool VHDLDIAG designed for (semi)automatically locating bugs in VHDL programs. VHDL is an Ada-like and widely used hardware description language. VHDL programs are converted into logical descriptions which are then used by a diagnosis engine for detecting the parts of the program responsible for an observed misbehavior. The results of diagnosis, i.e, the malfunctioning program fragments, are mapped back to the program code. Because of the logical description used VHDLDIAG can be applied to a wide range of programs from small to very large ones with up to thousands of MBytes of source code. This paper presents techniques which use multiple versions of a design in diagnosis, as well as the measurement selection process used in VHDLDIAG. Formal definitions and performance results using real-world VHDL programs are given. (C) 2000 Published by Elsevier Science Ltd.
+C1 Vienna Tech Univ, Inst Informat Syst, Database & Artificial Intelligence Grp, A-1040 Vienna, Austria.
+C3 Technische Universitat Wien
+RP Wotawa, F (通讯作者)，Vienna Tech Univ, Inst Informat Syst, Database & Artificial Intelligence Grp, Favoritenstr 9-11, A-1040 Vienna, Austria.
+CR Buccafurri F, 1999, ARTIF INTELL, V112, P57, DOI 10.1016/S0004-3702(99)00039-9
+   BURNELL L, 1995, COMMUN ACM, V0, P31
+   Burnell L J, 1993, P 9 C, V0, P285
+   CHUNG PY, 1994, IEEE T VERY LARGE SC, V2, P320
+   CLARKE EM, 1994, ACM T PROGR LANG SYS, V16, P1512, DOI 10.1145/186025.186051
+   CLARKE EM, 1986, ACM T PROGR LANG SYS, V8, P244, DOI 10.1145/5397.5399
+   DEKLEER J, 1987, ARTIF INTELL, V32, P97, DOI 10.1016/0004-3702(87)90063-4
+   Friedrich G, 1999, ARTIF INTELL, V111, P3, DOI 10.1016/S0004-3702(99)00034-X
+   FRIEDRICH G, 1990, PROCEEDINGS : EIGHTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOLS 1 AND 2, P331
+   FRIEDRICH G, 1996, P EUR C ART INT ECAI, V0, P0
+   *IEEE, 1988, 10761987, V0, P0
+   Jackson D, 1995, ACM TRANSACTIONS ON SOFTWARE ENGINEERING AND METHODOLOGY, V4, P109, DOI 10.1145/210134.210135
+   KUPER RI, 1989, 1053 AITR MTI AI, V0, P0
+   REITER R, 1987, ARTIF INTELL, V32, P57, DOI 10.1016/0004-3702(87)90062-2
+   STRUSS P, 1989, P IJCAI 89 DETROIT, V0, P1318
+   Stumptner M, 1998, AI COMMUN, V11, P35
+   STUMPTNER M, 1996, P ART INT DES AID ST, V0, P0
+   WEISER M, 1982, COMMUN ACM, V25, P446, DOI 10.1145/358557.358577
+   WEISER M, 1984, IEEE T SOFTWARE ENG, V10, P352, DOI 10.1109/TSE.1984.5010248
+   WOTAWA F, 1996, THESIS TU WIEN, V0, P0
+NR 22
+TC 14
+Z9 15
+U1 0
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0954-1810
+EI 
+J9 ARTIF INTELL ENG
+JI Artif. Intell. Eng.
+PD OCT 15
+PY 2000
+VL 14
+IS 4
+BP 331
+EP 351
+DI 10.1016/S0954-1810(00)00021-2
+PG 21
+WC Computer Science, Artificial Intelligence; Engineering, Multidisciplinary
+SC Computer Science; Engineering
+GA 382YF
+UT WOS:000165854400005
+DA 2023-11-10
+ER
+
+PT J
+AU Maucec, MS
+   Kacic, Z
+AF Maucec, MS
+   Kacic, Z
+TI Topic-sensitive language modelling
+SO TEXT, SPEECH AND DIALOGUE, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB The paper proposes a new framework to construct topic-sensitive language models for large vocabulary speech recognition. Identifying a domain of discourse, a model appropriate for the current domain can be built. In our experiments, the target domain was represented with a piece of text. By using appropriate features, sub-corpus of a large collection of training text was extracted. Our feature selection process was especially suited to languages where words are formed by many different inflectional affixatation. All words with the same meaning (but different grammatical form) were collected in one cluster and represented as one feature. We used the heuristic word weighting classifier TFIDF (term frequency / inverse document frequency) to further shrink the feature vector. Final language model was built by interpolation of topic specific models and a general model. Experiments have been done by using English and Slovenian corpus.
+C1 Univ Maribor, SI-2000 Maribor, Slovenia.
+C3 University of Maribor
+RP Maucec, MS (通讯作者)，Univ Maribor, Smetanova 17, SI-2000 Maribor, Slovenia.
+CR DONNELLY PG, 1999, LANGUAGE MODELLING H, V0, P0
+   Jelinek F, 1997, STAT METHODS SPEECH, V0, P0
+   SEYMORE K, 1997, USING STORY TOPICS L, V0, P0
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1902
+IS 
+BP 253
+EP 258
+DI 
+PG 6
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BS62J
+UT WOS:000170595900043
+DA 2023-11-10
+ER
+
+PT J
+AU Nenadic, G
+   Spasic, I
+AF Nenadic, G
+   Spasic, I
+TI Recognition and acquisition of compound names from corpora
+SO NATURAL LANGUAGE PROCESSING-NLP 2000, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB In this paper we will present an approach to acquisition of some classes of compound words from large corpora, as well as a method for semi-automatic generation of appropriate linguistic models, that can be further used for compound word recognition and for completion of compound word dictionaries. The approach is intended for a highly inflective language such as Serbo-Croatian. Generated linguistic models axe represented by local grammars.
+C1 Univ Belgrade, Fac Math, YU-11001 Belgrade, Yugoslavia.
+   Univ Belgrade, Fac Econ, YU-11001 Belgrade, Yugoslavia.
+C3 University of Belgrade; University of Belgrade
+RP Nenadic, G (通讯作者)，Univ Belgrade, Fac Math, YU-11001 Belgrade, Yugoslavia.
+EM goran@matf.bg.ac.yu; irenas@one.ekof.bg.ac.yu
+CR BURNARD L, 1995, 5 TEI U, V0, P0
+   COATESSTEPHANDS S, 1992, THESIS CITY U LONDON, V0, P0
+   GROSS M, 1998, MONOGRAPH 125 ANNIVE, V0, P231
+   GROSS M, 1989, LECT NOTES COMPUTER, V0, P0
+   MAIERMEYER P, 1996, ACT PREM JOURN INTEX, V0, P0
+   NENADIC G, 1999, LECT NOTES ARTIFICIA, V1692, P0
+   NENADIC G, 1998, P 1 WORKSH TEXT SPEE, V0, P0
+   NENADIC G, 1998, 23 BULAG U FRANCH CO, V0, P0
+   SILBERZTEIN M, 1993, DICT ELECTRONIQUES A, V0, P0
+   SILBERZTEIN M, 1994, P COLING 94 ACL TOKY, V0, P0
+   SPASIC I, 1999, P 3 EUR C FORM DESCR, V0, P0
+   SPASIC I, 1996, P C TERM STAND SERB, V0, P0
+   SPASIC I, 1999, THESIS U BELGRADE, V0, P0
+   VITAS D, 1993, THESIS U BELGRADE, V0, P0
+   VITAS D, 1996, P COMPLEX 96 BUD HUN, V0, P0
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1835
+IS 
+BP 38
+EP 48
+DI 
+PG 11
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BS52C
+UT WOS:000170202300004
+DA 2023-11-10
+ER
+
+PT J
+AU Hu, JY
+   Lim, SG
+   Brown, MK
+AF Hu, JY
+   Lim, SG
+   Brown, MK
+TI Writer independent on-line handwriting recognition using an HMM approach
+SO PATTERN RECOGNITION
+LA English
+DT Article
+DE handwriting recognition; hidden Markov models; invariant features; segmental features; N-best decoding; UNIPEN
+ID speech recognition; word recognition; online
+AB In this paper we describe a Hidden Markov Model(HMM) based writer independent handwriting recognition system. A combination of signal normalization preprocessing and the use of invariant features makes the system robust with respect to variability among different writers as well as different writing environments and ink collection mechanisms. A combination of point oriented and stroke oriented features yields improved accuracy. Language modeling constrains the hypothesis space to manageable levels in most cases. In addition a two-pass N-best approach is taken for large vocabularies. We report experimental results for both character and word recognition on several UNIPEN datasets, which are standard datasets of English text collected from around the world. (C) 1999 Pattern Recognition Society. Published by Elsevier Science Ltd. All rights reserved.
+C1 Bell Labs, Lucent Technol, Murray Hill, NJ 07974 USA.
+C3 Alcatel-Lucent; Lucent Technologies; AT&T
+RP Hu, JY (通讯作者)，Bell Labs, Lucent Technol, 700 Mt Ave, Murray Hill, NJ 07974 USA.
+EM jianhu@bell-labs.com
+CR BEIGI HSM, 1994, IEEE IMAGE PROC, V0, PP169, DOI 10.1109/ICIP.1994.413297
+   BENGIO Y, 1994, P 12 ICPR JER OCT, V2, P409
+   Bercu S, 1993, P 3 INT WORKSH FRONT, V0, P385
+   BROCKLEHURST ER, 1988, 13288 NPL DITC, V0, P0
+   BROWN MK, 1983, PATTERN RECOGN, V16, P447, DOI 10.1016/0031-3203(83)90049-3
+   BROWN MK, 1991, IEEE T SIGNAL PROCES, V39, P17, DOI 10.1109/78.80761
+   BROWN MK, 1994, ICSLP 94, V2, P779
+   BRUCKSTEIN AM, 1993, CVGIP-IMAG UNDERSTAN, V58, P49, DOI 10.1006/ciun.1993.1031
+   BURR DJ, 1982, P 6 ICPR MUN OCT, V2, P1027
+   Chang PC, 1993, IEEE T SPEECH AUDI P, V1, P135, DOI 10.1109/89.222873
+   CHOU W, 1992, P ICASSP 92 SAN FRAN, V0, P0
+   GUBERMAN SA, 1976, AUTOMAT REM CONTR+, V37, P751
+   GUERFALI W, 1993, PATTERN RECOGN, V26, P419, DOI 10.1016/0031-3203(93)90169-W
+   Guyon I, 1995, PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION, V0, PP454, DOI 10.1109/ICDAR.1995.599034
+   GUYON I, 1994, INT C PATT RECOG, V0, PP29, DOI 10.1109/ICPR.1994.576870
+   Hu J, 1994, P INT WORKSH FRONT H, V0, P195}205
+   HU J, 1996, P 13 ICPR VIENN AUST, VC, P23
+   HU J, 1995, P ICIAP 95 SANR IT S, V0, P588
+   HU J, 1995, P IEEE SMC 95 VANC C, V0, P2778
+   HU J, 1997, P IT IM PROC C FLOR, V0, P647
+   Hu JY, 1996, IEEE T PATTERN ANAL, V18, P1039, DOI 10.1109/34.541414
+   Hu JY, 1997, COMPUT SPEECH LANG, V11, P1, DOI 10.1006/csla.1996.0020
+   JELINEK F, 1975, IEEE T INFORM THEORY, V21, P250, DOI 10.1109/TIT.1975.1055384
+   LEE CH, 1989, IEEE T ACOUST SPEECH, V37, P1649, DOI 10.1109/29.46547
+   MAKHOUL J, 1994, P ICASSP 94 AD AUSTR, V0, PV125
+   Manke S, 1995, PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION, V0, PP403, DOI 10.1109/ICDAR.1995.599023
+   MANKE S, 1994, INT C PATT RECOG, V0, PP596, DOI 10.1109/ICPR.1994.577051
+   NATHAN KS, 1995, P ICASSP 95 DETR MIC, V0, P2619
+   Rabiner Lawrence, 1993, FUNDAMENTALS SPEECH, V0, P0
+   RABINER LR, 1989, P IEEE, V77, P257, DOI 10.1109/5.18626
+   ROSENTHAL AS, 1997, P ICASSP 97 MUN GERM, V0, P0
+   SCHENKEL M, 1995, SPECIAL ISSUE CURSIV, V8, P0
+   SCHOMAKER L, 1998, UNIPEN PROJECT, V0, P0
+   SCHWARTZ R, 1990, P IEEE INT C AC SPEE, V0, P81
+   SINDEN F, 1996, IEEE T PAMI, V18, P0
+   SOONG FK, 1991, P IEEE INT C ACOUSTI, V0, P705
+   STEINER UE, 1989, CHEM REV, V89, P51, DOI 10.1021/cr00091a003
+   STURTEMANT D, 1989, P SPEECH NAT LANG WO, V0, P193
+NR 39
+TC 73
+Z9 76
+U1 0
+U2 10
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0031-3203
+EI 1873-5142
+J9 PATTERN RECOGN
+JI Pattern Recognit.
+PD JAN 15
+PY 2000
+VL 33
+IS 1
+BP 133
+EP 147
+DI 10.1016/S0031-3203(99)00043-6
+PG 15
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 256AW
+UT WOS:000083703300011
+DA 2023-11-10
+ER
+
+PT J
+AU Gao, W
+   Ma, JY
+   Wu, JQ
+   Wang, CL
+AF Gao, W
+   Ma, JY
+   Wu, JQ
+   Wang, CL
+TI Sign language recognition based on HMM/ANN/DP
+SO INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE
+LA English
+DT Article; Proceedings Paper
+DE hand gesture recognition; sign language recognition; artificial neural network; dynamic programming; multimodal user interface; virtual reality
+ID speech
+AB In this paper, a system designed for helping the deaf to communicate with others is presented. Some useful new ideas are proposed in design and implementation. An algorithm based on geometrical analysis for the purpose of extracting invariant feature to signer position is presented. Rn ANN-DP combined approach is employed for segmenting subwords automatically from the data stream of sign signals. To tackle the epenthesis movement problem, a DP-based method has been used to obtain the context-dependent models. Some techniques for system implementation are also given, including fast matching, frame prediction and search algorithms. The implemented system is able to recognize continuous large vocabulary Chinese Sign Language. Experiments show that proposed techniques in this paper are efficient on either recognition speed or recognition performance.
+C1 Chinese Acad Sci, Inst Comp Technol, Beijing 100080, Peoples R China.
+   Harbin Inst Technol, Dept Comp Sci, Harbin, Peoples R China.
+   Dalian Univ Technol, Dept Comp Sci, Dalian, Peoples R China.
+C3 Chinese Academy of Sciences; Institute of Computing Technology, CAS; Harbin Institute of Technology; Dalian University of Technology
+RP Gao, W (通讯作者)，Chinese Acad Sci, Inst Comp Technol, Beijing 100080, Peoples R China.
+EM wgao@ict.ac.cn; jyma@ict.ac.cn; jqwu@ict.ac.cn; clwang@ict.ac.cn
+CR Bellman R, 1962, APPL DYNAMIC PROGRAM, V0, P0, DOI DOI 10.1515/9781400874651
+   BOURLARD H, 1997, P INT C ART NEUR NET, V0, P201
+   CHARAYAPHAN C, 1992, J BIOMED ENG, V14, P419, DOI 10.1016/0141-5425(92)90088-3
+   FELS SS, 1993, IEEE T NEURAL NETWOR, V4, P2, DOI 10.1109/72.182690
+   FELS SS, 1994, THESISU TORONTO, V0, P0
+   Kadous MW, 1996, PROC WORKSHOP INTEGR, V0, P165
+   KANG SB, 1994, P IM UND WORKSH, V0, P303
+   KATZ SM, 1987, IEEE T ACOUST SPEECH, V35, P400, DOI 10.1109/TASSP.1987.1165125
+   KRAMER J, 1990, 19900312 CDR STANDF, V0, P0
+   Liang RH, 1998, AUTOMATIC FACE AND GESTURE RECOGNITION - THIRD IEEE INTERNATIONAL CONFERENCE PROCEEDINGS, V0, PP558, DOI 10.1109/AFGR.1998.671007
+   MURAKAMI K, 1991, CHI 91 C P, V0, PP237, DOI 10.1145/108844.108900
+   RABINER L, 1996, IEEE ICASSP MAGAZINE, V0, P4
+   STARNER T, 1995, THEIS MIT, V0, P0
+   Takahashi T, 1991, SIGCHI BULLETIN, V23, P67, DOI 10.1145/122488.122499
+   TUNG CP, 1985, P IEEE RSJ C INT ROB, V0, P1
+   Vogler C, 1997, IEEE SYS MAN CYBERN, V0, PP156, DOI 10.1109/ICSMC.1997.625741
+   Vogler C, 1998, SIXTH INTERNATIONAL CONFERENCE ON COMPUTER VISION, V0, PP363, DOI 10.1109/ICCV.1998.710744
+   VOGLER C, 1999, P INT C COMP VIS KER, V0, P224
+   Vogler Christian, 1999, P GEST WORKSH GIF SU, V0, P400
+   WEXELBLAT AD, 1993, THESIS MIT, V0, P0
+NR 21
+TC 56
+Z9 65
+U1 0
+U2 15
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0218-0014
+EI 1793-6381
+J9 INT J PATTERN RECOGN
+JI Int. J. Pattern Recognit. Artif. Intell.
+PD AUG 15
+PY 2000
+VL 14
+IS 5
+BP 587
+EP 602
+DI 10.1142/S0218001400000386
+PG 16
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 351XQ
+UT WOS:000089185400004
+DA 2023-11-10
+ER
+
+PT J
+AU Schuster, M
+AF Schuster, M
+TI Memory-efficient LVCSR search using a one-pass stack decoder
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+AB This paper describes the details of a fast, memory-efficient one-pass stack decoder for efficient evaluation of the search space for large vocabulary continuous speech recognition. A modem efficient search engine is not based on a single idea, but is a rather complex collection of separate algorithms and practical implementation details, which only in combination make the search efficient in time and memory requirements. Being the core of a speech recognition system, the software design phase for a new decoder is often crucial for its later performance and flexibility. This paper tries to emphasize this point-after defining the requirements for a modem decoder, it describes the details of an implementation that is based on a stack decoder framework. It is shown how it is possible to handle arbitrary order N-grams, how to generate N-best lists or lattices next to the first-best hypothesis at little computational overhead, how to handle efficiently cross-word acoustic models of any context order, how to efficiently constrain the search with word graphs or word-pair grammars, and how to use a fast-match with delay to speed up the search, all in a single left-to-right search pass. The details of a disk-based representation of an N-gram language model are given, which make it possible to use language models (LMs) of arbitrary (file) size in only a few hundred kB of memory. On-demand N-gram smearing, an efficient improvement over the regular unigram smearing used as an approximation to the LM scores in a tree lexicon, is introduced. It is also shown how lattice rescoring, the generation of forced alignments and detailed phone-/state-alignments can efficiently be integrated into a single stack decoder. The decoder named "Nozomi"(1) was tested on a Japanese newspaper dictation task using a 5000 word vocabulary. Using computationally cheap models it is possible to achieve real-time performance with 89% word recognition accuracy at about 1% search error using only 4 MB of total memory on a 300 MHz Pentium II. With computationally more expensive acoustic models, which also cover for the Japanese language essential cross-word effects, more than 95% recognition accuracy(2) is reached. (C) 2000 Academic Press.
+C1 ATR Interpreting Telecommun Res Labs, Kyoto 61902, Japan.
+RP Schuster, M (通讯作者)，ATR Interpreting Telecommun Res Labs, 2-2 Hikaridai,Seika Cho, Kyoto 61902, Japan.
+CR Alleva F, 1997, 1997 IEEE WORKSHOP ON AUTOMATIC SPEECH RECOGNITION AND UNDERSTANDING, V0, P295, DOI 10.1109/ASRU.1997.659022
+   ALLEVA F, 1996, P IEEE INT C AC SPEE, V1, P133
+   [Anonymous], 1971, PROBLEM SOLVING METH, V0, P0
+   [Anonymous], 1990, HIDDEN MARKOV MODELS, V0, P0
+   AUBERT X, 1994, INT CONF ACOUST SPEE, V0, P129
+   BAHL LR, 1993, P EUR C SPEECH COMM, V2, P851
+   BAHL LR, 1992, P IEEE INT C AC SPEE, V1, P117
+   BEYERLEIN P, 1995, P EUR C SPEECH COMM, V2, P1083
+   Bishop CM, 1995, NEURAL NETWORKS PATT, V0, P0
+   DUDA RO, 1974, PATTERN CLASSIFICATI, V0, P0
+   GAUVAINU JL, 1994, INT CONF ACOUST SPEE, V0, P557
+   GOPALAKRISHNAN PS, 1996, AUTOMATIC SPEECH SPE, V0, P413
+   HETHERINGTON IL, 1993, P EUR C SPEECH COMM, V3, P1533
+   KAWAHARA T, 1998, P INT C SPOK LANG PR, V7, P3257
+   KERSHAW DJ, 1995, CUEDFINGENGTR127 CAM, V0, P0
+   Mohri M, 1998, INT CONF ACOUST SPEE, V0, PP665, DOI 10.1109/ICASSP.1998.675352
+   MURVEIT H, 1993, P IEEE INT C AC SPEE, V2, P319
+   NEUKIRCHEN C, 1995, COMMUNICATION, V0, P0
+   Ney H, 1997, 1997 IEEE WORKSHOP ON AUTOMATIC SPEECH RECOGNITION AND UNDERSTANDING, V0, P287, DOI 10.1109/ASRU.1997.659020
+   NEY H, 1993, NATO ADV STUD I BUB, V0, P210
+   NEY H, 1996, AUTOMATIC SPEECH SPE, V0, P385
+   Odell J, 1995, THESIS CAMBRIDGE U C, V0, P0
+   Ortmanns S, 1997, COMPUT SPEECH LANG, V11, P43, DOI 10.1006/csla.1996.0022
+   PAUL DB, 1991, INT CONF ACOUST SPEE, V0, PP693, DOI 10.1109/ICASSP.1991.150434
+   Rabiner Lawrence, 1993, FUNDAMENTALS SPEECH, V0, P0
+   RAVISHANKAR MK, 1996, THESIS CARNEGIE MELL, V0, P0
+   RENALS S, 1995, CUEDFINGENGTR186, V0, P0
+   RENALS S, 1996, P ICASSP 96 ATL MAY, V1, P149
+   RENALS S, 1995, P IEEE INT C AC SPEE, V1, P596
+   ROBINSON T, 1998, P IEEE INT C AC SPEE, V2, P829
+   ROBINSON T, 1994, P IEEE INT C AC SPEE, V1, P37
+   SCHUSTER M, 1999, THESIS NARA I SCI TE, V0, P0
+   Schwartz Richard, 1996, AUTOMATIC SPEECH SPE, V0, P429
+   SHIMIZU T, 1997, IEICE T D, V79, P2117
+   SOONG FK, 1991, INT CONF ACOUST SPEE, V0, PP705, DOI 10.1109/ICASSP.1991.150437
+   STEINBISS V, 1994, P INT C SPOK LANG PR, V0, P0
+   YOUNG S, 1997, HTK BOOK VERSION 2 1, V0, P0
+NR 39
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JAN 15
+PY 2000
+VL 14
+IS 1
+BP 47
+EP 77
+DI 10.1006/csla.1999.0135
+PG 31
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 286XK
+UT WOS:000085474000004
+DA 2023-11-10
+ER
+
+PT J
+AU Papakitsos, E
+   Gregoriadou, M
+   Ralli, A
+AF Papakitsos, E
+   Gregoriadou, M
+   Ralli, A
+TI Functional decomposition and lazy word-parsing in modern Greek
+SO NATURAL LANGUAGE PROCESSING-NLP 2000, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB Word recognition and generation is a fundamental part of the processing of natural language, especially for languages with rich morphology such as Modem Greek, and it requires computationally effective morphological processors. Various models have been proposed for developing computerized systems to accomplish the task of recognition of morphosyntactic features of words. In this paper there is a description of extending and adapting the model of functional decomposition in order to cover a number of morphological phenomena that are encountered in Modem Greek. To achieve a more efficient word recognition modifications on the original model were introduced, the lazy word-parsing approach been adopted. The proposed system was used for processing a large scale corpus and the results are presented and discussed as well.
+C1 Univ Athens, Dept Informat Panepistimiopolis, GR-15771 Athens, Greece.
+   Univ Patras, Dept Philosophy, Patras, Greece.
+C3 National & Kapodistrian University of Athens; University of Patras
+RP Papakitsos, E (通讯作者)，Univ Athens, Dept Informat Panepistimiopolis, TYPA Bldg, GR-15771 Athens, Greece.
+CR ANANIADOU S, 1990, P SICONLP 90, V0, P0
+   [Anonymous], 1987, TEXT SPEECH MITALK S, V0, P0
+   [Anonymous], 1992, MORPHOLOGY COMPUTATI, V0, P0, DOI DOI 10.7551/MITPRESS/4775.001.0001
+   CHURCH K, 1986, ACL P 24 ANN M, V0, P0
+   DERMATAS E, 1994, P LANG ENG INF HIGHW, V0, P0
+   DRAGGIOTIS A, 1997, PARSING TECHNIQUE RE, V0, P0
+   DURA E, 1994, P LANG ENG INF HIGHW, V0, P0
+   KALABOUKIS T, 1994, P LANG ENG INF HIGHW, V0, P0
+   MARKOPOULOS G, 1997, 2 LEVEL DESCRIPTION, V0, P0
+   PACKARD D, 1977, COMPUTER ASSISTED MO, V0, P0
+   RALLI A, 1994, P 8 LING M ENGL GREE, V0, P0
+   RALLI A, 1992, COMPOUNDS MODERN GRE, V0, P0
+   RALLI A, 1991, P EURISCON 91, V0, P0
+   RALLI A, 1983, MORPHOLOGIE VERBALE, V0, P0
+   RALLI A, 1987, P 3 EUR ACL M COP, V0, P0
+   RALLI A, 1985, MORPHOLOGY, V1, P0
+   Ralli Angela, 1988, THESIS U MONTREAL, V0, P0
+   SGARBAS K, 1995, LITERARY LINGUISTIC, V10, P0
+   TOURATZIDIS L, 1992, LANG SPEECH, V35, P435, DOI 10.1177/002383099203500404
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2000
+VL 1835
+IS 
+BP 27
+EP 37
+DI 
+PG 11
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BS52C
+UT WOS:000170202300003
+DA 2023-11-10
+ER
+

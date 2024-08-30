@@ -1,0 +1,173 @@
+_sOutput = ""
+string s03
+
+Field "33*" {
+	string a
+	string b
+	string c
+	string s6
+	string z
+	string sStyle
+	string sWord
+	string sMode
+
+
+	if (StrLen(s03))
+		s03 << "\r\n  "
+	else
+		s03 << "  "
+
+	if (_FIELDNAME == "332")
+		s03 << "<"
+
+	SubField "nt" {
+	# 将前面积累的各个子字段内容处理
+
+	# $a($b)+$z情形 -- 复分表中条目
+		if ((StrLen(a)+StrLen(b))&& StrLen(z)) {
+			sWord << a
+			sWord << b
+			sWord << "|"
+			sWord << z
+
+			s03 << a
+			s03 << b
+			goto SKIP	
+		}
+
+	# $z情形 -- 复分表
+	# 如果为专类复分表，是否需要显示超文本时展开下级?
+		if ( StrLen(z)) {
+			string sName
+			sName = z
+			if (StrLen(z)>=3 && memcmp(z, "fb", 2)==0) {
+				RplcStr(&sName, "fb.tbl")
+			}
+
+			sWord << z
+
+
+			s03 << sName
+			goto SKIP	
+		}
+	# $a($b)+$c 情形
+		if ((StrLen(a)+StrLen(b)) && StrLen(c)) {
+			string sMerge
+
+
+			sWord << a
+			sWord << b
+
+			MakeFufenName(sWord,c,&sMerge)
+
+
+			s03 << sMerge
+			goto SKIP	
+
+		}
+
+	# $a($b)情形
+
+		if (StrLen(a)+StrLen(b)) {
+
+			s03 << a
+			s03 << b
+
+			goto SKIP	
+		}
+
+:SKIP
+		s03 << _SUBFIELD
+		a = ""
+		b = ""
+		c = ""
+		s6 = ""
+		z = ""
+		sStyle = ""
+		sWord = ""
+	}
+	SubField "a" {
+		a << _SUBFIELD
+	}
+	SubField "b" {
+		b << _SUBFIELD
+	}
+	SubField "c" {
+		c << _SUBFIELD
+	}
+	SubField "z" {
+		if (StrLen(z))
+			z << "|"
+		z << _SUBFIELD
+	}
+	SubField "6" {
+		s6 << _SUBFIELD
+	}
+
+###########################
+### 最后一次
+	# 将前面积累的各个子字段内容处理
+
+	# $a($b)+$z情形 -- 复分表中条目
+		if ((StrLen(a)+StrLen(b))&& StrLen(z)) {
+
+			sWord << a
+			sWord << b
+			sWord << "|"
+			sWord << z
+
+
+			s03 << a
+			s03 << b
+			goto SKIP2
+		}
+
+	# $z情形 -- 复分表
+	# 如果为专类复分表，是否需要显示超文本时展开下级?
+		if ( StrLen(z)) {
+			string sName
+			sName = z
+			if (StrLen(z)>=3 && memcmp(z, "fb", 2)==0) {
+				RplcStr(&sName, "fb.tbl")
+			}
+
+			sWord << z
+
+
+			s03 << sName
+			goto SKIP2
+		}
+	# $a($b)+$c 情形
+		if ((StrLen(a)+StrLen(b)) && StrLen(c)) {
+			string sMerge
+
+			sWord << a
+			sWord << b
+
+			MakeFufenName(sWord,c,&sMerge)
+
+			s03 << sMerge
+			goto SKIP2
+
+		}
+
+	# $a($b)情形
+
+		if (StrLen(a)+StrLen(b)) {
+
+			s03 << a
+			s03 << b
+			goto SKIP2	
+		}
+
+:SKIP2
+
+###########################
+
+	if (_FIELDNAME == "332")
+		s03 << ">"
+	break
+
+}
+
+_sOutput = s03

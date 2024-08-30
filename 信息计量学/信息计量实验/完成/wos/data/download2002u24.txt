@@ -1,0 +1,1630 @@
+PT J
+AU Cohen, S
+   Kanza, Y
+   Sagiv, Y
+AF Cohen, S
+   Kanza, Y
+   Sagiv, Y
+TI SQL4X: A flexible query language for XML and relational databases
+SO DATABASE PROGRAMMING LANGUAGES
+LA English
+DT Article; Proceedings Paper
+ID conjunctive query
+AB SQL4X, a powerful language for simultaneously querying both relational and XML databases is presented. Using SQL4X, one can create both relations and XML documents as query results. Thus, SQL4X can be thought of as an integration language. In order to allow easy integration of XML documents with varied structures, SQL4X uses flexible semantics when querying XML. SQL4X is also a powerful query language. It can express quantification, negation, aggregation, grouping and path expressions. Datalog(4x) and Tree-Datalog(4x), extensions of Datalog, are defined as elegant abstract models for SQL4X queries. Query containment is characterized for many common classes of SQL4X queries. Specifically, for Datalog(4x) queries, a complete characterization of containment of conjunctive queries and of unions of queries is presented. Equivalence of Datalog(4x) queries under bag-set semantics is also characterized. A sufficient condition for containment of Tree-Datalog(4x) queries is presented. This condition is shown to be complete for a large class of common queries..
+C1 Hebrew Univ Jerusalem, Inst Comp Sci, IL-91904 Jerusalem, Israel.
+C3 Hebrew University of Jerusalem
+RP Cohen, S (通讯作者)，Hebrew Univ Jerusalem, Inst Comp Sci, IL-91904 Jerusalem, Israel.
+CR ABITEBOUL S, 1996, LOREL QUERY LANGUAGE, V0, P0
+   Aho AV, 1979, ACM TRANSACTIONS ON DATABASE SYSTEMS, V4, P435, DOI 10.1145/320107.320112
+   Calvanese D, 2000, PROCEEDINGS OF 16TH INTERNATIONAL CONFERENCE ON DATA ENGINEERING (CAT. NO.00CB37073), V0, PP389, DOI 10.1109/ICDE.2000.839439
+   CALVANESE D, 1999, P 18 S PRINC DAT SYS, V0, P0
+   CHAMBERLIN D, 2001, XQUERY 1 0 XML QUERY, V0, P0
+   Chandra A, 1977, P 9 ANN ACM S THEOR, V0, P0
+   CHAUDHURI S, 1995, P 11 INT C DAT ENG T, V0, P0
+   CHAUDHURI S, 1993, P 12 S PRINC DAT SYS, V0, P0
+   Clark J, 1999, XSL TRANSFORMATIONS, V0, P0
+   COHEN S, 1999, P 18 S PRINC DAT SYS, V0, P0
+   DEROSE S, 2001, XML POINTER LANGUAGE, V0, P0
+   DEUTSCH A, 1999, 8 INT WORLD WID WEB, V0, P0
+   Deutsch A, 1998, XML QL QUERY LANGUAG, V0, P0
+   FERNANDEZ M, 1999, XML QUERY LANGUAGES, V0, P0
+   FERNANDEZ MF, 2000, P 9 INT WORLD WID WE, V0, P0
+   Florescu D, 1998, PROCEEDINGS OF THE SEVENTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS. PODS 1998, V0, PP139, DOI 10.1145/275487.275503
+   GOLDMAN R, 1999, P 2 INT WORKSH WEB D, V0, P0
+   GRAHNE G, 1999, 8 INT WORKSH DAT PRO, V0, P0
+   IOANNIDIS YE, 1995, ACM T DATABASE SYST, V20, P288, DOI 10.1145/211414.211419
+   JOHNSON DS, 1983, SIAM J COMPUT, V12, P616, DOI 10.1137/0212042
+   KANZA Y, 2001, P 20 S PRINC DAT SYS, V0, P0
+   LEVY A, 1993, P 12 ACM SIGACT SIGM, V0, P109
+   Nutt W, 1998, PROCEEDINGS OF THE SEVENTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS. PODS 1998, V0, PP214, DOI 10.1145/275487.275512
+   ROBIE J, 1998, XML QUERY LANGUAGE X, V0, P0
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2397
+IS 
+BP 263
+EP 280
+DI 
+PG 18
+WC Computer Science, Artificial Intelligence; Computer Science, Software Engineering
+SC Computer Science
+GA BW28C
+UT WOS:000181438100016
+DA 2023-11-10
+ER
+
+PT J
+AU Trigoni, A
+AF Trigoni, A
+TI Interactive query formulation in semistructured databases
+SO FLEXIBLE QUERY ANSWERING SYSTEMS, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB The use of large amounts of distributed and heterogeneous information has become extremely cumbersome; this difficulty is mainly related to exploring the data, rather than actually storing or exchanging it. The user who is interested in small bits of information is getting more and more confused when having to dig under a large volume of diverse and more importantly semi-structured data. In this paper, we propose an interactive and adaptive framework that guides the user in the search for data, by disclosing only a part of the underlying information at a time. It first provides the user with a high-level view of the raw data and gradually adapts to his/her needs in order to offer a refined answer. The proposed model offers the possibility to query a semistructured database based on general schema-related constraints imposed by the user or identified by the system, but without specific knowledge of the underlying metadata. This is achieved by receiving initially an amorphic query, which may consist of one or more basic paths, and helping the user to refine it gradually to a specific semistructured query, expressed in a language like XQuery or Lorel.
+C1 Athens Univ Econ & Business, Dept Informat, Athens, Greece.
+C3 Athens University of Economics & Business
+RP Trigoni, A (通讯作者)，Athens Univ Econ & Business, Dept Informat, Athens, Greece.
+EM ntrig@nbg.gr
+CR ABITEBOUL S, 1997, ICDT, V0, P1
+   AGRAWAL R, 1995, PROC INT CONF DATA, V0, PP3, DOI 10.1109/ICDE.1995.380415
+   [Anonymous], 1998, P ACM SIGMOD, V0, P0
+   Buneman P, 1997, LECT NOTES COMPUT SC, V1186, P336
+   BUNEMAN P, 2001, SIGMOD RECORD, V30, P0
+   BUNEMAN P, 1997, S PRINC DAT SYST, V0, P0
+   BUNEMAN P, 1999, WORKSH DAT PROGR LAN, V0, P208
+   Cattell R, 2000, OBJECT DATA STANDARD, V0, P0
+   CHAKRAVARTHY US, 1988, F DEDUCTIVE DATABASE, V0, P243
+   Chandrasekaran B, 1999, IEEE INTELL SYST APP, V14, P20, DOI 10.1109/5254.747902
+   Chaudhuri S, 1996, ADVANCES IN DATABASE TECHNOLOGY - EDBT 96. 5TH INTERNATIONAL CONFERENCE ON EXTENDING DATABASE TECHNOLOGY. PROCEEDINGS, V0, PP167, DOI 10.1007/BFb0014151
+   CHINENYANGA T, 2001, ACM SIGIR C RES DEV, V0, P163
+   EVANGELISTAFILHI, 2001, INT WORKSH INF INT W, V0, P156
+   FAN W, 2000, ACM S PRINC DAT SYST, V0, P23
+   FAN W, 2001, ACM PODS S PRINC DAT, V0, P114
+   Garofalakis MN, 1999, PROCEEDINGS OF THE TWENTY-FIFTH INTERNATIONAL CONFERENCE ON VERY LARGE DATA BASES, V0, P223
+   GAROFALAKIS MN, 1999, ACM CIKM 99 2 WORKSH, V0, P43
+   Goldman R, 1997, PROCEEDINGS OF THE TWENTY-THIRD INTERNATIONAL CONFERENCE ON VERY LARGE DATABASES, V0, P436
+   GOLDMAN R, 1998, 1 INT WORKSH WEB DAT, V0, P52
+   Kobayashi M, 2000, ACM COMPUT SURV, V32, P144, DOI 10.1145/358923.358934
+   Maedche A, 2001, IEEE INTELL SYST APP, V16, P72, DOI 10.1109/5254.920602
+   Nestorov S, 1998, SIGMOD RECORD, V27, P295, DOI 10.1145/276305.276331
+   NESTOROV S, 1997, WORKSH MAN SEM DAT, V0, P0
+   Pei J, 2001, PROC INT CONF DATA, V0, P215
+   Srikant R, 1996, ADVANCES IN DATABASE TECHNOLOGY - EDBT 96. 5TH INTERNATIONAL CONFERENCE ON EXTENDING DATABASE TECHNOLOGY. PROCEEDINGS, V0, P3
+   Srikant R, 1995, VLDB 95. PROCEEDINGS OF THE 21ST INTERNATIONAL CONFERENCE ON VERY LARGE DATA BASES, V0, P407
+   Vianu V, 2001, PODS, V0, P1
+   WANG J, 1994, ACM SIGMOD INT C MAN, V0, P115
+   Wang K, 2000, IEEE T KNOWL DATA EN, V12, P353, DOI 10.1109/69.846290
+   WANG K, 1998, ACM SIGIR INT C RES, V0, P146
+   ZHONG N, 2001, PRACTICAL APPL INTEL, V0, P0
+NR 31
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2002
+VL 2522
+IS 
+BP 356
+EP 369
+DI 
+PG 14
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BW67X
+UT WOS:000182803500028
+DA 2023-11-10
+ER
+
+PT J
+AU Oudeyer, PY
+AF Oudeyer, PY
+TI Origins and learnability of syllable systems: A cultural evolutionary model
+SO ARTFICIAL EVOLUTION
+LA English
+DT Article; Proceedings Paper
+ID selection; language
+AB This paper presents a model of the origins of syllable systems that brings plausibility to the theory which claims that language learning, and in particular phonological acquisition, needs not innate linguistically specific information, as believed by many researchers of the Chomskyan school, but is rather made possible by the interaction between general motor, perceptual, cognitive and social constraints through a self-organizing process. The strategy is to replace the question of acquisition in a larger and evolutionary (cultural) framework: the model addresses the question of the origins of syllable systems (syllables are the major phonological units in speech). It is based on the artificial life methodology of building a society of agents, endowed with motor, perceptual and cognitive apparati that are generic and realistic. We show that agents effectively build sound systems and how these sound systems relate to existing human sound systems. Results concerning the learnability of the produced sound systems by fresh/baby agents are detailed: the critical period effect and the artificial language effect can effectively be predicted by our model. The ability of children to learn sound systems is explained by the evolutionary history of these sound systems, which were precisely shaped so as to fit the ecological niche formed by the brains and bodies of these children, and not the other way around (as advocated by Chomskyan approaches to language).
+C1 Sony Comp Sci Lab, Paris, France.
+RP Oudeyer, PY (通讯作者)，Sony Comp Sci Lab, Paris, France.
+CR [Anonymous], 1998, PERCEIVING TALKING F, V0, P0
+   [Anonymous], 1998, APPROACHES EVOLUTION, V0, P0
+   Archangeli Diana, 1997, OPTIMALITY THEORY OV, V0, P0
+   ARKIN RC, 1999, BEHAV BASED ROBOTICS, V0, P0
+   BIZZI E, 1991, SCIENCE, V253, P287, DOI 10.1126/science.1857964
+   Chomsky N, 1968, SOUND PATTERN ENGLIS, V0, P0
+   CHRISTIANSEN M, 2000, TRANSITIONS LANGUAGE, V0, P0
+   COOK PR, 1989, PROCEEDINGS : 1989 INTERNATIONAL COMPUTER MUSIC CONFERENCE, V0, P69
+   Deacon T, 1997, SYMBOLIC SPECIES, V0, P0
+   DEBOER B, 1999, P IJCAI99, V0, P364
+   Flege JE, 1992, PHONOLOGICAL DEV MOD, V0, P565
+   GOLD EM, 1967, INFORM CONTROL, V10, P447, DOI 10.1016/S0019-9958(67)91165-5
+   KIRBY S, 1998, APPROACHES EVOLUTION, V0, P0
+   Lenneberg EH, 1967, BIOL FDN LANGUAGE, V0, P0
+   LINDBLOM B, 1992, PHONOLOGICAL DEV MOD, V0, P565
+   Long M, 1990, STUD SECOND LANG ACQ, V12, P251, DOI 10.1017/S0272263100009165
+   Lyon RF, 1997, DIVERSITY AUDITORY M, V0, P0
+   MacNeilage PF, 1998, BEHAV BRAIN SCI, V21, P499, DOI 10.1017/S0140525X98001265
+   OUDEYER PY, 2001, P INT C ART NEUR NET, V0, P0
+   OUDEYER PY, 2001, P INT C COGN SCI COG, V0, P0
+   PIATTELLIPALMARINI M, 1989, COGNITION, V31, P1, DOI 10.1016/0010-0277(89)90016-4
+   PINKER S, 1990, BEHAV BRAIN SCI, V13, P707, DOI 10.1017/S0140525X00081061
+   REDFORD MA, 1998, P 20 ANN C COGN SCI, V0, P0
+   SAKOE H, 1982, IEEE T ACOUSTIC SPEE, V26, P263
+   SEGUI J, 1995, COGNITIVE MODELS SPE, V0, P0
+   STEELS L, 2000, P 7 INT C ART LIF MI, V0, P382
+   Steels L, 1998, EVOLUTION LANGUAGE S, V0, P384
+NR 27
+TC 2
+Z9 2
+U1 0
+U2 2
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2310
+IS 
+BP 143
+EP 155
+DI 
+PG 13
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BW25T
+UT WOS:000181348000012
+DA 2023-11-10
+ER
+
+PT J
+AU Read, T
+   Bárcena, E
+   Barros, B
+   Verdejo, F
+AF Read, T
+   Bárcena, E
+   Barros, B
+   Verdejo, F
+TI Adaptive modelling of student diagnosis and material selection for on-line language learning
+SO JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
+LA English
+DT Article; Proceedings Paper
+ID bayesian networks
+AB The use of interactive on-line environments in distance learning appears to be promising because they solve some of the difficulties teachers have maintaining control of individual student progress due to the large number of students present in such courses. However, in the case of language learning, work is still required to design a system that is as flexible and effective as an experienced teacher. In this paper I-PETER (Intelligent Personalised English Tutoring EnviRonment) is presented as an advance in this area. It has four domain models that represent linguistic and didactic knowledge. Its student linguistic knowledge model is richer than that typically used in language teaching: a student's command of English is evaluated by interpreting his/her performance on specific linguistic units in terms of three related criteria, rather than by a general linguistic competence ranking. This model enables error diagnosis to be undertaken using a Bayesian network, to reflect how teachers actually undertake the process in the classroom. The results of this diagnosis process enable a finer-grained control of material selection than is normally possible, giving rise to a course structure that is continuously adapted to individual student needs.
+C1 Univ Nacl Educ Distancia, Dept Lenguajes & Sistemas Informat, Madrid 28040, Spain.
+   Filologias Extranjeras & Linguist, Madrid 28040, Spain.
+C3 Universidad Nacional de Educacion a Distancia (UNED)
+RP Read, T (通讯作者)，Univ Nacl Educ Distancia, Dept Lenguajes & Sistemas Informat, Edificio Interfacultat,C Juan del Rosal 16, Madrid 28040, Spain.
+EM tread@lsi.uned.es; mbarcena@flog.uned.es; bbarros@lsi.uned.es; felisa@lsi.uned.es
+CR [Anonymous], 1988, 2 LANGUAGE ACQUISITI, V0, P0
+   [Anonymous], 1998, INT J ARTIFICIAL INT, V0, P0
+   Bunt A, 2002, LECT NOTES COMPUT SC, V2363, P698
+   CARBONELJR, 1970, IEEE T MAN MACHINE, VMM11, P190, DOI 10.1109/TMMS.1970.299942
+   Chapelle CA, 1997, LANGUAGE LEARNING TE, V1, P19
+   Clancey WJ, 1983, JOURNAL OF COMPUTER-BASED INSTRUCTION, V10, P8
+   CONATI C, 1996, P UM 96 U HAW, V0, P0
+   Dimitrova V, 1998, BRIT J EDUC TECHNOL, V29, P47, DOI 10.1111/1467-8535.00045
+   Halliday MA, 1994, FUNCTIONAL GRAMMAR, V0, P0
+   HARRELL W, 1999, INT J INSTRUCTIONAL, V23, P267
+   HEIFT T, 2002, INT J ARTIFICIAL INT, V12, P310
+   HOLLAND MV, 1995, INTELLIGENT LANGUAGE, V0, P0
+   JOHNSON WL, 1985, IEEE T SOFTWARE ENG, V11, P267, DOI 10.1109/TSE.1985.232210
+   KOHN K, 1994, BARRIERS BRIDGES MED, V0, P31
+   Levy M, 1997, COMPUT ASSIST LANG L, V0, P0
+   MAYO J, 2001, THESIS U CANTERBURY, V0, P0
+   Merrill DC, 1992, J LEARN SCI, V2, P277, DOI 10.1207/S15327809JLS0203_2
+   Millán E, 2000, LECT NOTES COMPUT SC, V1839, P534
+   Pearl J, 1988, MORGAN KAUFMANN SERI, V0, P0
+   VanLehn K, 1988, FDN INTELLIGENT TUTO, V55, P78
+   WEGNER E, 1987, ARTIFICIAL INTELLIGE, V0, P0
+NR 21
+TC 5
+Z9 5
+U1 0
+U2 2
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1064-1246
+EI 1875-8967
+J9 J INTELL FUZZY SYST
+JI J. Intell. Fuzzy Syst.
+PD JUN 15
+PY 2002
+VL 12
+IS 3-4
+BP 135
+EP 149
+DI 
+PG 15
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 687LY
+UT WOS:000183379200002
+DA 2023-11-10
+ER
+
+PT J
+AU Dowman, M
+AF Dowman, M
+TI Modelling the acquisition of colour words
+SO AL 2002: ADVANCES IN ARTIFICIAL INTELLIGENCE
+LA English
+DT Article; Proceedings Paper
+AB How Bayesian inference might be used as the basis of a system for learning and representing the meanings of colour words in natural languages was investigated. The paper is primarily concerned with cognitive modelling, but has potential applications in natural language processing. A Bayesian cognitive model was constructed to test the hypothesis that people learn language, and in particular the meanings of colour words, using Bayesian inference. The model learned the range of colours which could be named by a particular colour word from examples of colours which could be denoted by that word, and was able to do so accurately even in the presence of large quantities of random noise in the input data. The resulting meaning representations display many of the properties of colour words in natural languages, in particular prototype properties.
+C1 Univ Sydney, Sch Informat Technol, Sydney, NSW 2006, Australia.
+C3 University of Sydney
+RP Dowman, M (通讯作者)，Univ Sydney, Sch Informat Technol, F09, Sydney, NSW 2006, Australia.
+EM Mike@it.usyd.edu.au
+CR [Anonymous], 1997, MACH LEARN, V0, P0
+   BELPAEME T, 2002, THESIS VRIJE U BRUSS, V0, P0
+   Berlin B, 1969, BASIC COLOR TERMS, V0, P0
+   BLOOM P, 2000, HOW CHILDREN LEARN M, V0, P0
+   DOWMAN, 2001, 528 U SYDN BASS DEP, V0, P0
+   Gardenfors P, 2000, GEOMETRY THOUGHT, V0, P0
+   Griffiths TL, 2000, PROCEEDINGS OF THE TWENTY-SECOND ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, V0, P202
+   KAY, 1978, LANGUAGE, V54, P0
+   LAMMENS JM, 1994, THESIS STATE U NEW Y, V0, P0
+   MacLaury RE, 1997, COLOR COGNITION MESO, V0, P0
+   TAYLOR JR, 1989, LINGUISTIC CATEGORIA, V0, P0
+   Tenenbaum J, 2000, PROCEEDINGS OF THE TWENTY-SECOND ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, V0, P16
+   Tenenbaum JB, 1999, THESIS MIT, V0, P0
+   Thompson E, 2021, COLOUR VISION STUDY, V0, P0
+NR 14
+TC 3
+Z9 3
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2002
+VL 2557
+IS 
+BP 259
+EP 271
+DI 
+PG 13
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BW18A
+UT WOS:000181083100023
+DA 2023-11-10
+ER
+
+PT J
+AU Niemi, T
+   Junkkari, M
+   Järvelin, K
+AF Niemi, T
+   Junkkari, M
+   Järvelin, K
+TI Relational deductive object-oriented modeling (RDOOM) approach for finding, representing and integrating application-specific concepts
+SO INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING
+LA English
+DT Article
+DE systems analysis; concept-oriented data modeling; formal specification; integration of relational; object-oriented and deductive modeling aspects; next generation information systems
+ID query language approach; functional data model; databases; management; system; prolog
+AB Next generation information systems (NGISs) have to support the manipulation of data, oriented, behavioral and deductive aspects of application domains. Many modeling methods, e.g. UML and other object-oriented modeling methods offer primitives for modeling data-oriented and behavioral aspects but they do not support the modeling of deductive aspects. In addition, NGISs may be implemented by several separate software/database systems that are based on different paradigms. Therefore A is not appropriate to use such a modeling method which is based on one paradigm. In NGISs it is essential to integrate the value-oriented approach with the object-oriented approach. We develop a relational deductive object-oriented modeling (RDOOM) approach for NGISs. Our goal is to combine into one modeling method, the navigation power of the relational model, the modeling power of the object-orientation and the inference power of the deductive (logical) framework. It is obvious that in NGISs complex and large specifications have to be embedded. in application-specific concepts and structures that are defined beforehand for users to facilitate their query formulation. The detection and specification of application-specific concepts and structures means anew challenge for analysis methods. We show that on the basis of the primitives of RDOOM it is possible to represent this kind of application-specific information in a natural way. It is also necessary that the appropriateness and adequacy of application-specific concepts and structures can be tested before their expensive design and implementation phases. For the definition of these concepts and structures a diagrammatic representation typical of many modeling methods is not sufficient. Rather, a precise and executable representation is needed. Especially the complex and large derivation rules behind deductive concepts cannot be expressed precisely with diagrammatic representations. We develop set-theoretical representations for our primitives. The precise representation of the result of systems analysis also gives a more substantial starting point for the design and implementation of NGIS.
+C1 Tampere Univ, Dept Comp & Informat Sci, FIN-33014 Tampere, Finland.
+   Tampere Univ, Dept Informat Studies, FIN-33014 Tampere, Finland.
+C3 Tampere University; Tampere University
+EM tn@cs.uta.fi
+CR Abiteboul S, 1998, J ACM, V45, P798, DOI 10.1145/290179.290182
+   ABITEBOUL S, 1993, P ACM SIGMOD INT C M, V0, P32
+   [Anonymous], 1988, PRINCIPLES DATABASE, V0, P0
+   [Anonymous], 2000, UNIFIED MODELING LAN, V0, P0, DOI DOI 10.1007/3-540-40011-7_10
+   [Anonymous], 1996, PRINC KNOWL REPRESEN, V0, P0
+   Barja ML, 1994, P 20 INT C VER LARG, V0, P463
+   BATTISTA G, 1993, IEEE T KNOWL DATA EN, V5, P439
+   Beraha S, 1999, DATA KNOWL ENG, V29, P227, DOI 10.1016/S0169-023X(99)80001-9
+   BORGIDA A, 1995, IEEE T KNOWL DATA EN, V7, P671, DOI 10.1109/69.469829
+   BUCHHEIT M, 1994, INFORM SYST, V19, P33, DOI 10.1016/0306-4379(94)90025-6
+   CACACE F, 1990, SIGMOD REC, V19, P225, DOI 10.1145/93605.98732
+   Cattell R, 2000, OBJECT DATA STANDARD, V0, P0
+   Cluet S, 1998, INFORM SYST, V23, P279, DOI 10.1016/S0306-4379(98)00013-1
+   DAR S, 1993, IEEE T KNOWL DATA EN, V5, P799, DOI 10.1109/69.243510
+   Deux O, 1990, IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING, V2, P91, DOI 10.1109/69.50908
+   Dubitzky W, 1999, DATA KNOWL ENG, V30, P23, DOI 10.1016/S0169-023X(99)00005-1
+   FISHMAN DH, 1987, ACM T INFORM SYST, V5, P48
+   HAMMER M, 1981, ACM T DATABASE SYST, V6, P351, DOI 10.1145/319587.319588
+   Järvelin K, 2000, DATA KNOWL ENG, V35, P39, DOI 10.1016/S0169-023X(00)00021-5
+   JUNKKARI M, 2001, A20015 U TAMP DEP CO, V0, P0
+   KIFER M, 1995, J ASSOC COMPUT MACH, V42, P741, DOI 10.1145/210332.210335
+   KIFER M, 1995, P 4 INT C DED OBJ OR, V0, P187
+   KULKARNI KG, 1987, SOFTWARE PRACT EXPER, V17, P171, DOI 10.1002/spe.4380170302
+   Li Q, 1998, IEEE T KNOWL DATA EN, V10, P255, DOI 10.1109/69.683756
+   LIU M, 1998, LNCS, V1507, P302
+   Liu MC, 1996, INFORM SYST, V21, P431, DOI 10.1016/0306-4379(96)84500-5
+   March ST, 2000, INFORM SYST, V25, P23, DOI 10.1016/S0306-4379(00)00007-7
+   Mineau GW, 2000, DATA KNOWL ENG, V33, P137, DOI 10.1016/S0169-023X(99)00049-X
+   MOSS C, 1994, PROLOG PLUS PLUS POW, V0, P0
+   NIEMI T, 1992, INFORM SYST, V17, P49, DOI 10.1016/0306-4379(92)90005-8
+   Niemi T, 2000, INFORM SOFTWARE TECH, V42, P777, DOI 10.1016/S0950-5849(00)00118-X
+   NIEMI T, 1991, IEEE T SOFTWARE ENG, V17, P762, DOI 10.1109/32.83913
+   Parsons J, 1997, COMMUN ACM, V40, P63, DOI 10.1145/255656.255700
+   Parsons J, 1997, COMMUN ACM, V40, P104, DOI 10.1145/265563.265578
+   PATON N, 1996, DATABASE PROGRAMMING, V0, P0
+   PATON NW, 1993, INFORM SOFTWARE TECH, V35, P301, DOI 10.1016/0950-5849(93)90063-9
+   Pin-Shan Chen P, 1976, ACM TRANSACTIONS ON DATABASE SYSTEMS, V1, P9, DOI 10.1145/320434.320440
+   RUMBAUGH J, 1987, P OOPSLA, V0, P466
+   Rumbaugh J, 1991, OBJECT ORIENTED MODE, V0, P0
+   Rumbaugh JE, 1999, UNIFIED MODELING LAN, V0, P0
+   SHIPMAN DW, 1981, ACM T DATABASE SYST, V6, P140, DOI 10.1145/319540.319561
+   Smith JM, 1977, ACM TRANSACTIONS ON DATABASE SYSTEMS, V2, P105, DOI 10.1145/320544.320546
+   SPACCAPIETRA S, 1992, CONCEPTUAL MODELLING, V0, P0
+   SRIVASTAVA D, 1993, P INT C VER LARG DAT, V0, P158
+   TARI Z, 1993, P ACM C INF KNOWL MA, V0, P625
+   ULLMAN J, 1991, P 2 INT C DED OBJ OR, V0, P263
+   Wand Y, 1999, ACM T DATABASE SYST, V24, P494, DOI 10.1145/331983.331989
+   Wong S, 1996, IEEE T KNOWL DATA EN, V8, P496, DOI 10.1109/69.506715
+NR 49
+TC 4
+Z9 4
+U1 0
+U2 1
+PU WORLD SCIENTIFIC PUBL CO PTE LTD
+PI SINGAPORE
+PA 5 TOH TUCK LINK, SINGAPORE 596224, SINGAPORE
+SN 0218-1940
+EI 1793-6403
+J9 INT J SOFTW ENG KNOW
+JI Int. J. Softw. Eng. Knowl. Eng.
+PD AUG 15
+PY 2002
+VL 12
+IS 4
+BP 415
+EP 451
+DI 10.1142/S0218194002000949
+PG 37
+WC Computer Science, Artificial Intelligence; Computer Science, Software Engineering; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 618HF
+UT WOS:000179412100004
+DA 2023-11-10
+ER
+
+PT J
+AU Liu, LM
+   Halper, M
+   Geller, J
+   Perl, Y
+AF Liu, LM
+   Halper, M
+   Geller, J
+   Perl, Y
+TI Using OODB modeling to partition a vocabulary into structurally and semantically uniform concept groups
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+LA English
+DT Article
+DE object-oriented databases; object-oriented models; object-oriented systems; knowledge representation; database models
+ID object-oriented database; medical-language-system; umls; terminology
+AB Controlled Vocabularies (CVs) are networks of concepts that unify disparate terminologies and facilitate the process of information sharing within an application domain. We describe a general methodology for representing an existing CV as an object-oriented database (OODB), called an Object-Oriented Vocabulary Repository (OOVR). A formal description of the OOVR methodology, which is based on a structural abstraction technique, is given, along with an algorithmic description and a number of theorems pertaining to some of the methodology's formal characteristics. An OOVR offers a two-level view of a CV, with the schema-level view serving as an important abstraction that can aid in orientation to the CV's contents. While an OOVR can also assist in traversals of the CV, we have identified certain special CV configurations where such traversals can be problematic. To address this, we introduce-based on the original methodology-an enhanced OOVR methodology that utilizes both structural and semantic features to partition and model a CV's constituent concepts. With its basis in the notions of area and the recursively defined articulation concept, an enhanced OOVR representation provides users with an improved CV view comprising groups of concepts uniform both in their structure and semantics. An algorithmic description of the singly rooted OOVR methodology and theorems describing some of its formal properties are given. The results of applying it to a large existing CV are discussed.
+C1 Kean Univ, Dept Math & Comp Sci, Union, NJ 07083 USA.
+   New Jersey Inst Technol, Dept Comp & Informat Sci, Newark, NJ 07102 USA.
+C3 Kean University; New Jersey Institute of Technology
+RP Liu, LM (通讯作者)，Kean Univ, Dept Math & Comp Sci, Union, NJ 07083 USA.
+CR *AM MED ASS, 1998, PHYS CURR PROC TERM, V0, P0
+   BANCILHON F, 1992, BUILDING OBJECT ORIE, V0, P0
+   BERTINO E, 1993, OBJECT ORIENTED DATA, V0, P0
+   Brachman RJ, 1979, ASS NETWORKS REPRESE, V0, P3
+   CATTELL R, 1997, OBJECT DATABASE STAN, V0, P0
+   Cimino JJ, 1989, PROCEEDINGS: THE THIRTEENTH ANNUAL SYMPOSIUM ON COMPUTER APPLICATIONS IN MEDICAL CARE (CAT. NO.89TH0286-5), V0, P513
+   CIMINO JJ, 1994, J AM MED INFORM ASSN, V1, P35, DOI 10.1136/jamia.1994.95236135
+   COTE RA, 1993, SNOMED INT SYSTEMATI, V0, P0
+   EVEN S, 1979, GRAPH ALGORITHMS, V0, P0
+   FISCHER DH, 1993, P TKE93 TERM KNOWL E, V0, P333
+   GRAY PMD, 1992, OBJECT ORIENTED DATA, V0, P0
+   Gu H, 1996, PROC AMIA ANNU FALL SYMP, V0, P274
+   Gu HY, 1999, J AM MED INFORM ASSN, V6, P283, DOI 10.1136/jamia.1999.0060283
+   Gu HY, 2000, J AM MED INFORM ASSN, V7, P66
+   Humphreys BL, 1998, J AM MED INFORM ASSN, V5, P1
+   Kim Won, 1989, OBJECT ORIENTED CONC, V0, P0
+   LINDBERG DAB, 1993, METHOD INFORM MED, V32, P281, DOI 10.1055/s-0038-1634945
+   LIU L, 1996, P 5 INT C INF KNOWL, V0, P179
+   Liu LP, 1999, BIOORGAN MED CHEM, V7, P1, DOI 10.1016/S0968-0896(98)00233-8
+   MAYS E, 1988, P IEEE AI APPL C MAR, V0, P0
+   Noy NF, 1997, AI MAG, V18, P53
+   Oliver DE, 1996, P 1996 AMIA ANN FALL, V0, P826
+   *ONTOS INC, 1996, ONTOS DB EXPL 4 0 RE, V0, P0
+   Rector A L, 1993, PROC ANNU SYMP COMPUT APPL MED CARE, V0, P414
+   Rector AL, 1997, ARTIF INTELL MED, V9, P139, DOI 10.1016/S0933-3657(96)00369-7
+   SCHUYLER PL, 1993, B MED LIBR ASSOC, V81, P217
+   SOLOVIEV V, 1992, ACM SIGMOD RECORD, V21, P93
+   TUTTLE MS, 1994, INT J BIOMED COMPUT, V34, P207, DOI 10.1016/0020-7101(94)90023-X
+   *US NATL CTR HLTH, 1980, INT CLASS DIS 9 REV, V0, P0
+   ZDONIK SB, 1990, READINGS OBJECT ORIE, V0, P1
+NR 33
+TC 7
+Z9 7
+U1 0
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1041-4347
+EI 
+J9 IEEE T KNOWL DATA EN
+JI IEEE Trans. Knowl. Data Eng.
+PD JUL-AUG 15
+PY 2002
+VL 14
+IS 4
+BP 850
+EP 866
+DI 10.1109/TKDE.2002.1019218
+PG 17
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 570HU
+UT WOS:000176653500011
+DA 2023-11-10
+ER
+
+PT J
+AU Wallace, M
+   Schimpf, J
+AF Wallace, M
+   Schimpf, J
+TI Finding the right hybrid algorithm - A combinatorial meta-problem
+SO ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE
+LA English
+DT Article
+DE clp; constraints; combinatorial
+AB Benchmark comparisons tend to overlook the most important challenge in solving combinatorial problems: how to design an appropriate algorithm. For example, an early version of Localizer incurred a factor 3 performance penalty when benchmarked against a 'C' implementation of GSAT, but we would recommend implementing a new local search algorithm in Localizer rather than 'C' every time. The ECLiPSe CLP language supports the experimental process of seeking the right hybrid algorithm for the problem at hand. It offers high-level modelling and control features, extensibility and a wide range of constraint solvers which can cooperate in the solving of a problem. We recently sought a new hybrid algorithm for a very unpromising class (SAT problems), and using ECLiPSe we were able to develop an algorithm which showed good performance on some very hard instances. We describe the process of exploring the space of hybrid algorithms for the problem class, and indicate the features of ECLiPSe that enabled us to find previously undiscovered algorithms. How to benchmark the solving of this "meta-problem" remains a topic of future research. We conclude by pointing out the advantages of an extensible platform, such as ECLiPSe, for developing sophisticated hybrid algorithms for large scale industrial combinatorial optimisation problems.
+C1 Univ London Imperial Coll Sci Technol & Med, London SW7 2AZ, England.
+C3 Imperial College London
+RP Wallace, M (通讯作者)，Univ London Imperial Coll Sci Technol & Med, IC Parc, London SW7 2AZ, England.
+CR [Anonymous], 1999, OPL OPTIMIZATION PRO, V0, P0
+   BELDICEANU N, 1994, COMPUT MODELLING, V12, P97
+   CASEAU Y, 1999, P CP 99 WASH DC, V0, P0
+   CASEAU Y, 1998, P 4 INT C PRINC PRAC, V0, P310
+   ELSAKKOUT H, 1996, P CP 96 BOST, V0, P0
+   ELSAKKOUT H, 2000, CONSTRAINTS, V5, P0
+   LI CM, 1997, P CP 97 LINZ, V0, P0
+   MICHEL L, 1997, P CP 97 LINZ, V0, P0
+   MINTON S, 1992, ARTIF INTELL, V58, P161, DOI 10.1016/0004-3702(92)90007-K
+   Minton S, 1996, CONSTRAINTS, V1, P7, DOI 10.1007/BF00143877
+   RICHARDS ET, 1998, P CP 98 PIS, V0, P0
+   RODOSEK R, 1998, P CP 98 PIS, V0, P0
+   SCHIMPF J, 1999, TUTORIAL SEARCH ECLI, V0, P0
+NR 15
+TC 10
+Z9 10
+U1 0
+U2 0
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1012-2443
+EI 
+J9 ANN MATH ARTIF INTEL
+JI Ann. Math. Artif. Intell.
+PD APR 15
+PY 2002
+VL 34
+IS 4
+BP 259
+EP 269
+DI 10.1023/A:1014450507312
+PG 11
+WC Computer Science, Artificial Intelligence; Mathematics, Applied
+SC Computer Science; Mathematics
+GA 527KQ
+UT WOS:000174185600002
+DA 2023-11-10
+ER
+
+PT J
+AU Habash, N
+   Dorr, B
+AF Habash, N
+   Dorr, B
+TI Handling translation divergences: Combining statistical and symbolic techniques in generation-heavy machine translation
+SO MACHINE TRANSLATION: FROM RESEARCH TO REAL USERS
+LA English
+DT Article; Proceedings Paper
+AB This paper describes a novel approach to handling translation divergences in a Generation-Heavy Hybrid Machine Translation (GHMT) system. The translation divergence problem is usually reserved for Transfer and Interlingual MT because it requires a large combination of complex lexical and structural mappings. A major requirement of these approaches is the accessibility of large amounts of explicit symmetric knowledge for both source and target languages. This limitation renders Transfer and Interlingual approaches ineffective in the face of structurally-divergent language pairs with asymmetric resources. GHMT addresses the more common form of this problem, source-poor/target-rich, by fully exploiting symbolic and statistical target-language resources. This non-interlingual non-transfer approach, is accomplished by using target-language lexical semantics, categorial variations and subcategorization frames to overgenerate multiple lexico-structural variations from a target-glossed syntactic dependency of the source-language sentence. The symbolic overgeneration, which accounts for different possible translation divergences, is constrained by a statistical target-language model.
+C1 Univ Maryland, Inst Adv Comp Studies, College Pk, MD 20740 USA.
+C3 University System of Maryland; University of Maryland College Park
+RP Habash, N (通讯作者)，Univ Maryland, Inst Adv Comp Studies, College Pk, MD 20740 USA.
+EM habash@umiacs.umd.edu; bonnie@umiacs.umd.edu
+CR BANGALORE S, 2000, P 18 INT C COMP LING, V0, P0
+   BEAVEN JL, 1992, P 14 INT C COMP LING, V0, P0
+   DORR B, 1993, MACHINE TRANSLATION, V0, P0
+   Dorr BJ, 2002, P 5 C ASS MACH TRANS, V0, P0
+   Dorr BJ, 1999, ADV COMPUT, V49, P1, DOI 10.1016/S0065-2458(08)60282-X
+   DORR BJ, 1993, ARTIF INTELL, V63, P429, DOI 10.1016/0004-3702(93)90023-5
+   HABASH N, 2000, P 4 C ASS MACH TRANS, V0, P0
+   HABASH N, 2002, P INT NAT LANG GEN C, V0, P0
+   HAN HC, 2000, P 4 C ASS MACH TRANS, V0, P0
+   Jackendoff R, 1983, SEMANTICS COGNITION, V0, P0
+   Jackendoff R, 1990, SEMANTIC STRUCTURES, V0, P0
+   Knight K, 1995, P 33 ANN M ASS COMP, V0, P252
+   LANGKILDE I, 1998, P INT NAT LANG GEN W, V0, P0
+   LANGKILDE I, 1998, GENERATING WORD LATT, V0, P0
+   LANGKILDE I, 1998, P 36 ANN M ASS COMP, V0, P704
+   LAVOIE B, 2001, P 39 ANN M ASS COMP, V0, P0
+   LAVOIE B, 2000, P 1 ANN N AM ASS COM, V0, P0
+   Melcuk I, 1988, DEPENDENCY SYNTAX TH, V0, P0
+   Nasr A, 1997, P 2 INT WORKSH INT S, V0, P0
+   Traum D, 2000, P WORKSH APPL INT N, V0, P34
+   WATANABE H, 2000, P 18 INT C COMP LING, V0, P0
+NR 21
+TC 5
+Z9 5
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2002
+VL 2499
+IS 
+BP 84
+EP 93
+DI 
+PG 10
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BY57Q
+UT WOS:000189412300009
+DA 2023-11-10
+ER
+
+PT J
+AU Tepper, JA
+   Powell, HM
+   Palmer-Brown, D
+AF Tepper, JA
+   Powell, HM
+   Palmer-Brown, D
+TI A corpus-based connectionist architecture for large-scale natural language parsing
+SO CONNECTION SCIENCE
+LA English
+DT Article
+DE connectionist networks; hybrid architectures; natural language processing; deterministic shift-reduce parsing; corpus linguistics; treebank grammar
+ID representation
+AB We describe a deterministic shift-reduce parsing model that combines the advantages of connectionism with those of traditional symbolic models for parsing realistic sub-domains of natural language. It is a modular system that learns to annotate natural language texts with syntactic structure. The parser acquires its linguistic knowledge directly from pre-parsed sentence examples extracted from an annotated corpus. The connectionist modules enable the automatic learning of linguistic constraints and provide a distributed representation of linguistic information that exhibits tolerance to grammatical variation. The inputs and outputs of the connectionist modules represent symbolic information which can be easily manipulated and interpreted and provide the basis for organizing the parse. Performance is evaluated using labelled precision and recall. (For a test set of 4128 words, precision and recall of 75% and 69%, respectively, were achieved.) The work presented represents a significant step towards demonstrating that broad coverage parsing of natural language can be achieved with simple hybrid connectionist architectures which approximate shift-reduce parsing behaviours. Crucially, the model is adaptable to the grammatical framework of the training corpus used and so is not predisposed to a particular grammatical formalism.
+C1 Nottingham Trent Univ, Dept Comp & Math, Nottingham NG1 4BU, England.
+   Leeds Metropolitan Univ, Sch Comp, Leeds LS6 3QS, W Yorkshire, England.
+C3 Nottingham Trent University; Leeds Beckett University; University of Leeds
+RP Powell, HM (通讯作者)，Nottingham Trent Univ, Dept Comp & Math, Burton St, Nottingham NG1 4BU, England.
+EM Heather.Powell@ntu.ac.uk
+CR Allen J, 1995, NATURAL LANGUAGE UND, V0, P0
+   [Anonymous], 1985, LECT CONT SYNTACTIC, V0, P0
+   [Anonymous], 2000, HDB NATURAL LANGUAGE, V0, P0
+   BERG G, 1992, AAAI-92 PROCEEDINGS : TENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P32
+   BOD R, 2000, P COLING 2000 SAARBR, V0, P0
+   BOD R, 1996, RECENT ADV PARSING T, V0, P255
+   BRILL E, 1998, P COLING 98 QUEB CAN, V0, P0
+   BRILL E, 1994, P COLING 94 KYOT JAP, V0, P0
+   Brill ED, 1993, THESIS U PENNSYLVANI, V0, P0
+   BUO FD, 1994, INT CONF ACOUST SPEE, V0, P365
+   BUO FD, 1996, P COLING 96 KOP, V0, P0
+   Callan RE, 1997, CONNECTION SCIENCE, V9, P139, DOI 10.1080/095400997116667
+   Charniak E, 2000, 6TH APPLIED NATURAL LANGUAGE PROCESSING CONFERENCE/1ST MEETING OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, V0, P0
+   Charniak Eugene, 1997, P 14 NAT C ART INT, V2005, P18, DOI 10.5555/1867406.1867499
+   CHRISTIANSEN MH, 2001, CONNECTIONIST PSYCHO, V0, P0
+   Cleeremans A, 1989, NEURAL COMPUT, V1, P372, DOI 10.1162/neco.1989.1.3.372
+   Collins M, 1997, 35TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 8TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, V0, P16
+   DYER MG, 1995, COMPUTATIONAL ARCHIT, V0, P389
+   ELMAN JL, 1990, COGNITIVE SCI, V14, P179, DOI 10.1207/s15516709cog1402_1
+   ELMAN JL, 1991, MACH LEARN, V7, P195, DOI 10.1007/BF00114844
+   FELDMAN JA, 1982, COGNITIVE SCI, V6, P205, DOI 10.1016/S0364-0213(82)80001-3
+   FRANCIS WN, 1979, MANUAL INFORMATION A, V0, P0
+   FRAZIER L, 1978, COGNITION, V6, P291, DOI 10.1016/0010-0277(78)90002-1
+   Friederici AD, 2002, TRENDS COGN SCI, V6, P78, DOI 10.1016/S1364-6613(00)01839-8
+   GARSIDE R, 1987, MANUAL INFORMATION A, V0, P0
+   Ghahramani Z, 1991, IJCNN-91-SEATTLE: INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (CAT. NO.91CH3049-4), V0, PP541, DOI 10.1109/IJCNN.1991.155392
+   GIBSON E, 1991, THESIS CARNEGIEMELLO, V0, P0
+   Giles CL, 1990, ADV NEURAL INFORM PR, V2, P380
+   HARRISON P, 1991, P WORKSH EV NAT LANG, V0, P71
+   HENDERSON J, 1994, J PSYCHOLINGUIST RES, V23, P353, DOI 10.1007/BF02143945
+   HENDERSON JB, 1998, P 17 INT C COMP LING, V0, P531
+   Hindle D, 1993, COMPUTATIONAL LINGUISTICS, V19, P103
+   HINDLE D, 1991, P 29 ANN M ASS COMP, V0, P229
+   HO EKS, 1997, CONNECT SCI, V9, P269
+   JOHANSSON S, 1978, MANUAL INFORMATION A, V0, P0
+   Kwasny SC, 1995, CONNECTION SCIENCE, V7, P61, DOI 10.1080/09540099508915657
+   Lawrence S, 2000, IEEE T KNOWL DATA EN, V12, P126, DOI 10.1109/69.842255
+   Leech G, 1993, LITERARY & LINGUISTIC COMPUTING, V8, P275, DOI 10.1093/llc/8.4.275
+   Magerman DM, 1995, P 33 ANN M ASS COMPU, V0, PP276, DOI 10.3115/981658.981695
+   Marcus MP, 1993, COMPUT LINGUIST, V19, P313, DOI 10.21236/ADA273556
+   Mayberry MR, 2000, LECT NOTES ARTIF INT, V1778, P144
+   McMahon J, 1998, ARTIF INTELL REV, V12, P347, DOI 10.1023/A:1006517723917
+   MIIKKULAINEN R, 1995, COMPUTATIONAL ARCHIT, V0, P153
+   MIIKULAINEN R, 1990, P 13 INT C COMP LING, V0, P201
+   PALMERBROWN D, 2002, IN PRESS TRENDS COGN, V0, P0
+   PLATE TA, 1995, IEEE T NEURAL NETWOR, V6, P623, DOI 10.1109/72.377968
+   POLLACK JB, 1990, ARTIF INTELL, V46, P77, DOI 10.1016/0004-3702(90)90005-K
+   REGGIA J, 1987, 1ST P INT C NEUR NET, V0, P131
+   REILLY R, 1992, NETWORK-COMP NEURAL, V3, P37, DOI 10.1088/0954-898X/3/1/006
+   Rumelhart DE, 1986, PARALLEL DISTRIBUTED, V1, P318
+   SHARKEY NE, 1992, TWENT WORKSH LANG TE, V3, P87
+   SHASTRI L, 1993, BEHAV BRAIN SCI, V16, P417, DOI 10.1017/S0140525X00030910
+   SHIEBER SM, 1983, COMPUTER SPEECH LANG, V0, P297
+   SMOLENSKY P, 1990, ARTIF INTELL, V46, P159, DOI 10.1016/0004-3702(90)90007-M
+   SMOLENSKY P, 1990, FDN ARTIFICIAL INTEL, V11, P1
+   STEVENSON S, 1994, J PSYCHOLINGUIST RES, V23, P295, DOI 10.1007/BF02145044
+   Stevenson S, 1997, LANG COGNITIVE PROC, V12, P349, DOI 10.1080/016909697386880
+   Sun R, 1992, CONNECTION SCIENCE, V4, P93, DOI 10.1080/09540099208946607
+   TEPPER JA, 2000, THESIS NOTTINGHAM TR, V0, P0
+   TEPPER JA, 1995, P 4 INT C COGN SCI N, V0, P0
+   TEPPER JA, 1995, P 3 SNN NEUR NETW S, V0, P0
+   TEPPER JA, 2001, P 2 WORKSH NAT LANG, V0, P8
+   WERMTER S, 1994, PROCEEDINGS OF THE TWELFTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, VOLS 1 AND 2, P670
+   WERMTER S, 1999, HYBRID NEURAL SYSTEM, V0, P0
+   Winograd T, 1983, LANGUAGE COGNITIVE P, V0, P0
+NR 66
+TC 5
+Z9 5
+U1 0
+U2 2
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0954-0091
+EI 1360-0494
+J9 CONNECT SCI
+JI Connect. Sci.
+PD JUN 15
+PY 2002
+VL 14
+IS 2
+BP 93
+EP 114
+DI 10.1080/09540090210162074
+PG 22
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods
+SC Computer Science
+GA 617AF
+UT WOS:000179336400001
+DA 2023-11-10
+ER
+
+PT J
+AU Lamel, L
+   Gauvain, JL
+   Adda, G
+AF Lamel, L
+   Gauvain, JL
+   Adda, G
+TI Lightly supervised and unsupervised acoustic model training
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+AB The last decade has witnessed substantial progress in speech recognition technology, with today's state-of-the-art systems being able to transcribe unrestricted broadcast news audio data with a word error of about 20%. However, acoustic model development for these recognizers relies on the availability of large amounts of manually transcribed training data. Obtaining such data is both time-consuming and expensive, requiring trained human annotators and substantial amounts of supervision. This paper describes some recent experiments using lightly supervised and unsupervised techniques for acoustic model training in order to reduce the system development cost. The approach uses a speech recognizer to transcribe unannotated broadcast news data from the DARPA TDT-2 corpus. The hypothesized transcription is optionally aligned with closed-captions or transcripts to create labels for the training data. Experiments providing supervision only via the language model training materials show that including texts which are contemporaneous with the audio data is not crucial for success of the approach, and that the acoustic models can be initialized with as little as 10 min of manually annotated data. These experiments demonstrate that light or no supervision can dramatically reduce the cost of building acoustic models. (C) 2002 Academic Press.
+C1 CNRS, LIMSI, Spoken Language Proc Grp, F-91403 Orsay, France.
+C3 Centre National de la Recherche Scientifique (CNRS); Universite Paris Saclay
+RP Lamel, L (通讯作者)，CNRS, LIMSI, Spoken Language Proc Grp, BP 133, F-91403 Orsay, France.
+CR ADDA G, 1999, P EUR C SPEECH COMM, V4, P1759
+   [Anonymous], 1998, DARPA BROADCAST NEWS, V0, P0
+   Barras C, 2001, SPEECH COMMUN, V33, P5, DOI 10.1016/S0167-6393(00)00067-4
+   Cieri C, 1999, P DARPA BROADCAST NE, V0, P0
+   CLARKSON P, 1997, EUR C SPEECH COMM TE, V0, P2707
+   GAROFOLO JS, 1999, P 8 TEXT RETR C TREC, V0, P0
+   Gauvain JL, 1997, P ARPA SPEECH REC WO, V0, P56
+   Gauvain JL, 1994, IEEE T SPEECH AUDI P, V2, P291, DOI 10.1109/89.279278
+   GAUVAIN JL, 2002, IN PRESS SPEECH COMM, V0, P0
+   GAUVAIN JL, 2000, P INT C SPOK LANG PR, V3, P794
+   GAUVAIN JL, 1998, ICSLP 98, V5, P1335
+   Graff D, 1997, P DARPA WORKSH SPOK, V0, P11
+   KEMP T, 1999, P ESCA EUR 99 BUD HU, V6, P2725
+   LEFEVRE F, 2001, P ISCA ITRW AD METH, V0, P0
+   LEGGETTER CJ, 1995, COMPUT SPEECH LANG, V9, P171, DOI 10.1006/csla.1995.0010
+   PALLETT D, 2000, P NIST NSA SPEECH TR, V0, P0
+   PALLETT DS, 1999, P DARPA BROADC NEWS, V0, P5
+   Waibel A, 2000, P IEEE, V88, P1297, DOI 10.1109/5.880085
+NR 19
+TC 169
+Z9 182
+U1 0
+U2 3
+PU ACADEMIC PRESS LTD ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JAN 15
+PY 2002
+VL 16
+IS 1
+BP 115
+EP 129
+DI 10.1006/csla.2001.0186
+PG 15
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 519VE
+UT WOS:000173745500007
+DA 2023-11-10
+ER
+
+PT J
+AU Woodland, PC
+   Povey, D
+AF Woodland, PC
+   Povey, D
+TI Large scale discriminative training of hidden Markov models for speech recognition
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+ID adaptation
+AB This paper describes, and evaluates on a large scale, the lattice based framework for discriminative training of large vocabulary speech recognition systems based on Gaussian mixture hidden Markov models (HMMs). This paper concentrates on the maximum mutual information estimation (MMIE) criterion which has been used to train HMM systems for conversational telephone speech transcription using up to 265 hours of training data. These experiments represent the largest-scale application of discriminative training techniques for speech recognition of which the authors are aware. Details are given of the MMIE lattice-based implementation used with the extended Baum-Welch algorithm, which makes training of such large systems computationally feasible. Techniques for improving generalization using acoustic scaling and weakened language models are discussed. The overall technique has allowed the estimation of triphone and quinphone HMM parameters which has led to significant reductions in word error rate for the transcription of conversational telephone speech relative to our best systems trained using maximum likelihood estimation (MLE). This is in contrast to some previous studies, which have concluded that there is little benefit in using discriminative training for the most difficult large vocabulary speech recognition tasks. The lattice MMIE-based discriminative training scheme is also shown to out-perform the frame discrimination technique. Various properties of the lattice-based MMIE training scheme are investigated including comparisons of different lattice processing strategies (full search and exact-match) and the effect of lattice size on performance. Furthermore a scheme based on the linear interpolation of the MMIE and MLE objective functions is shown to reduce the danger of over-training. It is shown that HMMs trained with MMIE benefit as much as MLE-trained HMMs from applying model adaptation using maximum likelihood linear regression (MLLR). This has allowed the straightforward integration of MMIE-trained HMMs into complex multi-pass systems for transcription of conversational telephone speech and has contributed to our MMIE-trained systems giving the lowest word error rates in both the 2000 and 2001 NIST Hub5 evaluations. (C) 2002 Academic Press.
+C1 Univ Cambridge, Dept Engn, Cambridge CB2 1PZ, England.
+C3 University of Cambridge
+RP Woodland, PC (通讯作者)，Univ Cambridge, Dept Engn, Trumpington St, Cambridge CB2 1PZ, England.
+EM pcw@eng.cam.ac.uk; dp10006@eng.cam.ac.uk
+CR [Anonymous], 1986, P INT C AC SPEECH SI, V0, P0
+   CHOU W, 1993, P IEEE INT C AC SPEE, V2, P652
+   CHOW YL, 1990, P INT C AC SPEECH SI, V0, P0
+   Evermann G, 2000, INT CONF ACOUST SPEE, V0, PP1655, DOI 10.1109/ICASSP.2000.862067
+   EVERMANN G, 2000, P SPEECH TRANSCRIPTI, V0, P0
+   Gales MJF, 1998, COMPUT SPEECH LANG, V12, P75, DOI 10.1006/csla.1998.0043
+   Gales MJF, 1996, COMPUT SPEECH LANG, V10, P249, DOI 10.1006/csla.1996.0013
+   GOPALAKRISHNAN PS, 1991, IEEE T INFORM THEORY, V37, P107, DOI 10.1109/18.61108
+   GOPALAKRISHNAN PS, 1988, P IEEE INT C AC SPEE, V0, P20
+   Hain T, 1999, INT CONF ACOUST SPEE, V0, PP57, DOI 10.1109/ICASSP.1999.758061
+   HAIN T, 2000, P SPEECH TRANSCRIPTI, V0, P0
+   HOCHBERG MM, 1991, INT CONF ACOUST SPEE, V0, PP109, DOI 10.1109/ICASSP.1991.150290
+   KAPADIA S, 1993, P ICASSP, V0, P491
+   KAPADIA S, 1998, THESIS CAMBRIDGE U, V0, P0
+   LEGGETTER CJ, 1995, COMPUT SPEECH LANG, V9, P171, DOI 10.1006/csla.1995.0010
+   MANGU L, 1999, P EUR, V0, P495
+   MERIALDO B, 1988, P IEEE INT C AC SPEE, V0, P111
+   NADAS A, 1988, IEEE T ACOUST SPEECH, V36, P1432, DOI 10.1109/29.90371
+   NADAS A, 1983, IEEE T ACOUST SPEECH, V31, P814, DOI 10.1109/TASSP.1983.1164173
+   NORMANDIN Y, 1991, INT CONF ACOUST SPEE, V0, PP537, DOI 10.1109/ICASSP.1991.150395
+   NORMANDIN Y, 1994, P INT C SPOK LANG PR, V0, P1367
+   Normandin Y, 1991, THESIS MCGILL U MONT, V0, P0
+   Povey D, 1999, INT CONF ACOUST SPEE, V0, P333
+   POVEY D, 1999, CUEDFINFENGTR332, V0, P45
+   POVEY D, 2001, P INT C AC SPEECH SI, V0, P0
+   Schluter R, 1998, INT CONF ACOUST SPEE, V0, PP493, DOI 10.1109/ICASSP.1998.674475
+   Schluter R, 1999, P IEEE ASRU WORKSH K, V0, P119
+   Valtchev V, 1996, INT CONF ACOUST SPEE, V0, PP605, DOI 10.1109/ICASSP.1996.543193
+   Valtchev V, 1997, SPEECH COMMUN, V22, P303, DOI 10.1016/S0167-6393(97)00029-0
+   VALTCHEV V, 1995, THESIS CAMBRIDGE U, V0, P0
+   WOODLAND PC, 1995, INT CONF ACOUST SPEE, V0, PP73, DOI 10.1109/ICASSP.1995.479276
+   WOODLAND PC, 1999, P DARPA BROADC NEWS, V0, P265
+   WOODLAND PC, 2000, P SPEECH TRANSCRIPTI, V0, P0
+   WOODLAND PC, 2001, 2001 NIST LARG VOC C, V0, P0
+   Xuo L, 1999, P ICASSP, V0, P2044
+   Young SJ, 1994, P WORKSH HUM LANG TE, V0, PP307, DOI 10.3115/1075812.1075885
+NR 36
+TC 169
+Z9 172
+U1 0
+U2 13
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JAN 15
+PY 2002
+VL 16
+IS 1
+BP 25
+EP 47
+DI 10.1006/csla.2001.0182
+PG 23
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 519VE
+UT WOS:000173745500003
+DA 2023-11-10
+ER
+
+PT J
+AU Pan, SM
+   McKeown, K
+   Hirschberg, J
+AF Pan, SM
+   McKeown, K
+   Hirschberg, J
+TI Exploring features from natural language generation for prosody modeling
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+ID accent
+AB Prosody modeling is critical in developing a Concept-to-Speech (CTS) system where both Natural Language Generation (NLG) and Speech Synthesis are used to automatically generate natural, coherent speech. In this paper, we empirically verify the usefulness of various natural language features in prosody modeling. Three groups of features are investigated: semantic, syntactic, and surface features produced by SURGE, a general-purpose surface natural language generator for English, deep semantic, and discourse features that are available during the domain modeling and content planning phases of generation, and information-based measures statistically derived from text. Our experiments identify which of this large set of features are effective in prosody modeling. This work represents an important step towards building a comprehensive prosody model for CTS systems that employ general NLG. This investigation is conducted in the context of MAGIC, a medical application that involves automatic speech and graphics generation. (C) 2002 Elsevier Science Ltd. All rights reserved.
+C1 IBM TJ Watson Res Ctr, Hawthorne, NY 10532 USA.
+   Columbia Univ, Dept Comp Sci, New York, NY 10027 USA.
+   AT&T Labs Res, Florham Pk, NJ 07932 USA.
+C3 International Business Machines (IBM); Columbia University; AT&T
+RP Pan, SM (通讯作者)，IBM TJ Watson Res Ctr, Hawthorne, NY 10532 USA.
+EM shimei@us.ibm.com
+CR ALTENBERG B, 1987, LUND STUDIES ENGLISH, V0, P76
+   [Anonymous], 1985, J ACOUST SOC AM, V0, P0, DOI DOI 10.1121/1.2022951
+   [Anonymous], 1981, RADICAL PRAGMATICS, V0, P0
+   Bachenko J, 1990, COMPUTATIONAL LINGUISTICS, V16, P155
+   BECKMAN M, 1993, TOBI ANNOTATION CONV, V0, P0
+   BLACK A, 1995, SPRING M AC SOC JAP, V0, P0
+   BOLINGER D, 1972, LANGUAGE, V48, P633, DOI 10.2307/412039
+   BOLINGER DL, 1958, WORD, V14, P1
+   Bolinger DL, 1972, INTONATION, V0, P0
+   BRESNAN JW, 1971, LANGUAGE, V47, P257, DOI 10.2307/412081
+   Brown G, 1983, PROSODY MODELS MEASU, V0, PP67, DOI 10.1007/978-3-642-69103-4_6
+   Cohen WW, 1995, MACHINE LEARNING. PROCEEDINGS OF THE TWELFTH INTERNATIONAL CONFERENCE ON MACHINE LEARNING, V0, P115
+   COLLINS M, 1999, THESIS U PENNSYLVANI, V0, P0
+   Conover WJ, 1999, PRACTICAL NONPARAMET, V0, P0
+   Cover TM, 2005, ELEM INF THEORY, V0, P0, DOI DOI 10.1002/047174882X
+   Dalal M, 1996, PROCEEDINGS ACM MULTIMEDIA 96, V0, PP55, DOI 10.1145/244130.244147
+   DUSTERHOFF K, 1999, P EUR BUD HUNG, V0, P0
+   ELHADAD M, 1993, THESIS COLUMBIA U, V0, P0
+   FANO R, 1961, TRANSMISSION INFORMA, V0, P0
+   Grosz BJ, 1986, COMPUTATIONAL LINGUISTICS, V12, P175
+   Halliday MAK, 2014, INTRO FUNCTIONAL GRA, V4th ed., P0
+   HIRSCHBERG J, 1993, ARTIF INTELL, V63, P305, DOI 10.1016/0004-3702(93)90020-C
+   HIRSCHBERG J, 1996, SPEECH COMMUNICATION, V0, P0
+   HIRSCHBERG J, 1990, P 7 NAT C AM ASS ART, V0, P0
+   KOEHN P, 2000, P ICASSP 2000, V0, P0
+   Ladd DRobert, 2008, INTONATIONAL PHONOLO, V1st, P0, DOI 10.1017/CBO9780511808814
+   LIBERMAN M, 1992, LEXICAL MATTERS, V0, P131
+   MARCHAND J, 1993, MESSAGE POSTED HUMAN, V0, P0
+   NAKATANI C, 1998, P COLING ACL 98 MONT, V0, P939
+   OShaughnessy DD, 1989, COMPUTATIONAL LINGUISTICS, V15, P97
+   Pierrehumbert JB, 1980, THESIS MIT, V0, P0
+   PRICE PJ, 1991, J ACOUST SOC AM, V90, P2956, DOI 10.1121/1.401770
+   Prince EF, 1992, DISCOURSE DESCRIPTIO, V0, PP295, DOI 10.1075/PBNS.16.12PRI
+   PROVOST S, 1995, THESIS U PENNSYLVANI, V0, P0
+   ROBIN J, 1994, THESIS COLUMBIA U, V0, P0
+   SELKIRK EO, 1984, CURRENT STUDIES LING, V0, P0
+   Shannon CE, 1948, BELL SYST TECH J, V27, P379, DOI 10.1002/J.1538-7305.1948.TB01338.X
+   SILVERMAN K, 1992, P ICSLP92, V0, P2
+   SPROAT R, 1994, COMPUT SPEECH LANG, V8, P79, DOI 10.1006/csla.1994.1004
+   Sproat RW, 1997, MULTILINGUAL TEXT TO, V0, P0
+   Taylor P, 1998, COMPUT SPEECH LANG, V12, P99, DOI 10.1006/csla.1998.0041
+   Wang MQ, 1992, COMPUTER SPEECH AND LANGUAGE, V6, P175, DOI 10.1016/0885-2308(92)90025-Y
+NR 44
+TC 11
+Z9 11
+U1 0
+U2 1
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JUL-OCT 15
+PY 2002
+VL 16
+IS 3-4
+BP 457
+EP 490
+DI 10.1016/S0885-2308(02)00022-0
+PG 34
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 606WR
+UT WOS:000178758100008
+DA 2023-11-10
+ER
+
+PT J
+AU Maneth, S
+AF Maneth, S
+TI The complexity of compositions of deterministic tree transducers
+SO FST TCS 2002: FOUNDATIONS OF SOFTWARE TECHNOLOGY AND THEOETICAL COMPUTER SCIENCE, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+DE deterministic macro tree transducers; complexity
+ID recursive program schemes; attribute grammars; languages
+AB Macro tree transducers can simulate most models of tree transducers (e.g., top-down and bottom-up tree transducers, attribute grammars, and pebble tree transducers which, in turn, can simulate all known models of XML transformers). The string languages generated by compositions of macro tree transducers (obtained by reading the leaves of the output trees) form a large class which contains, e.g., the 10 hierarchy and the EDT0L control hierarchy. Consider an arbitrary composition tau of (deterministic) macro tree transducers. How difficult is it, for a given input tree s, to compute the translation t = tau(s)? It is shown that this problem can be solved (on a RAM) in time linear in the sum of the sizes of s and t. Moreover, the problem to determine, for a given t of size n, whether or not there is an input tree s such that t = tau(s) is in DSPACE(n); this means that output languages of compositions of macro tree transducers are deterministic context-sensitive. The involved technique of compressing intermediate results of the composition, also gives a new proof of the fact that the finiteness problem for tau's range is decidable.
+C1 Leiden Univ, LIACS, NL-2300 RA Leiden, Netherlands.
+C3 Leiden University - Excl LUMC; Leiden University
+RP Maneth, S (通讯作者)，Leiden Univ, LIACS, POB 9512, NL-2300 RA Leiden, Netherlands.
+EM maneth@liacs.nl
+CR ASVELD PRJ, 1981, J COMPUT MATH, V10, P3
+   BAKER BS, 1978, SIAM J COMPUT, V7, P376, DOI 10.1137/0207030
+   COURCELLE B, 1982, THEOR COMPUT SCI, V17, P235, DOI 10.1016/0304-3975(82)90024-X
+   COURCELLE B, 1982, THEOR COMPUT SCI, V17, P163, DOI 10.1016/0304-3975(82)90003-2
+   DAMM W, 1982, THEOR COMPUT SCI, V20, P95, DOI 10.1016/0304-3975(82)90009-3
+   DERANSART P, 1988, LNCS, V323, P0
+   Drewes F, 1998, INFORM COMPUT, V145, P1, DOI 10.1006/inco.1998.2715
+   ENGELFRIET J, 1975, MATH SYST THEORY, V9, P198, DOI 10.1007/BF01704020
+   Engelfriet J, 2002, J COMPUT SYST SCI, V64, P350, DOI 10.1006/jcss.2001.1816
+   ENGELFRIET J, 1986, SIAM J COMPUT, V15, P70, DOI 10.1137/0215005
+   ENGELFRIET J, 1985, J COMPUT SYST SCI, V31, P71, DOI 10.1016/0022-0000(85)90066-2
+   Engelfriet J, 1999, INFORM COMPUT, V154, P34, DOI 10.1006/inco.1999.2807
+   Fischer M, 1968, THESIS HARVARD U MAS, V0, P0
+   Fulop Z, 1998, EATCS MONOGRAPHS THE, V0, P0
+   Fulop Z, 1981, ACTA CYBERN, V5, P261
+   GECSEG F, 1984, TREE AUTOMATA, V0, P0
+   Knuth DE, 1968, MATHEMATICAL SYSTEMS THEORY, V2, P127, DOI 10.1007/BF01692511
+   Knuth DE, 1971, MATH SYST THEORY, V5, P95, DOI 10.1007/BF01702865
+   Kühnemann A, 1998, LECT NOTES COMPUT SC, V1530, P146
+   MILO T, 2000, P 19 ACM S PRINC DAT, V0, PP11, DOI 10.1145/335168.335171
+   Papadimitriou C, 1994, COMPUT COMPLEX, V0, P0
+   VIANU V, 2001, P 20 ACM S PRINC DAT, V0, PP1, DOI 10.1145/375551.375554
+   VOGLER H, 1991, SCI COMPUT PROGRAM, V16, P251, DOI 10.1016/0167-6423(91)90009-M
+   WADLER P, 1990, THEOR COMPUT SCI, V73, P231, DOI 10.1016/0304-3975(90)90147-A
+NR 25
+TC 10
+Z9 10
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2556
+IS 
+BP 265
+EP 276
+DI 
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Software Engineering; Computer Science, Theory & Methods
+SC Computer Science
+GA BW31M
+UT WOS:000181548500023
+DA 2023-11-10
+ER
+
+PT J
+AU Leopold, E
+   Kindermann, J
+AF Leopold, E
+   Kindermann, J
+TI Text categorization with support vector machines.: How to represent texts in input space?
+SO MACHINE LEARNING
+LA English
+DT Article
+DE support vector machines; text classification; lemmatization; stemming; kernel functions
+ID documents
+AB The choice of the kernel function is crucial to most applications of support vector machines. In this paper, however, we show that in the case of text classification, term-frequency transformations have a larger impact on the performance of SVM than the kernel itself. We discuss the role of importance-weights (e.g. document frequency and redundancy), which is not yet fully understood in the light of model complexity and calculation cost, and we show that time consuming lemmatization or stemming can be avoided even when classifying a highly inflectional language like German.
+C1 GMD German Natl Res Ctr Informat Technol, Inst Autonomous Intelligent Syst, D-53754 St Augustin, Germany.
+C3 Fraunhofer Gesellschaft; Fraunhofer Institute Center Schloss Birlinghoven
+RP Leopold, E (通讯作者)，GMD German Natl Res Ctr Informat Technol, Inst Autonomous Intelligent Syst, Schloss Birlinghoven, D-53754 St Augustin, Germany.
+CR Altmann G, 1988, WIEDERHOLUNGEN TEXTE, V0, P0
+   [Anonymous], 1982, Z SPRACHWISSENSCHAFT, V0, P0
+   [Anonymous], 1994, J QUANT LINGUIST, V0, P0
+   [Anonymous], 1998, LECT NOTES COMPUTER, V0, P0, DOI DOI 10.1007/S13928716
+   Balasubrahmanyan VK, 1996, J QUANT LINGUIST, V3, P177, DOI 10.1080/09296179608599629
+   BOOKSTEIN A, 1974, J AM SOC INFORM SCI, V25, P312, DOI 10.1002/asi.4630250505
+   CHITASHVILI RJ, 1993, QUANTITATIVE TEXT AN, V0, P46
+   Dumais S, 1998, PROCEEDINGS OF THE 1998 ACM CIKM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, V0, PP148, DOI 10.1145/288627.288651
+   HARTER PS, 1975, J ASIS 1, V26, P197
+   Kralik J, 1977, PRAGUE STUDIES MATH, V5, P223
+   KRYLOV JK, 1995, J QUANTITATIVE LINGU, V2, P157
+   LEZIUS W, 1998, P COLING ACL 1998, V0, P743
+   Mandelbrot B, 1961, P S APPL MATH, V12, P190
+   Manning Christopher, 1999, FDN STAT NATURAL LAN, V0, P3
+   MARGULIS EL, 1993, INFORM PROCESS MANAG, V29, P215, DOI 10.1016/0306-4573(93)90005-X
+   Nigam K, 2000, MACH LEARN, V39, P103, DOI 10.1023/A:1007692713085
+   Orlov Jurij K, 1982, SPRACHE TEXT KUNST Q, V0, P1
+   PORTER MF, 1980, PROGRAM-AUTOM LIBR, V14, P130, DOI 10.1108/eb046814
+   Rieger Burghard B, 1999, COMPUTING WORDS INFO, V1, P93
+   SALTON G, 1983, INTRO MODERN INFORMA, V0, P0
+   STRICKER M, 2000, RECONNAISSANCE FORME, V0, P129
+   Vapnik V, 1998, NEW YORK, V0, P0
+NR 22
+TC 249
+Z9 266
+U1 3
+U2 31
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA SPUIBOULEVARD 50, PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+SN 0885-6125
+EI 
+J9 MACH LEARN
+JI Mach. Learn.
+PD JUN 15
+PY 2002
+VL 46
+IS 1-3
+BP 423
+EP 444
+DI 10.1023/A:1012491419635
+PG 22
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 481CF
+UT WOS:000171501800019
+DA 2023-11-10
+ER
+
+PT J
+AU Villanova-Oliver, M
+   Gensel, J
+   Martin, H
+AF Villanova-Oliver, M
+   Gensel, J
+   Martin, H
+TI Progressive access: A step towards adaptability in web-based information systems
+SO OBJECT-ORIENTED INFORMATION SYSTEMS, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB Web-based Information Systems (WIS) are used for diffusing and processing information over the Internet. Because of the large amounts of information they manage, it is crucial to adapt the delivered information. This can be done by giving users a progressive access to information. For this purpose, we propose to stratify the Information Space of a WIS by decomposing it into personalized sub-Information Spaces. This stratification is described through a Progressive Access Model (PAM) written in UML. The PAM gives WIS users, first, access to some information considered as minimal and essential, and then, allows them to navigate through larger and/or smaller personalized Information Spaces. Together with the PAM, we present a, specific query language which allows to query a stratified Information Space. This way, the stratification is taken into account in query expressions, while replies are formatted according to the different levels of detail available in the stratified user's Information Space.
+C1 IMAG, Lab LSR, F-38402 St Martin Dheres, France.
+RP Villanova-Oliver, M (通讯作者)，IMAG, Lab LSR, BP 72, F-38402 St Martin Dheres, France.
+CR Abiteboul S, 1991, SIGMOD, V0, P238
+   ABITEBOUL S, 1999, ACM S PRINC DAT SYST, V0, P1
+   CERI S, 2000, WWW9 C AMST, V0, P0
+   CLUET S, 1998, INFORMATION SYSTEMS, V23, P0
+   DAVOINE PA, 2001, 21 GEN ASS EUR GEO S, V0, P0
+   MOTSCHNIGPITRIK R, 1999, MODELING USING CONTE, V0, P0
+   PAGE M, 2001, 14 INT C IND ENG APP, V0, P113
+   Rumbaugh JE, 1999, UNIFIED MODELING LAN, V0, P0
+   STEPHANIDIS C, 1998, 4 WORKSH US INT ALL, V0, P0
+   THENG YL, 1998, PROBLEM J U COMPUTER, V4, P839
+   THEODORAKIS M, 1999, 18 INT C CONC MOD PA, V0, P0
+   TSICHRITZIS D, 1977, ANSI X3 SPARC DBMS F, V0, P0
+   VILLANOVA M, 2001, 7 INT C OBJ OR INF S, V0, P467
+   VILLANOVAOLIVER M, 2002, DESIGN GENERATION AD, V0, P0
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2425
+IS 
+BP 422
+EP 433
+DI 
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Computer Science, Software Engineering
+SC Computer Science
+GA BW28M
+UT WOS:000181442400044
+DA 2023-11-10
+ER
+
+PT J
+AU Kurimo, M
+   Lagus, K
+AF Kurimo, M
+   Lagus, K
+TI An efficiently focusing large vocabulary language model
+SO ARTIFICIAL NEURAL NETWORKS - ICANN 2002
+LA English
+DT Article; Proceedings Paper
+AB Accurate statistical language models are needed, for example, for large vocabulary speech recognition. The construction of models that are computationally efficient and able to utilize long-term dependencies in the data is a challenging task. In this article we describe how a topical clustering obtained by ordered maps of document collections can be utilized for the construction of efficiently focusing statistical language models. Experiments on Finnish and English texts demonstrate that considerable improvements are obtained in perplexity compared to a general n-gram model and to manually classified topic categories. In the speech recognition task the recognition history and the current hypothesis can be utilized to focus the model towards the current discourse or topic, and then apply the focused model to re-rank the hypothesis.
+C1 Helsinki Univ Technol, Neural Networks Res Ctr, FIN-02015 Helsinki, Finland.
+C3 Aalto University
+RP Kurimo, M (通讯作者)，Helsinki Univ Technol, Neural Networks Res Ctr, POB 5400, FIN-02015 Helsinki, Finland.
+CR Bellegarda JR, 2000, P IEEE, V88, P1279, DOI 10.1109/5.880084
+   Clarkson P, 2001, COMPUT SPEECH LANG, V15, P39, DOI 10.1006/csla.2000.0156
+   CLARKSON P, 1997, P EUR 97 RHOD GREEC, V0, P2707
+   Clarkson P, 1997, P IEEE INT C AC SPEE, V0, P799
+   GILDEA D, 1999, P EUROSPEECH, V0, P2167
+   IYER RM, 1999, IEEE T SPEECH AUDIO, V7, P0
+   Kohonen T, 2000, IEEE T NEURAL NETWOR, V11, P574, DOI 10.1109/72.846729
+   Kohonen T, 2001, SELF ORG MAPS, V0, P0
+   LAGUS K, 2002, IN PRESS NEURAL PROC, V0, P0
+   LAU R, 1993, P INT C AC SPEECH SI, V0, P45
+   SIIVOLA V, 2001, P EUR, V0, P0
+NR 11
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2415
+IS 
+BP 1068
+EP 1073
+DI 
+PG 6
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BW28K
+UT WOS:000181441900173
+DA 2023-11-10
+ER
+
+PT J
+AU van der Mark, P
+   van Engelen, R
+   Gallivan, K
+   Dewar, W
+AF van der Mark, P
+   van Engelen, R
+   Gallivan, K
+   Dewar, W
+TI A case study for automatic code generation on a coupled ocean-atmosphere model
+SO COMPUTATIONAL SCIENCE-ICCS 2002, PT I, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+ID eddy
+AB Traditional design and implementation of large atmospheric models is a difficult, tedious and erroneous task. With the CTADEL project we propose a new method of code generation, where the designer describes the model in an abstract high-level specification language which is translated into highly optimized Fortran code. In this paper we show the abilities of this method on a coupled ocean-atmosphere model, in which we have to deal with multi-resolution domains and different time-steps. We, briefly, describe a new concept in compiler design, the use of templates for code generation, to elevate the burden of choosing architecture optimized numerical routines.
+C1 Leiden Univ, Leiden Inst Advanced Comp Sci, NL-2300 RA Leiden, Netherlands.
+   Florida State Univ, Dept Comp Sci, Tallahassee, FL 32306 USA.
+   Florida State Univ, Dept Oceanog, Tallahassee, FL 32306 USA.
+C3 Leiden University; Leiden University - Excl LUMC; State University System of Florida; Florida State University; State University System of Florida; Florida State University
+RP van der Mark, P (通讯作者)，Leiden Univ, Leiden Inst Advanced Comp Sci, POB 9512, NL-2300 RA Leiden, Netherlands.
+EM pmark@liacs.nl; engelen@cs.fsu.edu; gallivan@cs.fsu.edu; dewar@ocean.fsu.edu
+CR [Anonymous], 1992, ART SCI COMPUTING, V0, P0
+   DEROSE L, 1995, 8 INT WORKSH LCPC 95, V0, P269
+   HOLLAND WR, 1978, J PHYS OCEANOGR, V8, P363, DOI 10.1175/1520-0485(1978)008<0363:TROMEI>2.0.CO;2
+   HOUSTIS E, 1987, P 1 INT C SUP NEW YO, V0, P255
+   Roberts R, 1996, J PSYCHOPHYSIOL, V10, P86
+   Smith KS, 2001, J PHYS OCEANOGR, V31, P554, DOI 10.1175/1520-0485(2001)031<0554:TSAEOM>2.0.CO;2
+   Sterling T, 1995, INT C PARALLEL PROCE, V0, P11
+   VANDERMARK P, 2001, P 15 INT C SUP SORR, V0, P252
+   vanEngelen R, 1997, IEEE COMPUT SCI ENG, V4, P22, DOI 10.1109/99.615428
+   VANENGELEN RA, 2001, J COMPUTING INFORMAT, V0, P0
+   VANENGELEN RA, 1998, CTADEL GENERATOR EFF, V0, P0
+NR 12
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2329
+IS 
+BP 419
+EP 428
+DI 
+PG 10
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Computer Science, Theory & Methods
+SC Computer Science
+GA BW26B
+UT WOS:000181350500042
+DA 2023-11-10
+ER
+
+PT J
+AU Mecca, G
+   Mendelzon, AO
+   Merialdo, P
+AF Mecca, G
+   Mendelzon, AO
+   Merialdo, P
+TI Efficient queries over Web views
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+LA English
+DT Article
+DE Web; query languages; query optimization; view maintenance
+AB Large Web sites are becoming repositories of structured information that can benefit from being viewed and queried as relational databases. However, querying these views efficiently requires new techniques. Data usually resides at a remote site and is organized as a set of related HTML documents, with network access being a primary cost factor in query evaluation. This cost can be reduced by exploiting the redundancy often found in site design. We use a simple data model, a subset of the Araneus data model, to describe the structure of a Web site. We augment the model with link and inclusion constraints that capture the redundancies in the site. We map relational views of a site to a navigational algebra and show how to use the constraints to rewrite algebraic expressions, reducing the number of network accesses. We show that similar techniques can be used to maintain materialized views over sets of HTML pages.
+C1 Univ Basilicata, I-85100 Potenza, Italy.
+   Univ Toronto, Dept Comp Sci, Toronto, ON M5S 3H5, Canada.
+   Univ Roma Tre, Dipartimento Informat & Automaz, I-00146 Rome, Italy.
+C3 University of Basilicata; University of Toronto; Roma Tre University
+RP Mecca, G (通讯作者)，Univ Basilicata, Cda Macchia Romana, I-85100 Potenza, Italy.
+CR Abiteboul S, 1995, FDN DATABASES, V0, P0
+   ABITEBOUL S, 1997, P 16 ACM SIGACT SIGM, V0, P0
+   [Anonymous], 1995, IEEE DATA ENG B, V0, P0
+   Arocena Gustavo O, 1998, P 14 INT C DAT ENG I, V0, P0
+   BARU C, 1999, P 1999 ACM SIGMOD IN, V0, P0
+   BEERI C, 1999, 1999 ACM SIGMOD INT, V0, P0
+   BEERI C, 1990, P 3 INT C DAT THEOR, V0, P0
+   Bonifati A, 2000, SIGMOD RECORD, V29, P68, DOI 10.1145/344788.344822
+   BUNEMAN P, 1998, P 1998 ACM SIGMOD IN, V0, P0
+   CLUET S, 1992, P 1992 ACM SIGMOD IN, V0, P0
+   Florescu D, 1998, SIGMOD RECORD, V27, P59, DOI 10.1145/290593.290605
+   JENQ BP, 1990, P 2 INT C EXT DAT TE, V0, P0
+   KEMPER A, 1992, INFORM SYST, V17, P117, DOI 10.1016/0306-4379(92)90008-B
+   LUDASCHER B, 2000, P 7 INT C EXT DAT TE, V0, P0
+   MECCA G, 1998, P 1998 ACM SIGMOD IN, V0, P0
+   MENDELZON A, 1997, J DIGITAL LIB, V1, P54
+   MOHAN C, 1990, P 2 INT C EXT DAT TE, V0, P0
+   NAVATHE S, 1980, P 6 INT C VER LARG D, V0, P0
+   OZSU MT, 1994, MODERN DATABASE MANA, V0, P146
+   ROSENTHAL A, 1982, P 1982 ACM SIGMOD IN, V0, P0
+   ROTH MA, 1988, ACM T DATABASE SYST, V13, P389, DOI 10.1145/49346.49347
+   Shaw GM, 1989, P 2 INT WORKSH DAT P, V0, P0
+   VALDURIEZ P, 1987, ACM T DATABASE SYST, V12, P218, DOI 10.1145/22952.22955
+   ZANIOLO C, 1983, P ANN M SIGMOD 83, V0, P0
+   ZANIOLO C, 1979, P 1979 ACM SIGMOD IN, V0, P0
+   ZHUGE Y, 1998, P 14 INT C DAT ENG I, V0, P0
+NR 27
+TC 3
+Z9 3
+U1 0
+U2 2
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1041-4347
+EI 
+J9 IEEE T KNOWL DATA EN
+JI IEEE Trans. Knowl. Data Eng.
+PD NOV-DEC 15
+PY 2002
+VL 14
+IS 6
+BP 1280
+EP 1298
+DI 10.1109/TKDE.2002.1047768
+PG 19
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 610FP
+UT WOS:000178950300007
+DA 2023-11-10
+ER
+
+PT J
+AU Kapetanios, E
+   Groenewoud, P
+AF Kapetanios, E
+   Groenewoud, P
+TI Query construction through meaningful suggestions of terms
+SO FLEXIBLE QUERY ANSWERING SYSTEMS, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+DE query languages; ontologies; semantics; information retrieval
+ID language
+AB Query formulation by using database specific query languages such as SQL or OQL turns out to be cumbersome or even impossible when end-users need to pose queries to large database schemes. This is due to the difficulties which arise out of the wrong or impossible interpretations of storage models and the lack of mechanisms to embed application domain semantics within query languages. Visual query languages (VQLs) and natural language (NL) based query interfaces in query answering systems alleviate, in some cases, the task of constructing. a query. VQLs, however, are bound to visual formalisms which need further interpretation and still lack the use of semantics other than those provided by well-known conceptual models (EER, OMT, etc.). NL based approaches, on the other side, presuppose a considerable knowledge of the vocabulary terms to, be used by the end-user for a particular application domain and, furthermore, they do not exploit the meaning of words other than that as provided by the syntax, in order to formulate a meaningful query. This turns out to be cumbersome, especially when advanced terminologies and large vocabularies should be used. This is also strengthened by the non-unique name assumption characterizing the application domain vocabulary. In this paper, we present a query construction paradigm which underlies the Meaning Driven Data Query Language MDDQL. It strongly relies on the construction of queries through suggestions of meaningful terms, in a preferred natural language, when requested by the end-user. An inference engine is responsible for the suggestion of a semantically consistent set, not only of application domain terms, but also of operator or operation terms, during the query construction process. All inferences are drawn at a "heuristic level" of representation of the vocabulary, i.e., on the basis of data structures (cyclic graph), and not at an "epistemological level", i.e., based on logic-like representations.
+C1 ETHZ, Dept Comp Sci, Zurich, Switzerland.
+C3 Swiss Federal Institutes of Technology Domain; ETH Zurich
+RP Kapetanios, E (通讯作者)，ETHZ, Dept Comp Sci, Postfach 8092, Zurich, Switzerland.
+CR Adam NR, 1997, IEEE T KNOWL DATA EN, V9, P238, DOI 10.1109/69.591449
+   Bechhofer S, 1999, PROCEEDINGS USER INTERFACES TO DATA INTENSIVE SYSTEMS, V0, PP158, DOI 10.1109/UIDIS.1999.791472
+   Cardiff J, 1997, INT J COOP INF SYST, V6, P151, DOI 10.1142/S0218843097000082
+   Catarci T, 1997, J VISUAL LANG COMPUT, V8, P215, DOI 10.1006/jvlc.1997.0037
+   CATELL RGG, 1997, OBJECT DATABASE STAN, V0, P0
+   Chomsky N, 1957, SYNTACTIC STRUCTURES, V0, P0, DOI DOI 10.1515/9783112316009
+   CHU WW, 1994, IEEE T KNOWL DATA EN, V6, P738, DOI 10.1109/69.317704
+   CHU WW, 1996, J INTELLIGENT INFORM, V0, P0
+   DESAUSSURE F, 1972, COURS LINGISTIQUE GE, V0, P0
+   Gil I, 1999, PROCEEDINGS USER INTERFACES TO DATA INTENSIVE SYSTEMS, V0, PP54, DOI 10.1109/UIDIS.1999.791462
+   GROFF JR, 1999, SQL COMPLETE REFEREN, V0, P0
+   GROSZ BJ, 1987, ARTIF INTELL, V32, P173, DOI 10.1016/0004-3702(87)90011-7
+   Hendrix GG, 1978, ACM TRANSACTIONS ON DATABASE SYSTEMS, V3, P105, DOI 10.1145/320251.320253
+   KAPETANIOS E, 2002, P 14 INT C SCI STAT, V0, P0
+   KAPETANIOS E, 2000, 5 IFIP ITN WORK C VI, V0, P0
+   KNIGHT K, 1994, P AAAI 94 SEATTL US, V0, P0
+   KNIGHT K, 1995, P 14 IJCAI 94 MONTR, V0, P0
+   LOPEZ MF, 1999, P IJCAI 99 WORKSH ON, V0, P0
+   MAIER D, 1998, P QUER LANG WORKSH C, V0, P0
+   McCarthy J, 1969, MACH INTELL, V4, P0
+   Paton NW, 1999, PROCEEDINGS. ELEVENTH INTERNATIONAL CONFERENCE ON SCIENTIFIC AND STATISTICAL DATABASE MANAGEMENT, V0, PP138, DOI 10.1109/SSDM.1999.787629
+   ROBIE J, 1998, P QUER LANG WORKSH C, V0, P0
+   Schank RC, 1973, COMPUTER MODELS THOU, V0, P187
+   Stevens R, 2000, BIOINFORMATICS, V16, P184, DOI 10.1093/bioinformatics/16.2.184
+   Ullman S, 1962, SEMANTICS INTRO SCI, V0, P0
+   WITTGESTEIN L, 1953, PHILOS INVESTIGATION, V0, P0
+   WOODS WA, 1970, COMMUN ACM, V13, P591, DOI 10.1145/355598.362773
+   Zhang G, 1999, PROCEEDINGS USER INTERFACES TO DATA INTENSIVE SYSTEMS, V0, PP64, DOI 10.1109/UIDIS.1999.791463
+   ZHANG GG, 1998, THESIS U CALIFORNIA, V0, P0
+NR 29
+TC 2
+Z9 2
+U1 0
+U2 1
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES ARTIF INT
+PD JUN 15
+PY 2002
+VL 2522
+IS 
+BP 226
+EP 239
+DI 
+PG 14
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA BW67X
+UT WOS:000182803500018
+DA 2023-11-10
+ER
+
+PT J
+AU Bordbar, B
+   Derrick, J
+   Waters, G
+AF Bordbar, B
+   Derrick, J
+   Waters, G
+TI A UML approach to the design of open distributed systems
+SO FORMAL METHODS AND SOFTWARE ENGINEERING, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB The design of distributed systems is a highly complicated and non-trivial task. Introduction of multiple types of media into distributed systems causes a dramatic increase in the complexity of design. To deal with the inherent complexity of systems, two approaches have received considerable attention; ODP and UML. Open Distributed Processing (ODP) is a joint ITU/ISO standardisation framework for constructing distributed systems. Unified Modelling Language (UML) is a de facto standard for visualising, specifying, designing, and documenting object-oriented systems. This paper presents a case study using a UML approach for the design and specification of distributed systems based on ODP. The purpose of the case study is to try this approach on a large system containing multiple types of media. The case study is carried out on an Interactive Multimedia Kiosk (IMK) example. IMKs integrate different types of media such as text, graphics, audio, video, animation and sound in the form of a large system; this provides an ideal subject for case study.
+C1 Univ Kent, Comp Lab, Canterbury CT2 7NF, Kent, England.
+C3 University of Kent
+RP Bordbar, B (通讯作者)，Univ Kent, Comp Lab, Canterbury CT2 7NF, Kent, England.
+EM B.Bordbar@ukc.ac.uk; J.Derrick@ukc.ac.uk; G.Waters@ukc.ac.uk
+CR AAGEDAL JO, 1999, 3 INT ENT DISTR OBJ, V0, P27
+   BLAIR G, 1997, OPEN DISTRIBUTED PRO, V0, P0
+   Cook S, 2000, LECT NOTES COMPUT SC, V1939, P255
+   CRANSTON M, 1900, P101, V0, P0
+   Kandé MM, 1999, LECT NOTES COMPUT SC, V1618, P200
+   Linington PF, 1999, PROCEEDINGS THIRD INTERNATIONAL ENTERPRISE DISTRIBUTED OBJECT COMPUTING. CONFERENCE (CAT. NO.99EX366), V0, PP72, DOI 10.1109/EDOC.1999.792051
+   LININGTON PF, 1900, P15, V0, P0
+   Putman J, 2001, ARCHITECTING RM ODP, V0, P0
+   *RAT ROS RES CTR, 1999, UML 1 3 DOC, V0, P0
+   Steen MWA, 2000, COMPUT STAND INTER, V22, P165, DOI 10.1016/S0920-5489(00)00031-3
+NR 13
+TC 3
+Z9 3
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2495
+IS 
+BP 561
+EP 572
+DI 
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Software Engineering
+SC Computer Science
+GA BW29N
+UT WOS:000181471000056
+DA 2023-11-10
+ER
+
+PT J
+AU Crazzolara, F
+   Winskel, G
+AF Crazzolara, F
+   Winskel, G
+TI Composing strand spaces
+SO FST TCS 2002: FOUNDATIONS OF SOFTWARE TECHNOLOGY AND THEOETICAL COMPUTER SCIENCE, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+AB The strand space model for the analysis of security protocols is known to have some limitations in the patterns of nondeterminism it allows and in the ways in which strand spaces can be composed. Its successful application to a broad range of security protocols may therefore seem surprising. This paper gives a formal explanation of the wide applicability of strand spaces. We start with an extension of strand spaces which permits several operations to be defined in a compositional way, forming a process language for building up strand spaces. We then show, under reasonable conditions how to reduce the extended strand spaces to ones of the traditional kind. For security protocols we are mainly interested in their safety properties. This suggests a strand-space equivalence: two strand spaces are equivalent if and only if they have essentially the same sets of bundles. However this equivalence is not a congruence with respect to the strand-space operations. By extending the notion of bundle we show how to define the strand-space operations directly on "bundle spaces". This leads to a characterisation of the largest congruence within the strand-space equivalence. Finally, we relate strand spaces to event structures, a well known model for concurrency.
+C1 Univ Cambridge, Comp Lab, Cambridge, England.
+C3 University of Cambridge
+RP Crazzolara, F (通讯作者)，Univ Cambridge, Comp Lab, Cambridge, England.
+CR CERVESATO I, 2000, 13 CSFW, V0, P0
+   Clark JA, 1997, SURVEY AUTHENTICATIO, V0, P0
+   CRAZZOLARA F, 2001, 8 ACM CCS, V0, P0
+   DOLEV D, 1983, IEEE T INFORMATION T, V8, P0
+   NIELSEN M, 1981, THEORETICAL COMPUTER, V0, P13
+   PRATT V, 1986, INT J PARALLEL PROG, V15, P33, DOI 10.1007/BF01379149
+   SYVERSON P, 1999, ELECT NOTES THEORETI, V0, P0
+   THAYER J, 2000, IEEE S SEC PRIV, V0, P0
+   THAYER J, 1998, IEEE S SEC PRIV, V0, P0
+   THAYER J, 1998, 11 CSFW, V0, P0
+   Winskel G, 1987, LNCS, V255, P0
+   Winskel G, 1988, LNCS, V354, P0
+   Winskel G, 1980, THESIS U EDINBURGH, V0, P0
+NR 13
+TC 8
+Z9 8
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2556
+IS 
+BP 97
+EP 108
+DI 
+PG 12
+WC Computer Science, Artificial Intelligence; Computer Science, Software Engineering; Computer Science, Theory & Methods
+SC Computer Science
+GA BW31M
+UT WOS:000181548500009
+DA 2023-11-10
+ER
+
+PT J
+AU Lee, AJ
+   Nica, A
+   Rundensteiner, EA
+AF Lee, AJ
+   Nica, A
+   Rundensteiner, EA
+TI The <i>EVE</i> approach:: View synchronization in dynamic distributed environments
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+LA English
+DT Article
+DE data warehouses; view maintenance; query rewriting; view adaptation; view synchronization; view definition language distributed; evolving information sources; and source evolution.
+ID data warehouses; quality
+AB The construction and maintenance of data warehouses (views) in large-scale environments composed of numerous distributed and evolving information sources (ISs) such as the WWW has received great attention recently. Such environments are plagued with changing information because ISs tend to continuously evolve by modifying not only their content but also their query capabilities and interface and by joining or leaving the environment at any time. We are the first to introduce and address the problem of schema changes of ISs, while previous work in this area, such as incremental view maintenance, has mainly dealt with data changes at ISs. In this paper, we outline our solution approach to this challenging new problem of how to adapt views in such evolving environments. We identify a new view adaptation problem for view evolution in the context of ISs schema changes, which we call View Synchronization. We also outline the Evolvable View Environment (EVE) approach that we propose as framework for solving the view synchronization problem, along with our decisions concerning the key design issues surrounding EVE. The main contributions of this paper are: 1) we provide an E-SQL view definition language with which the view definer can direct the view evolution process, 2) we introduce a model for information source description which allows a large class of ISs to participate in our system dynamically, 3) we formally define what constitutes a legal view rewriting, 4) we develop replacement strategies for affected view components which are designed to meet the preferences expressed by E-SQL, 5) we prove the correctness of the replacement strategies, and 6) we provide a set of view synchronization algorithms based on those strategies. A prototype of our EVE system has successfully been built using Java, JDBC, Oracle, and MS Access.
+C1 Ctr Human Resources, Columbus, OH 43221 USA.
+   IAnywhere Solut, Waterloo, ON N2L 3X2, Canada.
+   Worcester Polytech Inst, Dept Comp Sci, Worcester, MA 01609 USA.
+C3 Worcester Polytechnic Institute
+RP Lee, AJ (通讯作者)，Ctr Human Resources, 921 Chatham Lane 100, Columbus, OH 43221 USA.
+EM alee@postoffice.chrr.ohio-state.edu; anica@ianywhere.com; rundenst@cs.wpi.edu
+CR Arens Y, 1996, JOURNAL OF INTELLIGENT INFORMATION SYSTEMS: INTEGRATING ARTIFICIAL INTELLIGENCE AND DATABASE TECHNOLOGIES, V6, P99, DOI 10.1007/BF00122124
+   BLAKELEY JA, 1989, ACM T DATABASE SYST, V14, P369, DOI 10.1145/68012.68015
+   CAREY MJ, 1995, P 5 INT WORKSH RES I, V0, P0
+   Chu WW, 1993, SIGMOD RECORD, V22, P517, DOI 10.1145/170036.171539
+   CHU WW, 1996, INTELLIGENT INFORMAT, V6, P223, DOI 10.1007/BF00122129
+   COHEN S, 1999, P ACM S PRINCIPLES D, V0, P0
+   ETZIONI O, 1994, COMMUN ACM, V37, P72, DOI 10.1145/176789.176797
+   FORESCU D, 1995, P 3 INT C COOP INF S, V0, P0
+   GALINDOLEGARIA S, 1994, P SIGMOD, V0, P348
+   GUPTA A, 1996, P 5 INT C EXT DAT TE, V0, P140
+   Jarke M, 1999, INFORM SYST, V24, P229, DOI 10.1016/S0306-4379(99)00017-4
+   Lakshmanan LVS, 1996, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON VERY LARGE DATA BASES, V0, P239
+   Lee AJ, 1999, PROC INT CONF DATA, V0, PP255, DOI 10.1109/ICDE.1999.754935
+   LEE AJ, 1998, WPICSTR982 DEP COMP, V0, P0
+   LEE AJ, 1997, WPICSTR974 DEP COMP, V0, P0
+   LEE AJ, 1997, P IBM CTR ADV STUD C, V0, P1
+   LEE AJ, 1999, P INT DAT C JUL 1999, V0, P248
+   Levy A, 1992, PROCEEDINGS OF THE ELEVENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, V0, PP67, DOI 10.1145/137097.137111
+   LEVY A, 1993, P 12 ACM SIGACT SIGM, V0, P109
+   Levy AY, 1996, PROCEEDINGS OF THE FIFTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS. PODS 1996, V0, PP227, DOI 10.1145/237661.237716
+   Levy AY, 1995, JOURNAL OF INTELLIGENT INFORMATION SYSTEMS: INTEGRATING ARTIFICIAL INTELLIGENCE AND DATABASE TECHNOLOGIES, V5, P121, DOI 10.1007/BF00962627
+   Levy AY, 1995, PROCEEDINGS OF THE FOURTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS. PODS 1995, V0, PP95, DOI 10.1145/212433.220198
+   LI C, 1998, P ACM SIGMOD INT C M, V0, P564
+   Nica A, 1998, LECT NOTES COMPUT SC, V1377, P359
+   Nica A, 1998, INT J COOP INF SYST, V7, P77, DOI 10.1142/S0218843098000052
+   Nica A, 1997, PROCEEDINGS OF THE SECOND IFCIS INTERNATIONAL CONFERENCE ON COOPERATIVE INFORMATION SYSTEMS - COOPIS97, V0, PP213, DOI 10.1109/COOPIS.1997.613818
+   NICA A, 1997, WPICSTR978 DEP COMP, V0, P0
+   PAPAKONSTANTINOY, 1996, P IEEE INT C DAT ENG, V0, P0
+   PAPAKONSTANTINOU Y, 1995, PROC INT CONF DATA, V0, PP251, DOI 10.1109/ICDE.1995.380386
+   QUIX C, 1999, P INT WORKSH DES MAN, V0, P0
+   RA YG, 1998, IEEE T KNOWLEDGE DAT, V10, P0
+   Rajaraman A, 1996, PROCEEDINGS OF THE FIFTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS. PODS 1996, V0, PP238, DOI 10.1145/237661.237717
+   Rajaraman A, 1995, PROCEEDINGS OF THE FOURTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS. PODS 1995, V0, PP105, DOI 10.1145/212433.220199
+   Rundensteiner EA, 2000, COMMUN ACM, V43, P57, DOI 10.1145/336460.336475
+   Rundensteiner EA, 1999, SIGMOD RECORD, VOL 28, P0
+   RUNDENSTEINER EA, 1997, P 4 INT WORKSH KNOWL, V0, P0
+   Srivastava D, 1996, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON VERY LARGE DATA BASES, V0, P318
+   ULLMAN JD, 1989, PRINCIPLE DATABASE K, V0, P0
+   VASSILIOU Y, 1997, P 2 C INF QUAL, V0, P0
+   Widom J, 1995, PROCEEDINGS OF THE 1995 ACM CIKM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, V0, PP25, DOI 10.1145/221270.221319
+   Young-Gook Ra, 1995, PROCEEDINGS OF THE ELEVENTH INTERNATIONAL CONFERENCE ON DATA ENGINEERING (CAT. NO.95CH35724), V0, PP165, DOI 10.1109/ICDE.1995.380396
+   Zhang X, 2002, INFORM SYST, V27, P219, DOI 10.1016/S0306-4379(01)00049-7
+   ZHANG X, 2000, DATA WAREHOUSING KNO, V0, P0
+   ZHUGE Y, 1995, P ACM SIGMOD INT C M, V0, P316
+NR 44
+TC 25
+Z9 25
+U1 0
+U2 3
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1041-4347
+EI 1558-2191
+J9 IEEE T KNOWL DATA EN
+JI IEEE Trans. Knowl. Data Eng.
+PD SEP-OCT 15
+PY 2002
+VL 14
+IS 5
+BP 931
+EP 954
+DI 10.1109/TKDE.2002.1033766
+PG 24
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 589EH
+UT WOS:000177745200002
+DA 2023-11-10
+ER
+
+PT J
+AU Barrett, C
+   Bisset, K
+   Jacob, R
+   Konjevod, G
+   Marathe, M
+AF Barrett, C
+   Bisset, K
+   Jacob, R
+   Konjevod, G
+   Marathe, M
+TI Classical and contemporary shortest path problems in road networks: Implementation and experimental analysis of the TRANSIMS router
+SO ALGORITHMS-ESA 2002, PROCEEDINGS
+LA English
+DT Article; Proceedings Paper
+ID algorithms
+AB We describe and analyze empirically an implementation of some generalizations of Dijkstra's algorithm for shortest paths in graphs. The implementation formed a part of the TRANSIMS project at the Los Alamos National Laboratory. Besides offering the first implementation of the shortest path algorithm with regular language constraints, our code also solves problems with time-dependent edge delays in a quite general first-in-first-out model. We describe some details of our implementation and then analyze the behavior of the algorithm on real but extremely large transportation networks. Even though the questions we consider in our experiments are fundamental and natural, it appears that they have not been carefully examined before. A methodological contribution of the present work is the use of formal statistical methods to analyze the behaviour of our algorithms. Although the statistical methods employed are simple, they provide a possibly novel approach to the experimental analysis of algorithms. Our results provide evidence for our claims of efficiency of the algorithms described in a very practical setting.
+C1 Los Alamos Natl Lab, Los Alamos, NM 87545 USA.
+   Univ Aarhus, Dept Comp Sci, BRICS, DK-8000 Aarhus C, Denmark.
+   Arizona State Univ, Dept Comp Sci, Tempe, AZ 85287 USA.
+C3 United States Department of Energy (DOE); Los Alamos National Laboratory; Aarhus University; Arizona State University; Arizona State University-Tempe
+RP Barrett, C (通讯作者)，Los Alamos Natl Lab, POB 1663,MS M997, Los Alamos, NM 87545 USA.
+EM barrett@lanl.gov; bisset@lanl.gov; rjacob@brics.dk; goran@asu.edu; marathe@Dlanl.gov
+CR Barrett C, 2000, SIAM J COMPUT, V30, P809, DOI 10.1137/S0097539798337716
+   BARRETT C, 2002, UNPUB ALGORITHMS MOD, V0, P0
+   BARRETT C, 2001, P WAE, V0, P172
+   BARRETT CL, 2002, IN PRESS P ACM MOB, V0, P0
+   CHABINI I, 1997, TRANSP RES BOARD M, V0, P0
+   Cherkassky BV, 1996, MATH PROGRAM, V73, P129, DOI 10.1007/BF02592101
+   JACOB R, 1999, IN PRESS ACM J EXPT, V0, P4
+   MENDELZON AO, 1995, SIAM J COMPUT, V24, P1235, DOI 10.1137/S009753979122370X
+   ORDA A, 1990, J ACM, V37, P607, DOI 10.1145/79147.214078
+   ROMEUF JF, 1988, INFORM PROCESS LETT, V28, P245, DOI 10.1016/0020-0190(88)90198-6
+   Sedgwick H, 1986, HDB PERCEPTION HUMAN, V1, P1
+   Sung K, 2000, EUR J OPER RES, V121, P32, DOI 10.1016/S0377-2217(99)00035-1
+   YANNAKAKIS M, 1990, PROCEEDINGS OF THE NINTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, V0, PP230, DOI 10.1145/298514.298576
+   ZILIASKOPOULOS A, 1997, MINIMUM PATH ALGORIT, V0, P0
+NR 15
+TC 16
+Z9 16
+U1 0
+U2 2
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 1611-3349
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 2002
+VL 2461
+IS 
+BP 126
+EP 138
+DI 
+PG 13
+WC Computer Science, Artificial Intelligence; Computer Science, Theory & Methods; Mathematics
+SC Computer Science; Mathematics
+GA BW29L
+UT WOS:000181470400011
+DA 2023-11-10
+ER
+

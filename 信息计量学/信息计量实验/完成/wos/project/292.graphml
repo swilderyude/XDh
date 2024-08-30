@@ -1,0 +1,5018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">Massachusetts Institute of Technology (MIT)</data>
+  <data key="label">Massachusetts Institute of Technology (MIT)</data>
+  <data key="author">Massachusetts Institute of Technology (MIT)</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="1">
+  <data key="name">University of Illinois System</data>
+  <data key="label">University of Illinois System</data>
+  <data key="author">University of Illinois System</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="2">
+  <data key="name">Istanbul Technical University</data>
+  <data key="label">Istanbul Technical University</data>
+  <data key="author">Istanbul Technical University</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="3">
+  <data key="name">George Mason University</data>
+  <data key="label">George Mason University</data>
+  <data key="author">George Mason University</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="4">
+  <data key="name">Fujitsu Laboratories Ltd</data>
+  <data key="label">Fujitsu Laboratories Ltd</data>
+  <data key="author">Fujitsu Laboratories Ltd</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="5">
+  <data key="name">CSIC - Instituto de Microelectronica de Sevilla (IMS-CNM)</data>
+  <data key="label">CSIC - Instituto de Microelectronica de Sevilla (IMS-CNM)</data>
+  <data key="author">CSIC - Instituto de Microelectronica de Sevilla (IMS-CNM)</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="6">
+  <data key="name">Athens University of Economics  Business</data>
+  <data key="label">Athens University of Economics  Business</data>
+  <data key="author">Athens University of Economics  Business</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">Harvard University</data>
+  <data key="label">Harvard University</data>
+  <data key="author">Harvard University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="8">
+  <data key="name">IMT - Institut Mines-Telecom</data>
+  <data key="label">IMT - Institut Mines-Telecom</data>
+  <data key="author">IMT - Institut Mines-Telecom</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="9">
+  <data key="name">Hokkai Gakuen University</data>
+  <data key="label">Hokkai Gakuen University</data>
+  <data key="author">Hokkai Gakuen University</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="10">
+  <data key="name">Jozef Stefan Institute</data>
+  <data key="label">Jozef Stefan Institute</data>
+  <data key="author">Jozef Stefan Institute</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="11">
+  <data key="name">Birla Institute of Technology  Science Pilani (BITS Pilani)</data>
+  <data key="label">Birla Institute of Technology  Science Pilani (BITS Pilani)</data>
+  <data key="author">Birla Institute of Technology  Science Pilani (BITS Pilani)</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="12">
+  <data key="name">Jiangxi University of Finance  Economics</data>
+  <data key="label">Jiangxi University of Finance  Economics</data>
+  <data key="author">Jiangxi University of Finance  Economics</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="13">
+  <data key="name">Universidade de Lisboa</data>
+  <data key="label">Universidade de Lisboa</data>
+  <data key="author">Universidade de Lisboa</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="14">
+  <data key="name">CEA</data>
+  <data key="label">CEA</data>
+  <data key="author">CEA</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="15">
+  <data key="name">Lenovo</data>
+  <data key="label">Lenovo</data>
+  <data key="author">Lenovo</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="16">
+  <data key="name">South China University of Technology</data>
+  <data key="label">South China University of Technology</data>
+  <data key="author">South China University of Technology</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="17">
+  <data key="name">Aberystwyth University</data>
+  <data key="label">Aberystwyth University</data>
+  <data key="author">Aberystwyth University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="18">
+  <data key="name">McGill University</data>
+  <data key="label">McGill University</data>
+  <data key="author">McGill University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="19">
+  <data key="name">City University of New York (CUNY) System</data>
+  <data key="label">City University of New York (CUNY) System</data>
+  <data key="author">City University of New York (CUNY) System</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="20">
+  <data key="name">Foundation for Research  Technology - Hellas (FORTH)</data>
+  <data key="label">Foundation for Research  Technology - Hellas (FORTH)</data>
+  <data key="author">Foundation for Research  Technology - Hellas (FORTH)</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="21">
+  <data key="name">Franklin University</data>
+  <data key="label">Franklin University</data>
+  <data key="author">Franklin University</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="22">
+  <data key="name">Shenzhen Institute of Advanced Technology</data>
+  <data key="label">Shenzhen Institute of Advanced Technology</data>
+  <data key="author">Shenzhen Institute of Advanced Technology</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="23">
+  <data key="name">Northeastern University</data>
+  <data key="label">Northeastern University</data>
+  <data key="author">Northeastern University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="24">
+  <data key="name">University of Munich</data>
+  <data key="label">University of Munich</data>
+  <data key="author">University of Munich</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="25">
+  <data key="name">INESC-ID</data>
+  <data key="label">INESC-ID</data>
+  <data key="author">INESC-ID</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="26">
+  <data key="name">Baidu</data>
+  <data key="label">Baidu</data>
+  <data key="author">Baidu</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="27">
+  <data key="name">California State University System</data>
+  <data key="label">California State University System</data>
+  <data key="author">California State University System</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="28">
+  <data key="name">Academic Medical Center Amsterdam</data>
+  <data key="label">Academic Medical Center Amsterdam</data>
+  <data key="author">Academic Medical Center Amsterdam</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="29">
+  <data key="name">Ecole Polytechnique Federale de Lausanne</data>
+  <data key="label">Ecole Polytechnique Federale de Lausanne</data>
+  <data key="author">Ecole Polytechnique Federale de Lausanne</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="30">
+  <data key="name">Goldsmiths University London</data>
+  <data key="label">Goldsmiths University London</data>
+  <data key="author">Goldsmiths University London</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="31">
+  <data key="name">National University of Singapore</data>
+  <data key="label">National University of Singapore</data>
+  <data key="author">National University of Singapore</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="32">
+  <data key="name">ABB</data>
+  <data key="label">ABB</data>
+  <data key="author">ABB</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="33">
+  <data key="name">Central South University</data>
+  <data key="label">Central South University</data>
+  <data key="author">Central South University</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="34">
+  <data key="name">Purdue University</data>
+  <data key="label">Purdue University</data>
+  <data key="author">Purdue University</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="35">
+  <data key="name">Alibaba Group</data>
+  <data key="label">Alibaba Group</data>
+  <data key="author">Alibaba Group</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="36">
+  <data key="name">Communaute Universite Grenoble Alpes</data>
+  <data key="label">Communaute Universite Grenoble Alpes</data>
+  <data key="author">Communaute Universite Grenoble Alpes</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="37">
+  <data key="name">CWI</data>
+  <data key="label">CWI</data>
+  <data key="author">CWI</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="38">
+  <data key="name">Avignon Universite</data>
+  <data key="label">Avignon Universite</data>
+  <data key="author">Avignon Universite</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="39">
+  <data key="name">International Institute of Information Technology Hyderabad</data>
+  <data key="label">International Institute of Information Technology Hyderabad</data>
+  <data key="author">International Institute of Information Technology Hyderabad</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="40">
+  <data key="name">Academia Sinica - Taiwan</data>
+  <data key="label">Academia Sinica - Taiwan</data>
+  <data key="author">Academia Sinica - Taiwan</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="41">
+  <data key="name">Korea Advanced Institute of Science  Technology (KAIST)</data>
+  <data key="label">Korea Advanced Institute of Science  Technology (KAIST)</data>
+  <data key="author">Korea Advanced Institute of Science  Technology (KAIST)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="42">
+  <data key="name">University of Cambridge</data>
+  <data key="label">University of Cambridge</data>
+  <data key="author">University of Cambridge</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="43">
+  <data key="name">Amrita Vishwa Vidyapeetham</data>
+  <data key="label">Amrita Vishwa Vidyapeetham</data>
+  <data key="author">Amrita Vishwa Vidyapeetham</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="44">
+  <data key="name">Universidad Politecnica de Madrid</data>
+  <data key="label">Universidad Politecnica de Madrid</data>
+  <data key="author">Universidad Politecnica de Madrid</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="45">
+  <data key="name">Harbin Institute of Technology</data>
+  <data key="label">Harbin Institute of Technology</data>
+  <data key="author">Harbin Institute of Technology</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">25</data>
+</node>
+<node id="46">
+  <data key="name">University of Houston</data>
+  <data key="label">University of Houston</data>
+  <data key="author">University of Houston</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="47">
+  <data key="name">National Taiwan University</data>
+  <data key="label">National Taiwan University</data>
+  <data key="author">National Taiwan University</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="48">
+  <data key="name">Dortmund University of Technology</data>
+  <data key="label">Dortmund University of Technology</data>
+  <data key="author">Dortmund University of Technology</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="49">
+  <data key="name">German Research Center for Artificial Intelligence (DFKI)</data>
+  <data key="label">German Research Center for Artificial Intelligence (DFKI)</data>
+  <data key="author">German Research Center for Artificial Intelligence (DFKI)</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="50">
+  <data key="name">INESC TEC</data>
+  <data key="label">INESC TEC</data>
+  <data key="author">INESC TEC</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="51">
+  <data key="name">Huazhong University of Science  Technology</data>
+  <data key="label">Huazhong University of Science  Technology</data>
+  <data key="author">Huazhong University of Science  Technology</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="52">
+  <data key="name">China University of Petroleum</data>
+  <data key="label">China University of Petroleum</data>
+  <data key="author">China University of Petroleum</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="53">
+  <data key="name">Autonomous University of Madrid</data>
+  <data key="label">Autonomous University of Madrid</data>
+  <data key="author">Autonomous University of Madrid</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="54">
+  <data key="name">University of Houston System</data>
+  <data key="label">University of Houston System</data>
+  <data key="author">University of Houston System</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="55">
+  <data key="name">University of California Berkeley</data>
+  <data key="label">University of California Berkeley</data>
+  <data key="author">University of California Berkeley</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="56">
+  <data key="name">Ollscoil na Gaillimhe-University of Galway</data>
+  <data key="label">Ollscoil na Gaillimhe-University of Galway</data>
+  <data key="author">Ollscoil na Gaillimhe-University of Galway</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="57">
+  <data key="name">University of Washington</data>
+  <data key="label">University of Washington</data>
+  <data key="author">University of Washington</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="58">
+  <data key="name">3M</data>
+  <data key="label">3M</data>
+  <data key="author">3M</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="59">
+  <data key="name">East China University of Science  Technology</data>
+  <data key="label">East China University of Science  Technology</data>
+  <data key="author">East China University of Science  Technology</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="60">
+  <data key="name">Slovenian Academy of Sciences  Arts (SASA)</data>
+  <data key="label">Slovenian Academy of Sciences  Arts (SASA)</data>
+  <data key="author">Slovenian Academy of Sciences  Arts (SASA)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="61">
+  <data key="name">Free University of Bozen-Bolzano</data>
+  <data key="label">Free University of Bozen-Bolzano</data>
+  <data key="author">Free University of Bozen-Bolzano</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="62">
+  <data key="name">Isik University</data>
+  <data key="label">Isik University</data>
+  <data key="author">Isik University</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="63">
+  <data key="name">University of Genoa</data>
+  <data key="label">University of Genoa</data>
+  <data key="author">University of Genoa</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="64">
+  <data key="name">Temple University</data>
+  <data key="label">Temple University</data>
+  <data key="author">Temple University</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="65">
+  <data key="name">NIH National Library of Medicine (NLM)</data>
+  <data key="label">NIH National Library of Medicine (NLM)</data>
+  <data key="author">NIH National Library of Medicine (NLM)</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="66">
+  <data key="name">Hacettepe University</data>
+  <data key="label">Hacettepe University</data>
+  <data key="author">Hacettepe University</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="67">
+  <data key="name">University of Georgia</data>
+  <data key="label">University of Georgia</data>
+  <data key="author">University of Georgia</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="68">
+  <data key="name">University of Chinese Academy of Sciences</data>
+  <data key="label">University of Chinese Academy of Sciences</data>
+  <data key="author">University of Chinese Academy of Sciences</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="69">
+  <data key="name">Vietnam National University Hochiminh City</data>
+  <data key="label">Vietnam National University Hochiminh City</data>
+  <data key="author">Vietnam National University Hochiminh City</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="70">
+  <data key="name">University of Edinburgh</data>
+  <data key="label">University of Edinburgh</data>
+  <data key="author">University of Edinburgh</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="71">
+  <data key="name">A*STAR - Institute of High Performance Computing (IHPC)</data>
+  <data key="label">A*STAR - Institute of High Performance Computing (IHPC)</data>
+  <data key="author">A*STAR - Institute of High Performance Computing (IHPC)</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="72">
+  <data key="name">Ecole Nationale Superieure d apos;Informatique pour l apos;Industrie et l apos;Entreprise (ENSIIE)</data>
+  <data key="label">Ecole Nationale Superieure d apos;Informatique pour l apos;Industrie et l apos;Entreprise (ENSIIE)</data>
+  <data key="author">Ecole Nationale Superieure d'Informatique pour l'Industrie et l'Entreprise (ENSIIE)</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="73">
+  <data key="name">University of California System</data>
+  <data key="label">University of California System</data>
+  <data key="author">University of California System</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="74">
+  <data key="name">Xi apos;an Jiaotong University</data>
+  <data key="label">Xi apos;an Jiaotong University</data>
+  <data key="author">Xi'an Jiaotong University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="75">
+  <data key="name">University of Missouri System</data>
+  <data key="label">University of Missouri System</data>
+  <data key="author">University of Missouri System</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="76">
+  <data key="name">Zhejiang University</data>
+  <data key="label">Zhejiang University</data>
+  <data key="author">Zhejiang University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="77">
+  <data key="name">Banaras Hindu University (BHU)</data>
+  <data key="label">Banaras Hindu University (BHU)</data>
+  <data key="author">Banaras Hindu University (BHU)</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="78">
+  <data key="name">University of Granada</data>
+  <data key="label">University of Granada</data>
+  <data key="author">University of Granada</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="79">
+  <data key="name">Fujitsu Ltd</data>
+  <data key="label">Fujitsu Ltd</data>
+  <data key="author">Fujitsu Ltd</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="80">
+  <data key="name">Arak University</data>
+  <data key="label">Arak University</data>
+  <data key="author">Arak University</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="81">
+  <data key="name">Peng Cheng Laboratory</data>
+  <data key="label">Peng Cheng Laboratory</data>
+  <data key="author">Peng Cheng Laboratory</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="82">
+  <data key="name">Concordia University - Canada</data>
+  <data key="label">Concordia University - Canada</data>
+  <data key="author">Concordia University - Canada</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="83">
+  <data key="name">Centre de Visio per Computador (CVC)</data>
+  <data key="label">Centre de Visio per Computador (CVC)</data>
+  <data key="author">Centre de Visio per Computador (CVC)</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="84">
+  <data key="name">City University of Hong Kong</data>
+  <data key="label">City University of Hong Kong</data>
+  <data key="author">City University of Hong Kong</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="85">
+  <data key="name">Army Engineering University of PLA</data>
+  <data key="label">Army Engineering University of PLA</data>
+  <data key="author">Army Engineering University of PLA</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="86">
+  <data key="name">Missouri University of Science  Technology</data>
+  <data key="label">Missouri University of Science  Technology</data>
+  <data key="author">Missouri University of Science  Technology</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="87">
+  <data key="name">Cornell University</data>
+  <data key="label">Cornell University</data>
+  <data key="author">Cornell University</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="88">
+  <data key="name">UDICE-French Research Universities</data>
+  <data key="label">UDICE-French Research Universities</data>
+  <data key="author">UDICE-French Research Universities</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="89">
+  <data key="name">Purdue University West Lafayette Campus</data>
+  <data key="label">Purdue University West Lafayette Campus</data>
+  <data key="author">Purdue University West Lafayette Campus</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="90">
+  <data key="name">Ain Shams University</data>
+  <data key="label">Ain Shams University</data>
+  <data key="author">Ain Shams University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="91">
+  <data key="name">Indian Institute of Technology System (IIT System)</data>
+  <data key="label">Indian Institute of Technology System (IIT System)</data>
+  <data key="author">Indian Institute of Technology System (IIT System)</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">18</data>
+</node>
+<node id="92">
+  <data key="name">Council for Scientific  Industrial Research (CSIR) - South Africa</data>
+  <data key="label">Council for Scientific  Industrial Research (CSIR) - South Africa</data>
+  <data key="author">Council for Scientific  Industrial Research (CSIR) - South Africa</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="93">
+  <data key="name">University of Washington Seattle</data>
+  <data key="label">University of Washington Seattle</data>
+  <data key="author">University of Washington Seattle</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="94">
+  <data key="name">University of Texas System</data>
+  <data key="label">University of Texas System</data>
+  <data key="author">University of Texas System</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="95">
+  <data key="name">Universite de Rouen Normandie</data>
+  <data key="label">Universite de Rouen Normandie</data>
+  <data key="author">Universite de Rouen Normandie</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="96">
+  <data key="name">SANY</data>
+  <data key="label">SANY</data>
+  <data key="author">SANY</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="97">
+  <data key="name">Universidad Andres Bello</data>
+  <data key="label">Universidad Andres Bello</data>
+  <data key="author">Universidad Andres Bello</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="98">
+  <data key="name">Electronics  Telecommunications Research Institute - Korea (ETRI)</data>
+  <data key="label">Electronics  Telecommunications Research Institute - Korea (ETRI)</data>
+  <data key="author">Electronics  Telecommunications Research Institute - Korea (ETRI)</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="99">
+  <data key="name">Free University of Brussels</data>
+  <data key="label">Free University of Brussels</data>
+  <data key="author">Free University of Brussels</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="100">
+  <data key="name">University of Quebec</data>
+  <data key="label">University of Quebec</data>
+  <data key="author">University of Quebec</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="101">
+  <data key="name">State University of New York (SUNY) System</data>
+  <data key="label">State University of New York (SUNY) System</data>
+  <data key="author">State University of New York (SUNY) System</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="102">
+  <data key="name">Sichuan University</data>
+  <data key="label">Sichuan University</data>
+  <data key="author">Sichuan University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="103">
+  <data key="name">Eindhoven University of Technology</data>
+  <data key="label">Eindhoven University of Technology</data>
+  <data key="author">Eindhoven University of Technology</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="104">
+  <data key="name">Ghent University</data>
+  <data key="label">Ghent University</data>
+  <data key="author">Ghent University</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="105">
+  <data key="name">Tianjin University</data>
+  <data key="label">Tianjin University</data>
+  <data key="author">Tianjin University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="106">
+  <data key="name">Marche Polytechnic University</data>
+  <data key="label">Marche Polytechnic University</data>
+  <data key="author">Marche Polytechnic University</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="107">
+  <data key="name">University of Electronic Science  Technology of China</data>
+  <data key="label">University of Electronic Science  Technology of China</data>
+  <data key="author">University of Electronic Science  Technology of China</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="108">
+  <data key="name">Jinan University</data>
+  <data key="label">Jinan University</data>
+  <data key="author">Jinan University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="109">
+  <data key="name">Amirkabir University of Technology</data>
+  <data key="label">Amirkabir University of Technology</data>
+  <data key="author">Amirkabir University of Technology</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="110">
+  <data key="name">Benemerita Universidad Autonoma de Puebla</data>
+  <data key="label">Benemerita Universidad Autonoma de Puebla</data>
+  <data key="author">Benemerita Universidad Autonoma de Puebla</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="111">
+  <data key="name">University of Stuttgart</data>
+  <data key="label">University of Stuttgart</data>
+  <data key="author">University of Stuttgart</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="112">
+  <data key="name">Legend Holdings</data>
+  <data key="label">Legend Holdings</data>
+  <data key="author">Legend Holdings</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="113">
+  <data key="name">American University of Sharjah</data>
+  <data key="label">American University of Sharjah</data>
+  <data key="author">American University of Sharjah</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="114">
+  <data key="name">Dublin City University</data>
+  <data key="label">Dublin City University</data>
+  <data key="author">Dublin City University</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="115">
+  <data key="name">Hebrew University of Jerusalem</data>
+  <data key="label">Hebrew University of Jerusalem</data>
+  <data key="author">Hebrew University of Jerusalem</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="116">
+  <data key="name">Chinese Academy of Sciences</data>
+  <data key="label">Chinese Academy of Sciences</data>
+  <data key="author">Chinese Academy of Sciences</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">54</data>
+</node>
+<node id="117">
+  <data key="name">International Islamic University</data>
+  <data key="label">International Islamic University</data>
+  <data key="author">International Islamic University</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="118">
+  <data key="name">Shandong Normal University</data>
+  <data key="label">Shandong Normal University</data>
+  <data key="author">Shandong Normal University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="119">
+  <data key="name">Monash University</data>
+  <data key="label">Monash University</data>
+  <data key="author">Monash University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="120">
+  <data key="name">Shandong University of Science  Technology</data>
+  <data key="label">Shandong University of Science  Technology</data>
+  <data key="author">Shandong University of Science  Technology</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="121">
+  <data key="name">Beijing Institute of Technology</data>
+  <data key="label">Beijing Institute of Technology</data>
+  <data key="author">Beijing Institute of Technology</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="122">
+  <data key="name">Nantes Universite</data>
+  <data key="label">Nantes Universite</data>
+  <data key="author">Nantes Universite</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="123">
+  <data key="name">Beihang University</data>
+  <data key="label">Beihang University</data>
+  <data key="author">Beihang University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="124">
+  <data key="name">Atilim University</data>
+  <data key="label">Atilim University</data>
+  <data key="author">Atilim University</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="125">
+  <data key="name">China West Normal University</data>
+  <data key="label">China West Normal University</data>
+  <data key="author">China West Normal University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="126">
+  <data key="name">Tsinghua University</data>
+  <data key="label">Tsinghua University</data>
+  <data key="author">Tsinghua University</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="127">
+  <data key="name">IMT School for Advanced Studies Lucca</data>
+  <data key="label">IMT School for Advanced Studies Lucca</data>
+  <data key="author">IMT School for Advanced Studies Lucca</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="128">
+  <data key="name">Universidad de Castilla-La Mancha</data>
+  <data key="label">Universidad de Castilla-La Mancha</data>
+  <data key="author">Universidad de Castilla-La Mancha</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="129">
+  <data key="name">COMSATS University Islamabad (CUI)</data>
+  <data key="label">COMSATS University Islamabad (CUI)</data>
+  <data key="author">COMSATS University Islamabad (CUI)</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="130">
+  <data key="name">Carleton University</data>
+  <data key="label">Carleton University</data>
+  <data key="author">Carleton University</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="131">
+  <data key="name">Dalian University of Technology</data>
+  <data key="label">Dalian University of Technology</data>
+  <data key="author">Dalian University of Technology</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="132">
+  <data key="name">Cairo University</data>
+  <data key="label">Cairo University</data>
+  <data key="author">Cairo University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="133">
+  <data key="name">Georgia Institute of Technology</data>
+  <data key="label">Georgia Institute of Technology</data>
+  <data key="author">Georgia Institute of Technology</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="134">
+  <data key="name">Fondazione Bruno Kessler</data>
+  <data key="label">Fondazione Bruno Kessler</data>
+  <data key="author">Fondazione Bruno Kessler</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="135">
+  <data key="name">Tencent</data>
+  <data key="label">Tencent</data>
+  <data key="author">Tencent</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="136">
+  <data key="name">Centre National de la Recherche Scientifique (CNRS)</data>
+  <data key="label">Centre National de la Recherche Scientifique (CNRS)</data>
+  <data key="author">Centre National de la Recherche Scientifique (CNRS)</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="137">
+  <data key="name">Qatar University</data>
+  <data key="label">Qatar University</data>
+  <data key="author">Qatar University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="138">
+  <data key="name">University of Tokyo</data>
+  <data key="label">University of Tokyo</data>
+  <data key="author">University of Tokyo</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="139">
+  <data key="name">Wuhan University</data>
+  <data key="label">Wuhan University</data>
+  <data key="author">Wuhan University</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="140">
+  <data key="name">University of London</data>
+  <data key="label">University of London</data>
+  <data key="author">University of London</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="141">
+  <data key="name">Aristotle University of Thessaloniki</data>
+  <data key="label">Aristotle University of Thessaloniki</data>
+  <data key="author">Aristotle University of Thessaloniki</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="142">
+  <data key="name">National Central University</data>
+  <data key="label">National Central University</data>
+  <data key="author">National Central University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="143">
+  <data key="name">University of Colorado System</data>
+  <data key="label">University of Colorado System</data>
+  <data key="author">University of Colorado System</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="144">
+  <data key="name">Shanghai Jiao Tong University</data>
+  <data key="label">Shanghai Jiao Tong University</data>
+  <data key="author">Shanghai Jiao Tong University</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="145">
+  <data key="name">Yahoo! Inc</data>
+  <data key="label">Yahoo! Inc</data>
+  <data key="author">Yahoo! Inc</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="146">
+  <data key="name">Aalto University</data>
+  <data key="label">Aalto University</data>
+  <data key="author">Aalto University</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="147">
+  <data key="name">Bar Ilan University</data>
+  <data key="label">Bar Ilan University</data>
+  <data key="author">Bar Ilan University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="148">
+  <data key="name">Anna University of Technology Tiruchirappalli</data>
+  <data key="label">Anna University of Technology Tiruchirappalli</data>
+  <data key="author">Anna University of Technology Tiruchirappalli</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="149">
+  <data key="name">Quaid I Azam University</data>
+  <data key="label">Quaid I Azam University</data>
+  <data key="author">Quaid I Azam University</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="150">
+  <data key="name">University of Basque Country</data>
+  <data key="label">University of Basque Country</data>
+  <data key="author">University of Basque Country</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="151">
+  <data key="name">College of Staten Island (CUNY)</data>
+  <data key="label">College of Staten Island (CUNY)</data>
+  <data key="author">College of Staten Island (CUNY)</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="152">
+  <data key="name">Central China Normal University</data>
+  <data key="label">Central China Normal University</data>
+  <data key="author">Central China Normal University</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="153">
+  <data key="name">Microsoft</data>
+  <data key="label">Microsoft</data>
+  <data key="author">Microsoft</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="154">
+  <data key="name">Institute of Automation</data>
+  <data key="label">Institute of Automation</data>
+  <data key="author">Institute of Automation</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="155">
+  <data key="name">American University of Beirut</data>
+  <data key="label">American University of Beirut</data>
+  <data key="author">American University of Beirut</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="156">
+  <data key="name">Google Incorporated</data>
+  <data key="label">Google Incorporated</data>
+  <data key="author">Google Incorporated</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="157">
+  <data key="name">Southeast University - China</data>
+  <data key="label">Southeast University - China</data>
+  <data key="author">Southeast University - China</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="158">
+  <data key="name">Brandenburg University of Technology Cottbus</data>
+  <data key="label">Brandenburg University of Technology Cottbus</data>
+  <data key="author">Brandenburg University of Technology Cottbus</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="159">
+  <data key="name">Beijing Normal University</data>
+  <data key="label">Beijing Normal University</data>
+  <data key="author">Beijing Normal University</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="160">
+  <data key="name">Universidade do Porto</data>
+  <data key="label">Universidade do Porto</data>
+  <data key="author">Universidade do Porto</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="161">
+  <data key="name">Graz University of Technology</data>
+  <data key="label">Graz University of Technology</data>
+  <data key="author">Graz University of Technology</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="162">
+  <data key="name">Accenture</data>
+  <data key="label">Accenture</data>
+  <data key="author">Accenture</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="163">
+  <data key="name">Hewlett-Packard</data>
+  <data key="label">Hewlett-Packard</data>
+  <data key="author">Hewlett-Packard</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="164">
+  <data key="name">Indian Institute of Technology (IIT) - Madras</data>
+  <data key="label">Indian Institute of Technology (IIT) - Madras</data>
+  <data key="author">Indian Institute of Technology (IIT) - Madras</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="165">
+  <data key="name">Democritus University of Thrace</data>
+  <data key="label">Democritus University of Thrace</data>
+  <data key="author">Democritus University of Thrace</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="166">
+  <data key="name">East China Normal University</data>
+  <data key="label">East China Normal University</data>
+  <data key="author">East China Normal University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="167">
+  <data key="name">Imperial College London</data>
+  <data key="label">Imperial College London</data>
+  <data key="author">Imperial College London</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="168">
+  <data key="name">Cincinnati Children apos;s Hospital Research Foundation</data>
+  <data key="label">Cincinnati Children apos;s Hospital Research Foundation</data>
+  <data key="author">Cincinnati Children's Hospital Research Foundation</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="169">
+  <data key="name">Broad Institute</data>
+  <data key="label">Broad Institute</data>
+  <data key="author">Broad Institute</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="170">
+  <data key="name">Technion Israel Institute of Technology</data>
+  <data key="label">Technion Israel Institute of Technology</data>
+  <data key="author">Technion Israel Institute of Technology</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="171">
+  <data key="name">Aix-Marseille Universite</data>
+  <data key="label">Aix-Marseille Universite</data>
+  <data key="author">Aix-Marseille Universite</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="172">
+  <data key="name">ICREA</data>
+  <data key="label">ICREA</data>
+  <data key="author">ICREA</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="173">
+  <data key="name">Soochow University - China</data>
+  <data key="label">Soochow University - China</data>
+  <data key="author">Soochow University - China</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="174">
+  <data key="name">Fudan University</data>
+  <data key="label">Fudan University</data>
+  <data key="author">Fudan University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="175">
+  <data key="name">Air University Islamabad</data>
+  <data key="label">Air University Islamabad</data>
+  <data key="author">Air University Islamabad</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="176">
+  <data key="name">University of Queensland</data>
+  <data key="label">University of Queensland</data>
+  <data key="author">University of Queensland</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="177">
+  <data key="name">National University of Sciences  Technology - Pakistan</data>
+  <data key="label">National University of Sciences  Technology - Pakistan</data>
+  <data key="author">National University of Sciences  Technology - Pakistan</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="178">
+  <data key="name">University of Hamburg</data>
+  <data key="label">University of Hamburg</data>
+  <data key="author">University of Hamburg</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="179">
+  <data key="name">Universidad Nacional de Educacion a Distancia (UNED)</data>
+  <data key="label">Universidad Nacional de Educacion a Distancia (UNED)</data>
+  <data key="author">Universidad Nacional de Educacion a Distancia (UNED)</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="180">
+  <data key="name">Honda Motor Company</data>
+  <data key="label">Honda Motor Company</data>
+  <data key="author">Honda Motor Company</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="181">
+  <data key="name">Japan Advanced Institute of Science  Technology (JAIST)</data>
+  <data key="label">Japan Advanced Institute of Science  Technology (JAIST)</data>
+  <data key="author">Japan Advanced Institute of Science  Technology (JAIST)</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="182">
+  <data key="name">Nanjing University of Information Science  Technology</data>
+  <data key="label">Nanjing University of Information Science  Technology</data>
+  <data key="author">Nanjing University of Information Science  Technology</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="183">
+  <data key="name">Institute of Computing Technology</data>
+  <data key="label">Institute of Computing Technology</data>
+  <data key="author">Institute of Computing Technology</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="184">
+  <data key="name">Carnegie Mellon University</data>
+  <data key="label">Carnegie Mellon University</data>
+  <data key="author">Carnegie Mellon University</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="185">
+  <data key="name">IMT Atlantique</data>
+  <data key="label">IMT Atlantique</data>
+  <data key="author">IMT Atlantique</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="186">
+  <data key="name">University of Ljubljana</data>
+  <data key="label">University of Ljubljana</data>
+  <data key="author">University of Ljubljana</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="187">
+  <data key="name">University of Mannheim</data>
+  <data key="label">University of Mannheim</data>
+  <data key="author">University of Mannheim</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="188">
+  <data key="name">University of Pennsylvania</data>
+  <data key="label">University of Pennsylvania</data>
+  <data key="author">University of Pennsylvania</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="189">
+  <data key="name">Academy of Mathematics  System Sciences</data>
+  <data key="label">Academy of Mathematics  System Sciences</data>
+  <data key="author">Academy of Mathematics  System Sciences</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="190">
+  <data key="name">Indian Institute of Technology (IIT) - Patna</data>
+  <data key="label">Indian Institute of Technology (IIT) - Patna</data>
+  <data key="author">Indian Institute of Technology (IIT) - Patna</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="191">
+  <data key="name">HSE University (National Research University Higher School of Economics)</data>
+  <data key="label">HSE University (National Research University Higher School of Economics)</data>
+  <data key="author">HSE University (National Research University Higher School of Economics)</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="192">
+  <data key="name">Beijing Forestry University</data>
+  <data key="label">Beijing Forestry University</data>
+  <data key="author">Beijing Forestry University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="193">
+  <data key="name">Open University - UK</data>
+  <data key="label">Open University - UK</data>
+  <data key="author">Open University - UK</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="194">
+  <data key="name">Guangdong University of Technology</data>
+  <data key="label">Guangdong University of Technology</data>
+  <data key="author">Guangdong University of Technology</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="195">
+  <data key="name">Georgia State University</data>
+  <data key="label">Georgia State University</data>
+  <data key="author">Georgia State University</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="196">
+  <data key="name">Anna University</data>
+  <data key="label">Anna University</data>
+  <data key="author">Anna University</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="197">
+  <data key="name">Beijing Language  Culture University</data>
+  <data key="label">Beijing Language  Culture University</data>
+  <data key="author">Beijing Language  Culture University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="198">
+  <data key="name">Nicolaus Copernicus University</data>
+  <data key="label">Nicolaus Copernicus University</data>
+  <data key="author">Nicolaus Copernicus University</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="199">
+  <data key="name">Stanford University</data>
+  <data key="label">Stanford University</data>
+  <data key="author">Stanford University</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="200">
+  <data key="name">Swiss Federal Institutes of Technology Domain</data>
+  <data key="label">Swiss Federal Institutes of Technology Domain</data>
+  <data key="author">Swiss Federal Institutes of Technology Domain</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="201">
+  <data key="name">Nanyang Technological University</data>
+  <data key="label">Nanyang Technological University</data>
+  <data key="author">Nanyang Technological University</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="202">
+  <data key="name">Nanyang Technological University  National Institute of Education (NIE) Singapore</data>
+  <data key="label">Nanyang Technological University  National Institute of Education (NIE) Singapore</data>
+  <data key="author">Nanyang Technological University  National Institute of Education (NIE) Singapore</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="203">
+  <data key="name">Virginia Polytechnic Institute  State University</data>
+  <data key="label">Virginia Polytechnic Institute  State University</data>
+  <data key="author">Virginia Polytechnic Institute  State University</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="204">
+  <data key="name">Nara Institute of Science  Technology</data>
+  <data key="label">Nara Institute of Science  Technology</data>
+  <data key="author">Nara Institute of Science  Technology</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="205">
+  <data key="name">University of Southern California</data>
+  <data key="label">University of Southern California</data>
+  <data key="author">University of Southern California</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="206">
+  <data key="name">University of Illinois Urbana-Champaign</data>
+  <data key="label">University of Illinois Urbana-Champaign</data>
+  <data key="author">University of Illinois Urbana-Champaign</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="207">
+  <data key="name">Future University Hakodate</data>
+  <data key="label">Future University Hakodate</data>
+  <data key="author">Future University Hakodate</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="208">
+  <data key="name">Amity University Noida</data>
+  <data key="label">Amity University Noida</data>
+  <data key="author">Amity University Noida</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="209">
+  <data key="name">Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)</data>
+  <data key="label">Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)</data>
+  <data key="author">Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="210">
+  <data key="name">Ihsan Dogramaci Bilkent University</data>
+  <data key="label">Ihsan Dogramaci Bilkent University</data>
+  <data key="author">Ihsan Dogramaci Bilkent University</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="211">
+  <data key="name">Humboldt University of Berlin</data>
+  <data key="label">Humboldt University of Berlin</data>
+  <data key="author">Humboldt University of Berlin</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="212">
+  <data key="name">CNRS - National Institute for Mathematical Sciences (INSMI)</data>
+  <data key="label">CNRS - National Institute for Mathematical Sciences (INSMI)</data>
+  <data key="author">CNRS - National Institute for Mathematical Sciences (INSMI)</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="213">
+  <data key="name">King Saud University</data>
+  <data key="label">King Saud University</data>
+  <data key="author">King Saud University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="214">
+  <data key="name">A*STAR - Institute for Infocomm Research (I2R)</data>
+  <data key="label">A*STAR - Institute for Infocomm Research (I2R)</data>
+  <data key="author">A*STAR - Institute for Infocomm Research (I2R)</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="215">
+  <data key="name">Amrita Vishwa Vidyapeetham Amritapuri</data>
+  <data key="label">Amrita Vishwa Vidyapeetham Amritapuri</data>
+  <data key="author">Amrita Vishwa Vidyapeetham Amritapuri</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="216">
+  <data key="name">Bogazici University</data>
+  <data key="label">Bogazici University</data>
+  <data key="author">Bogazici University</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="217">
+  <data key="name">Deutsche Telekom AG</data>
+  <data key="label">Deutsche Telekom AG</data>
+  <data key="author">Deutsche Telekom AG</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="218">
+  <data key="name">Yahoo! Inc Chile</data>
+  <data key="label">Yahoo! Inc Chile</data>
+  <data key="author">Yahoo! Inc Chile</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="219">
+  <data key="name">Aston University</data>
+  <data key="label">Aston University</data>
+  <data key="author">Aston University</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="220">
+  <data key="name">Johns Hopkins University</data>
+  <data key="label">Johns Hopkins University</data>
+  <data key="author">Johns Hopkins University</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="221">
+  <data key="name">National Institutes of Health (NIH) - USA</data>
+  <data key="label">National Institutes of Health (NIH) - USA</data>
+  <data key="author">National Institutes of Health (NIH) - USA</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="222">
+  <data key="name">Hong Kong Polytechnic University</data>
+  <data key="label">Hong Kong Polytechnic University</data>
+  <data key="author">Hong Kong Polytechnic University</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="223">
+  <data key="name">Beijing Jiaotong University</data>
+  <data key="label">Beijing Jiaotong University</data>
+  <data key="author">Beijing Jiaotong University</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="224">
+  <data key="name">University College London</data>
+  <data key="label">University College London</data>
+  <data key="author">University College London</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="225">
+  <data key="name">CSIC - Instituto de Investigacion en Inteligencia Artificial (IIIA)</data>
+  <data key="label">CSIC - Instituto de Investigacion en Inteligencia Artificial (IIIA)</data>
+  <data key="author">CSIC - Instituto de Investigacion en Inteligencia Artificial (IIIA)</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="226">
+  <data key="name">Sun Yat Sen University</data>
+  <data key="label">Sun Yat Sen University</data>
+  <data key="author">Sun Yat Sen University</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="227">
+  <data key="name">Hong Kong University of Science  Technology</data>
+  <data key="label">Hong Kong University of Science  Technology</data>
+  <data key="author">Hong Kong University of Science  Technology</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="228">
+  <data key="name">Brown University</data>
+  <data key="label">Brown University</data>
+  <data key="author">Brown University</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="229">
+  <data key="name">Purdue University System</data>
+  <data key="label">Purdue University System</data>
+  <data key="author">Purdue University System</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="230">
+  <data key="name">Chinese University of Hong Kong</data>
+  <data key="label">Chinese University of Hong Kong</data>
+  <data key="author">Chinese University of Hong Kong</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="231">
+  <data key="name">AstraZeneca</data>
+  <data key="label">AstraZeneca</data>
+  <data key="author">AstraZeneca</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="232">
+  <data key="name">Defence Science  Technology</data>
+  <data key="label">Defence Science  Technology</data>
+  <data key="author">Defence Science  Technology</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="233">
+  <data key="name">Beijing University of Technology</data>
+  <data key="label">Beijing University of Technology</data>
+  <data key="author">Beijing University of Technology</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="234">
+  <data key="name">Consejo Superior de Investigaciones Cientificas (CSIC)</data>
+  <data key="label">Consejo Superior de Investigaciones Cientificas (CSIC)</data>
+  <data key="author">Consejo Superior de Investigaciones Cientificas (CSIC)</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="235">
+  <data key="name">Ecole Normale Superieure (ENS)</data>
+  <data key="label">Ecole Normale Superieure (ENS)</data>
+  <data key="author">Ecole Normale Superieure (ENS)</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="236">
+  <data key="name">Queensland University of Technology (QUT)</data>
+  <data key="label">Queensland University of Technology (QUT)</data>
+  <data key="author">Queensland University of Technology (QUT)</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="237">
+  <data key="name">ETH Zurich</data>
+  <data key="label">ETH Zurich</data>
+  <data key="author">ETH Zurich</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="238">
+  <data key="name">BaseTech LLC</data>
+  <data key="label">BaseTech LLC</data>
+  <data key="author">BaseTech LLC</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="239">
+  <data key="name">University of Crete</data>
+  <data key="label">University of Crete</data>
+  <data key="author">University of Crete</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="240">
+  <data key="name">National Chengchi University</data>
+  <data key="label">National Chengchi University</data>
+  <data key="author">National Chengchi University</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="241">
+  <data key="name">National Institute of Technology (NIT System)</data>
+  <data key="label">National Institute of Technology (NIT System)</data>
+  <data key="author">National Institute of Technology (NIT System)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="242">
+  <data key="name">Beijing University of Posts  Telecommunications</data>
+  <data key="label">Beijing University of Posts  Telecommunications</data>
+  <data key="author">Beijing University of Posts  Telecommunications</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="243">
+  <data key="name">Cardiff University</data>
+  <data key="label">Cardiff University</data>
+  <data key="author">Cardiff University</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="244">
+  <data key="name">University of Amsterdam</data>
+  <data key="label">University of Amsterdam</data>
+  <data key="author">University of Amsterdam</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="245">
+  <data key="name">Columbia University</data>
+  <data key="label">Columbia University</data>
+  <data key="author">Columbia University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="246">
+  <data key="name">University of Florence</data>
+  <data key="label">University of Florence</data>
+  <data key="author">University of Florence</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="247">
+  <data key="name">Northwestern Polytechnical University</data>
+  <data key="label">Northwestern Polytechnical University</data>
+  <data key="author">Northwestern Polytechnical University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="248">
+  <data key="name">New York University</data>
+  <data key="label">New York University</data>
+  <data key="author">New York University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="249">
+  <data key="name">Instituto Nacional de Astrofisica</data>
+  <data key="label">Instituto Nacional de Astrofisica</data>
+  <data key="author">Instituto Nacional de Astrofisica</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="250">
+  <data key="name">Chubu University</data>
+  <data key="label">Chubu University</data>
+  <data key="author">Chubu University</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="251">
+  <data key="name">King Abdulaziz University</data>
+  <data key="label">King Abdulaziz University</data>
+  <data key="author">King Abdulaziz University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="252">
+  <data key="name">Airbus France S.A.S</data>
+  <data key="label">Airbus France S.A.S</data>
+  <data key="author">Airbus France S.A.S</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="253">
+  <data key="name">Friedrich Schiller University of Jena</data>
+  <data key="label">Friedrich Schiller University of Jena</data>
+  <data key="author">Friedrich Schiller University of Jena</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="254">
+  <data key="name">Nanjing University of Aeronautics  Astronautics</data>
+  <data key="label">Nanjing University of Aeronautics  Astronautics</data>
+  <data key="author">Nanjing University of Aeronautics  Astronautics</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="255">
+  <data key="name">Inner Mongolia University</data>
+  <data key="label">Inner Mongolia University</data>
+  <data key="author">Inner Mongolia University</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="256">
+  <data key="name">King apos;s College London</data>
+  <data key="label">King apos;s College London</data>
+  <data key="author">King's College London</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="257">
+  <data key="name">Amrita Vishwa Vidyapeetham Coimbatore</data>
+  <data key="label">Amrita Vishwa Vidyapeetham Coimbatore</data>
+  <data key="author">Amrita Vishwa Vidyapeetham Coimbatore</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="258">
+  <data key="name">University of Science  Technology of China</data>
+  <data key="label">University of Science  Technology of China</data>
+  <data key="author">University of Science  Technology of China</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="259">
+  <data key="name">Australian National University</data>
+  <data key="label">Australian National University</data>
+  <data key="author">Australian National University</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="260">
+  <data key="name">Chongqing Normal University</data>
+  <data key="label">Chongqing Normal University</data>
+  <data key="author">Chongqing Normal University</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="261">
+  <data key="name">Blekinge Institute Technology</data>
+  <data key="label">Blekinge Institute Technology</data>
+  <data key="author">Blekinge Institute Technology</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="262">
+  <data key="name">ASPETE - School of Pedagogical  Technological Education</data>
+  <data key="label">ASPETE - School of Pedagogical  Technological Education</data>
+  <data key="author">ASPETE - School of Pedagogical  Technological Education</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="263">
+  <data key="name">Ho Chi Minh City University of Technology (HUTECH)</data>
+  <data key="label">Ho Chi Minh City University of Technology (HUTECH)</data>
+  <data key="author">Ho Chi Minh City University of Technology (HUTECH)</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="264">
+  <data key="name">Franklin W. Olin College of Engineering</data>
+  <data key="label">Franklin W. Olin College of Engineering</data>
+  <data key="author">Franklin W. Olin College of Engineering</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="265">
+  <data key="name">Agency for Science Technology  Research (A*STAR)</data>
+  <data key="label">Agency for Science Technology  Research (A*STAR)</data>
+  <data key="author">Agency for Science Technology  Research (A*STAR)</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="266">
+  <data key="name">Universite de Sfax</data>
+  <data key="label">Universite de Sfax</data>
+  <data key="author">Universite de Sfax</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="267">
+  <data key="name">Anna University Chennai</data>
+  <data key="label">Anna University Chennai</data>
+  <data key="author">Anna University Chennai</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="268">
+  <data key="name">Amrita Vishwa Vidyapeetham Bengaluru</data>
+  <data key="label">Amrita Vishwa Vidyapeetham Bengaluru</data>
+  <data key="author">Amrita Vishwa Vidyapeetham Bengaluru</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="269">
+  <data key="name">Queen Mary University London</data>
+  <data key="label">Queen Mary University London</data>
+  <data key="author">Queen Mary University London</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="270">
+  <data key="name">Saarland University</data>
+  <data key="label">Saarland University</data>
+  <data key="author">Saarland University</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="271">
+  <data key="name">Egyptian Knowledge Bank (EKB)</data>
+  <data key="label">Egyptian Knowledge Bank (EKB)</data>
+  <data key="author">Egyptian Knowledge Bank (EKB)</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="272">
+  <data key="name">Fox Chase Cancer Center</data>
+  <data key="label">Fox Chase Cancer Center</data>
+  <data key="author">Fox Chase Cancer Center</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="273">
+  <data key="name">Wroclaw University of Science  Technology</data>
+  <data key="label">Wroclaw University of Science  Technology</data>
+  <data key="author">Wroclaw University of Science  Technology</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="274">
+  <data key="name">Peking University</data>
+  <data key="label">Peking University</data>
+  <data key="author">Peking University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="275">
+  <data key="name">Hangzhou Dianzi University</data>
+  <data key="label">Hangzhou Dianzi University</data>
+  <data key="author">Hangzhou Dianzi University</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="276">
+  <data key="name">London School Economics  Political Science</data>
+  <data key="label">London School Economics  Political Science</data>
+  <data key="author">London School Economics  Political Science</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="277">
+  <data key="name">University of Sheffield</data>
+  <data key="label">University of Sheffield</data>
+  <data key="author">University of Sheffield</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="278">
+  <data key="name">CUHK Shenzhen Research Institute</data>
+  <data key="label">CUHK Shenzhen Research Institute</data>
+  <data key="author">CUHK Shenzhen Research Institute</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="279">
+  <data key="name">Hamad Bin Khalifa University-Qatar</data>
+  <data key="label">Hamad Bin Khalifa University-Qatar</data>
+  <data key="author">Hamad Bin Khalifa University-Qatar</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="280">
+  <data key="name">Colorado State University</data>
+  <data key="label">Colorado State University</data>
+  <data key="author">Colorado State University</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="281">
+  <data key="name">University of Massachusetts System</data>
+  <data key="label">University of Massachusetts System</data>
+  <data key="author">University of Massachusetts System</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="282">
+  <data key="name">Chongqing University</data>
+  <data key="label">Chongqing University</data>
+  <data key="author">Chongqing University</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="283">
+  <data key="name">Airbus</data>
+  <data key="label">Airbus</data>
+  <data key="author">Airbus</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="284">
+  <data key="name">University System of Georgia</data>
+  <data key="label">University System of Georgia</data>
+  <data key="author">University System of Georgia</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="285">
+  <data key="name">International Business Machines (IBM)</data>
+  <data key="label">International Business Machines (IBM)</data>
+  <data key="author">International Business Machines (IBM)</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="286">
+  <data key="name">Educational Testing Service (ETS)</data>
+  <data key="label">Educational Testing Service (ETS)</data>
+  <data key="author">Educational Testing Service (ETS)</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="287">
+  <data key="name">Cincinnati Children apos;s Hospital Medical Center</data>
+  <data key="label">Cincinnati Children apos;s Hospital Medical Center</data>
+  <data key="author">Cincinnati Children's Hospital Medical Center</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="288">
+  <data key="name">Pennsylvania Commonwealth System of Higher Education (PCSHE)</data>
+  <data key="label">Pennsylvania Commonwealth System of Higher Education (PCSHE)</data>
+  <data key="author">Pennsylvania Commonwealth System of Higher Education (PCSHE)</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="289">
+  <data key="name">KLA Corporation</data>
+  <data key="label">KLA Corporation</data>
+  <data key="author">KLA Corporation</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="290">
+  <data key="name">University of Oxford</data>
+  <data key="label">University of Oxford</data>
+  <data key="author">University of Oxford</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="291">
+  <data key="name">Nanjing University</data>
+  <data key="label">Nanjing University</data>
+  <data key="author">Nanjing University</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<edge source="0" target="7">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="0" target="57">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="0" target="93">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="0" target="216">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="0" target="245">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="0" target="248">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="0" target="264">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="1" target="88">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="1" target="143">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="1" target="169">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="1" target="171">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="1" target="184">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="1" target="206">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="1" target="220">
+  <data key="weight">0.25</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="1" target="291">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="4" target="79">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="5" target="234">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="7" target="220">
+  <data key="weight">2.581988951533276E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="8" target="185">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="10" target="60">
+  <data key="weight">1.0</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="10" target="140">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="10" target="186">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="10" target="269">
+  <data key="weight">0.5</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="12" target="96">
+  <data key="weight">1.0</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="13" target="25">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="13" target="156">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="15" target="112">
+  <data key="weight">1.0</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="15" target="205">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="15" target="233">
+  <data key="weight">0.5</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="16" target="31">
+  <data key="weight">0.5</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="17" target="76">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="18" target="254">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="19" target="151">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="19" target="281">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="20" target="24">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="20" target="239">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="22" target="45">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="22" target="71">
+  <data key="weight">0.5</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="22" target="81">
+  <data key="weight">0.5</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="22" target="116">
+  <data key="weight">0.5</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="22" target="265">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="23" target="140">
+  <data key="weight">0.5</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="23" target="256">
+  <data key="weight">0.5</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="24" target="239">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="25" target="156">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="26" target="76">
+  <data key="weight">0.22360679507255554</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="26" target="116">
+  <data key="weight">0.12909944355487823</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="26" target="230">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="26" target="258">
+  <data key="weight">0.18898223340511322</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="26" target="278">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="28" target="103">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="29" target="200">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="31" target="76">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="31" target="91">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="31" target="191">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="31" target="201">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="31" target="202">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="31" target="282">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="34" target="89">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="34" target="229">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="35" target="68">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="35" target="116">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="35" target="258">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="42" target="136">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="42" target="156">
+  <data key="weight">0.5</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="43" target="101">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="43" target="215">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="43" target="257">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="43" target="268">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="44" target="213">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="45" target="81">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="45" target="107">
+  <data key="weight">0.5</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="45" target="108">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="45" target="116">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="45" target="123">
+  <data key="weight">0.5</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="45" target="144">
+  <data key="weight">1.4433757655751833E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="45" target="153">
+  <data key="weight">1.0</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="45" target="173">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="45" target="183">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="45" target="201">
+  <data key="weight">2.8867515311503666E-7</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="45" target="202">
+  <data key="weight">2.8867515311503666E-7</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="45" target="222">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="45" target="226">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="45" target="230">
+  <data key="weight">2.8867515311503666E-7</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="45" target="258">
+  <data key="weight">0.13363061845302582</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="45" target="271">
+  <data key="weight">2.499999993688107E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="46" target="54">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="47" target="240">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="49" target="136">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="50" target="160">
+  <data key="weight">1.0</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="51" target="69">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="51" target="176">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="51" target="201">
+  <data key="weight">0.19245009124279022</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="51" target="202">
+  <data key="weight">0.19245009124279022</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="51" target="263">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="55" target="73">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="55" target="184">
+  <data key="weight">7.071067784636398E-7</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="55" target="284">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="57" target="93">
+  <data key="weight">1.0</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="57" target="205">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="57" target="248">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="58" target="64">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="58" target="288">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="60" target="140">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="60" target="269">
+  <data key="weight">0.5</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="61" target="103">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="63" target="201">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="63" target="202">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="64" target="288">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="65" target="116">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="65" target="221">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="67" target="284">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="68" target="107">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="68" target="116">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="68" target="121">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="68" target="154">
+  <data key="weight">1.0</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="68" target="184">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="68" target="270">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="69" target="78">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="69" target="176">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="69" target="181">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="69" target="241">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="69" target="263">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="71" target="116">
+  <data key="weight">0.25</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="71" target="265">
+  <data key="weight">1.0</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="73" target="91">
+  <data key="weight">0.25</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="73" target="94">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="73" target="167">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="73" target="184">
+  <data key="weight">4.999999987376214E-7</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="73" target="199">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="73" target="203">
+  <data key="weight">0.5</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="73" target="205">
+  <data key="weight">4.999999987376214E-7</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="73" target="284">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="73" target="290">
+  <data key="weight">0.5</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="74" target="76">
+  <data key="weight">0.16903084516525269</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="74" target="167">
+  <data key="weight">1.8898224141139508E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="74" target="201">
+  <data key="weight">0.4364357888698578</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="74" target="202">
+  <data key="weight">0.4364357888698578</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="75" target="86">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="75" target="288">
+  <data key="weight">0.5</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="76" target="107">
+  <data key="weight">0.5</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="76" target="116">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="77" target="91">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="78" target="251">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="81" target="102">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="81" target="107">
+  <data key="weight">0.2182178944349289</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="81" target="116">
+  <data key="weight">0.5</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="81" target="135">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="81" target="201">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="81" target="202">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="86" target="288">
+  <data key="weight">0.5</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="88" target="136">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="88" target="171">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="88" target="206">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="89" target="229">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="90" target="149">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="90" target="271">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="91" target="164">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="91" target="190">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="91" target="241">
+  <data key="weight">0.18257418274879456</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="92" target="277">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="93" target="205">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="93" target="248">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="94" target="144">
+  <data key="weight">3.535533892318199E-7</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="94" target="285">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="95" target="266">
+  <data key="weight">0.5</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="97" target="145">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="97" target="218">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="101" target="123">
+  <data key="weight">4.082483258116554E-7</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="101" target="215">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="105" target="116">
+  <data key="weight">0.14907120168209076</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="105" target="258">
+  <data key="weight">0.2182178944349289</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="107" target="116">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="107" target="131">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="107" target="135">
+  <data key="weight">0.18898223340511322</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="107" target="176">
+  <data key="weight">3.33333360913457E-7</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="107" target="184">
+  <data key="weight">0.4714045226573944</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="107" target="258">
+  <data key="weight">0.1428571492433548</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="107" target="270">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="112" target="205">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="112" target="233">
+  <data key="weight">0.5</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="114" target="116">
+  <data key="weight">1.0</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="116" target="121">
+  <data key="weight">0.14907120168209076</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="116" target="123">
+  <data key="weight">0.14907120168209076</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="116" target="135">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="116" target="144">
+  <data key="weight">2.499999993688107E-7</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="116" target="154">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="116" target="183">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="116" target="184">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="116" target="189">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="116" target="192">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="116" target="197">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="116" target="201">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="116" target="202">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="116" target="221">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="116" target="233">
+  <data key="weight">2.8867515311503666E-7</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="116" target="255">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="116" target="258">
+  <data key="weight">0.6831300258636475</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="116" target="265">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="116" target="270">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="117" target="175">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="119" target="157">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="120" target="131">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="121" target="139">
+  <data key="weight">3.33333360913457E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="121" target="154">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="123" target="135">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="123" target="153">
+  <data key="weight">0.5</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="123" target="258">
+  <data key="weight">0.2182178944349289</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="126" target="138">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="126" target="178">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="126" target="201">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="126" target="202">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="126" target="223">
+  <data key="weight">7.071067784636398E-7</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="127" target="246">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="132" target="155">
+  <data key="weight">1.0</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="134" target="244">
+  <data key="weight">0.5</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="135" target="173">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="135" target="223">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="135" target="258">
+  <data key="weight">0.18898223340511322</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="136" target="212">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="136" target="235">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="137" target="155">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="138" target="178">
+  <data key="weight">0.5</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="139" target="152">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="139" target="226">
+  <data key="weight">0.18257418274879456</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="140" target="171">
+  <data key="weight">7.071067784636398E-7</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="140" target="224">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="140" target="256">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="140" target="269">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="140" target="276">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="143" target="184">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="143" target="220">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="144" target="201">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="144" target="202">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="145" target="199">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="145" target="218">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="148" target="196">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="148" target="267">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="149" target="271">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="150" target="179">
+  <data key="weight">0.5</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="150" target="266">
+  <data key="weight">0.5</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="151" target="281">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="154" target="192">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="154" target="197">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="154" target="255">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="156" target="285">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="156" target="290">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="157" target="274">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="159" target="243">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="162" target="201">
+  <data key="weight">0.5</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="162" target="202">
+  <data key="weight">0.5</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="163" target="289">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="168" target="198">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="168" target="201">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="168" target="202">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="168" target="287">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="169" target="206">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="171" target="206">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="173" target="223">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="176" target="263">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="179" target="266">
+  <data key="weight">0.5</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="184" target="205">
+  <data key="weight">2.041241629058277E-7</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="184" target="220">
+  <data key="weight">0.20412415266036987</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="184" target="270">
+  <data key="weight">2.8867515311503666E-7</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="184" target="284">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="192" target="197">
+  <data key="weight">1.0</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="193" target="219">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="193" target="230">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="193" target="279">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="194" target="226">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="195" target="288">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="196" target="267">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="198" target="201">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="198" target="202">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="198" target="287">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="199" target="203">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="200" target="237">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="201" target="202">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="201" target="226">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="201" target="230">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="201" target="265">
+  <data key="weight">4.082483258116554E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="201" target="287">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="202" target="226">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="202" target="230">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="202" target="265">
+  <data key="weight">4.082483258116554E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="202" target="287">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="205" target="233">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="206" target="291">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="214" target="265">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="219" target="230">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="219" target="279">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="220" target="248">
+  <data key="weight">3.33333360913457E-7</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="224" target="276">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="225" target="234">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="226" target="230">
+  <data key="weight">4.714045473974693E-7</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="230" target="278">
+  <data key="weight">1.0</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="230" target="279">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="245" target="264">
+  <data key="weight">1.0</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="252" target="283">
+  <data key="weight">1.0</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+</graph>
+</graphml>

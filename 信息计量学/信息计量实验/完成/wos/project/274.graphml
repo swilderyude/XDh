@@ -1,0 +1,4667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">P INTERSPEECH</data>
+  <data key="label">P INTERSPEECH</data>
+  <data key="author">P INTERSPEECH</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">P INTERSPEECH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="1">
+  <data key="name">ICLR</data>
+  <data key="label">ICLR</data>
+  <data key="author">ICLR</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">ICLR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">103</data>
+</node>
+<node id="2">
+  <data key="name">P 20 INT C COMP LING</data>
+  <data key="label">P 20 INT C COMP LING</data>
+  <data key="author">P 20 INT C COMP LING</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P 20 INT C COMP LING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="3">
+  <data key="name">ANN STAT</data>
+  <data key="label">ANN STAT</data>
+  <data key="author">ANN STAT</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">ANN STAT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="4">
+  <data key="name">PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING</data>
+  <data key="label">PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING</data>
+  <data key="author">PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="5">
+  <data key="name">IEEE I CONF COMP VIS</data>
+  <data key="label">IEEE I CONF COMP VIS</data>
+  <data key="author">IEEE I CONF COMP VIS</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">IEEE I CONF COMP VIS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">154</data>
+</node>
+<node id="6">
+  <data key="name">AAAI CONF ARTIF INTE</data>
+  <data key="label">AAAI CONF ARTIF INTE</data>
+  <data key="author">AAAI CONF ARTIF INTE</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">352</data>
+</node>
+<node id="7">
+  <data key="name">ARXIV</data>
+  <data key="label">ARXIV</data>
+  <data key="author">ARXIV</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">488</data>
+</node>
+<node id="8">
+  <data key="name">P 2009 C EMP METH NA</data>
+  <data key="label">P 2009 C EMP METH NA</data>
+  <data key="author">P 2009 C EMP METH NA</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">P 2009 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="9">
+  <data key="name">PR MACH LEARN RES</data>
+  <data key="label">PR MACH LEARN RES</data>
+  <data key="author">PR MACH LEARN RES</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">250</data>
+</node>
+<node id="10">
+  <data key="name">P INT C ART NEUR NET</data>
+  <data key="label">P INT C ART NEUR NET</data>
+  <data key="author">P INT C ART NEUR NET</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P INT C ART NEUR NET</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="11">
+  <data key="name">J WEB SEMANT</data>
+  <data key="label">J WEB SEMANT</data>
+  <data key="author">J WEB SEMANT</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">J WEB SEMANT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="12">
+  <data key="name">35TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 8TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">35TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 8TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">35TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 8TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">35TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 8TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="13">
+  <data key="name">LECT NOTES COMPUTER</data>
+  <data key="label">LECT NOTES COMPUTER</data>
+  <data key="author">LECT NOTES COMPUTER</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUTER</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+</node>
+<node id="14">
+  <data key="name">OBJECT CONSTRAINT LA</data>
+  <data key="label">OBJECT CONSTRAINT LA</data>
+  <data key="author">OBJECT CONSTRAINT LA</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">OBJECT CONSTRAINT LA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="15">
+  <data key="name">1997 IEEE WORKSHOP ON AUTOMATIC SPEECH RECOGNITION AND UNDERSTANDING</data>
+  <data key="label">1997 IEEE WORKSHOP ON AUTOMATIC SPEECH RECOGNITION AND UNDERSTANDING</data>
+  <data key="author">1997 IEEE WORKSHOP ON AUTOMATIC SPEECH RECOGNITION AND UNDERSTANDING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">1997 IEEE WORKSHOP ON AUTOMATIC SPEECH RECOGNITION AND UNDERSTANDING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="16">
+  <data key="name">P ACM SIGMOD INT C M</data>
+  <data key="label">P ACM SIGMOD INT C M</data>
+  <data key="author">P ACM SIGMOD INT C M</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">P ACM SIGMOD INT C M</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="17">
+  <data key="name">INT JOINT CONF ARTIF</data>
+  <data key="label">INT JOINT CONF ARTIF</data>
+  <data key="author">INT JOINT CONF ARTIF</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">INT JOINT CONF ARTIF</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="18">
+  <data key="name">21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09)</data>
+  <data key="label">21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09)</data>
+  <data key="author">21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09)</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">21ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-09)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="19">
+  <data key="name">P 7 EUR C SPEECH COM</data>
+  <data key="label">P 7 EUR C SPEECH COM</data>
+  <data key="author">P 7 EUR C SPEECH COM</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P 7 EUR C SPEECH COM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="20">
+  <data key="name">NEURAL NETWORKS</data>
+  <data key="label">NEURAL NETWORKS</data>
+  <data key="author">NEURAL NETWORKS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">NEURAL NETWORKS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">28</data>
+</node>
+<node id="21">
+  <data key="name">TECHNICAL REPORT</data>
+  <data key="label">TECHNICAL REPORT</data>
+  <data key="author">TECHNICAL REPORT</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">TECHNICAL REPORT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+</node>
+<node id="22">
+  <data key="name">P 20 INT C MACH LEAR</data>
+  <data key="label">P 20 INT C MACH LEAR</data>
+  <data key="author">P 20 INT C MACH LEAR</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">P 20 INT C MACH LEAR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="23">
+  <data key="name">BMC BIOINFORMATICS</data>
+  <data key="label">BMC BIOINFORMATICS</data>
+  <data key="author">BMC BIOINFORMATICS</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">BMC BIOINFORMATICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="24">
+  <data key="name">COMPUTERS INTRACTABI</data>
+  <data key="label">COMPUTERS INTRACTABI</data>
+  <data key="author">COMPUTERS INTRACTABI</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">COMPUTERS INTRACTABI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="25">
+  <data key="name">KNOWL-BASED SYST</data>
+  <data key="label">KNOWL-BASED SYST</data>
+  <data key="author">KNOWL-BASED SYST</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">KNOWL-BASED SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">60</data>
+</node>
+<node id="26">
+  <data key="name">OBJECT ORIENTED ANAL</data>
+  <data key="label">OBJECT ORIENTED ANAL</data>
+  <data key="author">OBJECT ORIENTED ANAL</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">OBJECT ORIENTED ANAL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="27">
+  <data key="name">P 51 ANN M ASS COMP</data>
+  <data key="label">P 51 ANN M ASS COMP</data>
+  <data key="author">P 51 ANN M ASS COMP</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">P 51 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="28">
+  <data key="name">P 2004 C EMP METH NA</data>
+  <data key="label">P 2004 C EMP METH NA</data>
+  <data key="author">P 2004 C EMP METH NA</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P 2004 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="29">
+  <data key="name">IEEE T SPEECH AUDI P</data>
+  <data key="label">IEEE T SPEECH AUDI P</data>
+  <data key="author">IEEE T SPEECH AUDI P</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T SPEECH AUDI P</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="30">
+  <data key="name">PROC INT CONF DOC</data>
+  <data key="label">PROC INT CONF DOC</data>
+  <data key="author">PROC INT CONF DOC</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">PROC INT CONF DOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="31">
+  <data key="name">NOUS</data>
+  <data key="label">NOUS</data>
+  <data key="author">NOUS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">NOUS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="32">
+  <data key="name">COMP NUMERICAL OPTIM</data>
+  <data key="label">COMP NUMERICAL OPTIM</data>
+  <data key="author">COMP NUMERICAL OPTIM</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">COMP NUMERICAL OPTIM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="33">
+  <data key="name">NEURIPS</data>
+  <data key="label">NEURIPS</data>
+  <data key="author">NEURIPS</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">NEURIPS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">20</data>
+</node>
+<node id="34">
+  <data key="name">COMPUT NETW</data>
+  <data key="label">COMPUT NETW</data>
+  <data key="author">COMPUT NETW</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT NETW</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="35">
+  <data key="name">COLING ACL</data>
+  <data key="label">COLING ACL</data>
+  <data key="author">COLING ACL</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">COLING ACL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="36">
+  <data key="name">KNOWL ACQUIS</data>
+  <data key="label">KNOWL ACQUIS</data>
+  <data key="author">KNOWL ACQUIS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">KNOWL ACQUIS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="37">
+  <data key="name">COMPUT VIS IMAGE UND</data>
+  <data key="label">COMPUT VIS IMAGE UND</data>
+  <data key="author">COMPUT VIS IMAGE UND</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT VIS IMAGE UND</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="38">
+  <data key="name">IEEE SYS MAN CYBERN</data>
+  <data key="label">IEEE SYS MAN CYBERN</data>
+  <data key="author">IEEE SYS MAN CYBERN</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">IEEE SYS MAN CYBERN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="39">
+  <data key="name">INFORM PROCESS LETT</data>
+  <data key="label">INFORM PROCESS LETT</data>
+  <data key="author">INFORM PROCESS LETT</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">INFORM PROCESS LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="40">
+  <data key="name">AAAI</data>
+  <data key="label">AAAI</data>
+  <data key="author">AAAI</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">AAAI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="41">
+  <data key="name">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="label">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="author">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">180</data>
+</node>
+<node id="42">
+  <data key="name">IEEE T NEURAL NETWOR</data>
+  <data key="label">IEEE T NEURAL NETWOR</data>
+  <data key="author">IEEE T NEURAL NETWOR</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T NEURAL NETWOR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="43">
+  <data key="name">IEEE T SYST MAN CYB</data>
+  <data key="label">IEEE T SYST MAN CYB</data>
+  <data key="author">IEEE T SYST MAN CYB</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T SYST MAN CYB</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="44">
+  <data key="name">HUMAN LANGUAGE TECHN</data>
+  <data key="label">HUMAN LANGUAGE TECHN</data>
+  <data key="author">HUMAN LANGUAGE TECHN</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">HUMAN LANGUAGE TECHN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="45">
+  <data key="name">SIAM J OPTIMIZ</data>
+  <data key="label">SIAM J OPTIMIZ</data>
+  <data key="author">SIAM J OPTIMIZ</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SIAM J OPTIMIZ</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="46">
+  <data key="name">DATA KNOWL ENG</data>
+  <data key="label">DATA KNOWL ENG</data>
+  <data key="author">DATA KNOWL ENG</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">DATA KNOWL ENG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="47">
+  <data key="name">ACM COMPUT SURV</data>
+  <data key="label">ACM COMPUT SURV</data>
+  <data key="author">ACM COMPUT SURV</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">ACM COMPUT SURV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">64</data>
+</node>
+<node id="48">
+  <data key="name">INFORM COMPUT</data>
+  <data key="label">INFORM COMPUT</data>
+  <data key="author">INFORM COMPUT</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">INFORM COMPUT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="49">
+  <data key="name">ACL</data>
+  <data key="label">ACL</data>
+  <data key="author">ACL</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">ACL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="50">
+  <data key="name">THESIS U EDINBURGH</data>
+  <data key="label">THESIS U EDINBURGH</data>
+  <data key="author">THESIS U EDINBURGH</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">THESIS U EDINBURGH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="51">
+  <data key="name">J COMPUT APPL MATH</data>
+  <data key="label">J COMPUT APPL MATH</data>
+  <data key="author">J COMPUT APPL MATH</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J COMPUT APPL MATH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="52">
+  <data key="name">P HUM LANG TECHN C H</data>
+  <data key="label">P HUM LANG TECHN C H</data>
+  <data key="author">P HUM LANG TECHN C H</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P HUM LANG TECHN C H</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="53">
+  <data key="name">2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)</data>
+  <data key="label">2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)</data>
+  <data key="author">2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">41</data>
+</node>
+<node id="54">
+  <data key="name">BIOL CYBERN</data>
+  <data key="label">BIOL CYBERN</data>
+  <data key="author">BIOL CYBERN</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">BIOL CYBERN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="55">
+  <data key="name">NATURE</data>
+  <data key="label">NATURE</data>
+  <data key="author">NATURE</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">NATURE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+</node>
+<node id="56">
+  <data key="name">INFORMATION RETRIEVA</data>
+  <data key="label">INFORMATION RETRIEVA</data>
+  <data key="author">INFORMATION RETRIEVA</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">INFORMATION RETRIEVA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="57">
+  <data key="name">P HUM LANG TECHN C N</data>
+  <data key="label">P HUM LANG TECHN C N</data>
+  <data key="author">P HUM LANG TECHN C N</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P HUM LANG TECHN C N</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="58">
+  <data key="name">MEM COGNITION</data>
+  <data key="label">MEM COGNITION</data>
+  <data key="author">MEM COGNITION</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">MEM COGNITION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="59">
+  <data key="name">COMPUT J</data>
+  <data key="label">COMPUT J</data>
+  <data key="author">COMPUT J</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT J</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="60">
+  <data key="name">SOFTWARE ARCHITECTUR</data>
+  <data key="label">SOFTWARE ARCHITECTUR</data>
+  <data key="author">SOFTWARE ARCHITECTUR</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SOFTWARE ARCHITECTUR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="61">
+  <data key="name">INT J DOC ANAL RECOG</data>
+  <data key="label">INT J DOC ANAL RECOG</data>
+  <data key="author">INT J DOC ANAL RECOG</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">INT J DOC ANAL RECOG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="62">
+  <data key="name">P ICASSP</data>
+  <data key="label">P ICASSP</data>
+  <data key="author">P ICASSP</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P ICASSP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="63">
+  <data key="name">ACM T DATABASE SYST</data>
+  <data key="label">ACM T DATABASE SYST</data>
+  <data key="author">ACM T DATABASE SYST</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">ACM T DATABASE SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="64">
+  <data key="name">P 49 ANN M ASS COMPU</data>
+  <data key="label">P 49 ANN M ASS COMPU</data>
+  <data key="author">P 49 ANN M ASS COMPU</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">P 49 ANN M ASS COMPU</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="65">
+  <data key="name">C TRACK P</data>
+  <data key="label">C TRACK P</data>
+  <data key="author">C TRACK P</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">C TRACK P</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="66">
+  <data key="name">PROC CVPR IEEE</data>
+  <data key="label">PROC CVPR IEEE</data>
+  <data key="author">PROC CVPR IEEE</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">273</data>
+</node>
+<node id="67">
+  <data key="name">ANN MATH ARTIF INTEL</data>
+  <data key="label">ANN MATH ARTIF INTEL</data>
+  <data key="author">ANN MATH ARTIF INTEL</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">ANN MATH ARTIF INTEL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="68">
+  <data key="name">INFORM CONTROL</data>
+  <data key="label">INFORM CONTROL</data>
+  <data key="author">INFORM CONTROL</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">INFORM CONTROL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="69">
+  <data key="name">FDN STAT NATURAL LAN</data>
+  <data key="label">FDN STAT NATURAL LAN</data>
+  <data key="author">FDN STAT NATURAL LAN</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">FDN STAT NATURAL LAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="70">
+  <data key="name">ACM T SOFTW ENG METH</data>
+  <data key="label">ACM T SOFTW ENG METH</data>
+  <data key="author">ACM T SOFTW ENG METH</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">ACM T SOFTW ENG METH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="71">
+  <data key="name">J AM MED INFORM ASSN</data>
+  <data key="label">J AM MED INFORM ASSN</data>
+  <data key="author">J AM MED INFORM ASSN</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">J AM MED INFORM ASSN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="72">
+  <data key="name">ADV NEURAL INFORM PR</data>
+  <data key="label">ADV NEURAL INFORM PR</data>
+  <data key="author">ADV NEURAL INFORM PR</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEURAL INFORM PR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">362</data>
+</node>
+<node id="73">
+  <data key="name">P 19 INT C COMP LING</data>
+  <data key="label">P 19 INT C COMP LING</data>
+  <data key="author">P 19 INT C COMP LING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 19 INT C COMP LING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="74">
+  <data key="name">PATTERN RECOGN LETT</data>
+  <data key="label">PATTERN RECOGN LETT</data>
+  <data key="author">PATTERN RECOGN LETT</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">PATTERN RECOGN LETT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="75">
+  <data key="name">IEEE T ACOUSTICS SPE</data>
+  <data key="label">IEEE T ACOUSTICS SPE</data>
+  <data key="author">IEEE T ACOUSTICS SPE</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T ACOUSTICS SPE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="76">
+  <data key="name">19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05)</data>
+  <data key="label">19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05)</data>
+  <data key="author">19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05)</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">19TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI-05)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="77">
+  <data key="name">6TH APPLIED NATURAL LANGUAGE PROCESSING CONFERENCE/1ST MEETING OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">6TH APPLIED NATURAL LANGUAGE PROCESSING CONFERENCE/1ST MEETING OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">6TH APPLIED NATURAL LANGUAGE PROCESSING CONFERENCE/1ST MEETING OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">6TH APPLIED NATURAL LANGUAGE PROCESSING CONFERENCE/1ST MEETING OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="78">
+  <data key="name">FRONT ARTIF INTEL AP</data>
+  <data key="label">FRONT ARTIF INTEL AP</data>
+  <data key="author">FRONT ARTIF INTEL AP</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">FRONT ARTIF INTEL AP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="79">
+  <data key="name">LREC 2014 - NINTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION</data>
+  <data key="label">LREC 2014 - NINTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION</data>
+  <data key="author">LREC 2014 - NINTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">LREC 2014 - NINTH INTERNATIONAL CONFERENCE ON LANGUAGE RESOURCES AND EVALUATION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="80">
+  <data key="name">PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017)</data>
+  <data key="label">PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017)</data>
+  <data key="author">PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017)</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">167</data>
+</node>
+<node id="81">
+  <data key="name">APPL INTELL</data>
+  <data key="label">APPL INTELL</data>
+  <data key="author">APPL INTELL</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">APPL INTELL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="82">
+  <data key="name">P 2007 JOINT C EMP M</data>
+  <data key="label">P 2007 JOINT C EMP M</data>
+  <data key="author">P 2007 JOINT C EMP M</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">P 2007 JOINT C EMP M</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="83">
+  <data key="name">REQUIREMENTS ENGINEERING</data>
+  <data key="label">REQUIREMENTS ENGINEERING</data>
+  <data key="author">REQUIREMENTS ENGINEERING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">REQUIREMENTS ENGINEERING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="84">
+  <data key="name">CONNECT SCI</data>
+  <data key="label">CONNECT SCI</data>
+  <data key="author">CONNECT SCI</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">CONNECT SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="85">
+  <data key="name">IEEE T AUDIO SPEECH</data>
+  <data key="label">IEEE T AUDIO SPEECH</data>
+  <data key="author">IEEE T AUDIO SPEECH</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T AUDIO SPEECH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="86">
+  <data key="name">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)</data>
+  <data key="label">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)</data>
+  <data key="author">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">116</data>
+</node>
+<node id="87">
+  <data key="name">THESIS U PENNSYLVANI</data>
+  <data key="label">THESIS U PENNSYLVANI</data>
+  <data key="author">THESIS U PENNSYLVANI</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">THESIS U PENNSYLVANI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="88">
+  <data key="name">OWL WEB ONTOLOGY LAN</data>
+  <data key="label">OWL WEB ONTOLOGY LAN</data>
+  <data key="author">OWL WEB ONTOLOGY LAN</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">OWL WEB ONTOLOGY LAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="89">
+  <data key="name">DATABASE AND EXPERT SYSTEMS APPLICATIONS. 13TH INTERNATIONAL CONFERENCE</data>
+  <data key="label">DATABASE AND EXPERT SYSTEMS APPLICATIONS. 13TH INTERNATIONAL CONFERENCE</data>
+  <data key="author">DATABASE AND EXPERT SYSTEMS APPLICATIONS. 13TH INTERNATIONAL CONFERENCE</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">DATABASE AND EXPERT SYSTEMS APPLICATIONS. 13TH INTERNATIONAL CONFERENCE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="90">
+  <data key="name">38TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">38TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">38TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">38TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="91">
+  <data key="name">HDB BRAIN THEORY NEU</data>
+  <data key="label">HDB BRAIN THEORY NEU</data>
+  <data key="author">HDB BRAIN THEORY NEU</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">HDB BRAIN THEORY NEU</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="92">
+  <data key="name">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="label">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="author">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">162</data>
+</node>
+<node id="93">
+  <data key="name">39TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">39TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">39TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">39TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="94">
+  <data key="name">IEEE-ACM T AUDIO SPE</data>
+  <data key="label">IEEE-ACM T AUDIO SPE</data>
+  <data key="author">IEEE-ACM T AUDIO SPE</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">IEEE-ACM T AUDIO SPE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="95">
+  <data key="name">T ASSOC COMPUT LING</data>
+  <data key="label">T ASSOC COMPUT LING</data>
+  <data key="author">T ASSOC COMPUT LING</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">200</data>
+</node>
+<node id="96">
+  <data key="name">PROCEEDINGS. KDD-2000. SIXTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING</data>
+  <data key="label">PROCEEDINGS. KDD-2000. SIXTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING</data>
+  <data key="author">PROCEEDINGS. KDD-2000. SIXTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS. KDD-2000. SIXTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="97">
+  <data key="name">SIGMOD REC</data>
+  <data key="label">SIGMOD REC</data>
+  <data key="author">SIGMOD REC</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SIGMOD REC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="98">
+  <data key="name">IEEE T KNOWL DATA EN</data>
+  <data key="label">IEEE T KNOWL DATA EN</data>
+  <data key="author">IEEE T KNOWL DATA EN</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T KNOWL DATA EN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">96</data>
+</node>
+<node id="99">
+  <data key="name">2004 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="label">2004 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="author">2004 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">2004 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="100">
+  <data key="name">P INT C SPOK LANG PR</data>
+  <data key="label">P INT C SPOK LANG PR</data>
+  <data key="author">P INT C SPOK LANG PR</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P INT C SPOK LANG PR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="101">
+  <data key="name">P 45 ANN M ASS COMP</data>
+  <data key="label">P 45 ANN M ASS COMP</data>
+  <data key="author">P 45 ANN M ASS COMP</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">P 45 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="102">
+  <data key="name">ACM TRANSACTIONS ON DATABASE SYSTEMS</data>
+  <data key="label">ACM TRANSACTIONS ON DATABASE SYSTEMS</data>
+  <data key="author">ACM TRANSACTIONS ON DATABASE SYSTEMS</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">ACM TRANSACTIONS ON DATABASE SYSTEMS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="103">
+  <data key="name">COLING/ACL 2006</data>
+  <data key="label">COLING/ACL 2006</data>
+  <data key="author">COLING/ACL 2006</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">COLING/ACL 2006</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">22</data>
+</node>
+<node id="104">
+  <data key="name">SCI AM</data>
+  <data key="label">SCI AM</data>
+  <data key="author">SCI AM</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SCI AM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="105">
+  <data key="name">FRONT NEUROINFORM</data>
+  <data key="label">FRONT NEUROINFORM</data>
+  <data key="author">FRONT NEUROINFORM</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">FRONT NEUROINFORM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="106">
+  <data key="name">ADV NEUR IN</data>
+  <data key="label">ADV NEUR IN</data>
+  <data key="author">ADV NEUR IN</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">375</data>
+</node>
+<node id="107">
+  <data key="name">P C EMPIRICAL METHOD</data>
+  <data key="label">P C EMPIRICAL METHOD</data>
+  <data key="author">P C EMPIRICAL METHOD</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">P C EMPIRICAL METHOD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="108">
+  <data key="name">2003 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="label">2003 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="author">2003 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">2003 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="109">
+  <data key="name">ACM T INFORM SYST</data>
+  <data key="label">ACM T INFORM SYST</data>
+  <data key="author">ACM T INFORM SYST</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">ACM T INFORM SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="110">
+  <data key="name">P 15 C CAN SOC COMP</data>
+  <data key="label">P 15 C CAN SOC COMP</data>
+  <data key="author">P 15 C CAN SOC COMP</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P 15 C CAN SOC COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="111">
+  <data key="name">COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">45</data>
+</node>
+<node id="112">
+  <data key="name">J NEUROSCI</data>
+  <data key="label">J NEUROSCI</data>
+  <data key="author">J NEUROSCI</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">J NEUROSCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="113">
+  <data key="name">NIPS</data>
+  <data key="label">NIPS</data>
+  <data key="author">NIPS</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">NIPS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="114">
+  <data key="name">INTERNATIONAL JOURNAL OF INTELLIGENT  COOPERATIVE INFORMATION SYSTEMS</data>
+  <data key="label">INTERNATIONAL JOURNAL OF INTELLIGENT  COOPERATIVE INFORMATION SYSTEMS</data>
+  <data key="author">INTERNATIONAL JOURNAL OF INTELLIGENT  COOPERATIVE INFORMATION SYSTEMS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">INTERNATIONAL JOURNAL OF INTELLIGENT  COOPERATIVE INFORMATION SYSTEMS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="115">
+  <data key="name">20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE</data>
+  <data key="label">20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE</data>
+  <data key="author">20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">20TH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="116">
+  <data key="name">INT J PATTERN RECOGN</data>
+  <data key="label">INT J PATTERN RECOGN</data>
+  <data key="author">INT J PATTERN RECOGN</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">INT J PATTERN RECOGN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="117">
+  <data key="name">J ARTIF INTELL RES</data>
+  <data key="label">J ARTIF INTELL RES</data>
+  <data key="author">J ARTIF INTELL RES</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J ARTIF INTELL RES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">58</data>
+</node>
+<node id="118">
+  <data key="name">P IEEE</data>
+  <data key="label">P IEEE</data>
+  <data key="author">P IEEE</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">47</data>
+</node>
+<node id="119">
+  <data key="name">BUILDING LARGE KNOWL</data>
+  <data key="label">BUILDING LARGE KNOWL</data>
+  <data key="author">BUILDING LARGE KNOWL</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">BUILDING LARGE KNOWL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="120">
+  <data key="name">DATA MIN KNOWL DISC</data>
+  <data key="label">DATA MIN KNOWL DISC</data>
+  <data key="author">DATA MIN KNOWL DISC</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">DATA MIN KNOWL DISC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="121">
+  <data key="name">ASPECT ORIENTED SOFT</data>
+  <data key="label">ASPECT ORIENTED SOFT</data>
+  <data key="author">ASPECT ORIENTED SOFT</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">ASPECT ORIENTED SOFT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="122">
+  <data key="name">J COMPUT NEUROSCI</data>
+  <data key="label">J COMPUT NEUROSCI</data>
+  <data key="author">J COMPUT NEUROSCI</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">J COMPUT NEUROSCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="123">
+  <data key="name">NEUROCOMPUTING</data>
+  <data key="label">NEUROCOMPUTING</data>
+  <data key="author">NEUROCOMPUTING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">NEUROCOMPUTING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">104</data>
+</node>
+<node id="124">
+  <data key="name">NAT LANG ENG</data>
+  <data key="label">NAT LANG ENG</data>
+  <data key="author">NAT LANG ENG</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">NAT LANG ENG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="125">
+  <data key="name">P 2006 C EMP METH NA</data>
+  <data key="label">P 2006 C EMP METH NA</data>
+  <data key="author">P 2006 C EMP METH NA</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">P 2006 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="126">
+  <data key="name">J COGNITIVE NEUROSCI</data>
+  <data key="label">J COGNITIVE NEUROSCI</data>
+  <data key="author">J COGNITIVE NEUROSCI</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">J COGNITIVE NEUROSCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="127">
+  <data key="name">P HLT NAACL</data>
+  <data key="label">P HLT NAACL</data>
+  <data key="author">P HLT NAACL</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P HLT NAACL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="128">
+  <data key="name">J MACH LEARN RES</data>
+  <data key="label">J MACH LEARN RES</data>
+  <data key="author">J MACH LEARN RES</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J MACH LEARN RES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">380</data>
+</node>
+<node id="129">
+  <data key="name">P 3 INT C LANG RES E</data>
+  <data key="label">P 3 INT C LANG RES E</data>
+  <data key="author">P 3 INT C LANG RES E</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 3 INT C LANG RES E</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="130">
+  <data key="name">TRENDS COGN SCI</data>
+  <data key="label">TRENDS COGN SCI</data>
+  <data key="author">TRENDS COGN SCI</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">TRENDS COGN SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="131">
+  <data key="name">P 8 ACM INT WORKSH M</data>
+  <data key="label">P 8 ACM INT WORKSH M</data>
+  <data key="author">P 8 ACM INT WORKSH M</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">P 8 ACM INT WORKSH M</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="132">
+  <data key="name">P 37 ANN M ASS COMP</data>
+  <data key="label">P 37 ANN M ASS COMP</data>
+  <data key="author">P 37 ANN M ASS COMP</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P 37 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="133">
+  <data key="name">LNAI</data>
+  <data key="label">LNAI</data>
+  <data key="author">LNAI</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">LNAI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="134">
+  <data key="name">PROC INT CONF DATA</data>
+  <data key="label">PROC INT CONF DATA</data>
+  <data key="author">PROC INT CONF DATA</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">PROC INT CONF DATA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="135">
+  <data key="name">LECT NOTES COMPUT SC</data>
+  <data key="label">LECT NOTES COMPUT SC</data>
+  <data key="author">LECT NOTES COMPUT SC</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUT SC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">592</data>
+</node>
+<node id="136">
+  <data key="name">IEEE T ACOUST SPEECH</data>
+  <data key="label">IEEE T ACOUST SPEECH</data>
+  <data key="author">IEEE T ACOUST SPEECH</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T ACOUST SPEECH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="137">
+  <data key="name">PROCEDIA COMPUT SCI</data>
+  <data key="label">PROCEDIA COMPUT SCI</data>
+  <data key="author">PROCEDIA COMPUT SCI</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROCEDIA COMPUT SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="138">
+  <data key="name">COMPUT SPEECH LANG</data>
+  <data key="label">COMPUT SPEECH LANG</data>
+  <data key="author">COMPUT SPEECH LANG</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT SPEECH LANG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">61</data>
+</node>
+<node id="139">
+  <data key="name">P 49 ANN M ASS COMP</data>
+  <data key="label">P 49 ANN M ASS COMP</data>
+  <data key="author">P 49 ANN M ASS COMP</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">P 49 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="140">
+  <data key="name">ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="label">ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="author">ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="141">
+  <data key="name">P 17 INT JOINT C ART</data>
+  <data key="label">P 17 INT JOINT C ART</data>
+  <data key="author">P 17 INT JOINT C ART</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 17 INT JOINT C ART</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="142">
+  <data key="name">BRAIN</data>
+  <data key="label">BRAIN</data>
+  <data key="author">BRAIN</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">BRAIN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="143">
+  <data key="name">BEHAV BRAIN SCI</data>
+  <data key="label">BEHAV BRAIN SCI</data>
+  <data key="author">BEHAV BRAIN SCI</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">BEHAV BRAIN SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="144">
+  <data key="name">PROCEEDINGS OF THE ELEVENTH ANNUAL CONFERENCE ON COMPUTATIONAL LEARNING THEORY</data>
+  <data key="label">PROCEEDINGS OF THE ELEVENTH ANNUAL CONFERENCE ON COMPUTATIONAL LEARNING THEORY</data>
+  <data key="author">PROCEEDINGS OF THE ELEVENTH ANNUAL CONFERENCE ON COMPUTATIONAL LEARNING THEORY</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE ELEVENTH ANNUAL CONFERENCE ON COMPUTATIONAL LEARNING THEORY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="145">
+  <data key="name">COMPUT PHYS COMMUN</data>
+  <data key="label">COMPUT PHYS COMMUN</data>
+  <data key="author">COMPUT PHYS COMMUN</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT PHYS COMMUN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="146">
+  <data key="name">IEEE SIGNAL PROC MAG</data>
+  <data key="label">IEEE SIGNAL PROC MAG</data>
+  <data key="author">IEEE SIGNAL PROC MAG</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">IEEE SIGNAL PROC MAG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="147">
+  <data key="name">ARTIF INTELL MED</data>
+  <data key="label">ARTIF INTELL MED</data>
+  <data key="author">ARTIF INTELL MED</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">ARTIF INTELL MED</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="148">
+  <data key="name">MACH LEARN</data>
+  <data key="label">MACH LEARN</data>
+  <data key="author">MACH LEARN</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">MACH LEARN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">78</data>
+</node>
+<node id="149">
+  <data key="name">PROC INT CONF SOFTW</data>
+  <data key="label">PROC INT CONF SOFTW</data>
+  <data key="author">PROC INT CONF SOFTW</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">PROC INT CONF SOFTW</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="150">
+  <data key="name">P 31 ANN INT ACM SIG</data>
+  <data key="label">P 31 ANN INT ACM SIG</data>
+  <data key="author">P 31 ANN INT ACM SIG</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">P 31 ANN INT ACM SIG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="151">
+  <data key="name">INTERSPEECH</data>
+  <data key="label">INTERSPEECH</data>
+  <data key="author">INTERSPEECH</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">INTERSPEECH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="152">
+  <data key="name">LECT NOTES ARTIF INT</data>
+  <data key="label">LECT NOTES ARTIF INT</data>
+  <data key="author">LECT NOTES ARTIF INT</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES ARTIF INT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">268</data>
+</node>
+<node id="153">
+  <data key="name">ARXIV PREPRINT ARXIV</data>
+  <data key="label">ARXIV PREPRINT ARXIV</data>
+  <data key="author">ARXIV PREPRINT ARXIV</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV PREPRINT ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">116</data>
+</node>
+<node id="154">
+  <data key="name">J ROY STAT SOC B MET</data>
+  <data key="label">J ROY STAT SOC B MET</data>
+  <data key="author">J ROY STAT SOC B MET</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J ROY STAT SOC B MET</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="155">
+  <data key="name">INT C LEARN REPR</data>
+  <data key="label">INT C LEARN REPR</data>
+  <data key="author">INT C LEARN REPR</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">INT C LEARN REPR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">105</data>
+</node>
+<node id="156">
+  <data key="name">P 31 INT C VER LARG</data>
+  <data key="label">P 31 INT C VER LARG</data>
+  <data key="author">P 31 INT C VER LARG</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 31 INT C VER LARG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="157">
+  <data key="name">SCI COMPUT PROGRAM</data>
+  <data key="label">SCI COMPUT PROGRAM</data>
+  <data key="author">SCI COMPUT PROGRAM</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SCI COMPUT PROGRAM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="158">
+  <data key="name">ACL 2010: 48TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">ACL 2010: 48TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">ACL 2010: 48TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">ACL 2010: 48TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="159">
+  <data key="name">2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019)</data>
+  <data key="label">2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019)</data>
+  <data key="author">2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">178</data>
+</node>
+<node id="160">
+  <data key="name">W3C RECOMMENDATION</data>
+  <data key="label">W3C RECOMMENDATION</data>
+  <data key="author">W3C RECOMMENDATION</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">W3C RECOMMENDATION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="161">
+  <data key="name">THESIS U CALIFORNIA</data>
+  <data key="label">THESIS U CALIFORNIA</data>
+  <data key="author">THESIS U CALIFORNIA</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">THESIS U CALIFORNIA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="162">
+  <data key="name">P 2015 C EMP METH NA</data>
+  <data key="label">P 2015 C EMP METH NA</data>
+  <data key="author">P 2015 C EMP METH NA</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">P 2015 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="163">
+  <data key="name">LNCS</data>
+  <data key="label">LNCS</data>
+  <data key="author">LNCS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">LNCS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="164">
+  <data key="name">ACM T GRAPHIC</data>
+  <data key="label">ACM T GRAPHIC</data>
+  <data key="author">ACM T GRAPHIC</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">ACM T GRAPHIC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="165">
+  <data key="name">MACHINE LEARNING</data>
+  <data key="label">MACHINE LEARNING</data>
+  <data key="author">MACHINE LEARNING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">MACHINE LEARNING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="166">
+  <data key="name">PROC VLDB ENDOW</data>
+  <data key="label">PROC VLDB ENDOW</data>
+  <data key="author">PROC VLDB ENDOW</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROC VLDB ENDOW</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="167">
+  <data key="name">J MEM LANG</data>
+  <data key="label">J MEM LANG</data>
+  <data key="author">J MEM LANG</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J MEM LANG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="168">
+  <data key="name">INT J CORPUS LINGUIS</data>
+  <data key="label">INT J CORPUS LINGUIS</data>
+  <data key="author">INT J CORPUS LINGUIS</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">INT J CORPUS LINGUIS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="169">
+  <data key="name">BOOK GENESIS EXPLORI</data>
+  <data key="label">BOOK GENESIS EXPLORI</data>
+  <data key="author">BOOK GENESIS EXPLORI</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">BOOK GENESIS EXPLORI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="170">
+  <data key="name">SIGIR FORUM</data>
+  <data key="label">SIGIR FORUM</data>
+  <data key="author">SIGIR FORUM</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SIGIR FORUM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="171">
+  <data key="name">EMNLP</data>
+  <data key="label">EMNLP</data>
+  <data key="author">EMNLP</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">EMNLP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">34</data>
+</node>
+<node id="172">
+  <data key="name">SCIENCE</data>
+  <data key="label">SCIENCE</data>
+  <data key="author">SCIENCE</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SCIENCE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">20</data>
+</node>
+<node id="173">
+  <data key="name">INTRO INFORM RETRIEV</data>
+  <data key="label">INTRO INFORM RETRIEV</data>
+  <data key="author">INTRO INFORM RETRIEV</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">INTRO INFORM RETRIEV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="174">
+  <data key="name">P NATL ACAD SCI USA</data>
+  <data key="label">P NATL ACAD SCI USA</data>
+  <data key="author">P NATL ACAD SCI USA</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">P NATL ACAD SCI USA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+</node>
+<node id="175">
+  <data key="name">P ICSLP</data>
+  <data key="label">P ICSLP</data>
+  <data key="author">P ICSLP</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P ICSLP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="176">
+  <data key="name">IEEE T EVOLUT COMPUT</data>
+  <data key="label">IEEE T EVOLUT COMPUT</data>
+  <data key="author">IEEE T EVOLUT COMPUT</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T EVOLUT COMPUT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="177">
+  <data key="name">P 42 ANN M ASS COMP</data>
+  <data key="label">P 42 ANN M ASS COMP</data>
+  <data key="author">P 42 ANN M ASS COMP</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 42 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="178">
+  <data key="name">PATTERN RECOGN</data>
+  <data key="label">PATTERN RECOGN</data>
+  <data key="author">PATTERN RECOGN</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">PATTERN RECOGN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">22</data>
+</node>
+<node id="179">
+  <data key="name">INT J APPROX REASON</data>
+  <data key="label">INT J APPROX REASON</data>
+  <data key="author">INT J APPROX REASON</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">INT J APPROX REASON</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="180">
+  <data key="name">P 18 INT C COMP LING</data>
+  <data key="label">P 18 INT C COMP LING</data>
+  <data key="author">P 18 INT C COMP LING</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P 18 INT C COMP LING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="181">
+  <data key="name">INT CONF ACOUST SPEE</data>
+  <data key="label">INT CONF ACOUST SPEE</data>
+  <data key="author">INT CONF ACOUST SPEE</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">INT CONF ACOUST SPEE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">129</data>
+</node>
+<node id="182">
+  <data key="name">J SYST SOFTWARE</data>
+  <data key="label">J SYST SOFTWARE</data>
+  <data key="author">J SYST SOFTWARE</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">J SYST SOFTWARE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="183">
+  <data key="name">THEOR COMPUT SCI</data>
+  <data key="label">THEOR COMPUT SCI</data>
+  <data key="author">THEOR COMPUT SCI</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">THEOR COMPUT SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="184">
+  <data key="name">HLT-NAACL 2003: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">HLT-NAACL 2003: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">HLT-NAACL 2003: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">HLT-NAACL 2003: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="185">
+  <data key="name">P 2 INT JOINT C AUT</data>
+  <data key="label">P 2 INT JOINT C AUT</data>
+  <data key="author">P 2 INT JOINT C AUT</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">P 2 INT JOINT C AUT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="186">
+  <data key="name">NEURAL COMPUT</data>
+  <data key="label">NEURAL COMPUT</data>
+  <data key="author">NEURAL COMPUT</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">NEURAL COMPUT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">79</data>
+</node>
+<node id="187">
+  <data key="name">J EXP PSYCHOL LEARN</data>
+  <data key="label">J EXP PSYCHOL LEARN</data>
+  <data key="author">J EXP PSYCHOL LEARN</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J EXP PSYCHOL LEARN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="188">
+  <data key="name">P JOINT INT C S LOG</data>
+  <data key="label">P JOINT INT C S LOG</data>
+  <data key="author">P JOINT INT C S LOG</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P JOINT INT C S LOG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="189">
+  <data key="name">NATURAL LANGUAGE ENGINEERING</data>
+  <data key="label">NATURAL LANGUAGE ENGINEERING</data>
+  <data key="author">NATURAL LANGUAGE ENGINEERING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">NATURAL LANGUAGE ENGINEERING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="190">
+  <data key="name">ARTIF INTELL</data>
+  <data key="label">ARTIF INTELL</data>
+  <data key="author">ARTIF INTELL</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">ARTIF INTELL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">75</data>
+</node>
+<node id="191">
+  <data key="name">KNOWL ENG REV</data>
+  <data key="label">KNOWL ENG REV</data>
+  <data key="author">KNOWL ENG REV</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">KNOWL ENG REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="192">
+  <data key="name">CULTURAL ORIGINS HUM</data>
+  <data key="label">CULTURAL ORIGINS HUM</data>
+  <data key="author">CULTURAL ORIGINS HUM</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">CULTURAL ORIGINS HUM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="193">
+  <data key="name">SPEECH LANGUAGE PROC</data>
+  <data key="label">SPEECH LANGUAGE PROC</data>
+  <data key="author">SPEECH LANGUAGE PROC</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SPEECH LANGUAGE PROC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="194">
+  <data key="name">41ST ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">41ST ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">41ST ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">41ST ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="195">
+  <data key="name">J PHONETICS</data>
+  <data key="label">J PHONETICS</data>
+  <data key="author">J PHONETICS</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J PHONETICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="196">
+  <data key="name">J AM STAT ASSOC</data>
+  <data key="label">J AM STAT ASSOC</data>
+  <data key="author">J AM STAT ASSOC</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">J AM STAT ASSOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="197">
+  <data key="name">COGNITIVE SCI</data>
+  <data key="label">COGNITIVE SCI</data>
+  <data key="author">COGNITIVE SCI</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">COGNITIVE SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+</node>
+<node id="198">
+  <data key="name">STAT METHODS SPEECH</data>
+  <data key="label">STAT METHODS SPEECH</data>
+  <data key="author">STAT METHODS SPEECH</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">STAT METHODS SPEECH</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="199">
+  <data key="name">FINDINGS ASS COMPUTA</data>
+  <data key="label">FINDINGS ASS COMPUTA</data>
+  <data key="author">FINDINGS ASS COMPUTA</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">FINDINGS ASS COMPUTA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">51</data>
+</node>
+<node id="200">
+  <data key="name">COMPUT COMPLEX</data>
+  <data key="label">COMPUT COMPLEX</data>
+  <data key="author">COMPUT COMPLEX</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT COMPLEX</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="201">
+  <data key="name">P INT C SPOKEN LANGU</data>
+  <data key="label">P INT C SPOKEN LANGU</data>
+  <data key="author">P INT C SPOKEN LANGU</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P INT C SPOKEN LANGU</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="202">
+  <data key="name">IEEE T SYST MAN CY B</data>
+  <data key="label">IEEE T SYST MAN CY B</data>
+  <data key="author">IEEE T SYST MAN CY B</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T SYST MAN CY B</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="203">
+  <data key="name">IEEE T SYST MAN CY A</data>
+  <data key="label">IEEE T SYST MAN CY A</data>
+  <data key="author">IEEE T SYST MAN CY A</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T SYST MAN CY A</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="204">
+  <data key="name">P INT C AC SPEECH SI</data>
+  <data key="label">P INT C AC SPEECH SI</data>
+  <data key="author">P INT C AC SPEECH SI</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">P INT C AC SPEECH SI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="205">
+  <data key="name">P 6 C NATURAL LANGUA</data>
+  <data key="label">P 6 C NATURAL LANGUA</data>
+  <data key="author">P 6 C NATURAL LANGUA</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 6 C NATURAL LANGUA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="206">
+  <data key="name">J ACOUST SOC AM</data>
+  <data key="label">J ACOUST SOC AM</data>
+  <data key="author">J ACOUST SOC AM</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">J ACOUST SOC AM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="207">
+  <data key="name">ANN MATH STAT</data>
+  <data key="label">ANN MATH STAT</data>
+  <data key="author">ANN MATH STAT</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">ANN MATH STAT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="208">
+  <data key="name">PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL)</data>
+  <data key="label">PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL)</data>
+  <data key="author">PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL)</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">156</data>
+</node>
+<node id="209">
+  <data key="name">P IEEE INT C AC SPEE</data>
+  <data key="label">P IEEE INT C AC SPEE</data>
+  <data key="author">P IEEE INT C AC SPEE</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P IEEE INT C AC SPEE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="210">
+  <data key="name">IEEE T SYST MAN CY C</data>
+  <data key="label">IEEE T SYST MAN CY C</data>
+  <data key="author">IEEE T SYST MAN CY C</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T SYST MAN CY C</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="211">
+  <data key="name">UNIFIED MODELING LAN</data>
+  <data key="label">UNIFIED MODELING LAN</data>
+  <data key="author">UNIFIED MODELING LAN</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">UNIFIED MODELING LAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="212">
+  <data key="name">THESIS</data>
+  <data key="label">THESIS</data>
+  <data key="author">THESIS</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">THESIS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">51</data>
+</node>
+<node id="213">
+  <data key="name">LANG COGNITIVE PROC</data>
+  <data key="label">LANG COGNITIVE PROC</data>
+  <data key="author">LANG COGNITIVE PROC</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">LANG COGNITIVE PROC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="214">
+  <data key="name">P JOINT C 47 ANN M A</data>
+  <data key="label">P JOINT C 47 ANN M A</data>
+  <data key="author">P JOINT C 47 ANN M A</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">P JOINT C 47 ANN M A</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="215">
+  <data key="name">CLASSIFICATION ALGOR</data>
+  <data key="label">CLASSIFICATION ALGOR</data>
+  <data key="author">CLASSIFICATION ALGOR</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">CLASSIFICATION ALGOR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="216">
+  <data key="name">P 2014 C EMP METH NA</data>
+  <data key="label">P 2014 C EMP METH NA</data>
+  <data key="author">P 2014 C EMP METH NA</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">P 2014 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">189</data>
+</node>
+<node id="217">
+  <data key="name">2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)</data>
+  <data key="label">2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)</data>
+  <data key="author">2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">197</data>
+</node>
+<node id="218">
+  <data key="name">P 50 ANN M ASS COMP</data>
+  <data key="label">P 50 ANN M ASS COMP</data>
+  <data key="author">P 50 ANN M ASS COMP</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">P 50 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="219">
+  <data key="name">P 15 INT C PHON SCI</data>
+  <data key="label">P 15 INT C PHON SCI</data>
+  <data key="author">P 15 INT C PHON SCI</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">P 15 INT C PHON SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="220">
+  <data key="name">FUZZY SET SYST</data>
+  <data key="label">FUZZY SET SYST</data>
+  <data key="author">FUZZY SET SYST</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">FUZZY SET SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="221">
+  <data key="name">BIOINFORMATICS</data>
+  <data key="label">BIOINFORMATICS</data>
+  <data key="author">BIOINFORMATICS</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">BIOINFORMATICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="222">
+  <data key="name">CORR</data>
+  <data key="label">CORR</data>
+  <data key="author">CORR</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">CORR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="223">
+  <data key="name">IEEE INTERNET COMPUT</data>
+  <data key="label">IEEE INTERNET COMPUT</data>
+  <data key="author">IEEE INTERNET COMPUT</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTERNET COMPUT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="224">
+  <data key="name">J ACM</data>
+  <data key="label">J ACM</data>
+  <data key="author">J ACM</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J ACM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="225">
+  <data key="name">INTERACT STUD</data>
+  <data key="label">INTERACT STUD</data>
+  <data key="author">INTERACT STUD</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">INTERACT STUD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="226">
+  <data key="name">SIGKDD EXPLORATIONS</data>
+  <data key="label">SIGKDD EXPLORATIONS</data>
+  <data key="author">SIGKDD EXPLORATIONS</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SIGKDD EXPLORATIONS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="227">
+  <data key="name">INTERSPEECH 2006 AND 9TH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="label">INTERSPEECH 2006 AND 9TH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="author">INTERSPEECH 2006 AND 9TH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">INTERSPEECH 2006 AND 9TH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="228">
+  <data key="name">COMPUT INTELL-US</data>
+  <data key="label">COMPUT INTELL-US</data>
+  <data key="author">COMPUT INTELL-US</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT INTELL-US</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="229">
+  <data key="name">HLT-NAACL 2004: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">HLT-NAACL 2004: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">HLT-NAACL 2004: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">HLT-NAACL 2004: HUMAN LANGUAGE TECHNOLOGY CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="230">
+  <data key="name">TRENDS NEUROSCI</data>
+  <data key="label">TRENDS NEUROSCI</data>
+  <data key="author">TRENDS NEUROSCI</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">TRENDS NEUROSCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="231">
+  <data key="name">INFORM RETRIEVAL</data>
+  <data key="label">INFORM RETRIEVAL</data>
+  <data key="author">INFORM RETRIEVAL</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">INFORM RETRIEVAL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="232">
+  <data key="name">P 8 ANN C COGN SCI S</data>
+  <data key="label">P 8 ANN C COGN SCI S</data>
+  <data key="author">P 8 ANN C COGN SCI S</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P 8 ANN C COGN SCI S</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="233">
+  <data key="name">P 2010 C EMP METH NA</data>
+  <data key="label">P 2010 C EMP METH NA</data>
+  <data key="author">P 2010 C EMP METH NA</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">P 2010 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="234">
+  <data key="name">PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">37</data>
+</node>
+<node id="235">
+  <data key="name">PROCEEDINGS OF THE 2002 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING</data>
+  <data key="label">PROCEEDINGS OF THE 2002 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING</data>
+  <data key="author">PROCEEDINGS OF THE 2002 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 2002 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="236">
+  <data key="name">J AM SOC INFORM SCI</data>
+  <data key="label">J AM SOC INFORM SCI</data>
+  <data key="author">J AM SOC INFORM SCI</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">J AM SOC INFORM SCI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="237">
+  <data key="name">AI MAG</data>
+  <data key="label">AI MAG</data>
+  <data key="author">AI MAG</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">AI MAG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="238">
+  <data key="name">IEEE INTELL SYST APP</data>
+  <data key="label">IEEE INTELL SYST APP</data>
+  <data key="author">IEEE INTELL SYST APP</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTELL SYST APP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="239">
+  <data key="name">COMMUN ACM</data>
+  <data key="label">COMMUN ACM</data>
+  <data key="author">COMMUN ACM</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">COMMUN ACM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">159</data>
+</node>
+<node id="240">
+  <data key="name">THIRD CONFERENCE ON APPLIED NATURAL LANGUAGE PROCESSING</data>
+  <data key="label">THIRD CONFERENCE ON APPLIED NATURAL LANGUAGE PROCESSING</data>
+  <data key="author">THIRD CONFERENCE ON APPLIED NATURAL LANGUAGE PROCESSING</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">THIRD CONFERENCE ON APPLIED NATURAL LANGUAGE PROCESSING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="241">
+  <data key="name">J CHILD LANG</data>
+  <data key="label">J CHILD LANG</data>
+  <data key="author">J CHILD LANG</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J CHILD LANG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="242">
+  <data key="name">COMPUTATIONAL LINGUI</data>
+  <data key="label">COMPUTATIONAL LINGUI</data>
+  <data key="author">COMPUTATIONAL LINGUI</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">COMPUTATIONAL LINGUI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="243">
+  <data key="name">VLDB J</data>
+  <data key="label">VLDB J</data>
+  <data key="author">VLDB J</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">VLDB J</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="244">
+  <data key="name">P C EMP METH NAT LAN</data>
+  <data key="label">P C EMP METH NAT LAN</data>
+  <data key="author">P C EMP METH NAT LAN</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">P C EMP METH NAT LAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+</node>
+<node id="245">
+  <data key="name">INT J HUM-COMPUT ST</data>
+  <data key="label">INT J HUM-COMPUT ST</data>
+  <data key="author">INT J HUM-COMPUT ST</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">INT J HUM-COMPUT ST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="246">
+  <data key="name">PSYCHOL REV</data>
+  <data key="label">PSYCHOL REV</data>
+  <data key="author">PSYCHOL REV</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">PSYCHOL REV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="247">
+  <data key="name">IEEE INTELL SYST</data>
+  <data key="label">IEEE INTELL SYST</data>
+  <data key="author">IEEE INTELL SYST</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTELL SYST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="248">
+  <data key="name">COMPUT LINGUIST</data>
+  <data key="label">COMPUT LINGUIST</data>
+  <data key="author">COMPUT LINGUIST</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT LINGUIST</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">169</data>
+</node>
+<node id="249">
+  <data key="name">INT J SOFTW ENG KNOW</data>
+  <data key="label">INT J SOFTW ENG KNOW</data>
+  <data key="author">INT J SOFTW ENG KNOW</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">INT J SOFTW ENG KNOW</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="250">
+  <data key="name">IEEE T PATTERN ANAL</data>
+  <data key="label">IEEE T PATTERN ANAL</data>
+  <data key="author">IEEE T PATTERN ANAL</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T PATTERN ANAL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">247</data>
+</node>
+<node id="251">
+  <data key="name">INFORM PROCESS MANAG</data>
+  <data key="label">INFORM PROCESS MANAG</data>
+  <data key="author">INFORM PROCESS MANAG</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">INFORM PROCESS MANAG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">66</data>
+</node>
+<node id="252">
+  <data key="name">IEEE T INFORM THEORY</data>
+  <data key="label">IEEE T INFORM THEORY</data>
+  <data key="author">IEEE T INFORM THEORY</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T INFORM THEORY</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="253">
+  <data key="name">40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">31</data>
+</node>
+<node id="254">
+  <data key="name">STUD COMPUT INTELL</data>
+  <data key="label">STUD COMPUT INTELL</data>
+  <data key="author">STUD COMPUT INTELL</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">STUD COMPUT INTELL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">117</data>
+</node>
+<node id="255">
+  <data key="name">J EXP PSYCHOL GEN</data>
+  <data key="label">J EXP PSYCHOL GEN</data>
+  <data key="author">J EXP PSYCHOL GEN</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">J EXP PSYCHOL GEN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="256">
+  <data key="name">INT J COMPUT VISION</data>
+  <data key="label">INT J COMPUT VISION</data>
+  <data key="author">INT J COMPUT VISION</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">INT J COMPUT VISION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="257">
+  <data key="name">PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="label">PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="author">PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">106</data>
+</node>
+<node id="258">
+  <data key="name">SPEECH COMMUN</data>
+  <data key="label">SPEECH COMMUN</data>
+  <data key="author">SPEECH COMMUN</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SPEECH COMMUN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">18</data>
+</node>
+<node id="259">
+  <data key="name">HDB ONTOLOGIES</data>
+  <data key="label">HDB ONTOLOGIES</data>
+  <data key="author">HDB ONTOLOGIES</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">HDB ONTOLOGIES</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="260">
+  <data key="name">INT C PATT RECOG</data>
+  <data key="label">INT C PATT RECOG</data>
+  <data key="author">INT C PATT RECOG</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">INT C PATT RECOG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="261">
+  <data key="name">PLOS COMPUT BIOL</data>
+  <data key="label">PLOS COMPUT BIOL</data>
+  <data key="author">PLOS COMPUT BIOL</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">PLOS COMPUT BIOL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="262">
+  <data key="name">COGNITION</data>
+  <data key="label">COGNITION</data>
+  <data key="author">COGNITION</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">COGNITION</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="263">
+  <data key="name">P 39 ANN M ASS COMP</data>
+  <data key="label">P 39 ANN M ASS COMP</data>
+  <data key="author">P 39 ANN M ASS COMP</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P 39 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="264">
+  <data key="name">58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)</data>
+  <data key="label">58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)</data>
+  <data key="author">58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">44</data>
+</node>
+<node id="265">
+  <data key="name">IEEE ACCESS</data>
+  <data key="label">IEEE ACCESS</data>
+  <data key="author">IEEE ACCESS</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">IEEE ACCESS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">140</data>
+</node>
+<node id="266">
+  <data key="name">COMPUTER</data>
+  <data key="label">COMPUTER</data>
+  <data key="author">COMPUTER</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">COMPUTER</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="267">
+  <data key="name">J MACHINE LEARNING R</data>
+  <data key="label">J MACHINE LEARNING R</data>
+  <data key="author">J MACHINE LEARNING R</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">J MACHINE LEARNING R</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="268">
+  <data key="name">SIGMOD RECORD</data>
+  <data key="label">SIGMOD RECORD</data>
+  <data key="author">SIGMOD RECORD</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SIGMOD RECORD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="269">
+  <data key="name">P C N AM CHAPT ASS C</data>
+  <data key="label">P C N AM CHAPT ASS C</data>
+  <data key="author">P C N AM CHAPT ASS C</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">P C N AM CHAPT ASS C</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="270">
+  <data key="name">P 43 ANN M ASS COMP</data>
+  <data key="label">P 43 ANN M ASS COMP</data>
+  <data key="author">P 43 ANN M ASS COMP</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">P 43 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+</node>
+<node id="271">
+  <data key="name">IEEE IJCNN</data>
+  <data key="label">IEEE IJCNN</data>
+  <data key="author">IEEE IJCNN</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">IEEE IJCNN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="272">
+  <data key="name">IEEE T SOFTWARE ENG</data>
+  <data key="label">IEEE T SOFTWARE ENG</data>
+  <data key="author">IEEE T SOFTWARE ENG</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T SOFTWARE ENG</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="273">
+  <data key="name">EXPERT SYST APPL</data>
+  <data key="label">EXPERT SYST APPL</data>
+  <data key="author">EXPERT SYST APPL</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">EXPERT SYST APPL</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">185</data>
+</node>
+<edge source="0" target="181">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="1" target="6">
+  <data key="weight">0.49528443813323975</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="2" target="111">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="2" target="194">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="3" target="165">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="4" target="248">
+  <data key="weight">0.5333333611488342</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="5" target="66">
+  <data key="weight">0.7006490230560303</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="6" target="217">
+  <data key="weight">0.5763587951660156</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="7" target="33">
+  <data key="weight">0.8249579071998596</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="7" target="65">
+  <data key="weight">0.4954336881637573</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="7" target="66">
+  <data key="weight">6.605782800761517E-7</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="7" target="159">
+  <data key="weight">0.6010362505912781</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="7" target="208">
+  <data key="weight">0.5582422018051147</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="7" target="254">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="8" target="158">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="8" target="233">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="9" target="72">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="10" target="20">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="11" target="152">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="11" target="259">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="12" target="186">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="12" target="187">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="13" target="78">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="13" target="89">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="13" target="97">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="13" target="98">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="13" target="102">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="14" target="157">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="14" target="211">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="15" target="140">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="16" target="164">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="16" target="172">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="17" target="67">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="18" target="117">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="19" target="198">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="20" target="43">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="20" target="123">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="20" target="172">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="20" target="174">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="20" target="221">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="21" target="196">
+  <data key="weight">0.4629100561141968</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="22" target="128">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="23" target="152">
+  <data key="weight">0.4714045524597168</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="24" target="76">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="24" target="190">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="25" target="137">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="25" target="163">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="25" target="273">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="26" target="114">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="27" target="139">
+  <data key="weight">0.5</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="27" target="194">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="28" target="57">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="29" target="235">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="29" target="248">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="29" target="258">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="30" target="61">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="30" target="250">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="31" target="190">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="32" target="45">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="33" target="155">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="34" target="243">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="35" target="118">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="36" target="114">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="37" target="66">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="38" target="260">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="38" target="268">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="39" target="183">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="40" target="117">
+  <data key="weight">0.6614378094673157</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="41" target="86">
+  <data key="weight">0.5646839141845703</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="41" target="92">
+  <data key="weight">0.6259807348251343</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="41" target="208">
+  <data key="weight">0.5910617709159851</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="41" target="217">
+  <data key="weight">0.6280131340026855</data>
+  <data key="slice">17</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="42" target="178">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="42" target="266">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="43" target="220">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="44" target="189">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="45" target="72">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="45" target="186">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="46" target="98">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="46" target="238">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="47" target="138">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="48" target="183">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="49" target="231">
+  <data key="weight">0.5</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="50" target="132">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="50" target="177">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="51" target="230">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="52" target="204">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="53" target="86">
+  <data key="weight">0.4120302200317383</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="54" target="186">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="55" target="104">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="55" target="117">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="56" target="110">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="56" target="132">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="56" target="240">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="57" target="87">
+  <data key="weight">0.75</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="58" target="213">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="59" target="204">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="60" target="211">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="62" target="250">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="63" target="224">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="64" target="218">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="64" target="234">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="66" target="117">
+  <data key="weight">0.7385489344596863</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="66" target="131">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="66" target="256">
+  <data key="weight">8.164966516233108E-7</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="66" target="260">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="67" target="188">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="67" target="224">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="68" target="152">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="68" target="225">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="69" target="101">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="70" target="272">
+  <data key="weight">0.75</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="71" target="251">
+  <data key="weight">0.5669466853141785</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="72" target="113">
+  <data key="weight">0.5892556309700012</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="72" target="148">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="72" target="256">
+  <data key="weight">0.7144345045089722</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="72" target="267">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="87">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="74" target="250">
+  <data key="weight">0.6546536684036255</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="75" target="111">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="76" target="115">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="77" target="111">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="79" target="248">
+  <data key="weight">0.4898979663848877</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="80" target="217">
+  <data key="weight">0.5916079878807068</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="81" target="271">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="82" target="103">
+  <data key="weight">1.0</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="82" target="253">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="83" target="109">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="84" target="172">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="85" target="181">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="86" target="199">
+  <data key="weight">0.513994038105011</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="87" target="129">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="87" target="168">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="87" target="177">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="87" target="248">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="88" target="191">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="88" target="238">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="90" target="111">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="91" target="130">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="93" target="138">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="94" target="138">
+  <data key="weight">0.6172134280204773</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="95" target="159">
+  <data key="weight">0.5357536673545837</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="96" target="147">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="98" target="152">
+  <data key="weight">7.500000265281415E-7</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="98" target="156">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="98" target="166">
+  <data key="weight">0.42640143632888794</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="98" target="213">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="98" target="239">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="99" target="235">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="100" target="258">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="101" target="111">
+  <data key="weight">0.8451542258262634</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="103" target="161">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="103" target="177">
+  <data key="weight">8.660254025016911E-7</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="103" target="228">
+  <data key="weight">0.75</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="105" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="106" target="128">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="107" target="235">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="108" target="181">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="109" target="158">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="109" target="226">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="111" target="158">
+  <data key="weight">1.0</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="111" target="218">
+  <data key="weight">0.7462025284767151</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="111" target="242">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="111" target="244">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="111" target="270">
+  <data key="weight">8.040302645895281E-7</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="112" target="167">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="112" target="262">
+  <data key="weight">1.0</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="114" target="190">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="114" target="237">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="116" target="178">
+  <data key="weight">0.75</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="118" target="260">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="119" target="197">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="120" target="163">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="121" target="149">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="122" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="123" target="236">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="124" target="148">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="125" target="270">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="126" target="260">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="127" target="250">
+  <data key="weight">0.75</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="128" target="181">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="128" target="193">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="128" target="197">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="128" target="198">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="128" target="229">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="130" target="142">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="130" target="197">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="130" target="255">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="133" target="190">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="134" target="243">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="135" target="212">
+  <data key="weight">0.5330017805099487</data>
+  <data key="slice">13</data>
+  <data key="year">2018</data>
+</edge>
+<edge source="135" target="222">
+  <data key="weight">0.41602516174316406</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="135" target="249">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="135" target="250">
+  <data key="weight">0.6837634444236755</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="136" target="201">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="136" target="204">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="136" target="258">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="138" target="151">
+  <data key="weight">0.771516740322113</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="138" target="209">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="138" target="263">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="140" target="201">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="141" target="152">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="143" target="172">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="144" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="144" target="253">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="145" target="230">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="146" target="258">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="147" target="152">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="148" target="154">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="148" target="196">
+  <data key="weight">0.4330127239227295</data>
+  <data key="slice">11</data>
+  <data key="year">2016</data>
+</edge>
+<edge source="149" target="272">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="150" target="173">
+  <data key="weight">0.75</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="151" target="206">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="152" target="183">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="152" target="190">
+  <data key="weight">7.302967901523516E-7</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="152" target="200">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="152" target="243">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="153" target="257">
+  <data key="weight">0.48507124185562134</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="157" target="239">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="157" target="272">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="159" target="264">
+  <data key="weight">0.4745144844055176</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="160" target="163">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="162" target="217">
+  <data key="weight">0.4260064363479614</data>
+  <data key="slice">15</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="163" target="190">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="163" target="224">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="165" target="258">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="167" target="172">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="169" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="170" target="249">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">7</data>
+  <data key="year">2012</data>
+</edge>
+<edge source="171" target="214">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="172" target="176">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="172" target="186">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="172" target="192">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="172" target="241">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="172" target="246">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="173" target="181">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="175" target="181">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="178" target="202">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="178" target="250">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="179" target="190">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="180" target="235">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="181" target="204">
+  <data key="weight">8.164966516233108E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="181" target="209">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="182" target="273">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">10</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="184" target="248">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="184" target="252">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="185" target="190">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="185" target="203">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="186" target="207">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="186" target="261">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">6</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="186" target="271">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="189" target="248">
+  <data key="weight">0.6761233806610107</data>
+  <data key="slice">9</data>
+  <data key="year">2014</data>
+</edge>
+<edge source="190" target="197">
+  <data key="weight">7.745967423034017E-7</data>
+  <data key="slice">4</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="190" target="245">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="195" target="258">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="197" target="232">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="209" target="215">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="209" target="269">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2006</data>
+</edge>
+<edge source="210" target="250">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="214" target="267">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="216" target="244">
+  <data key="weight">0.5892556309700012</data>
+  <data key="slice">12</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="217" target="257">
+  <data key="weight">0.5720775723457336</data>
+  <data key="slice">16</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="219" target="258">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="223" target="243">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="227" target="230">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="230" target="262">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="231" target="242">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="243" target="247">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">3</data>
+  <data key="year">2008</data>
+</edge>
+<edge source="250" target="256">
+  <data key="weight">7.071067784636398E-7</data>
+  <data key="slice">8</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="251" target="273">
+  <data key="weight">0.511890709400177</data>
+  <data key="slice">14</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="253" target="270">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">5</data>
+  <data key="year">2010</data>
+</edge>
+<edge source="265" target="273">
+  <data key="weight">0.4833775758743286</data>
+  <data key="slice">18</data>
+  <data key="year">2023</data>
+</edge>
+</graph>
+</graphml>

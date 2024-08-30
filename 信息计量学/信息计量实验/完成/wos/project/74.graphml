@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">Berners-Lee T</data>
+  <data key="label">Berners-Lee T, 2001, SCI AM, V284, P34, DOI 10.1038/scientificamerican0501-34</data>
+  <data key="author">Berners-Lee T</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">SCI AM</data>
+  <data key="vol">284</data>
+  <data key="page">34</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="1">
+  <data key="name">ANTONIOL G</data>
+  <data key="label">ANTONIOL G, 1995, P IEEE INT C AC SPEE, V1, P588</data>
+  <data key="author">ANTONIOL G</data>
+  <data key="year">1995</data>
+  <data key="title">...</data>
+  <data key="so">P IEEE INT C AC SPEE</data>
+  <data key="vol">1</data>
+  <data key="page">588</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="2">
+  <data key="name">*HEWL PACK</data>
+  <data key="label">*HEWL PACK, 1996, STAND INSTR CONTR LI, V0, P0</data>
+  <data key="author">*HEWL PACK</data>
+  <data key="year">1996</data>
+  <data key="title">...</data>
+  <data key="so">STAND INSTR CONTR LI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="3">
+  <data key="name">ALEXANDER A</data>
+  <data key="label">ALEXANDER A, 1999, P 1999 INT C WEB BAS, V0, P124</data>
+  <data key="author">ALEXANDER A</data>
+  <data key="year">1999</data>
+  <data key="title">...</data>
+  <data key="so">P 1999 INT C WEB BAS</data>
+  <data key="vol">0</data>
+  <data key="page">124</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="4">
+  <data key="name">*NAT LIB MED</data>
+  <data key="label">*NAT LIB MED, 2003, UMLS DOC, V0, P0</data>
+  <data key="author">*NAT LIB MED</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">UMLS DOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="5">
+  <data key="name">Fensel D</data>
+  <data key="label">Fensel D, 1998, INT J HUM-COMPUT ST, V48, P181, DOI 10.1006/ijhc.1997.0168</data>
+  <data key="author">Fensel D</data>
+  <data key="year">1998</data>
+  <data key="title">...</data>
+  <data key="so">INT J HUM-COMPUT ST</data>
+  <data key="vol">48</data>
+  <data key="page">181</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="6">
+  <data key="name">*SABRE</data>
+  <data key="label">*SABRE, 2002, SABR TRIP SHOPP PROD, V0, P0</data>
+  <data key="author">*SABRE</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">SABR TRIP SHOPP PROD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">ABITEBOUL S</data>
+  <data key="label">ABITEBOUL S, 1999, ACM S PRINC DAT SYST, V0, P1</data>
+  <data key="author">ABITEBOUL S</data>
+  <data key="year">1999</data>
+  <data key="title">...</data>
+  <data key="so">ACM S PRINC DAT SYST</data>
+  <data key="vol">0</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">*OBJ MAN GROUP OMG</data>
+  <data key="label">*OBJ MAN GROUP OMG, 1999, XMI SPEC, V0, P0</data>
+  <data key="author">*OBJ MAN GROUP OMG</data>
+  <data key="year">1999</data>
+  <data key="title">...</data>
+  <data key="so">XMI SPEC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="9">
+  <data key="name">*GEN ONT CONS</data>
+  <data key="label">*GEN ONT CONS, 2002, GENOME RES, V11, P1425</data>
+  <data key="author">*GEN ONT CONS</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">GENOME RES</data>
+  <data key="vol">11</data>
+  <data key="page">1425</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="10">
+  <data key="name">Bengio Y</data>
+  <data key="label">Bengio Y, 2001, ADV NEUR IN, V13, P932</data>
+  <data key="author">Bengio Y</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">13</data>
+  <data key="page">932</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="11">
+  <data key="name">KIM W</data>
+  <data key="label">KIM W, 2001, P 7 EUR C SPEECH COM, V0, P717</data>
+  <data key="author">KIM W</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">P 7 EUR C SPEECH COM</data>
+  <data key="vol">0</data>
+  <data key="page">717</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="12">
+  <data key="name">Ortmanns S</data>
+  <data key="label">Ortmanns S, 1997, COMPUT SPEECH LANG, V11, P43, DOI 10.1006/csla.1996.0022</data>
+  <data key="author">Ortmanns S</data>
+  <data key="year">1997</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT SPEECH LANG</data>
+  <data key="vol">11</data>
+  <data key="page">43</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="13">
+  <data key="name">AIST G</data>
+  <data key="label">AIST G, 2002, ITS 2002, V0, P0</data>
+  <data key="author">AIST G</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">ITS 2002</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="14">
+  <data key="name">Shi JB</data>
+  <data key="label">Shi JB, 2000, IEEE T PATTERN ANAL, V22, P888, DOI 10.1109/34.868688</data>
+  <data key="author">Shi JB</data>
+  <data key="year">2000</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T PATTERN ANAL</data>
+  <data key="vol">22</data>
+  <data key="page">888</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="15">
+  <data key="name">*MITR CORP</data>
+  <data key="label">*MITR CORP, 2002, GAL COMM DOC, V0, P0</data>
+  <data key="author">*MITR CORP</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">GAL COMM DOC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="16">
+  <data key="name">[Anonymous]</data>
+  <data key="label">[Anonymous], 1998, ENCY APPL LING, V0, P0, DOI 10.7551/MITPRESS/7287.001.0001</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">1998</data>
+  <data key="title">...</data>
+  <data key="so">ENCY APPL LING</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="17">
+  <data key="name">*BIRN CC</data>
+  <data key="label">*BIRN CC, 2003, PARK DIS MAP, V0, P0</data>
+  <data key="author">*BIRN CC</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">PARK DIS MAP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="18">
+  <data key="name">*SEC EXCH COMM</data>
+  <data key="label">*SEC EXCH COMM, 1999, IMP INF EDGAR, V0, P0</data>
+  <data key="author">*SEC EXCH COMM</data>
+  <data key="year">1999</data>
+  <data key="title">...</data>
+  <data key="so">IMP INF EDGAR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="19">
+  <data key="name">Rumbaugh JE</data>
+  <data key="label">Rumbaugh JE, 1999, UNIFIED MODELING LAN, V0, P0</data>
+  <data key="author">Rumbaugh JE</data>
+  <data key="year">1999</data>
+  <data key="title">...</data>
+  <data key="so">UNIFIED MODELING LAN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="20">
+  <data key="name">Goodman JT</data>
+  <data key="label">Goodman JT, 2001, COMPUT SPEECH LANG, V15, P403, DOI 10.1006/csla.2001.0174</data>
+  <data key="author">Goodman JT</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT SPEECH LANG</data>
+  <data key="vol">15</data>
+  <data key="page">403</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="21">
+  <data key="name">*AM MED ASS</data>
+  <data key="label">*AM MED ASS, 1998, PHYS CURR PROC TERM, V0, P0</data>
+  <data key="author">*AM MED ASS</data>
+  <data key="year">1998</data>
+  <data key="title">...</data>
+  <data key="so">PHYS CURR PROC TERM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="22">
+  <data key="name">ABITEBOUL S</data>
+  <data key="label">ABITEBOUL S, 1997, ICDT, V0, P1</data>
+  <data key="author">ABITEBOUL S</data>
+  <data key="year">1997</data>
+  <data key="title">...</data>
+  <data key="so">ICDT</data>
+  <data key="vol">0</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">ABITEBOUL S</data>
+  <data key="label">ABITEBOUL S, 1997, P 16 ACM SIGACT SIGM, V0, P0</data>
+  <data key="author">ABITEBOUL S</data>
+  <data key="year">1997</data>
+  <data key="title">...</data>
+  <data key="so">P 16 ACM SIGACT SIGM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="24">
+  <data key="name">Schuster-Bockler Benjamin</data>
+  <data key="label">Schuster-Bockler Benjamin, 2007, CURR PROTOC BIOINFORMATICS, VAppendix 3, P3A, DOI 10.1109/MASSP.1986.1165342</data>
+  <data key="author">Schuster-Bockler Benjamin</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">CURR PROTOC BIOINFORMATICS</data>
+  <data key="vol">Appendix 3</data>
+  <data key="page">3A</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="25">
+  <data key="name">ARKIN RC</data>
+  <data key="label">ARKIN RC, 1999, BEHAV BASED ROBOTICS, V0, P0</data>
+  <data key="author">ARKIN RC</data>
+  <data key="year">1999</data>
+  <data key="title">...</data>
+  <data key="so">BEHAV BASED ROBOTICS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="26">
+  <data key="name">*SIL INT IN</data>
+  <data key="label">*SIL INT IN, 2001, EL COMP INF EXCH QUI, V0, P0</data>
+  <data key="author">*SIL INT IN</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">EL COMP INF EXCH QUI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="27">
+  <data key="name">*OR CORP</data>
+  <data key="label">*OR CORP, 2001, OR EXPR OLAP, V0, P0</data>
+  <data key="author">*OR CORP</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">OR EXPR OLAP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="28">
+  <data key="name">*BLEND FDN</data>
+  <data key="label">*BLEND FDN, 2003, BLEND 3D GRAPH CREAT, V0, P0</data>
+  <data key="author">*BLEND FDN</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">BLEND 3D GRAPH CREAT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="29">
+  <data key="name">AKIBA T</data>
+  <data key="label">AKIBA T, 2002, P INT C SPOK LANG PR, V0, P881</data>
+  <data key="author">AKIBA T</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">P INT C SPOK LANG PR</data>
+  <data key="vol">0</data>
+  <data key="page">881</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="30">
+  <data key="name">ALEXANDROV M</data>
+  <data key="label">ALEXANDROV M, 2004, PROCESAMIENTO LENGUA, V33, P0</data>
+  <data key="author">ALEXANDROV M</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">PROCESAMIENTO LENGUA</data>
+  <data key="vol">33</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="31">
+  <data key="name">*IEEE</data>
+  <data key="label">*IEEE, 1998, P10766D112 IEEE, V0, P0</data>
+  <data key="author">*IEEE</data>
+  <data key="year">1998</data>
+  <data key="title">...</data>
+  <data key="so">P10766D112 IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="32">
+  <data key="name">ALLEVA F</data>
+  <data key="label">ALLEVA F, 1996, P IEEE INT C AC SPEE, V1, P133</data>
+  <data key="author">ALLEVA F</data>
+  <data key="year">1996</data>
+  <data key="title">...</data>
+  <data key="so">P IEEE INT C AC SPEE</data>
+  <data key="vol">1</data>
+  <data key="page">133</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="33">
+  <data key="name">*DARP PROJ</data>
+  <data key="label">*DARP PROJ, 1997, HIGH PERF KNOWL BAS, V0, P0</data>
+  <data key="author">*DARP PROJ</data>
+  <data key="year">1997</data>
+  <data key="title">...</data>
+  <data key="so">HIGH PERF KNOWL BAS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="34">
+  <data key="name">*MICR CORP</data>
+  <data key="label">*MICR CORP, 2001, SQL SERV 2000 AN SER, V0, P0</data>
+  <data key="author">*MICR CORP</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">SQL SERV 2000 AN SER</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="35">
+  <data key="name">BANGALORE S</data>
+  <data key="label">BANGALORE S, 2000, COLING SAARB GERM, V0, P42</data>
+  <data key="author">BANGALORE S</data>
+  <data key="year">2000</data>
+  <data key="title">...</data>
+  <data key="so">COLING SAARB GERM</data>
+  <data key="vol">0</data>
+  <data key="page">42</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="36">
+  <data key="name">Chen SF</data>
+  <data key="label">Chen SF, 1999, COMPUT SPEECH LANG, V13, P359, DOI 10.1006/csla.1999.0128</data>
+  <data key="author">Chen SF</data>
+  <data key="year">1999</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT SPEECH LANG</data>
+  <data key="vol">13</data>
+  <data key="page">359</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="37">
+  <data key="name">Abiteboul S</data>
+  <data key="label">Abiteboul S, 1998, J ACM, V45, P798, DOI 10.1145/290179.290182</data>
+  <data key="author">Abiteboul S</data>
+  <data key="year">1998</data>
+  <data key="title">...</data>
+  <data key="so">J ACM</data>
+  <data key="vol">45</data>
+  <data key="page">798</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="38">
+  <data key="name">*BOWN CO</data>
+  <data key="label">*BOWN CO, 2001, SEC ACT HDB, V0, P0</data>
+  <data key="author">*BOWN CO</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">SEC ACT HDB</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="39">
+  <data key="name">*HYP CORP</data>
+  <data key="label">*HYP CORP, 2001, HYP ESSB OLAP 6, V0, P0</data>
+  <data key="author">*HYP CORP</data>

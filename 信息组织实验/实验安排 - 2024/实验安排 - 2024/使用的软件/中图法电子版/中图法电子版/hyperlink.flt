@@ -1,0 +1,241 @@
+
+string sTotal
+
+Record {
+string sParentLink	# 上级类目锚点
+string sChildLink	# 下级类目锚点
+string sHeader		# 头标区
+
+
+int nLevel = 0
+
+
+#### 560
+Field "560" {
+	string a
+	string h
+	string m
+	string s3
+	string s5
+	string z
+	string c
+	string b
+	int chHeader06
+	int chHeader07
+	string sMode67
+	string sWord
+	string sMerge
+	string s1
+	int i
+
+	SubField "1" {	# 临时扩充子字段，层次值
+		s1 = _SUBFIELD
+	}
+	SubField "3" {
+		s1 = _SUBFIELD
+	}
+	SubField "5" {
+		s5 = _SUBFIELD
+	}
+
+	SubField "a" {
+		a = _SUBFIELD
+	}
+	SubField "b" {
+		b = _SUBFIELD
+	}
+	SubField "c" {
+		c = _SUBFIELD
+	}
+	SubField "m" {
+		m = _SUBFIELD
+	}
+	SubField "h" {
+		h = _SUBFIELD
+	}
+	SubField "z" {
+		z << "|"
+		z << _SUBFIELD
+	}
+	SubField "H" {
+		chHeader06 = StrToChar(&_SUBFIELD, 0)
+		chHeader07 = StrToChar(&_SUBFIELD, 1)
+	}
+
+	if (chHeader06 && chHeader07) {
+		sprintf(&sMode67, "%c%c", chHeader06, chHeader07) 
+	}
+
+	if (s5 == "ng" || s5 == "eg") {
+
+		if (StrLen(sParentLink))
+			sParentLink << "\\r"
+		sParentLink << "{HB}"
+
+		sWord = ""
+		sWord << a
+		sWord << b
+		if (StrLen(&c)) {
+			MakeFufenName(sWord,c,&sMerge)
+			sWord = sMerge
+		}
+		sParentLink << sWord
+		#sParentLink << a
+		#sParentLink << b
+		#if (StrLen(&c)) {
+		#	sParentLink << "/"
+		#	sParentLink << c
+		#}
+
+		sParentLink << "{HE}"
+		sParentLink << "{act:\"s word='"
+		sParentLink << a
+		sParentLink << b
+		if (StrLen(&z)==0)
+			sParentLink << c
+		sParentLink << z
+		sParentLink << "'"
+		if (StrLen(&z))
+			sParentLink << " style=fufen"
+		else {
+		if (StrLen(&c)) {
+			if (chHeader06=='x')
+				sParentLink << " style=range"			
+			else
+				sParentLink << " style=shuoming"
+			}
+		}
+		if (StrLen(sMode67)) {
+			sParentLink << " mode67="
+			sParentLink << sMode67
+		}
+		sParentLink << "\"}\\t"
+		sParentLink << " "
+		sParentLink << m
+	}
+	if (s5 == "nh" || s5 == "eh") {
+		if (StrLen(sChildLink))
+			sChildLink << "\\r"
+		sChildLink << "{HB}"
+		if (chHeader06 == 't')
+			sChildLink << "{{"
+		if (chHeader06 == 'y')
+			sChildLink << "["
+
+		sWord = ""
+		sWord << a
+		sWord << b
+		if (StrLen(&c)) {
+			MakeFufenName(sWord,c,&sMerge)
+			sWord = sMerge
+		}
+		sChildLink << sWord
+		#sChildLink << a
+		#sChildLink << b
+		#if (StrLen(&c)) {
+		#	sChildLink << "/"
+		#	sChildLink << c
+		#}
+		if (chHeader06 == 't')
+			sChildLink << "}}"
+		if (chHeader06 == 'y')
+			sChildLink << "]"
+		sChildLink << "{HE}"
+		sChildLink << "{act:\"s word='"
+		sChildLink << a
+		sChildLink << b
+		if (StrLen(&z)==0)
+			sChildLink << c
+		sChildLink << z
+		sChildLink << "'"
+		if (chHeader06 == 't')
+			sChildLink << " style=t"
+		if (chHeader06 == 'y')
+			sChildLink << " style=y"
+		if (StrLen(&z)) {
+			sChildLink << " style=fufen"
+			if (StrLen(&c) && StrLen(s3)) { ## 有$c的情况，怕索引不够专指，采用id定位
+				sChildLink << " id="
+				sChildLink << s3
+			}
+		}
+		else {
+#		if (StrLen(&c))
+#			sChildLink << " style=shuoming"
+		if (StrLen(&c)) {
+			if (chHeader06=='x')
+				sChildLink << " style=range"			
+			else
+				sChildLink << " style=shuoming"
+			}
+		
+		}
+		if (StrLen(sMode67)) {
+			sChildLink << " mode67="
+			sChildLink << sMode67
+		}
+		sChildLink << "\"}\\t"
+		### 根据层次决定tab个数
+		nLevel = stoi(s1)
+		i=0
+		loop (i<nLevel)
+			sChildLink << ""	# 全角空格
+			i = i + 1
+		endloop
+		sChildLink << " "
+		sChildLink << m
+	}
+
+
+}
+
+
+#### 结束
+{
+
+
+	if (StrLen(&sTotal))
+		sTotal << "\\r"
+	sTotal << sChildLink
+
+
+}
+
+
+} # record结束
+
+
+{
+	string stemp
+	int nSize = 18
+	int nLeft = 60
+
+	int nPerCharWidth = 14
+
+#	sprintf(&stemp, "link _nLevel[%d]", _nLevel)
+#	MsgBox(stemp)
+
+### 计算段落左边距
+
+	if (_nLevel) {
+		nSize = 24 - ((_nLevel - 1)* 2)
+		if (nSize < 18)
+			nSize = 18
+		nLeft = 90 + ((_nLevel - 1) * 12)
+	}
+	else {
+		nLeft = 90 + ((5 - 1) * 12)
+	}
+
+
+	if (_nHyperWidth < 400)
+		_nHyperWidth = 400
+
+### 本类目下级类目锚点
+
+    if (StrLen(&sTotal)) {
+	    fnprintf(HyperFn, "{ParagraphBegin}{LeftBorder:%d}{Indent:0}{RightBorder:%d}\\r{Font:\"Times New Roman\"}{tabs:0, %d}{size:18}%s{size:18}{ParagraphEnd}", nLeft + nPerCharWidth, _nHyperWidth - 20, nLeft + nPerCharWidth, &sTotal)
+	}
+
+
+}

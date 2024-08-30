@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--In treetable view you will get a listbox while-->
+<!--editing enumerations-->
+<!--assign the doc.xsd and type something in the align attribute-->
+<ex:doc xmlns:ex="http://www.donkeydevelopment.com/schema/example"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.donkeydevelopment.com/schema/example ../XML%20Schemas/doc.xsd">
+    <ex:paragraaf align="left"/>
+    <ex:paragraaf align="left"/>
+</ex:doc>

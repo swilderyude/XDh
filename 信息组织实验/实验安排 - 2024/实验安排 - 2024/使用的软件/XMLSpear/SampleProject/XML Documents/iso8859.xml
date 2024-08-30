@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--correct the FileEncoding while opening this file-->
+<!--choose ISO-8859-1 in the combobox list and see Janié show up well-->
+<note>
+    <!--k-->
+    <to>Tove</to>
+    <from>Janié</from>
+    <heading>Reminder</heading>
+    <body>Don't forget me this weekend!</body>
+</note>
+<!--k-->

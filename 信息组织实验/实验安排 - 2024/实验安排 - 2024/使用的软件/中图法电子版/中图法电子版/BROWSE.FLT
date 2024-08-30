@@ -1,0 +1,71 @@
+############################################
+### browse.flt
+### 由中图法MARC数据构造浏览格式dtscript程序
+### 作者：北京丹诚软件有限责任公司 谢涛
+### 编写时间: 2001.3
+
+string sClassNumber	# 类号 200$a 200$c
+string sClassName	# 类名 200$m
+string sLevel		# 类级 200$h
+
+string sZhushi		# 注释 330 331 332
+
+int chHeader06
+
+#### 头标区
+Field "hdr" {
+	chHeader06 = StrToChar(&_FIELD, 6)
+#	chHeader07 = StrToChar(&_FIELD, 7)
+}
+
+Field "260" {
+	string a
+	string c
+	string b
+
+	SubField "a" {
+		a << _SUBFIELD
+	}
+	SubField "b" {
+		b << _SUBFIELD
+	}
+	SubField "c" {
+		c << _SUBFIELD
+	}
+	SubField "m" {
+		sClassName << _SUBFIELD
+	}
+	SubField "h" {
+		sLevel	<< _SUBFIELD
+	}
+
+	sClassNumber << a
+	sClassNumber << b
+	if (c != "") {	# 有结尾号
+		MakeFufenName(sClassNumber,c,&sClassNumber)
+#		sClassNumber << "/"
+#		sClassNumber << c
+	}
+	if (chHeader06 == 'y') {
+		StrIns(&sClassNumber, 0, "[")
+		sClassNumber << "]"
+	}
+	if (StrLen(&b)) {
+		StrIns(&sClassNumber, 0, "{")
+		sClassNumber << "}"
+	}
+
+}
+
+Field "3**" {
+	SubField "*" {
+
+		sZhushi << _SUBFIELD
+	}
+
+}
+
+
+# 输出结果
+# _sOutput为宿主程序预定义的环境变量，用来接收输出结果
+sprintf(&_sOutput, "%s\t%s\t%s\t%s", &sLevel, &sClassNumber, &sClassName, &sZhushi)

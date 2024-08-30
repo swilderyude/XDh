@@ -1,0 +1,4893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">Zhang YZ</data>
+  <data key="label">Zhang YZ, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020): SYSTEM DEMONSTRATIONS, V0, P270</data>
+  <data key="author">Zhang YZ</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020): SYSTEM DEMONSTRATIONS</data>
+  <data key="vol">0</data>
+  <data key="page">270</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="1">
+  <data key="name">Tenney I</data>
+  <data key="label">Tenney I, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P4593</data>
+  <data key="author">Tenney I</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">4593</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="2">
+  <data key="name">Anderson P</data>
+  <data key="label">Anderson P, 2018, PROC CVPR IEEE, V0, PP3674, DOI 10.1109/CVPR.2018.00387</data>
+  <data key="author">Anderson P</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">3674</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="3">
+  <data key="name">Cambria E</data>
+  <data key="label">Cambria E, 2012, MULTIMED TOOLS APPL, V59, P557, DOI 10.1007/s11042-011-0815-0</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">MULTIMED TOOLS APPL</data>
+  <data key="vol">59</data>
+  <data key="page">557</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="4">
+  <data key="name">Dosovitskiy Alexey</data>
+  <data key="label">Dosovitskiy Alexey, 2021, PROC 9 INT C LEARN R, V0, P0</data>
+  <data key="author">Dosovitskiy Alexey</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">PROC 9 INT C LEARN R</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="5">
+  <data key="name">Abadi Martprimein</data>
+  <data key="label">Abadi Martprimein, 2015, TENSOR FLOW LARGE SC, V0, P0</data>
+  <data key="author">Abadi Martprimein</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">TENSOR FLOW LARGE SC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="6">
+  <data key="name">Sun C</data>
+  <data key="label">Sun C, 2019, IEEE I CONF COMP VIS, V0, PP7463, DOI 10.1109/ICCV.2019.00756</data>
+  <data key="author">Sun C</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">IEEE I CONF COMP VIS</data>
+  <data key="vol">0</data>
+  <data key="page">7463</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="7">
+  <data key="name">Veličkovic P</data>
+  <data key="label">Veličkovic P, 2018, ARXIV, V0, P0</data>
+  <data key="author">Veličkovic P</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="8">
+  <data key="name">Bowman Samuel R</data>
+  <data key="label">Bowman Samuel R, 2015, P 2015 C EMP METH NA, V0, PP632, DOI 10.18653/V1/D15-1075</data>
+  <data key="author">Bowman Samuel R</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">P 2015 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">632</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="9">
+  <data key="name">Devlin J</data>
+  <data key="label">Devlin J, 2014, PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1370</data>
+  <data key="author">Devlin J</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">OL 1</data>
+  <data key="page">1370</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="10">
+  <data key="name">Zhang Tianyi</data>
+  <data key="label">Zhang Tianyi, 2020, ICLR, V0, P0</data>
+  <data key="author">Zhang Tianyi</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ICLR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="11">
+  <data key="name">Bender Emily M</data>
+  <data key="label">Bender Emily M, 2021, FACCT 21: PROCEEDINGS OF THE 2021 ACM CONFERENCE ON FAIRNESS, V0, P0</data>
+  <data key="author">Bender Emily M</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">FACCT 21: PROCEEDINGS OF THE 2021 ACM CONFERENCE ON FAIRNESS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="12">
+  <data key="name">Li Xiujun</data>
+  <data key="label">Li Xiujun, 2020, P 16 EUR C COMP VIS, V12375, P121, DOI 10.1007/978-3-030-58577-8_8/TABLES/4</data>
+  <data key="author">Li Xiujun</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">P 16 EUR C COMP VIS</data>
+  <data key="vol">12375</data>
+  <data key="page">121</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="13">
+  <data key="name">Artetxe M</data>
+  <data key="label">Artetxe M, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1, P451, DOI 10.18653/v1/P17-1042</data>
+  <data key="author">Artetxe M</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017)</data>
+  <data key="vol">OL 1</data>
+  <data key="page">451</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="14">
+  <data key="name">Blunsom P</data>
+  <data key="label">Blunsom P, 2009, P JOINT C 47 ANN M A, V0, P782</data>
+  <data key="author">Blunsom P</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">P JOINT C 47 ANN M A</data>
+  <data key="vol">0</data>
+  <data key="page">782</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="15">
+  <data key="name">Simonyan K</data>
+  <data key="label">Simonyan K, 2015, ARXIV, V0, P0</data>
+  <data key="author">Simonyan K</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+</node>
+<node id="16">
+  <data key="name">See A</data>
+  <data key="label">See A, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1, P1073, DOI 10.18653/v1/P17-1099</data>
+  <data key="author">See A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017)</data>
+  <data key="vol">OL 1</data>
+  <data key="page">1073</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="17">
+  <data key="name">Li S</data>
+  <data key="label">Li S, 2011, P C COMP NAT LANG LE, V0, P220</data>
+  <data key="author">Li S</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P C COMP NAT LANG LE</data>
+  <data key="vol">0</data>
+  <data key="page">220</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="18">
+  <data key="name">Taboada M</data>
+  <data key="label">Taboada M, 2011, COMPUT LINGUIST, V37, P267, DOI 10.1162/COLI_a_00049</data>
+  <data key="author">Taboada M</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT LINGUIST</data>
+  <data key="vol">37</data>
+  <data key="page">267</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="19">
+  <data key="name">Ji SX</data>
+  <data key="label">Ji SX, 2022, IEEE T NEUR NET LEAR, V33, P494, DOI 10.1109/TNNLS.2021.3070843</data>
+  <data key="author">Ji SX</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T NEUR NET LEAR</data>
+  <data key="vol">33</data>
+  <data key="page">494</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="20">
+  <data key="name">Donahue J</data>
+  <data key="label">Donahue J, 2015, PROC CVPR IEEE, V0, PP2625, DOI 10.1109/CVPR.2015.7298878</data>
+  <data key="author">Donahue J</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">2625</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="21">
+  <data key="name">Holtzman Ari</data>
+  <data key="label">Holtzman Ari, 2020, ICLR, V0, P0</data>
+  <data key="author">Holtzman Ari</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ICLR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="22">
+  <data key="name">Liu Yinhan</data>
+  <data key="label">Liu Yinhan, 2019, ARXIV190711692, V0, P0</data>
+  <data key="author">Liu Yinhan</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV190711692</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">22</data>
+</node>
+<node id="23">
+  <data key="name">Tang DY</data>
+  <data key="label">Tang DY, 2014, PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1555</data>
+  <data key="author">Tang DY</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">OL 1</data>
+  <data key="page">1555</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="24">
+  <data key="name">Kitaev Nikita</data>
+  <data key="label">Kitaev Nikita, 2020, ARXIV200104451, V0, P0</data>
+  <data key="author">Kitaev Nikita</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV200104451</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="25">
+  <data key="name">Ciaramita Massimiliano</data>
+  <data key="label">Ciaramita Massimiliano, 2006, P 2006 C EMP METH NA, V0, PP594, DOI 10.3115/1610075.1610158</data>
+  <data key="author">Ciaramita Massimiliano</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">P 2006 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">594</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="26">
+  <data key="name">Pennington Jeffrey</data>
+  <data key="label">Pennington Jeffrey, 2014, P 2014 C EMP METH NA, V0, PP1532, DOI 10.3115/V1/D14-1162</data>
+  <data key="author">Pennington Jeffrey</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">P 2014 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">1532</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="27">
+  <data key="name">Kaiming He</data>
+  <data key="label">Kaiming He, 2016, 2016 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR), V0, PP770, DOI 10.1109/CVPR.2016.90</data>
+  <data key="author">Kaiming He</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">2016 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)</data>
+  <data key="vol">0</data>
+  <data key="page">770</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="28">
+  <data key="name">Clark Kevin</data>
+  <data key="label">Clark Kevin, 2020, ICLR, V0, P0</data>
+  <data key="author">Clark Kevin</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ICLR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="29">
+  <data key="name">Yao L</data>
+  <data key="label">Yao L, 2019, AAAI CONF ARTIF INTE, V0, P7370</data>
+  <data key="author">Yao L</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">7370</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="30">
+  <data key="name">Le Q</data>
+  <data key="label">Le Q, 2014, INT C MACHINE LEARNI, V32, P0, DOI 10.1145/2740908.2742760</data>
+  <data key="author">Le Q</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">INT C MACHINE LEARNI</data>
+  <data key="vol">32</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="31">
+  <data key="name">Cooper H</data>
+  <data key="label">Cooper H, 2007, LECT NOTES COMPUT SC, V4796, P88</data>
+  <data key="author">Cooper H</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUT SC</data>
+  <data key="vol">4796</data>
+  <data key="page">88</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="32">
+  <data key="name">[Anonymous]</data>
+  <data key="label">[Anonymous], 2011, P 49 ANN M ASS COMPU, V0, P0</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P 49 ANN M ASS COMPU</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="33">
+  <data key="name">Bojanowski P</data>
+  <data key="label">Bojanowski P, 2017, T ASSOC COMPUT LING, V5, P135, DOI 10.1162/tacl_a_00051</data>
+  <data key="author">Bojanowski P</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">5</data>
+  <data key="page">135</data>
+  <data key="ut"></data>
+  <data key="freq">41</data>
+</node>
+<node id="34">
+  <data key="name">Sanh Victor</data>
+  <data key="label">Sanh Victor, 2019, ARXIV191001108, V0, P0</data>
+  <data key="author">Sanh Victor</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV191001108</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="35">
+  <data key="name">BILOTTI MW</data>
+  <data key="label">BILOTTI MW, 2007, P 30 ANN INT ACM SIG, V0, P351</data>
+  <data key="author">BILOTTI MW</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 30 ANN INT ACM SIG</data>
+  <data key="vol">0</data>
+  <data key="page">351</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="36">
+  <data key="name">Conneau Alexis</data>
+  <data key="label">Conneau Alexis, 2020, P 58 ANN M ASS COMP, V0, PP8440, DOI 10.18653/V1/2020.ACL-MAIN.747</data>
+  <data key="author">Conneau Alexis</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">P 58 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">8440</data>
+  <data key="ut"></data>
+  <data key="freq">20</data>
+</node>
+<node id="37">
+  <data key="name">Collins M</data>
+  <data key="label">Collins M, 2002, 40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, V0, P489</data>
+  <data key="author">Collins M</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">40TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">0</data>
+  <data key="page">489</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="38">
+  <data key="name">Venugopalan S</data>
+  <data key="label">Venugopalan S, 2015, IEEE I CONF COMP VIS, V0, PP4534, DOI 10.1109/ICCV.2015.515</data>
+  <data key="author">Venugopalan S</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">IEEE I CONF COMP VIS</data>
+  <data key="vol">0</data>
+  <data key="page">4534</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="39">
+  <data key="name">Pires T</data>
+  <data key="label">Pires T, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P4996</data>
+  <data key="author">Pires T</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">4996</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="40">
+  <data key="name">Dong L</data>
+  <data key="label">Dong L, 2019, ADV NEUR IN, V32, P0</data>
+  <data key="author">Dong L</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">32</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="41">
+  <data key="name">Lan ZZ</data>
+  <data key="label">Lan ZZ, 2020, ARXIV, V0, P0</data>
+  <data key="author">Lan ZZ</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="42">
+  <data key="name">Liu YH</data>
+  <data key="label">Liu YH, 2020, T ASSOC COMPUT LING, V8, P726, DOI 10.1162/tacl_a_00343</data>
+  <data key="author">Liu YH</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">8</data>
+  <data key="page">726</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="43">
+  <data key="name">Rogers A</data>
+  <data key="label">Rogers A, 2020, T ASSOC COMPUT LING, V8, P842, DOI 10.1162/tacl_a_00349</data>
+  <data key="author">Rogers A</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">8</data>
+  <data key="page">842</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="44">
+  <data key="name">[Anonymous]</data>
+  <data key="label">[Anonymous], 2002, P INT C SPOKEN LANGU, V0, P0</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">P INT C SPOKEN LANGU</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="45">
+  <data key="name">Tapaswi M</data>
+  <data key="label">Tapaswi M, 2016, PROC CVPR IEEE, V0, PP4631, DOI 10.1109/CVPR.2016.501</data>
+  <data key="author">Tapaswi M</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">4631</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="46">
+  <data key="name">Florian R</data>
+  <data key="label">Florian R, 2003, P 7 C NAT LANG LEARN, V4, P168, DOI 10.3115/1119176.1119201</data>
+  <data key="author">Florian R</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">P 7 C NAT LANG LEARN</data>
+  <data key="vol">4</data>
+  <data key="page">168</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="47">
+  <data key="name">Hodosh M</data>
+  <data key="label">Hodosh M, 2014, P TACL, V7, P67, DOI 10.1162/tacl_a_00166</data>
+  <data key="author">Hodosh M</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">P TACL</data>
+  <data key="vol">7</data>
+  <data key="page">67</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="48">
+  <data key="name">Cooper Helen</data>
+  <data key="label">Cooper Helen, 2011, VISUAL ANAL HUMANS, V0, P0</data>
+  <data key="author">Cooper Helen</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">VISUAL ANAL HUMANS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="49">
+  <data key="name">Cho Kyunghyun</data>
+  <data key="label">Cho Kyunghyun, 2014, ARXIV PREPRINT ARXIV, V4, P4, DOI 10.3115/v1/w14-4012</data>
+  <data key="author">Cho Kyunghyun</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV PREPRINT ARXIV</data>
+  <data key="vol">4</data>
+  <data key="page">4</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="50">
+  <data key="name">Williams A</data>
+  <data key="label">Williams A, 2018, P 2018 C N AM CHAPTE, V0, PP1112, DOI 10.18653/v1/N18-1101</data>
+  <data key="author">Williams A</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">P 2018 C N AM CHAPTE</data>
+  <data key="vol">0</data>
+  <data key="page">1112</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="51">
+  <data key="name">Chen T</data>
+  <data key="label">Chen T, 2020, PR MACH LEARN RES, V119, P0</data>
+  <data key="author">Chen T</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">119</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="52">
+  <data key="name">Mikolov T</data>
+  <data key="label">Mikolov T, 2012, STAT LANGUAGE MODELS, V0, P0</data>
+  <data key="author">Mikolov T</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">STAT LANGUAGE MODELS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="53">
+  <data key="name">Krizhevsky Alex</data>
+  <data key="label">Krizhevsky Alex, 2017, COMMUNICATIONS OF THE ACM, V60, P84, DOI 10.1145/3065386</data>
+  <data key="author">Krizhevsky Alex</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">COMMUNICATIONS OF THE ACM</data>
+  <data key="vol">60</data>
+  <data key="page">84</data>
+  <data key="ut"></data>
+  <data key="freq">32</data>
+</node>
+<node id="54">
+  <data key="name">Sun Y</data>
+  <data key="label">Sun Y, 2019, ARXIV, V0, P0</data>
+  <data key="author">Sun Y</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="55">
+  <data key="name">Dai ZH</data>
+  <data key="label">Dai ZH, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P2978</data>
+  <data key="author">Dai ZH</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">2978</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="56">
+  <data key="name">Anderson P</data>
+  <data key="label">Anderson P, 2018, PROC CVPR IEEE, V0, PP6077, DOI 10.1109/CVPR.2018.00636</data>
+  <data key="author">Anderson P</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">6077</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="57">
+  <data key="name">Bilmes JA</data>
+  <data key="label">Bilmes JA, 2003, P C N AM CHAPT ASS C, V0, PP4, DOI 10.3115/1073483.1073485</data>
+  <data key="author">Bilmes JA</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">P C N AM CHAPT ASS C</data>
+  <data key="vol">0</data>
+  <data key="page">4</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="58">
+  <data key="name">Vogt P</data>
+  <data key="label">Vogt P, 2003, JASSS-J ARTIF SOC S, V6, P0</data>
+  <data key="author">Vogt P</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">JASSS-J ARTIF SOC S</data>
+  <data key="vol">6</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="59">
+  <data key="name">Tang D</data>
+  <data key="label">Tang D, 2015, EMNLP, V0, P0, DOI 10.18653/v1/D15-1167</data>
+  <data key="author">Tang D</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">EMNLP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="60">
+  <data key="name">AREVALO M</data>
+  <data key="label">AREVALO M, 2004, INT J CORPUS LINGUIS, V9, P53</data>
+  <data key="author">AREVALO M</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">INT J CORPUS LINGUIS</data>
+  <data key="vol">9</data>
+  <data key="page">53</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="61">
+  <data key="name">Klein G</data>
+  <data key="label">Klein G, 2017, PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017): SYSTEM DEMONSTRATIONS, V0, PP67, DOI 10.18653/v1/P17-4012</data>
+  <data key="author">Klein G</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017): SYSTEM DEMONSTRATIONS</data>
+  <data key="vol">0</data>
+  <data key="page">67</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="62">
+  <data key="name">Ott M</data>
+  <data key="label">Ott M, 2019, NAACL HLT 2019: THE 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES: PROCEEDINGS OF THE DEMONSTRATIONS SESSION, V0, P48</data>
+  <data key="author">Ott M</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">NAACL HLT 2019: THE 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES: PROCEEDINGS OF THE DEMONSTRATIONS SESSION</data>
+  <data key="vol">0</data>
+  <data key="page">48</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="63">
+  <data key="name">Cornia Marcella</data>
+  <data key="label">Cornia Marcella, 2020, 2020 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR). PROCEEDINGS, V0, PP10575, DOI 10.1109/CVPR42600.2020.01059</data>
+  <data key="author">Cornia Marcella</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">2020 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR). PROCEEDINGS</data>
+  <data key="vol">0</data>
+  <data key="page">10575</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="64">
+  <data key="name">Ben-Younes H</data>
+  <data key="label">Ben-Younes H, 2019, AAAI CONF ARTIF INTE, V0, P8102</data>
+  <data key="author">Ben-Younes H</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">8102</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="65">
+  <data key="name">Finkel JR</data>
+  <data key="label">Finkel JR, 2008, P ACL08, V0, P959</data>
+  <data key="author">Finkel JR</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">P ACL08</data>
+  <data key="vol">0</data>
+  <data key="page">959</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="66">
+  <data key="name">Kuratov Y</data>
+  <data key="label">Kuratov Y, 2019, ABS190507213 CORR, V0, P0</data>
+  <data key="author">Kuratov Y</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ABS190507213 CORR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="67">
+  <data key="name">Wei J</data>
+  <data key="label">Wei J, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), V0, P6382</data>
+  <data key="author">Wei J</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">6382</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="68">
+  <data key="name">Jiang ZB</data>
+  <data key="label">Jiang ZB, 2020, T ASSOC COMPUT LING, V8, P423, DOI 10.1162/tacl_a_00324</data>
+  <data key="author">Jiang ZB</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">8</data>
+  <data key="page">423</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="69">
+  <data key="name">Pennington Jeffrey</data>
+  <data key="label">Pennington Jeffrey, 2014, P 2014 C EMP METH NA, V0, P0, DOI 10.3115/V1/D14-1162</data>
+  <data key="author">Pennington Jeffrey</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">P 2014 C EMP METH NA</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="70">
+  <data key="name">McCoy RT</data>
+  <data key="label">McCoy RT, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P3428</data>
+  <data key="author">McCoy RT</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">3428</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="71">
+  <data key="name">Petroni F</data>
+  <data key="label">Petroni F, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), V0, P2463</data>
+  <data key="author">Petroni F</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">2463</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="72">
+  <data key="name">Carreras Xavier</data>
+  <data key="label">Carreras Xavier, 2002, P CONLL 2002 TAIP TA, V0, P167</data>
+  <data key="author">Carreras Xavier</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">P CONLL 2002 TAIP TA</data>
+  <data key="vol">0</data>
+  <data key="page">167</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="73">
+  <data key="name">Blei DM</data>
+  <data key="label">Blei DM, 2012, COMMUN ACM, V55, P77, DOI 10.1145/2133806.2133826</data>
+  <data key="author">Blei DM</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">COMMUN ACM</data>
+  <data key="vol">55</data>
+  <data key="page">77</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="74">
+  <data key="name">Kiros Ryan</data>
+  <data key="label">Kiros Ryan, 2015, ADV NEURAL INFORM PR, V28, P3, DOI 10.48550/ARXIV.1506.06726</data>
+  <data key="author">Kiros Ryan</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEURAL INFORM PR</data>
+  <data key="vol">28</data>
+  <data key="page">3</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="75">
+  <data key="name">Wang Alex</data>
+  <data key="label">Wang Alex, 2018, P 2018 EMNLP WORKSH, V2, P353, DOI 10.18653/v1/W18-5446</data>
+  <data key="author">Wang Alex</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">P 2018 EMNLP WORKSH</data>
+  <data key="vol">2</data>
+  <data key="page">353</data>
+  <data key="ut"></data>
+  <data key="freq">25</data>
+</node>
+<node id="76">
+  <data key="name">Ba Jimmy Lei</data>
+  <data key="label">Ba Jimmy Lei, 2016, ARXIV160706450, V0, P0</data>
+  <data key="author">Ba Jimmy Lei</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV160706450</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="77">
+  <data key="name">Vaswani A</data>
+  <data key="label">Vaswani A, 2013, P 2013 C EMPIRICAL M, V0, P1387</data>
+  <data key="author">Vaswani A</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">P 2013 C EMPIRICAL M</data>
+  <data key="vol">0</data>
+  <data key="page">1387</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="78">
+  <data key="name">Kudo T</data>
+  <data key="label">Kudo T, 2018, CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018): PROCEEDINGS OF SYSTEM DEMONSTRATIONS, V0, P66</data>
+  <data key="author">Kudo T</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018): PROCEEDINGS OF SYSTEM DEMONSTRATIONS</data>
+  <data key="vol">0</data>
+  <data key="page">66</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="79">
+  <data key="name">Tan H</data>
+  <data key="label">Tan H, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), V0, P5100</data>
+  <data key="author">Tan H</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">5100</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="80">
+  <data key="name">Xue LT</data>
+  <data key="label">Xue LT, 2021, 2021 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL-HLT 2021), V0, P483</data>
+  <data key="author">Xue LT</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">2021 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL-HLT 2021)</data>
+  <data key="vol">0</data>
+  <data key="page">483</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="81">
+  <data key="name">You QZ</data>
+  <data key="label">You QZ, 2016, PROC CVPR IEEE, V0, PP4651, DOI 10.1109/CVPR.2016.503</data>
+  <data key="author">You QZ</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">4651</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="82">
+  <data key="name">Auli M</data>
+  <data key="label">Auli M, 2013, P 2013 C EMPIRICAL M, V13, P1044</data>
+  <data key="author">Auli M</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">P 2013 C EMPIRICAL M</data>
+  <data key="vol">13</data>
+  <data key="page">1044</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="83">
+  <data key="name">Chang CC</data>
+  <data key="label">Chang CC, 2011, ACM T INTEL SYST TEC, V2, P0, DOI 10.1145/1961189.1961199</data>
+  <data key="author">Chang CC</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ACM T INTEL SYST TEC</data>
+  <data key="vol">2</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="84">
+  <data key="name">Ando RK</data>
+  <data key="label">Ando RK, 2005, J MACH LEARN RES, V6, P1817</data>
+  <data key="author">Ando RK</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">J MACH LEARN RES</data>
+  <data key="vol">6</data>
+  <data key="page">1817</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="85">
+  <data key="name">Radford A</data>
+  <data key="label">Radford A, 2019, LANGUAGE MODELS ARE, V0, P0, DOI 10.1109/CVPRW.2017.228</data>
+  <data key="author">Radford A</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">LANGUAGE MODELS ARE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">60</data>
+</node>
+<node id="86">
+  <data key="name">Hamilton WL</data>
+  <data key="label">Hamilton WL, 2017, ADV NEUR IN, V30, P0</data>
+  <data key="author">Hamilton WL</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">30</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="87">
+  <data key="name">Hodosh M</data>
+  <data key="label">Hodosh M, 2013, J ARTIF INTELL RES, V47, P853, DOI 10.1613/jair.3994</data>
+  <data key="author">Hodosh M</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">J ARTIF INTELL RES</data>
+  <data key="vol">47</data>
+  <data key="page">853</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="88">
+  <data key="name">Devlin J</data>
+  <data key="label">Devlin J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4171</data>
+  <data key="author">Devlin J</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019)</data>
+  <data key="vol">OL. 1</data>
+  <data key="page">4171</data>
+  <data key="ut"></data>
+  <data key="freq">107</data>
+</node>
+<node id="89">
+  <data key="name">Bengio Y</data>
+  <data key="label">Bengio Y, 2001, ADV NEUR IN, V13, P932</data>
+  <data key="author">Bengio Y</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">13</data>
+  <data key="page">932</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="90">
+  <data key="name">Sun C</data>
+  <data key="label">Sun C, 2019, LECT NOTES ARTIF INT, V11856, P194, DOI 10.1007/978-3-030-32381-3_16</data>
+  <data key="author">Sun C</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES ARTIF INT</data>
+  <data key="vol">11856</data>
+  <data key="page">194</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="91">
+  <data key="name">Rath TM</data>
+  <data key="label">Rath TM, 2003, PROC CVPR IEEE, V0, P521</data>
+  <data key="author">Rath TM</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">521</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="92">
+  <data key="name">Yen-Chun Chen</data>
+  <data key="label">Yen-Chun Chen, 2020, COMPUTER VISION - ECCV 2020 16TH EUROPEAN CONFERENCE. PROCEEDINGS. LECTURE NOTES IN COMPUTER SCIENCE (LNCS 12375), V0, PP104, DOI 10.1007/978-3-030-58577-8_7</data>
+  <data key="author">Yen-Chun Chen</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">COMPUTER VISION - ECCV 2020 16TH EUROPEAN CONFERENCE. PROCEEDINGS. LECTURE NOTES IN COMPUTER SCIENCE (LNCS 12375)</data>
+  <data key="vol">0</data>
+  <data key="page">104</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="93">
+  <data key="name">Schmidhuber J</data>
+  <data key="label">Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003</data>
+  <data key="author">Schmidhuber J</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">NEURAL NETWORKS</data>
+  <data key="vol">61</data>
+  <data key="page">85</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="94">
+  <data key="name">Lewis Mike</data>
+  <data key="label">Lewis Mike, 2020, P 58 ANN M ASS COMPU, V0, PP7871, DOI 10.18653/V1/2020.ACL-MAIN.703</data>
+  <data key="author">Lewis Mike</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">P 58 ANN M ASS COMPU</data>
+  <data key="vol">0</data>
+  <data key="page">7871</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="95">
+  <data key="name">Agarwal B</data>
+  <data key="label">Agarwal B, 2015, COMPUT INTEL NEUROSC, V2015, P0, DOI 10.1155/2015/715730</data>
+  <data key="author">Agarwal B</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT INTEL NEUROSC</data>
+  <data key="vol">2015</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="96">
+  <data key="name">Cho Kyunghyun</data>
+  <data key="label">Cho Kyunghyun, 2014, EMNLP 2014 2014 C EM, V0, P0, DOI 10.3115/V1</data>
+  <data key="author">Cho Kyunghyun</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">EMNLP 2014 2014 C EM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="97">
+  <data key="name">Speer R</data>
+  <data key="label">Speer R, 2017, AAAI CONF ARTIF INTE, V0, P4444</data>
+  <data key="author">Speer R</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">4444</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="98">
+  <data key="name">Mikolov Tomas</data>
+  <data key="label">Mikolov Tomas, 2013, INT C LEARN REPR, V0, P0</data>
+  <data key="author">Mikolov Tomas</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">INT C LEARN REPR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="99">
+  <data key="name">[Anonymous]</data>
+  <data key="label">[Anonymous], 2011, P C EMPIRICAL METHOD, V0, P0</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P C EMPIRICAL METHOD</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="100">
+  <data key="name">Davison Andrew P</data>
+  <data key="label">Davison Andrew P, 2008, FRONT NEUROINFORM, V2, P11, DOI 10.3389/neuro.11.011.2008</data>
+  <data key="author">Davison Andrew P</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">FRONT NEUROINFORM</data>
+  <data key="vol">2</data>
+  <data key="page">11</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="101">
+  <data key="name">Malinowski Mateusz</data>
+  <data key="label">Malinowski Mateusz, 2014, NEURIPS, V0, P0</data>
+  <data key="author">Malinowski Mateusz</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">NEURIPS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="102">
+  <data key="name">Xu K</data>
+  <data key="label">Xu K, 2015, PR MACH LEARN RES, V37, P2048</data>
+  <data key="author">Xu K</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">37</data>
+  <data key="page">2048</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="103">
+  <data key="name">Goodfellow I</data>
+  <data key="label">Goodfellow I, 2020, COMMUN ACM, V63, P139, DOI 10.1145/3422622</data>
+  <data key="author">Goodfellow I</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">COMMUN ACM</data>
+  <data key="vol">63</data>
+  <data key="page">139</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="104">
+  <data key="name">Crammer K</data>
+  <data key="label">Crammer K, 2006, J MACH LEARN RES, V7, P551</data>
+  <data key="author">Crammer K</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">J MACH LEARN RES</data>
+  <data key="vol">7</data>
+  <data key="page">551</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="105">
+  <data key="name">Fang H</data>
+  <data key="label">Fang H, 2015, PROC CVPR IEEE, V0, PP1473, DOI 10.1109/CVPR.2015.7298754</data>
+  <data key="author">Fang H</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">1473</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="106">
+  <data key="name">Srivastava N</data>
+  <data key="label">Srivastava N, 2014, J MACH LEARN RES, V15, P1929</data>
+  <data key="author">Srivastava N</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">J MACH LEARN RES</data>
+  <data key="vol">15</data>
+  <data key="page">1929</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="107">
+  <data key="name">GRACA J</data>
+  <data key="label">GRACA J, 2009, P NIPS, V0, P0</data>
+  <data key="author">GRACA J</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">P NIPS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="108">
+  <data key="name">Cambria E</data>
+  <data key="label">Cambria E, 2015, AAAI CONF ARTIF INTE, V0, P508</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">508</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="109">
+  <data key="name">Goodfellow I</data>
+  <data key="label">Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P1</data>
+  <data key="author">Goodfellow I</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">ADAPT COMPUT MACH LE</data>
+  <data key="vol">0</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="110">
+  <data key="name">Devlin J</data>
+  <data key="label">Devlin J, 2018, ARXIV, V1, P4171</data>
+  <data key="author">Devlin J</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">1</data>
+  <data key="page">4171</data>
+  <data key="ut"></data>
+  <data key="freq">129</data>
+</node>
+<node id="111">
+  <data key="name">Gehring J</data>
+  <data key="label">Gehring J, 2017, PR MACH LEARN RES, V70, P0</data>
+  <data key="author">Gehring J</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">70</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="112">
+  <data key="name">Vaswani A</data>
+  <data key="label">Vaswani A, 2017, ADV NEUR IN, V30, P0</data>
+  <data key="author">Vaswani A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">30</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">81</data>
+</node>
+<node id="113">
+  <data key="name">Howard J</data>
+  <data key="label">Howard J, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P328</data>
+  <data key="author">Howard J</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL)</data>
+  <data key="vol">OL 1</data>
+  <data key="page">328</data>
+  <data key="ut"></data>
+  <data key="freq">30</data>
+</node>
+<node id="114">
+  <data key="name">Yang ZC</data>
+  <data key="label">Yang ZC, 2016, PROC CVPR IEEE, V0, PP21, DOI 10.1109/CVPR.2016.10</data>
+  <data key="author">Yang ZC</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">21</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="115">
+  <data key="name">Guo JX</data>
+  <data key="label">Guo JX, 2018, AAAI CONF ARTIF INTE, V0, P5141</data>
+  <data key="author">Guo JX</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">5141</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="116">
+  <data key="name">Jang Y</data>
+  <data key="label">Jang Y, 2017, PROC CVPR IEEE, V0, PP1359, DOI 10.1109/CVPR.2017.149</data>
+  <data key="author">Jang Y</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">1359</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="117">
+  <data key="name">Narayan S</data>
+  <data key="label">Narayan S, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), V0, P1797</data>
+  <data key="author">Narayan S</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)</data>
+  <data key="vol">0</data>
+  <data key="page">1797</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="118">
+  <data key="name">Conneau A</data>
+  <data key="label">Conneau A, 2017, P C EMP METH NAT LAN, V0, PP670, DOI 10.18653/v1/d17-1070</data>
+  <data key="author">Conneau A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">P C EMP METH NAT LAN</data>
+  <data key="vol">0</data>
+  <data key="page">670</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="119">
+  <data key="name">Hu J</data>
+  <data key="label">Hu J, 2018, PROC CVPR IEEE, V0, PP7132, DOI 10.1109/TPAMI.2019.2913372</data>
+  <data key="author">Hu J</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">7132</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="120">
+  <data key="name">Bhaskar J</data>
+  <data key="label">Bhaskar J, 2015, PROCEDIA COMPUT SCI, V46, P635, DOI 10.1016/j.procs.2015.02.112</data>
+  <data key="author">Bhaskar J</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROCEDIA COMPUT SCI</data>
+  <data key="vol">46</data>
+  <data key="page">635</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="121">
+  <data key="name">Goldberg Yoav</data>
+  <data key="label">Goldberg Yoav, 2019, ABS190105287 ARXIV, V0, P0</data>
+  <data key="author">Goldberg Yoav</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ABS190105287 ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="122">
+  <data key="name">Schick T</data>
+  <data key="label">Schick T, 2021, 16TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EACL 2021), V0, P255</data>
+  <data key="author">Schick T</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">16TH CONFERENCE OF THE EUROPEAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (EACL 2021)</data>
+  <data key="vol">0</data>
+  <data key="page">255</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="123">
+  <data key="name">Kingma DP</data>
+  <data key="label">Kingma DP, 2014, C TRACK P, V0, P0</data>
+  <data key="author">Kingma DP</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">C TRACK P</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">20</data>
+</node>
+<node id="124">
+  <data key="name">Roark B</data>
+  <data key="label">Roark B, 2001, COMPUT LINGUIST, V27, P249, DOI 10.1162/089120101750300526</data>
+  <data key="author">Roark B</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT LINGUIST</data>
+  <data key="vol">27</data>
+  <data key="page">249</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="125">
+  <data key="name">Daojian Zeng</data>
+  <data key="label">Daojian Zeng, 2014, P COLING 25 INT C CO, V0, P2335</data>
+  <data key="author">Daojian Zeng</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">P COLING 25 INT C CO</data>
+  <data key="vol">0</data>
+  <data key="page">2335</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="126">
+  <data key="name">Agarwal A</data>
+  <data key="label">Agarwal A, 2006, IEEE T PATTERN ANAL, V28, P44, DOI 10.1109/TPAMI.2006.21</data>
+  <data key="author">Agarwal A</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T PATTERN ANAL</data>
+  <data key="vol">28</data>
+  <data key="page">44</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="127">
+  <data key="name">Lewis M</data>
+  <data key="label">Lewis M, 2019, ARXIV, V0, P0</data>
+  <data key="author">Lewis M</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="128">
+  <data key="name">Manning CD</data>
+  <data key="label">Manning CD, 2014, PROCEEDINGS OF 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: SYSTEM DEMONSTRATIONS, V0, PP55, DOI 10.3115/v1/p14-5010</data>
+  <data key="author">Manning CD</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: SYSTEM DEMONSTRATIONS</data>
+  <data key="vol">0</data>
+  <data key="page">55</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="129">
+  <data key="name">Chowdhery A</data>
+  <data key="label">Chowdhery A, 2022, ARXIV, V0, P0</data>
+  <data key="author">Chowdhery A</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="130">
+  <data key="name">Schwenk H</data>
+  <data key="label">Schwenk H, 2002, INT CONF ACOUST SPEE, V0, P765</data>
+  <data key="author">Schwenk H</data>
+  <data key="year">2002</data>
+  <data key="title">...</data>
+  <data key="so">INT CONF ACOUST SPEE</data>
+  <data key="vol">0</data>
+  <data key="page">765</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="131">
+  <data key="name">CHENG T</data>
+  <data key="label">CHENG T, 2007, P 33 INT C VER LARG, V0, P387</data>
+  <data key="author">CHENG T</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 33 INT C VER LARG</data>
+  <data key="vol">0</data>
+  <data key="page">387</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="132">
+  <data key="name">Antoun W</data>
+  <data key="label">Antoun W, 2020, P 4 WORKSHOP OPEN SO, V0, P9</data>
+  <data key="author">Antoun W</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">P 4 WORKSHOP OPEN SO</data>
+  <data key="vol">0</data>
+  <data key="page">9</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="133">
+  <data key="name">Huang G</data>
+  <data key="label">Huang G, 2017, PROC CVPR IEEE, V0, PP2261, DOI 10.1109/CVPR.2017.243</data>
+  <data key="author">Huang G</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">2261</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="134">
+  <data key="name">Finn C</data>
+  <data key="label">Finn C, 2017, PR MACH LEARN RES, V70, P0</data>
+  <data key="author">Finn C</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">70</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="135">
+  <data key="name">Devlin J</data>
+  <data key="label">Devlin J, 2018, BERT PRETRAINING DEE, V0, P0, DOI 10.18653/V1/N19-PROCEEDINGSOFNAACLHLT1423</data>
+  <data key="author">Devlin J</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">BERT PRETRAINING DEE</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="136">
+  <data key="name">Cui YM</data>
+  <data key="label">Cui YM, 2021, IEEE-ACM T AUDIO SPE, V29, P3504, DOI 10.1109/TASLP.2021.3124365</data>
+  <data key="author">Cui YM</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">IEEE-ACM T AUDIO SPE</data>
+  <data key="vol">29</data>
+  <data key="page">3504</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="137">
+  <data key="name">Yamada I</data>
+  <data key="label">Yamada I, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), V0, P6442</data>
+  <data key="author">Yamada I</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)</data>
+  <data key="vol">0</data>
+  <data key="page">6442</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="138">
+  <data key="name">Houlsby N</data>
+  <data key="label">Houlsby N, 2019, PR MACH LEARN RES, V97, P0</data>
+  <data key="author">Houlsby N</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">97</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="139">
+  <data key="name">Mikolov T</data>
+  <data key="label">Mikolov T, 2013, ADV NEURAL INFORM PR, V26, P1</data>
+  <data key="author">Mikolov T</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEURAL INFORM PR</data>
+  <data key="vol">26</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="140">
+  <data key="name">Gao H</data>
+  <data key="label">Gao H, 2015, P 28 INT C NEURAL IN, V2, P2296, DOI 10.1145/2733373.2807418</data>
+  <data key="author">Gao H</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">P 28 INT C NEURAL IN</data>
+  <data key="vol">2</data>
+  <data key="page">2296</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="141">
+  <data key="name">Filman R</data>
+  <data key="label">Filman R, 2004, ASPECT ORIENTED SOFT, V0, P0</data>
+  <data key="author">Filman R</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">ASPECT ORIENTED SOFT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="142">
+  <data key="name">Xiao X</data>
+  <data key="label">Xiao X, 2012, P 50 ANN M ASS COMP, V0, P750</data>
+  <data key="author">Xiao X</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">P 50 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">750</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="143">
+  <data key="name">Guarino N</data>
+  <data key="label">Guarino N, 2003, IN HAND I S, V0, P151</data>
+  <data key="author">Guarino N</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">IN HAND I S</data>
+  <data key="vol">0</data>
+  <data key="page">151</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="144">
+  <data key="name">Krizhevsky A</data>
+  <data key="label">Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386</data>
+  <data key="author">Krizhevsky A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">COMMUN ACM</data>
+  <data key="vol">60</data>
+  <data key="page">84</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="145">
+  <data key="name">Tai KS</data>
+  <data key="label">Tai KS, 2015, PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING, VOL 1, P1556</data>
+  <data key="author">Tai KS</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING</data>
+  <data key="vol">OL 1</data>
+  <data key="page">1556</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="146">
+  <data key="name">Vinyals O</data>
+  <data key="label">Vinyals O, 2015, PROC CVPR IEEE, V0, PP3156, DOI 10.1109/CVPR.2015.7298935</data>
+  <data key="author">Vinyals O</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">3156</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="147">
+  <data key="name">King DB</data>
+  <data key="label">King DB, 2015, ACS SYM SER, V1214, P1</data>
+  <data key="author">King DB</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ACS SYM SER</data>
+  <data key="vol">1214</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="148">
+  <data key="name">Wolf T</data>
+  <data key="label">Wolf T, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING: SYSTEM DEMONSTRATIONS, V0, P38</data>
+  <data key="author">Wolf T</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING: SYSTEM DEMONSTRATIONS</data>
+  <data key="vol">0</data>
+  <data key="page">38</data>
+  <data key="ut"></data>
+  <data key="freq">36</data>
+</node>
+<node id="149">
+  <data key="name">Kim JH</data>
+  <data key="label">Kim JH, 2018, ADV NEUR IN, V31, P0</data>
+  <data key="author">Kim JH</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">31</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="150">
+  <data key="name">[Anonymous]</data>
+  <data key="label">[Anonymous], 2010, HUMAN LANGUAGE TECHN, V0, P0</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">HUMAN LANGUAGE TECHN</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="151">
+  <data key="name">Baltrusaitis T</data>
+  <data key="label">Baltrusaitis T, 2019, IEEE T PATTERN ANAL, V41, P423, DOI 10.1109/TPAMI.2018.2798607</data>
+  <data key="author">Baltrusaitis T</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T PATTERN ANAL</data>
+  <data key="vol">41</data>
+  <data key="page">423</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="152">
+  <data key="name">Kim Y</data>
+  <data key="label">Kim Y, 2016, AAAI CONF ARTIF INTE, V0, P2741</data>
+  <data key="author">Kim Y</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">2741</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="153">
+  <data key="name">Lan Zhenzhong</data>
+  <data key="label">Lan Zhenzhong, 2019, ARXIV190911942, V0, P0</data>
+  <data key="author">Lan Zhenzhong</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV190911942</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">26</data>
+</node>
+<node id="154">
+  <data key="name">Gururangan Suchin</data>
+  <data key="label">Gururangan Suchin, 2020, DONT STOP PRETRAININ, V0, PP8342, DOI 10.18653/V1/2020.ACL-MAIN.740</data>
+  <data key="author">Gururangan Suchin</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">DONT STOP PRETRAININ</data>
+  <data key="vol">0</data>
+  <data key="page">8342</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="155">
+  <data key="name">Radford A</data>
+  <data key="label">Radford A, 2021, PR MACH LEARN RES, V139, P0</data>
+  <data key="author">Radford A</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">139</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="156">
+  <data key="name">Artetxe M</data>
+  <data key="label">Artetxe M, 2019, T ASSOC COMPUT LING, V7, P597, DOI 10.1162/tacl_a_00288</data>
+  <data key="author">Artetxe M</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">7</data>
+  <data key="page">597</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="157">
+  <data key="name">Jiasen Lu</data>
+  <data key="label">Jiasen Lu, 2020, 2020 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR). PROCEEDINGS, V0, PP10434, DOI 10.1109/CVPR42600.2020.01045</data>
+  <data key="author">Jiasen Lu</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">2020 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR). PROCEEDINGS</data>
+  <data key="vol">0</data>
+  <data key="page">10434</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="158">
+  <data key="name">Sharma P</data>
+  <data key="label">Sharma P, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P2556</data>
+  <data key="author">Sharma P</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL)</data>
+  <data key="vol">OL 1</data>
+  <data key="page">2556</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="159">
+  <data key="name">Kwiatkowski T</data>
+  <data key="label">Kwiatkowski T, 2019, T ASSOC COMPUT LING, V7, P453, DOI 10.1162/tacl_a_00276/1923288</data>
+  <data key="author">Kwiatkowski T</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">7</data>
+  <data key="page">453</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="160">
+  <data key="name">Araque O</data>
+  <data key="label">Araque O, 2017, EXPERT SYST APPL, V77, P236, DOI 10.1016/j.eswa.2017.02.002</data>
+  <data key="author">Araque O</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">EXPERT SYST APPL</data>
+  <data key="vol">77</data>
+  <data key="page">236</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="161">
+  <data key="name">Akbik A</data>
+  <data key="label">Akbik A, 2018, P 27 INT C COMPUTATI, V0, P1638</data>
+  <data key="author">Akbik A</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">P 27 INT C COMPUTATI</data>
+  <data key="vol">0</data>
+  <data key="page">1638</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="162">
+  <data key="name">Sun ZQ</data>
+  <data key="label">Sun ZQ, 2020, 58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020), V0, P2158</data>
+  <data key="author">Sun ZQ</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">58TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2020)</data>
+  <data key="vol">0</data>
+  <data key="page">2158</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="163">
+  <data key="name">Huang L</data>
+  <data key="label">Huang L, 2019, IEEE I CONF COMP VIS, V0, PP4633, DOI 10.1109/ICCV.2019.00473</data>
+  <data key="author">Huang L</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">IEEE I CONF COMP VIS</data>
+  <data key="vol">0</data>
+  <data key="page">4633</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="164">
+  <data key="name">Hu YN</data>
+  <data key="label">Hu YN, 2014, PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1166</data>
+  <data key="author">Hu YN</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 52ND ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">OL 1</data>
+  <data key="page">1166</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="165">
+  <data key="name">Krishna R</data>
+  <data key="label">Krishna R, 2017, INT J COMPUT VISION, V123, P32, DOI 10.1007/s11263-016-0981-7</data>
+  <data key="author">Krishna R</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">INT J COMPUT VISION</data>
+  <data key="vol">123</data>
+  <data key="page">32</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="166">
+  <data key="name">Qiu XP</data>
+  <data key="label">Qiu XP, 2020, SCI CHINA TECHNOL SC, V63, P1872, DOI 10.1007/s11431-020-1647-3</data>
+  <data key="author">Qiu XP</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SCI CHINA TECHNOL SC</data>
+  <data key="vol">63</data>
+  <data key="page">1872</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="167">
+  <data key="name">Castro MJ</data>
+  <data key="label">Castro MJ, 2003, LECT NOTES COMPUT SC, V2686, P598</data>
+  <data key="author">Castro MJ</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUT SC</data>
+  <data key="vol">2686</data>
+  <data key="page">598</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="168">
+  <data key="name">[Anonymous]</data>
+  <data key="label">[Anonymous], 2007, P 45 ANN M ASS COMP, V0, P0</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 45 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="169">
+  <data key="name">Silver D</data>
+  <data key="label">Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961</data>
+  <data key="author">Silver D</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">NATURE</data>
+  <data key="vol">529</data>
+  <data key="page">484</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="170">
+  <data key="name">Erol A</data>
+  <data key="label">Erol A, 2007, COMPUT VIS IMAGE UND, V108, P52, DOI 10.1016/j.cviu.2006.10.012</data>
+  <data key="author">Erol A</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT VIS IMAGE UND</data>
+  <data key="vol">108</data>
+  <data key="page">52</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="171">
+  <data key="name">Rennie SJ</data>
+  <data key="label">Rennie SJ, 2017, PROC CVPR IEEE, V0, PP1179, DOI 10.1109/CVPR.2017.131</data>
+  <data key="author">Rennie SJ</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">1179</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="172">
+  <data key="name">Yao T</data>
+  <data key="label">Yao T, 2018, LECT NOTES COMPUT SC, V11218, P711, DOI 10.1007/978-3-030-01264-9_42</data>
+  <data key="author">Yao T</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUT SC</data>
+  <data key="vol">11218</data>
+  <data key="page">711</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="173">
+  <data key="name">Szegedy C</data>
+  <data key="label">Szegedy C, 2015, PROC CVPR IEEE, V0, PP1, DOI 10.1109/CVPR.2015.7298594</data>
+  <data key="author">Szegedy C</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="174">
+  <data key="name">Jia C</data>
+  <data key="label">Jia C, 2021, PR MACH LEARN RES, V139, P0</data>
+  <data key="author">Jia C</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">139</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="175">
+  <data key="name">BULYKO I</data>
+  <data key="label">BULYKO I, 2003, P HLT NAACL, V0, P7</data>
+  <data key="author">BULYKO I</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">P HLT NAACL</data>
+  <data key="vol">0</data>
+  <data key="page">7</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="176">
+  <data key="name">BYRNE W</data>
+  <data key="label">BYRNE W, 2001, P 7 EUR C SPEECH COM, V0, P487</data>
+  <data key="author">BYRNE W</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">P 7 EUR C SPEECH COM</data>
+  <data key="vol">0</data>
+  <data key="page">487</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="177">
+  <data key="name">Lee J</data>
+  <data key="label">Lee J, 2020, BIOINFORMATICS, V36, P1234, DOI 10.1093/bioinformatics/btz682</data>
+  <data key="author">Lee J</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">BIOINFORMATICS</data>
+  <data key="vol">36</data>
+  <data key="page">1234</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="178">
+  <data key="name">Nasrabadi Nasser M</data>
+  <data key="label">Nasrabadi Nasser M, 2007, J ELECT IMAG, V16, P0</data>
+  <data key="author">Nasrabadi Nasser M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">J ELECT IMAG</data>
+  <data key="vol">16</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="179">
+  <data key="name">Socher R</data>
+  <data key="label">Socher R, 2011, P C EMPIRICAL METHOD, V0, P151</data>
+  <data key="author">Socher R</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P C EMPIRICAL METHOD</data>
+  <data key="vol">0</data>
+  <data key="page">151</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="180">
+  <data key="name">Cer D</data>
+  <data key="label">Cer D, 2017, P 11 INT WORKSHOP SE, V0, PP1, DOI 10.18653/V1/S17-2001</data>
+  <data key="author">Cer D</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">P 11 INT WORKSHOP SE</data>
+  <data key="vol">0</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="181">
+  <data key="name">Park DS</data>
+  <data key="label">Park DS, 2019, INTERSPEECH, V0, PP2613, DOI 10.21437/Interspeech.2019-2680</data>
+  <data key="author">Park DS</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">INTERSPEECH</data>
+  <data key="vol">0</data>
+  <data key="page">2613</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="182">
+  <data key="name">Atterer M</data>
+  <data key="label">Atterer M, 2007, COMPUT LINGUIST, V33, P469, DOI 10.1162/coli.2007.33.4.469</data>
+  <data key="author">Atterer M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT LINGUIST</data>
+  <data key="vol">33</data>
+  <data key="page">469</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="183">
+  <data key="name">Cambria E</data>
+  <data key="label">Cambria E, 2015, NEUROCOMPUTING, V149, P443, DOI 10.1016/j.neucom.2014.01.064</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">NEUROCOMPUTING</data>
+  <data key="vol">149</data>
+  <data key="page">443</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="184">
+  <data key="name">Conneau Alexis</data>
+  <data key="label">Conneau Alexis, 2018, EMNLP, V0, P0</data>
+  <data key="author">Conneau Alexis</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">EMNLP</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="185">
+  <data key="name">Yang ZW</data>
+  <data key="label">Yang ZW, 2021, ANIM BIOTECHNOL, V32, P67, DOI 10.1080/10495398.2019.1653901</data>
+  <data key="author">Yang ZW</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">ANIM BIOTECHNOL</data>
+  <data key="vol">32</data>
+  <data key="page">67</data>
+  <data key="ut"></data>
+  <data key="freq">54</data>
+</node>
+<node id="186">
+  <data key="name">Chen X</data>
+  <data key="label">Chen X, 2015, PROC CVPR IEEE, V0, PP2422, DOI 10.1109/CVPR.2015.7298856</data>
+  <data key="author">Chen X</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">2422</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="187">
+  <data key="name">Kiros R</data>
+  <data key="label">Kiros R, 2014, PR MACH LEARN RES, V32, P595</data>
+  <data key="author">Kiros R</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">PR MACH LEARN RES</data>
+  <data key="vol">32</data>
+  <data key="page">595</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="188">
+  <data key="name">Hudson DA</data>
+  <data key="label">Hudson DA, 2019, PROC CVPR IEEE, V0, PP6693, DOI 10.1109/CVPR.2019.00686</data>
+  <data key="author">Hudson DA</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">6693</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="189">
+  <data key="name">Bagheri A</data>
+  <data key="label">Bagheri A, 2013, KNOWL-BASED SYST, V52, P201, DOI 10.1016/j.knosys.2013.08.011</data>
+  <data key="author">Bagheri A</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">KNOWL-BASED SYST</data>
+  <data key="vol">52</data>
+  <data key="page">201</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="190">
+  <data key="name">Clark K</data>
+  <data key="label">Clark K, 2019, BLACKBOXNLP WORKSHOP ON ANALYZING AND INTERPRETING NEURAL NETWORKS FOR NLP AT ACL 2019, V0, PP276, DOI 10.18653/v1/w19-4828</data>
+  <data key="author">Clark K</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">BLACKBOXNLP WORKSHOP ON ANALYZING AND INTERPRETING NEURAL NETWORKS FOR NLP AT ACL 2019</data>
+  <data key="vol">0</data>
+  <data key="page">276</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="191">
+  <data key="name">Lin TY</data>
+  <data key="label">Lin TY, 2014, LECT NOTES COMPUT SC, V8693, P740, DOI 10.1007/978-3-319-10602-1_48</data>
+  <data key="author">Lin TY</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUT SC</data>
+  <data key="vol">8693</data>
+  <data key="page">740</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="192">
+  <data key="name">Brown T</data>
+  <data key="label">Brown T, 2020, ADV NEURAL INFORM PR, V33, P1877</data>
+  <data key="author">Brown T</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEURAL INFORM PR</data>
+  <data key="vol">33</data>
+  <data key="page">1877</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="193">
+  <data key="name">Johnson Melvin</data>
+  <data key="label">Johnson Melvin, 2017, T ASSOC COMPUT LING, V0, PP339, DOI 10.1162/tacl_a_00065</data>
+  <data key="author">Johnson Melvin</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">0</data>
+  <data key="page">339</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="194">
+  <data key="name">Russakovsky O</data>
+  <data key="label">Russakovsky O, 2015, INT J COMPUT VISION, V115, P211, DOI 10.1007/s11263-015-0816-y</data>
+  <data key="author">Russakovsky O</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">INT J COMPUT VISION</data>
+  <data key="vol">115</data>
+  <data key="page">211</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="195">
+  <data key="name">VEDANTAM R</data>
+  <data key="label">VEDANTAM R, 2015, PROC CVPR IEEE, V0, PP4566, DOI 10.1109/CVPR.2015.7299087</data>
+  <data key="author">VEDANTAM R</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">4566</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="196">
+  <data key="name">Cho K</data>
+  <data key="label">Cho K, 2014, ARXIV14061078, V0, P0, DOI 10.3115/v1/d14</data>
+  <data key="author">Cho K</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV14061078</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="197">
+  <data key="name">Liu Y</data>
+  <data key="label">Liu Y, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P5070</data>
+  <data key="author">Liu Y</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">5070</data>
+  <data key="ut"></data>
+  <data key="freq">19</data>
+</node>
+<node id="198">
+  <data key="name">Ma XZ</data>
+  <data key="label">Ma XZ, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1064</data>
+  <data key="author">Ma XZ</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">OL 1</data>
+  <data key="page">1064</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="199">
+  <data key="name">Zhou LW</data>
+  <data key="label">Zhou LW, 2020, AAAI CONF ARTIF INTE, V34, P13041</data>
+  <data key="author">Zhou LW</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">34</data>
+  <data key="page">13041</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="200">
+  <data key="name">Gao TY</data>
+  <data key="label">Gao TY, 2021, 59TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 11TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (ACL-IJCNLP 2021), VOL 1, P3816</data>
+  <data key="author">Gao TY</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">59TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS AND THE 11TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (ACL-IJCNLP 2021)</data>
+  <data key="vol">OL 1</data>
+  <data key="page">3816</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="201">
+  <data key="name">Cambria E</data>
+  <data key="label">Cambria E, 2014, IEEE COMPUT INTELL M, V9, P48, DOI 10.1109/MCI.2014.2307227</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">IEEE COMPUT INTELL M</data>
+  <data key="vol">9</data>
+  <data key="page">48</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="202">
+  <data key="name">Lampiris G</data>
+  <data key="label">Lampiris G, 2020, ANN OPER RES, V294, P225, DOI 10.1007/s10479-019-03337-5</data>
+  <data key="author">Lampiris G</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ANN OPER RES</data>
+  <data key="vol">294</data>
+  <data key="page">225</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="203">
+  <data key="name">Schlichtkrull M</data>
+  <data key="label">Schlichtkrull M, 2018, LECT NOTES COMPUT SC, V10843, P593, DOI 10.1007/978-3-319-93417-4_38</data>
+  <data key="author">Schlichtkrull M</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUT SC</data>
+  <data key="vol">10843</data>
+  <data key="page">593</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="204">
+  <data key="name">Gao W</data>
+  <data key="label">Gao W, 2004, PATTERN RECOGN, V37, P2389, DOI 10.1016/j.patcog.2004.04.008</data>
+  <data key="author">Gao W</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">PATTERN RECOGN</data>
+  <data key="vol">37</data>
+  <data key="page">2389</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="205">
+  <data key="name">Han Bo</data>
+  <data key="label">Han Bo, 2011, P 49 ANN M ASS COMP, V0, P368</data>
+  <data key="author">Han Bo</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">P 49 ANN M ASS COMP</data>
+  <data key="vol">0</data>
+  <data key="page">368</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="206">
+  <data key="name">Bahdanau D</data>
+  <data key="label">Bahdanau D, 2016, ARXIV, V0, P0</data>
+  <data key="author">Bahdanau D</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">35</data>
+</node>
+<node id="207">
+  <data key="name">He K</data>
+  <data key="label">He K, 2016, LECT NOTES COMPUT SC, V0, PP70, DOI 10.1007/978-3-319-46493-0_38</data>
+  <data key="author">He K</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">LECT NOTES COMPUT SC</data>
+  <data key="vol">0</data>
+  <data key="page">70</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="208">
+  <data key="name">Radford Alec</data>
+  <data key="label">Radford Alec, 2018, IMPROVING LANGUAGE U, V0, P0</data>
+  <data key="author">Radford Alec</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">IMPROVING LANGUAGE U</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">79</data>
+</node>
+<node id="209">
+  <data key="name">Cambria E</data>
+  <data key="label">Cambria E, 2013, IEEE INTELL SYST, V28, P15, DOI 10.1109/MIS.2013.30</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTELL SYST</data>
+  <data key="vol">28</data>
+  <data key="page">15</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="210">
+  <data key="name">Brown TB</data>
+  <data key="label">Brown TB, 2020, P ADV NEUR INF PROC, V33, P1877</data>
+  <data key="author">Brown TB</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">P ADV NEUR INF PROC</data>
+  <data key="vol">33</data>
+  <data key="page">1877</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+</node>
+<node id="211">
+  <data key="name">Lehmann J</data>
+  <data key="label">Lehmann J, 2015, SEMANT WEB, V6, P167, DOI 10.3233/SW-140134</data>
+  <data key="author">Lehmann J</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SEMANT WEB</data>
+  <data key="vol">6</data>
+  <data key="page">167</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="212">
+  <data key="name">Paszke A</data>
+  <data key="label">Paszke A, 2019, ADV NEUR IN, V32, P0</data>
+  <data key="author">Paszke A</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">32</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="213">
+  <data key="name">Sanh V</data>
+  <data key="label">Sanh V, 2020, ARXIV, V0, P0</data>
+  <data key="author">Sanh V</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="214">
+  <data key="name">Tomasello M</data>
+  <data key="label">Tomasello M, 2003, CULTURAL ORIGINS HUM, V0, P0</data>
+  <data key="author">Tomasello M</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">CULTURAL ORIGINS HUM</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="215">
+  <data key="name">Lample G</data>
+  <data key="label">Lample G, 2016, P NAACL HLT, V0, P0, DOI 10.18653/V1/N16-1030</data>
+  <data key="author">Lample G</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">P NAACL HLT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="216">
+  <data key="name">Mikolov T</data>
+  <data key="label">Mikolov T, 2013, P 26 INT C NEUR INF, V2, P3111</data>
+  <data key="author">Mikolov T</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">P 26 INT C NEUR INF</data>
+  <data key="vol">2</data>
+  <data key="page">3111</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="217">
+  <data key="name">Ren M</data>
+  <data key="label">Ren M, 2015, ADV NEURAL INFORM PR, V0, P0</data>
+  <data key="author">Ren M</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEURAL INFORM PR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="218">
+  <data key="name">Carreras Xavier</data>
+  <data key="label">Carreras Xavier, 2005, P 9 C COMPUTATIONAL, V0, P152</data>
+  <data key="author">Carreras Xavier</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">P 9 C COMPUTATIONAL</data>
+  <data key="vol">0</data>
+  <data key="page">152</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="219">
+  <data key="name">Peters ME</data>
+  <data key="label">Peters ME, 2018, ARXIV, V0, P0</data>
+  <data key="author">Peters ME</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="220">
+  <data key="name">Liu P</data>
+  <data key="label">Liu P, 2021, ARXIV, V0, P0</data>
+  <data key="author">Liu P</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="221">
+  <data key="name">Raffel C</data>
+  <data key="label">Raffel C, 2020, J MACH LEARN RES, V21, P0</data>
+  <data key="author">Raffel C</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">J MACH LEARN RES</data>
+  <data key="vol">21</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">51</data>
+</node>
+<node id="222">
+  <data key="name">HACIOGLU K</data>
+  <data key="label">HACIOGLU K, 2003, P EUR GEN SWITZ, V0, P1165</data>
+  <data key="author">HACIOGLU K</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">P EUR GEN SWITZ</data>
+  <data key="vol">0</data>
+  <data key="page">1165</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="223">
+  <data key="name">He KM</data>
+  <data key="label">He KM, 2016, PROC CVPR IEEE, V0, PP770, DOI 10.1109/CVPR.2016.90</data>
+  <data key="author">He KM</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">770</data>
+  <data key="ut"></data>
+  <data key="freq">22</data>
+</node>
+<node id="224">
+  <data key="name">Chiang D</data>
+  <data key="label">Chiang D, 2007, COMPUT LINGUIST, V33, P201, DOI 10.1162/coli.2007.33.2.201</data>
+  <data key="author">Chiang D</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT LINGUIST</data>
+  <data key="vol">33</data>
+  <data key="page">201</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="225">
+  <data key="name">Wu Yonghui</data>
+  <data key="label">Wu Yonghui, 2016, GOOGLES NEURAL MACHI, V0, P0</data>
+  <data key="author">Wu Yonghui</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">GOOGLES NEURAL MACHI</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="226">
+  <data key="name">Ciaramita M</data>
+  <data key="label">Ciaramita M, 2008, J ELECTRON COMMER RE, V9, P1</data>
+  <data key="author">Ciaramita M</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">J ELECTRON COMMER RE</data>
+  <data key="vol">9</data>
+  <data key="page">1</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="227">
+  <data key="name">Chen DL</data>
+  <data key="label">Chen DL, 2010, J ARTIF INTELL RES, V37, P397, DOI 10.1613/jair.2962</data>
+  <data key="author">Chen DL</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">J ARTIF INTELL RES</data>
+  <data key="vol">37</data>
+  <data key="page">397</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="228">
+  <data key="name">Socher Richard</data>
+  <data key="label">Socher Richard, 2013, P 2013 C EMPIRICAL M, V26, P0, DOI 10.1371/JOURNAL.PONE.0073791</data>
+  <data key="author">Socher Richard</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">P 2013 C EMPIRICAL M</data>
+  <data key="vol">26</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="229">
+  <data key="name">Horling B</data>
+  <data key="label">Horling B, 2003, MU S ART SOC SIM ORG, V9, P139</data>
+  <data key="author">Horling B</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">MU S ART SOC SIM ORG</data>
+  <data key="vol">9</data>
+  <data key="page">139</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="230">
+  <data key="name">[Anonymous]</data>
+  <data key="label">[Anonymous], 2007, P 2007 JOINT C EMPIR, V0, P0</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">P 2007 JOINT C EMPIR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="231">
+  <data key="name">Mohamed AR</data>
+  <data key="label">Mohamed AR, 2012, IEEE T AUDIO SPEECH, V20, P14, DOI 10.1109/TASL.2011.2109382</data>
+  <data key="author">Mohamed AR</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">IEEE T AUDIO SPEECH</data>
+  <data key="vol">20</data>
+  <data key="page">14</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="232">
+  <data key="name">Karpathy A</data>
+  <data key="label">Karpathy A, 2015, PROC CVPR IEEE, V0, PP3128, DOI 10.1109/CVPR.2015.7298932</data>
+  <data key="author">Karpathy A</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">3128</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="233">
+  <data key="name">Eiband M</data>
+  <data key="label">Eiband M, 2018, IUI 2018: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON INTELLIGENT USER INTERFACES, V0, PP211, DOI 10.1145/3172944.3172961</data>
+  <data key="author">Eiband M</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">IUI 2018: PROCEEDINGS OF THE 23RD INTERNATIONAL CONFERENCE ON INTELLIGENT USER INTERFACES</data>
+  <data key="vol">0</data>
+  <data key="page">211</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="234">
+  <data key="name">Jawahar G</data>
+  <data key="label">Jawahar G, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P3651</data>
+  <data key="author">Jawahar G</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">3651</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="235">
+  <data key="name">Ioffe Sergey</data>
+  <data key="label">Ioffe Sergey, 2015, ARXIV 1502 03167, V0, P448</data>
+  <data key="author">Ioffe Sergey</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV 1502 03167</data>
+  <data key="vol">0</data>
+  <data key="page">448</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="236">
+  <data key="name">Liu YH</data>
+  <data key="label">Liu YH, 2019, ARXIV, V0, P0</data>
+  <data key="author">Liu YH</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">46</data>
+</node>
+<node id="237">
+  <data key="name">Reimers N</data>
+  <data key="label">Reimers N, 2019, 2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019), V0, P3982</data>
+  <data key="author">Reimers N</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING AND THE 9TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (EMNLP-IJCNLP 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">3982</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="238">
+  <data key="name">Vaswani A</data>
+  <data key="label">Vaswani A, 2017, PROC ADV NEURAL INF, V30, P5998, DOI 10.48550/ARXIV.1706.03762</data>
+  <data key="author">Vaswani A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">PROC ADV NEURAL INF</data>
+  <data key="vol">30</data>
+  <data key="page">5998</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="239">
+  <data key="name">Lewis M</data>
+  <data key="label">Lewis M, 2020, 58 ANN M ASS COMP LI, V0, PP7871, DOI 10.18653/V1/2020.ACL-MAIN.703</data>
+  <data key="author">Lewis M</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">58 ANN M ASS COMP LI</data>
+  <data key="vol">0</data>
+  <data key="page">7871</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="240">
+  <data key="name">Brown TB</data>
+  <data key="label">Brown TB, 2020, ARXIV, V0, P0</data>
+  <data key="author">Brown TB</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="241">
+  <data key="name">Goodman JT</data>
+  <data key="label">Goodman JT, 2001, COMPUT SPEECH LANG, V15, P403, DOI 10.1006/csla.2001.0174</data>
+  <data key="author">Goodman JT</data>
+  <data key="year">2001</data>
+  <data key="title">...</data>
+  <data key="so">COMPUT SPEECH LANG</data>
+  <data key="vol">15</data>
+  <data key="page">403</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="242">
+  <data key="name">Maas Andrew</data>
+  <data key="label">Maas Andrew, 2011, ACL, V1, P7, DOI 10.5555/2002472.2002491</data>
+  <data key="author">Maas Andrew</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ACL</data>
+  <data key="vol">1</data>
+  <data key="page">7</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="243">
+  <data key="name">Lample G</data>
+  <data key="label">Lample G, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), V0, P5039</data>
+  <data key="author">Lample G</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)</data>
+  <data key="vol">0</data>
+  <data key="page">5039</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="244">
+  <data key="name">Sutskever I</data>
+  <data key="label">Sutskever I, 2014, ADV NEURAL INFORM PR, VVolume 27, P3104</data>
+  <data key="author">Sutskever I</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEURAL INFORM PR</data>
+  <data key="vol">olume 27</data>
+  <data key="page">3104</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="245">
+  <data key="name">Peters ME</data>
+  <data key="label">Peters ME, 2018, 2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018), V0, PP1499, DOI 10.5771/9783845286846</data>
+  <data key="author">Peters ME</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">2018 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2018)</data>
+  <data key="vol">0</data>
+  <data key="page">1499</data>
+  <data key="ut"></data>
+  <data key="freq">38</data>
+</node>
+<node id="246">
+  <data key="name">Beltagy I</data>
+  <data key="label">Beltagy I, 2020, ARXIV, V0, P0</data>
+  <data key="author">Beltagy I</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="247">
+  <data key="name">Yu Z</data>
+  <data key="label">Yu Z, 2019, PROC CVPR IEEE, V0, PP6274, DOI 10.1109/CVPR.2019.00644</data>
+  <data key="author">Yu Z</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">PROC CVPR IEEE</data>
+  <data key="vol">0</data>
+  <data key="page">6274</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="248">
+  <data key="name">Devlin J</data>
+  <data key="label">Devlin J, 2015, PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL) AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (IJCNLP), VOL 2, P100</data>
+  <data key="author">Devlin J</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 53RD ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL) AND THE 7TH INTERNATIONAL JOINT CONFERENCE ON NATURAL LANGUAGE PROCESSING (IJCNLP)</data>
+  <data key="vol">OL 2</data>
+  <data key="page">100</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="249">
+  <data key="name">Joshi M</data>
+  <data key="label">Joshi M, 2020, T ASSOC COMPUT LING, V8, P64, DOI 10.1162/tacl_a_00300</data>
+  <data key="author">Joshi M</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">T ASSOC COMPUT LING</data>
+  <data key="vol">8</data>
+  <data key="page">64</data>
+  <data key="ut"></data>
+  <data key="freq">18</data>
+</node>
+<node id="250">
+  <data key="name">Liu Y</data>
+  <data key="label">Liu Y, 2019, ROBERTA ROBUSTLY OPT, V0, P0</data>
+  <data key="author">Liu Y</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ROBERTA ROBUSTLY OPT</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="251">
+  <data key="name">Wang A</data>
+  <data key="label">Wang A, 2019, ADV NEUR IN, V32, P0</data>
+  <data key="author">Wang A</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">32</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="252">
+  <data key="name">Zhang ZY</data>
+  <data key="label">Zhang ZY, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P1441</data>
+  <data key="author">Zhang ZY</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">1441</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="253">
+  <data key="name">Karpukhin V</data>
+  <data key="label">Karpukhin V, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), V0, P6769</data>
+  <data key="author">Karpukhin V</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)</data>
+  <data key="vol">0</data>
+  <data key="page">6769</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="254">
+  <data key="name">Arisoy E</data>
+  <data key="label">Arisoy E, 2006, SIGNAL PROCESS, V86, P2844, DOI 10.1016/j.sigpro.2005.12.002</data>
+  <data key="author">Arisoy E</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SIGNAL PROCESS</data>
+  <data key="vol">86</data>
+  <data key="page">2844</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="255">
+  <data key="name">Jumper J</data>
+  <data key="label">Jumper J, 2021, NATURE, V596, P583, DOI 10.1038/s41586-021-03819-2</data>
+  <data key="author">Jumper J</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">NATURE</data>
+  <data key="vol">596</data>
+  <data key="page">583</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="256">
+  <data key="name">Sutskever Ilya</data>
+  <data key="label">Sutskever Ilya, 2014, NEURIPS, V0, P0, DOI 10.5555/2969033.2969173</data>
+  <data key="author">Sutskever Ilya</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">NEURIPS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="257">
+  <data key="name">Chung J</data>
+  <data key="label">Chung J, 2014, CORR, V0, P0</data>
+  <data key="author">Chung J</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">CORR</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="258">
+  <data key="name">Jurafsky D</data>
+  <data key="label">Jurafsky D, 2021, SPEECH LANGUAGE PROC, V0, P0</data>
+  <data key="author">Jurafsky D</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SPEECH LANGUAGE PROC</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="259">
+  <data key="name">Socher R</data>
+  <data key="label">Socher R, 2014, J T ASS COMPUT LINGU, V2, P207, DOI 10.1162/TACL_A_00177</data>
+  <data key="author">Socher R</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">J T ASS COMPUT LINGU</data>
+  <data key="vol">2</data>
+  <data key="page">207</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="260">
+  <data key="name">Cambria E</data>
+  <data key="label">Cambria E, 2014, AAAI CONF ARTIF INTE, V0, P1515</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">1515</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="261">
+  <data key="name">Tran D</data>
+  <data key="label">Tran D, 2015, IEEE I CONF COMP VIS, V0, PP4489, DOI 10.1109/ICCV.2015.510</data>
+  <data key="author">Tran D</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">IEEE I CONF COMP VIS</data>
+  <data key="vol">0</data>
+  <data key="page">4489</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="262">
+  <data key="name">Chollet F</data>
+  <data key="label">Chollet F, 2015, KERAS, V0, P0</data>
+  <data key="author">Chollet F</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">KERAS</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="263">
+  <data key="name">Hewitt J</data>
+  <data key="label">Hewitt J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4129</data>
+  <data key="author">Hewitt J</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019)</data>
+  <data key="vol">OL. 1</data>
+  <data key="page">4129</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="264">
+  <data key="name">Cambria E</data>
+  <data key="label">Cambria E, 2016, IEEE INTELL SYST, V31, P102, DOI 10.1109/MIS.2016.31</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">IEEE INTELL SYST</data>
+  <data key="vol">31</data>
+  <data key="page">102</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="265">
+  <data key="name">Antol S</data>
+  <data key="label">Antol S, 2015, IEEE I CONF COMP VIS, V0, PP2425, DOI 10.1109/ICCV.2015.279</data>
+  <data key="author">Antol S</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">IEEE I CONF COMP VIS</data>
+  <data key="vol">0</data>
+  <data key="page">2425</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="266">
+  <data key="name">Shin T</data>
+  <data key="label">Shin T, 2020, PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP), V0, P4222</data>
+  <data key="author">Shin T</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 2020 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP)</data>
+  <data key="vol">0</data>
+  <data key="page">4222</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="267">
+  <data key="name">Haykin S</data>
+  <data key="label">Haykin S, 2004, NEURAL NETWORKS COMP, V2, P41</data>
+  <data key="author">Haykin S</data>
+  <data key="year">2004</data>
+  <data key="title">...</data>
+  <data key="so">NEURAL NETWORKS COMP</data>
+  <data key="vol">2</data>
+  <data key="page">41</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="268">
+  <data key="name">Sennrich R</data>
+  <data key="label">Sennrich R, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1, P1715</data>
+  <data key="author">Sennrich R</data>
+  <data key="year">2016</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS</data>
+  <data key="vol">OL 1</data>
+  <data key="page">1715</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+</node>
+<node id="269">
+  <data key="name">Bengio Y</data>
+  <data key="label">Bengio Y, 2003, J MACH LEARN RES, V3, P1137, DOI 10.1162/153244303322533223</data>
+  <data key="author">Bengio Y</data>
+  <data key="year">2003</data>
+  <data key="title">...</data>
+  <data key="so">J MACH LEARN RES</data>
+  <data key="vol">3</data>
+  <data key="page">1137</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="270">
+  <data key="name">Gatt A</data>
+  <data key="label">Gatt A, 2018, J ARTIF INTELL RES, V61, P65, DOI 10.1613/jair.5477</data>
+  <data key="author">Gatt A</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">J ARTIF INTELL RES</data>
+  <data key="vol">61</data>
+  <data key="page">65</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="271">
+  <data key="name">Liu XD</data>
+  <data key="label">Liu XD, 2019, 57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019), V0, P4487</data>
+  <data key="author">Liu XD</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">57TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2019)</data>
+  <data key="vol">0</data>
+  <data key="page">4487</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="272">
+  <data key="name">Gottlob G</data>
+  <data key="label">Gottlob G, 2005, ACM T DATABASE SYST, V30, P444, DOI 10.1145/1071610.1071614</data>
+  <data key="author">Gottlob G</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">ACM T DATABASE SYST</data>
+  <data key="vol">30</data>
+  <data key="page">444</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="273">
+  <data key="name">Petrov S</data>
+  <data key="label">Petrov S, 2006, COLING/ACL 2006, VOLS 1 AND 2, P0</data>
+  <data key="author">Petrov S</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">COLING/ACL 2006</data>
+  <data key="vol">OLS 1 AND 2</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="274">
+  <data key="name">Wolf T</data>
+  <data key="label">Wolf T, 2020, ARXIV, V0, P0</data>
+  <data key="author">Wolf T</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="275">
+  <data key="name">Lester B</data>
+  <data key="label">Lester B, 2021, 2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021), V0, P3045</data>
+  <data key="author">Lester B</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">2021 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING (EMNLP 2021)</data>
+  <data key="vol">0</data>
+  <data key="page">3045</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="276">
+  <data key="name">Lu JS</data>
+  <data key="label">Lu JS, 2019, ADV NEUR IN, V32, P0</data>
+  <data key="author">Lu JS</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEUR IN</data>
+  <data key="vol">32</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">17</data>
+</node>
+<node id="277">
+  <data key="name">Zhang L</data>
+  <data key="label">Zhang L, 2018, WIRES DATA MIN KNOWL, V8, P0, DOI 10.1002/widm.1253</data>
+  <data key="author">Zhang L</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">WIRES DATA MIN KNOWL</data>
+  <data key="vol">8</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="278">
+  <data key="name">Devlin J</data>
+  <data key="label">Devlin J, 2019, ARXIV, V0, P0</data>
+  <data key="author">Devlin J</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">50</data>
+</node>
+<node id="279">
+  <data key="name">Vaswani A</data>
+  <data key="label">Vaswani A, 2017, ARXIV, V30, P5998</data>
+  <data key="author">Vaswani A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">ARXIV</data>
+  <data key="vol">30</data>
+  <data key="page">5998</data>
+  <data key="ut"></data>
+  <data key="freq">47</data>
+</node>
+<node id="280">
+  <data key="name">Liu TY</data>
+  <data key="label">Liu TY, 2018, AAAI CONF ARTIF INTE, V0, P4881</data>
+  <data key="author">Liu TY</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">0</data>
+  <data key="page">4881</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="281">
+  <data key="name">Li G</data>
+  <data key="label">Li G, 2020, AAAI CONF ARTIF INTE, V34, P11336</data>
+  <data key="author">Li G</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">AAAI CONF ARTIF INTE</data>
+  <data key="vol">34</data>
+  <data key="page">11336</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="282">
+  <data key="name">Ordonez Vicente</data>
+  <data key="label">Ordonez Vicente, 2011, ADV NEURAL INFORM PR, V24, P5</data>
+  <data key="author">Ordonez Vicente</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">ADV NEURAL INFORM PR</data>
+  <data key="vol">24</data>
+  <data key="page">5</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="283">
+  <data key="name">Jia YQ</data>
+  <data key="label">Jia YQ, 2014, PROCEEDINGS OF THE 2014 ACM CONFERENCE ON MULTIMEDIA (MM14), V0, PP675, DOI 10.1145/2647868.2654889</data>
+  <data key="author">Jia YQ</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">PROCEEDINGS OF THE 2014 ACM CONFERENCE ON MULTIMEDIA (MM14)</data>
+  <data key="vol">0</data>
+  <data key="page">675</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="284">
+  <data key="name">Faruqui Manaal</data>
+  <data key="label">Faruqui Manaal, 2015, P 2015 C N AM CHAPT, V0, PP1606, DOI 10.3115/v1/N15-1184</data>
+  <data key="author">Faruqui Manaal</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">P 2015 C N AM CHAPT</data>
+  <data key="vol">0</data>
+  <data key="page">1606</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="285">
+  <data key="name">Xiujun I</data>
+  <data key="label">Xiujun I, 2020, ECCV, V0, P0</data>
+  <data key="author">Xiujun I</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">ECCV</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="286">
+  <data key="name">Gewaltig M-O</data>
+  <data key="label">Gewaltig M-O, 2007, SCHOLARPEDIA, V2, P0, DOI 10.4249/SCHOLARPEDIA.1430</data>
+  <data key="author">Gewaltig M-O</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SCHOLARPEDIA</data>
+  <data key="vol">2</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<edge source="0" target="10">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="0" target="70">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="0" target="80">
+  <data key="weight">0.22360679507255554</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="0" target="148">
+  <data key="weight">0.2946278154850006</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="1" target="43">
+  <data key="weight">0.5892556309700012</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="1" target="70">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="1" target="177">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="1" target="263">
+  <data key="weight">0.40089187026023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="2" target="172">
+  <data key="weight">0.4629100561141968</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="3" target="108">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="3" target="260">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="4" target="63">
+  <data key="weight">0.4285714328289032</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="4" target="246">
+  <data key="weight">0.2857142984867096</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="6" target="199">
+  <data key="weight">0.42163702845573425</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="7" target="41">
+  <data key="weight">0.2519763112068176</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="8" target="184">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="8" target="268">
+  <data key="weight">0.47434166073799133</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="9" target="32">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="9" target="77">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="9" target="82">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="9" target="99">
+  <data key="weight">0.25</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="11" target="192">
+  <data key="weight">0.1951800137758255</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="12" target="92">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="14" target="142">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="15" target="45">
+  <data key="weight">0.48795002698898315</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="15" target="53">
+  <data key="weight">0.5005173087120056</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="16" target="112">
+  <data key="weight">0.20073877274990082</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="17" target="99">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="17" target="216">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="17" target="282">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="18" target="95">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="18" target="120">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="18" target="189">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="19" target="97">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="20" target="38">
+  <data key="weight">5.892556509934366E-4</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="20" target="146">
+  <data key="weight">0.7205767035484314</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="21" target="237">
+  <data key="weight">0.22792115807533264</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="22" target="185">
+  <data key="weight">0.24618297815322876</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="23" target="30">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="23" target="228">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="24" target="51">
+  <data key="weight">0.2519763112068176</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="24" target="117">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="24" target="159">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="24" target="246">
+  <data key="weight">0.4285714328289032</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="25" target="35">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="25" target="226">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="27" target="53">
+  <data key="weight">0.4423258602619171</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="27" target="235">
+  <data key="weight">0.4714045226573944</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="28" target="75">
+  <data key="weight">0.2529821991920471</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="29" target="86">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="30" target="69">
+  <data key="weight">0.35856857895851135</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="30" target="98">
+  <data key="weight">0.4242640733718872</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="31" target="126">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="32" target="142">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="32" target="164">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="33" target="160">
+  <data key="weight">0.2142857164144516</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="33" target="184">
+  <data key="weight">0.41602516174316406</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="33" target="208">
+  <data key="weight">0.2812843322753906</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="34" target="185">
+  <data key="weight">0.26111647486686707</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="34" target="250">
+  <data key="weight">0.21320071816444397</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="35" target="226">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="36" target="237">
+  <data key="weight">0.2696799337863922</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="37" target="60">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="37" target="218">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="38" target="116">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="38" target="244">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="39" target="234">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="40" target="94">
+  <data key="weight">0.22792115807533264</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="41" target="213">
+  <data key="weight">0.4020151197910309</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="42" target="193">
+  <data key="weight">0.2182178944349289</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="43" target="153">
+  <data key="weight">0.3268602192401886</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="43" target="190">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="44" target="57">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="44" target="175">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="45" target="101">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="45" target="114">
+  <data key="weight">0.9128709435462952</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="45" target="116">
+  <data key="weight">0.9128709435462952</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="46" target="60">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="46" target="72">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="47" target="187">
+  <data key="weight">0.6761233806610107</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="47" target="195">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="47" target="256">
+  <data key="weight">0.4045199155807495</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="49" target="256">
+  <data key="weight">0.36927446722984314</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="50" target="75">
+  <data key="weight">0.42211589217185974</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="50" target="180">
+  <data key="weight">0.4558423161506653</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="51" target="86">
+  <data key="weight">0.27216553688049316</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="52" target="77">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="52" target="82">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="53" target="93">
+  <data key="weight">0.34050261974334717</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="54" target="67">
+  <data key="weight">0.2519763112068176</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="54" target="136">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="54" target="236">
+  <data key="weight">0.24573659896850586</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="55" target="246">
+  <data key="weight">0.28347334265708923</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="56" target="158">
+  <data key="weight">0.5560384392738342</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="56" target="165">
+  <data key="weight">0.4307055175304413</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="57" target="176">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="57" target="222">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="57" target="241">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="58" target="214">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="59" target="145">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="59" target="228">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="60" target="72">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="61" target="70">
+  <data key="weight">0.27216553688049316</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="61" target="193">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="61" target="212">
+  <data key="weight">0.22645540535449982</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="62" target="268">
+  <data key="weight">0.26311740279197693</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="63" target="163">
+  <data key="weight">0.5976142883300781</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="64" target="79">
+  <data key="weight">0.4714045226573944</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="64" target="119">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="64" target="149">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="65" target="104">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="65" target="168">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="65" target="230">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="65" target="273">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="66" target="148">
+  <data key="weight">0.27216553688049316</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="68" target="71">
+  <data key="weight">0.42163702845573425</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="68" target="174">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="68" target="266">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="69" target="123">
+  <data key="weight">0.35856857895851135</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="70" target="271">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="71" target="237">
+  <data key="weight">0.2860387861728668</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="71" target="266">
+  <data key="weight">0.42163702845573425</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="73" target="142">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="164">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="201">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="209">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="73" target="242">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="75" target="113">
+  <data key="weight">2.91920208837837E-4</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="75" target="251">
+  <data key="weight">0.2666666805744171</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="76" target="225">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="77" target="82">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="78" target="193">
+  <data key="weight">0.1951800137758255</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="79" target="174">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="79" target="188">
+  <data key="weight">0.5455447435379028</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="81" target="195">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="83" target="227">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="84" target="104">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="84" target="107">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="85" target="185">
+  <data key="weight">2.7950850198976696E-4</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="85" target="210">
+  <data key="weight">0.33709993958473206</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="86" target="212">
+  <data key="weight">0.22645540535449982</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="86" target="252">
+  <data key="weight">0.27216553688049316</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="87" target="187">
+  <data key="weight">0.6681531071662903</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="87" target="194">
+  <data key="weight">0.42640143632888794</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="88" target="221">
+  <data key="weight">0.2572033405303955</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="88" target="236">
+  <data key="weight">0.2708212733268738</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="88" target="240">
+  <data key="weight">0.24168412387371063</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="88" target="245">
+  <data key="weight">0.26660311222076416</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="89" target="124">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="89" target="130">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="89" target="269">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="90" target="162">
+  <data key="weight">0.2857142984867096</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="90" target="202">
+  <data key="weight">0.30304574966430664</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="92" target="158">
+  <data key="weight">0.7378647923469543</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="92" target="281">
+  <data key="weight">0.5976142883300781</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="94" target="221">
+  <data key="weight">0.2955402433872223</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="95" target="120">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="95" target="179">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="95" target="189">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="95" target="242">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="96" target="244">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="97" target="165">
+  <data key="weight">0.29277002811431885</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="99" target="150">
+  <data key="weight">0.22360679507255554</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="99" target="205">
+  <data key="weight">0.25</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="99" target="282">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="100" target="286">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="101" target="140">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="101" target="217">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="102" target="232">
+  <data key="weight">0.5853694081306458</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="104" target="168">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="104" target="230">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="105" target="146">
+  <data key="weight">0.7396002411842346</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="105" target="187">
+  <data key="weight">0.6299408078193665</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="105" target="191">
+  <data key="weight">0.703526496887207</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="105" target="259">
+  <data key="weight">0.6299408078193665</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="106" target="123">
+  <data key="weight">0.4045199155807495</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="107" target="168">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="108" target="183">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="108" target="260">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="109" target="223">
+  <data key="weight">0.2096569687128067</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="110" target="112">
+  <data key="weight">0.5</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="110" target="113">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="110" target="185">
+  <data key="weight">0.4564354717731476</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="110" target="208">
+  <data key="weight">0.6573757529258728</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="111" target="268">
+  <data key="weight">0.47434166073799133</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="112" target="268">
+  <data key="weight">0.47434166073799133</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="113" target="208">
+  <data key="weight">0.3362194001674652</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="113" target="245">
+  <data key="weight">0.27060404419898987</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="114" target="265">
+  <data key="weight">0.7385489344596863</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="116" target="123">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="116" target="261">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="116" target="265">
+  <data key="weight">0.7385489344596863</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="118" target="237">
+  <data key="weight">0.22792115807533264</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="119" target="223">
+  <data key="weight">0.22645540535449982</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="120" target="179">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="120" target="189">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="120" target="242">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="121" target="190">
+  <data key="weight">0.4629100561141968</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="121" target="234">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="122" target="200">
+  <data key="weight">0.6172134280204773</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="122" target="266">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="123" target="196">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="124" target="167">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="126" target="170">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="127" target="221">
+  <data key="weight">0.24253562092781067</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="128" target="191">
+  <data key="weight">0.31980106234550476</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="128" target="194">
+  <data key="weight">0.31980106234550476</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="129" target="275">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="130" target="167">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="130" target="269">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="135" target="279">
+  <data key="weight">0.375</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="137" target="161">
+  <data key="weight">0.25</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="137" target="249">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="138" target="275">
+  <data key="weight">0.5039526224136353</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="139" target="228">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="142" target="164">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="144" target="173">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="144" target="283">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="146" target="232">
+  <data key="weight">0.7692307829856873</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="147" target="223">
+  <data key="weight">0.30151134729385376</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="149" target="247">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="150" target="205">
+  <data key="weight">0.22360679507255554</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="151" target="243">
+  <data key="weight">0.27216553688049316</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="153" target="185">
+  <data key="weight">0.45291081070899963</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="153" target="197">
+  <data key="weight">0.26995277404785156</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="154" target="275">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="155" target="174">
+  <data key="weight">0.4923659563064575</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="156" target="193">
+  <data key="weight">0.2519763112068176</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="157" target="158">
+  <data key="weight">0.5892556309700012</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="157" target="188">
+  <data key="weight">5.345225217752159E-4</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="157" target="199">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="159" target="253">
+  <data key="weight">0.5</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="161" target="215">
+  <data key="weight">0.37796446681022644</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="162" target="180">
+  <data key="weight">0.2857142984867096</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="163" target="172">
+  <data key="weight">0.47809144854545593</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="163" target="199">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="165" target="171">
+  <data key="weight">0.4303314685821533</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="166" target="245">
+  <data key="weight">0.2703690230846405</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="167" target="175">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="167" target="269">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="168" target="230">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="169" target="173">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="173" target="194">
+  <data key="weight">0.4045199155807495</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="176" target="222">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="176" target="241">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="178" target="258">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="179" target="189">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="182" target="273">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="183" target="201">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="183" target="260">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="184" target="284">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="185" target="208">
+  <data key="weight">0.32225170731544495</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="185" target="279">
+  <data key="weight">0.3061862289905548</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="186" target="187">
+  <data key="weight">0.5669466853141785</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="187" target="248">
+  <data key="weight">0.7559289336204529</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="189" target="242">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="190" target="192">
+  <data key="weight">0.29277002811431885</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="192" target="255">
+  <data key="weight">0.21081851422786713</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="193" target="243">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="193" target="279">
+  <data key="weight">0.2715376913547516</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="196" target="256">
+  <data key="weight">0.36927446722984314</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="198" target="215">
+  <data key="weight">0.6446583867073059</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="199" target="276">
+  <data key="weight">0.5368754863739014</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="200" target="220">
+  <data key="weight">0.30860671401023865</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="206" target="225">
+  <data key="weight">0.3442651927471161</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="206" target="243">
+  <data key="weight">0.273861289024353</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="206" target="256">
+  <data key="weight">6.227992125786841E-4</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="206" target="268">
+  <data key="weight">0.24806946516036987</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="209" target="216">
+  <data key="weight">0.25</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="210" target="275">
+  <data key="weight">0.263180673122406</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="213" target="236">
+  <data key="weight">0.3556433916091919</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="216" target="282">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">2</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="219" target="278">
+  <data key="weight">0.2984810173511505</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="221" target="239">
+  <data key="weight">0.32673200964927673</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="222" target="241">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="223" target="265">
+  <data key="weight">0.30151134729385376</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="224" target="230">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="225" target="268">
+  <data key="weight">0.4714045226573944</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="230" target="258">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="236" target="278">
+  <data key="weight">0.29192018508911133</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="247" target="275">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="249" target="252">
+  <data key="weight">0.2357022613286972</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="254" target="258">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="256" target="257">
+  <data key="weight">0.4045199155807495</data>
+  <data key="slice">3</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="270" target="280">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="276" target="285">
+  <data key="weight">0.48507124185562134</data>
+  <data key="slice">4</data>
+  <data key="year">2021</data>
+</edge>
+</graph>
+</graphml>

@@ -1,0 +1,1120 @@
+PT J
+AU Chase, SC
+AF Chase, SC
+TI Modelling spatial reasoning systems with shape algebras and formal logic
+SO AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND MANUFACTURING
+LA English
+DT Article
+DE shape algebras; shape grammars; feature emergence; feature recognition; formal logic
+ID generation; language; grammar; designs; implementation
+AB The combination of the paradigms of shape algebras and predicate logic representations, used in a new method for describing designs, is presented. First-order predicate logic provides a natural, intuitive way of representing shapes and spatial relations in the development of complete computer systems for reasoning about designs. Shape algebraic formalisms have advantages over more traditional representations of geometric objects. Here we illustrate the definition of a large set of high-level design relations from a small set of simple structures and spatial relations, with examples from the domains of geographic information systems and architecture.
+C1 NATL INST STAND & TECHNOL, MFG SYST INTEGRAT DIV, GAITHERSBURG, MD 20899 USA.
+C3 National Institute of Standards & Technology (NIST) - USA
+CR AKINER VT, 1986, DESIGN STUDIES, V7, P94
+   [Anonymous], 1990, LOGIC ARCHITECTURE, V0, P0
+   ARBAB F, 1987, DESIGN THEORY CAD, V0, P145
+   BROWN KN, 1995, RES ENG DES, V7, P151, DOI 10.1007/BF01638097
+   CARLSON C, 1994, IFIP TRANS B, V18, P73
+   CHASE SC, 1989, ENVIRON PLANN B, V16, P215, DOI 10.1068/b160215
+   CHASE SC, 1993, P ARECDAO 93, V0, P205
+   CHASE SC, 1996, THESIS U CALIFORNIA, V0, P0
+   CHERNEFF J, 1990, R9013 MIT, V0, P0
+   Coyne R, 1990, KNOWLEDGE BASED DESI, V0, P0
+   Eastman CM, 1978, ARTIFICIAL INTELLIGENCE AND PATTERN RECOGNITION IN COMPUTER AIDED DESIGN, V0, P335
+   Eastman CM, 1991, RESEARCH IN ENGINEERING DESIGN, V2, P65, DOI 10.1007/BF01579252
+   FU Z, 1994, J MECH DESIGN, V116, P763, DOI 10.1115/1.2919448
+   HEISSERMAN J, 1994, IEEE COMPUT GRAPH, V14, P37, DOI 10.1109/38.267469
+   HENDERSON MR, 1984, THESIS PURDUE U, V0, P0
+   Hofstadter DR, 1979, GODEL ESCHER BACH ET, V0, P0
+   Hoskins E, 1973, COMPUT AIDED DESIGN, V0, P127
+   JAFFAR J, 1992, ACM T PROGR LANG SYS, V14, P339, DOI 10.1145/129393.129398
+   KNIGHT TW, 1980, ENVIRON PLANN B, V7, P227, DOI 10.1068/b070227
+   KONING H, 1981, ENVIRON PLANN B, V8, P295, DOI 10.1068/b080295
+   KOUTAMANIS A, 1990, THESIS DELFT U TECHN, V0, P0
+   Kowalski RA, 1979, LOGIC PROBLEM SOLVIN, V0, P0
+   KRISHNAMURTI R, 1981, ENVIRON PLANN B, V8, P5, DOI 10.1068/b080005
+   KRISHNAMURTI R, 1980, ENVIRON PLANN B, V7, P463, DOI 10.1068/b070463
+   KRISHNAMURTI R, 1992, ENVIRON PLANN B, V19, P431, DOI 10.1068/b190431
+   Krishnamurti R, 1997, ENVIRON PLANN B, V24, P359, DOI 10.1068/b240359
+   KRISHNAMURTI R, 1986, ENVIRON PLANN B, V13, P391, DOI 10.1068/b130391
+   KRISHNAMURTI R, 1992, ENVIRON PLANN B, V19, P267, DOI 10.1068/b190267
+   Preparata FP, 1985, COMPUTATIONAL GEOMET, V0, P0, DOI DOI 10.1007/978-1-4612-1098-6
+   ROBINOVE CJ, 1986, 977 US GEOL SURV DEP, V0, P0
+   ROSEN DW, 1994, J MECH DESIGN, V116, P785, DOI 10.1115/1.2919451
+   STINY G, 1977, ENVIRON PLANN B, V4, P89, DOI 10.1068/b040089
+   STINY G, 1978, ENVIRON PLANN B, V5, P5, DOI 10.1068/b050005
+   STINY G, 1992, ENVIRON PLANN B, V19, P413, DOI 10.1068/b190413
+   Stiny G, 1991, RESEARCH IN ENGINEERING DESIGN, V2, P171, DOI 10.1007/BF01578998
+   STINY G, 1981, ENVIRON PLANN B, V8, P257, DOI 10.1068/b080257
+   Stiny G, 1972, INFORMATION PROCESSING 71 PROCEEDINGS OF THE IFIP CONGRESS 1971. VOLUME 2, V0, P1460
+   STINY G, 1989, DESIGN THEORY 88, V0, P173
+   Tapia M, 1992, VISUAL COMPUTER, V9, P47, DOI 10.1007/BF01901028
+   TAPIA MA, 1996, THESIS U TORONTO, V0, P0
+NR 41
+TC 2
+Z9 2
+U1 0
+U2 1
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0890-0604
+EI 1469-1760
+J9 AI EDAM
+JI AI EDAM-Artif. Intell. Eng. Des. Anal. Manuf.
+PD SEP 15
+PY 1997
+VL 11
+IS 4
+BP 273
+EP 285
+DI 10.1017/S089006040000322X
+PG 13
+WC Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications; Engineering, Multidisciplinary; Engineering, Manufacturing
+SC Computer Science; Engineering
+GA XZ311
+UT WOS:A1997XZ31100004
+DA 2023-11-10
+ER
+
+PT J
+AU Ortmanns, S
+   Ney, H
+   Aubert, X
+AF Ortmanns, S
+   Ney, H
+   Aubert, X
+TI A word graph algorithm for large vocabulary continuous speech recognition
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+AB This paper describes a method for the construction of a word graph (or lattice) for large vocabulary, continuous speech recognition. The advantage of a word graph is that a fairly good degree of decoupling between acoustic recognition at the IO-ms level and the final search at the word level using a complicated language model can be achieved. The word graph algorithm is obtained as an extension of the one-pass beam search strategy using word dependent copies of the word models or lexical trees. The method has been tested successfully on the 20 000-word NAB'94 task (American English, continuous speech, 20 000 words, speaker independent) and compared with the integrated method. The experiments show that the word graph density can be reduced to an average number of about 10 word hypotheses, i.e. word edges in the graph, per spoken word with virtually no loss in recognition performance. (C) 1997 Academic Press Limited.
+C1 PHILIPS GMBH, FORSCHUNGSLAB, D-52066 AACHEN, GERMANY.
+C3 Philips; Philips Research
+RP Ortmanns, S (通讯作者)，RHEIN WESTFAL TH AACHEN, LEHRSTUHL INFORMAT 6, D-52056 AACHEN, GERMANY.
+CR ALLEVA F, 1996, P IEEE INT C AC SPEE, V0, P133
+   ALLEVA F, 1993, P IEEE INT C AC SPEE, V2, P307
+   [Anonymous], 1994, P HUMAN LANG TECHN W, V0, P0
+   ANTONIOL G, 1995, P IEEE INT C AC SPEE, V1, P588
+   AUBERT X, 1995, P IEEE INT C AC SPEE, V0, P49
+   Baker JK, 1975, SPEECH RECOGNITION, V0, P512
+   BEYERLEIN P, 1995, P EUR C SPEECH COMM, V0, P1083
+   Bridle JS, 1982, PROCEEDINGS OF ICASSP 82. IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, V0, P899
+   CARDIN R, 1992, IEEE T ACOUST SPEECH, V1, P505
+   DUGAST C, 1995, P ARPA SPOK LANG TEC, V0, P156
+   FISSORE L, 1993, P EUR C SPEECH COMM, V0, P1525
+   Gauvain JL, 1994, P IEEE INT C AC SPEE, VI, P557
+   GENERET M, 1995, P EUR C SPEECH COMM, V0, P1245
+   Haeb-Umbach R, 1994, IEEE T SPEECH AUDI P, V2, P353, DOI 10.1109/89.279287
+   Klatt DH, 1980, TRENDS SPEECH RECOGN, V0, P529
+   KLOVSTAD JW, 1975, IEEE T ACOUST SPEECH, VAS23, P118, DOI 10.1109/TASSP.1975.1162637
+   KUBALA F, 1994, P IEEE INT C AC SPEE, V1, P561
+   KUHN R, 1990, IEEE T PATTERN ANAL, V12, P570, DOI 10.1109/34.56193
+   Lee C-H, 1992, COMPUTER SPEECH AND LANGUAGE, V6, P103, DOI 10.1016/0885-2308(92)90022-V
+   LJOLJE A, 1995, P ARPA SPOK LANG SYS, V0, P162
+   MURVEIT H, 1993, P IEEE INT C AC SPEE, V2, P319
+   NEY H, 1992, IEEE T SIGNAL PROCES, V40, P272, DOI 10.1109/78.124938
+   NEY H, 1982, FORTSCHRITTE AKUSTIK, V0, P915
+   NEY H, 1992, IEEE INT C AC SPEECH, V0, P13
+   NEY H, 1993, SPEECH RECOGNITION C, V0, P210
+   OERDER M, 1993, P IEEE INT C AC SPEE, V2, P119
+   ORTMANN S, 1995, 4 EUR C SPEECH COMM, V0, P901
+   Ortmanns S, 1996, ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING, V0, P0
+   Ortmanns S, 1996, ICSLP 96 - FOURTH INTERNATIONAL CONFERENCE ON SPOKEN LANGUAGE PROCESSING, V0, P0
+   RENALS S, 1995, P IEEE INT C AC SPEE, V1, P596
+   ROSENFELD R, 1995, P ARPA SPOK LANG TEC, V0, P47
+   SAKOE H, 1979, IEEE T ACOUST SPEECH, V27, P588, DOI 10.1109/TASSP.1979.1163310
+   SOONG FK, 1991, P IEEE INT C ACOUSTI, V0, P705
+   STEINBISS V, 1991, P 2 EUR C SPEECH COM, V3, P1217
+   STEINBISS V, 1992, COMMUNICATION, V0, P0
+   Vintsyuk T, 1971, KIBERNETIKA, V7, P133
+   WOODLAND PC, 1994, P IEEE INT C AC SPEE, V2, P125
+NR 41
+TC 87
+Z9 96
+U1 0
+U2 4
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0885-2308
+EI 1095-8363
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JAN 15
+PY 1997
+VL 11
+IS 1
+BP 43
+EP 72
+DI 10.1006/csla.1996.0022
+PG 30
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA WU722
+UT WOS:A1997WU72200003
+DA 2023-11-10
+ER
+
+PT J
+AU Chase, SC
+AF Chase, SC
+TI Supporting emergence in spatial reasoning with shape algebras and formal logic
+SO SPATIAL INFORMATION THEORY: A THEORETICAL BASIC FOR GIS
+LA English
+DT Article; Proceedings Paper
+DE shape algebras; emergence; feature recognition; formal logic; geographic information systems
+ID grammars; language
+AB The combination of the paradigms of shape algebras and predicate logic representations can be used for developing spatial models capable of identifying emergent (unanticipated and not explicit) features. First order predicate logic provides a natural, intuitive way of representing spatial relations in the development of computer systems for reasoning about geometric models. Shape algebraic formalisms have advantages over more traditional representations of geometric objects. In this paper we illustrate the definition of a large set of high level spatial relations from a small set of simple structures using shape algebras and predicate logic, with examples drawn from the domain of geographic information systems.
+C1 Natl Inst Stand & Technol, Mfg Syst Integrat Div, Gaithersburg, MD 20899 USA.
+C3 National Institute of Standards & Technology (NIST) - USA
+RP Chase, SC (通讯作者)，Natl Inst Stand & Technol, Mfg Syst Integrat Div, Gaithersburg, MD 20899 USA.
+EM scott.chase@nist.gov
+CR [Anonymous], 1988, PRINCIPLES DATABASE, V0, P0
+   ARBAB F, 1987, DESIGN THEORY CAD, V0, P145
+   CHASE SC, 1989, ENVIRON PLANN B, V16, P215, DOI 10.1068/b160215
+   CHASE SC, 1996, THESIS U CALIFORNIA, V0, P0
+   Cohn AG, 1995, LECT NOTES COMPUT SC, V988, P311
+   EGENHOFER MJ, 1989, LECT NOTES COMPUT SC, V367, P457
+   Faltings B, 1995, LECT NOTES COMPUT SC, V988, P17
+   GUTING RH, 1988, LECT NOTES COMPUT SC, V303, P506
+   GUTING RH, 1995, VLDB J, V4, P100
+   HEISSERMAN J, 1994, IEEE COMPUT GRAPH, V14, P37, DOI 10.1109/38.267469
+   HENDERSON MR, 1984, THESIS PURDUE U, V0, P0
+   HUXHOLD WE, 1991, INTRO URBAN GEOGRAPH, V0, P0
+   JAFFAR J, 1992, ACM T PROGR LANG SYS, V14, P339, DOI 10.1145/129393.129398
+   KNIGHT TW, 1980, ENVIRON PLANN B, V7, P227, DOI 10.1068/b070227
+   KONING H, 1981, ENVIRON PLANN B, V8, P295, DOI 10.1068/b080295
+   Kowalski RA, 1979, LOGIC PROBLEM SOLVIN, V0, P0
+   Preparata FP, 1985, COMPUTATIONAL GEOMET, V0, P0, DOI DOI 10.1007/978-1-4612-1098-6
+   ROBINOVE CJ, 1986, 977 US GEOL SURV DEP, V0, P0
+   STINY G, 1992, ENVIRON PLANN B, V19, P413, DOI 10.1068/b190413
+   Stiny G, 1991, RESEARCH IN ENGINEERING DESIGN, V2, P171, DOI 10.1007/BF01578998
+   STINY G, 1980, ENVIRON PLANN B, V7, P343, DOI 10.1068/b070343
+   TAPIA MA, 1996, THESIS U TORONTO, V0, P0
+NR 24
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+EI 
+J9 LECT NOTES COMPUT SC
+PD JUN 15
+PY 1997
+VL 1329
+IS 
+BP 409
+EP 427
+DI 
+PG 19
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Computer Science, Interdisciplinary Applications; Computer Science, Theory & Methods
+SC Computer Science
+GA BP50M
+UT WOS:000085345100027
+DA 2023-11-10
+ER
+
+PT J
+AU Cadoli, M
+   Eiter, T
+   Gottlob, G
+AF Cadoli, M
+   Eiter, T
+   Gottlob, G
+TI Default logic as a query language
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+LA English
+DT Article; Proceedings Paper
+DE nonmonotonic reasoning; default logic; query languages; relational databases; expressive power
+ID complexity; negation; programs
+AB Research in nonmonotonic reasoning has focused largely on the idea of representing knowledge about the world via rules that are generally true but can be defeated. Even if relational databases are nowadays the main tool for storing very large sets of data, the approach of using nonmonotonic Al formalisms as relational database query languages has been investigated to a much smaller extent. In this work, we propose a novel application of Reiter's default logic by introducing a default query language (DQL) for finite relational databases, which is based on default rules. The main result of this paper is that DQL is as expressive as SO There Exists For All, the existential-universal fragment of second-order logic. This result is not only of theoretical importance: We exhibit queries-which are useful in practice--that can be expressed with DQL and cannot with other query languages based on nonmonotonic logics such as DATALOG with negation under the stable model semantics. In particular, we show that DQL is well-suited for diagnostic reasoning.
+C1 VIENNA TECH UNIV,DEPT INFORMAT SYST,A-1040 VIENNA,AUSTRIA.
+C3 Technische Universitat Wien
+RP Cadoli, M (通讯作者)，UNIV ROMA LA SAPIENZA,DIPARTIMENTO INFORMAT & SISTEMIST,VIA SALARIA 113,I-00198 ROME,ITALY.
+CR Abiteboul S, 1991, ANNALS OF MATHEMATICS AND ARTIFICIAL INTELLIGENCE, V3, P151, DOI 10.1007/BF01530924
+   ABITEBOUL S, 1992, THEORETICAL STUDIES, V0, P0
+   Abiteboul S, 1995, FDN DATABASES, V0, P0
+   Aho A, 1979, P ACM S PRINCIPLES P, V0, P110
+   BELL C, 1995, J ACM, V42, P0
+   BIDOIT N, 1991, THEOR COMPUT SCI, V78, P85, DOI 10.1016/0304-3975(51)90004-7
+   Bidoit N, 1987, PROCEEDINGS OF THE SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE (CAT. NO.87CH2464-6), V0, P89
+   BIDOIT N, 1991, INFORMATION COMPUTAT, V19, P15
+   CADOLI M, 1993, J LOGIC PROGRAM, V17, P127, DOI 10.1016/0743-1066(93)90029-G
+   CADOLI M, 1994, P 4 INT C PRINC KNOW, V0, P0
+   CADOLI M, 1994, J COMPUT SYST SCI, V43, P165
+   CHANDRA AK, 1988, P PODS 88, V0, P0
+   Console L, 1991, JOURNAL OF LOGIC AND COMPUTATION, V1, P661, DOI 10.1093/logcom/1.5.661
+   CORCIULO L, 1993, P INT C DED OBJ OR D, V0, P0
+   Eiter T, 1994, PROCEEDINGS OF THE THIRTEENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS. PODS 1994, V0, PP267, DOI 10.1145/182591.182639
+   EITER T, 1995, J ACM, V42, P3, DOI 10.1145/200836.200838
+   EITER T, 1993, 12TH P ACM SIGACT SI, V0, P158
+   FAGIN R, 1974, COMPLEXITY COMPUTATI, V0, P43
+   Gelfond Michael, 1988, STABLE MODEL SEMANTI, V0, P1070
+   Gottlob G, 1992, JOURNAL OF LOGIC AND COMPUTATION, V2, P397, DOI 10.1093/logcom/2.3.397
+   GOTTLOB G, 1990, LECT NOTES AI, V462, P0
+   GUREVICH Y, 1988, TRENDS THEORETICAL C, V0, PCH1
+   Hamscher W, 1992, READINGS MODEL BASED, V0, P0
+   IMMERMAN N, 1987, SIAM J COMPUT, V16, P760, DOI 10.1137/0216051
+   Johnson DS, 1990, HDB THEORETICAL COMP, V0, P0
+   KANELLAKIS PC, 1990, HDB THEORETICAL COMP, VB, P0
+   KAUTZ HA, 1991, ARTIF INTELL, V49, P243, DOI 10.1016/0004-3702(91)90011-8
+   KOLAITIS PG, 1991, J COMPUT SYST SCI, V43, P125, DOI 10.1016/0022-0000(91)90033-2
+   KRISHNAMURTHY R, 1988, 3RD P INT C DAT KNOW, V0, P416
+   LUKASIEWICZ W, 1990, NONMONOTONIC REASONI, V0, P0
+   LYNCH JF, 1982, MATH SYST THEORY, V15, P127
+   MAREK W, 1991, J ACM, V38, P588, DOI 10.1145/116825.116836
+   Marek W, 1993, NONMONOTONIC LOGICS, V0, P0
+   Papadimitriou C, 1994, COMPUT COMPLEX, V0, P0
+   PAPADIMITRIOU CH, 1985, B EATCS, V26, P21
+   POOLE D, 1989, P 11 INT JOINT C ART, V0, P1304
+   Reggia J, 1990, ABDUCTIVE INFERENCE, V0, P0
+   REITER R, 1980, ARTIF INTELL, V13, P81, DOI 10.1016/0004-3702(80)90014-4
+   REITER R, 1984, CONCEPTUAL MODELLING, V0, P163
+   SACCA D, 1990, PROCEEDINGS OF THE NINTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, V0, PP205, DOI 10.1145/298514.298572
+   SACCA D, 1995, J COMPUTER SYSTEM SC, V0, P0
+   SACCA D, 1993, INF P 2 COMP NET M K, V0, P0
+   Sakama Chiaki, 1993, P 2 INT WORKSH LOG P, V0, P266
+   Stewart IA, 1991, JOURNAL OF LOGIC AND COMPUTATION, V1, P305, DOI 10.1093/logcom/1.3.305
+   STILLMAN J, 1992, P AAAI 92 SAN JOSE, V0, P794
+   Stockmeyer Larry, 1977, THEORET COMPUT SCI, V3, P1
+   Ullman JD, 1989, PRINCIPLES DATABASE, VI, P0
+   Van Gelder A, 1989, PROCEEDINGS OF THE EIGHTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, V0, PP1, DOI 10.1145/73721.73722
+   VANGELDER A, 1991, J ACM, V38, P620, DOI 10.1145/116825.116838
+   WAGNER KW, 1990, SIAM J COMPUT, V19, P833, DOI 10.1137/0219058
+NR 51
+TC 43
+Z9 43
+U1 0
+U2 0
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314
+SN 1041-4347
+EI 
+J9 IEEE T KNOWL DATA EN
+JI IEEE Trans. Knowl. Data Eng.
+PD MAY-JUN 15
+PY 1997
+VL 9
+IS 3
+BP 448
+EP 463
+DI 10.1109/69.599933
+PG 16
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA XG593
+UT WOS:A1997XG59300008
+DA 2023-11-10
+ER
+
+PT J
+AU Hu, JY
+   Turin, W
+   Brown, MK
+AF Hu, JY
+   Turin, W
+   Brown, MK
+TI Language modeling using stochastic automata with variable length contexts
+SO COMPUTER SPEECH AND LANGUAGE
+LA English
+DT Article
+ID text compression; probability
+AB It is well known that language models are effective for increasing the accuracy of speech and handwriting recognizers, but large language models are often required to achieve low model perplexity (or entropy) and still have adequate language coverage. We study three efficient methods for variable order stochastic language modeling in the context of the stochastic pattern recognition problem. Two of these methods are previous techniques from recent literature, and one is a new method based on a successful text compression technique. We give results of a comparative analysis, and demonstrate that the best performance is achieved by extending one of the previous techniques using elements from the newly developed method. (C) 1997 Academic Press Limited.
+RP Hu, JY (通讯作者)，AT&T BELL LABS,LUCENT TECHNOL,600 MT AVE,MURRAY HILL,NJ 07974, USA.
+CR [Anonymous], 1980, HIDDEN MARKOV MODELS, V0, P0
+   Bahl LR, 1978, PROCEEDINGS OF THE 1978 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, V0, P418
+   BAHL LR, 1983, IEEE T PATTERN ANAL, V5, P2350
+   BAKER JK, 1975, IEEE T ACOUST SPEECH, VAS23, P24, DOI 10.1109/TASSP.1975.1162650
+   BAUM LE, 1966, ANN MATH STAT, V37, P1554, DOI 10.1214/aoms/1177699147
+   Bell TC, 1990, TEXT COMPRESSION, V0, P0
+   BENGIO Y, 1994, ADV NEURAL INFORMATI, V6, P937
+   BILLINGSLEY P, 1961, ANN MATH STAT, V32, P12, DOI 10.1214/aoms/1177705136
+   CLEARY JG, 1984, IEEE T COMMUN, V32, P396, DOI 10.1109/TCOM.1984.1096090
+   CORMACK GV, 1987, COMPUT J, V30, P541, DOI 10.1093/comjnl/30.6.541
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+   FERGUSON J, 1980, P S APPL HIDD MARK M, V0, P8
+   Guyon I, 1995, PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION, V0, PP454, DOI 10.1109/ICDAR.1995.599034
+   Hu J, 1994, P INT WORKSH FRONT H, V0, P195}205
+   JELINEK F, 1975, IEEE T INFORM THEORY, V21, P250, DOI 10.1109/TIT.1975.1055384
+   KATZ SM, 1987, IEEE T ACOUST SPEECH, V35, P400, DOI 10.1109/TASSP.1987.1165125
+   Kucera H, 1967, COMPUTATIONAL ANAL P, V0, P0
+   LEVINSON SE, 1978, AT&T TECH J, V57, P1627, DOI 10.1002/j.1538-7305.1978.tb02115.x
+   LEVINSON SE, 1977, P ICASSP 77, V0, P479
+   MAKHOUL J, 1994, P ICASSP 94 AD AUSTR, V0, PV125
+   NATHAN KS, 1995, P ICASSP 95 DETR MIC, V0, P2619
+   PLACEWAY P, 1993, P INT C AC SPEECH SI, V2, P33
+   RICCARDI G, 1995, P ICASSP 95, V0, P237
+   RISSANEN J, 1981, IEEE T INFORM THEORY, V27, P12, DOI 10.1109/TIT.1981.1056282
+   RON D, 1994, ADV NEURAL INFORMATI, V6, P176
+   SCHENKEL M, 1995, MACH VISION APPL, V0, P215
+   TEUHOLA J, 1993, COMPUT J, V36, P607, DOI 10.1093/comjnl/36.7.607
+   WITTEN IH, 1991, IEEE T INFORM THEORY, V37, P1085, DOI 10.1109/18.87000
+NR 28
+TC 11
+Z9 11
+U1 1
+U2 2
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON, ENGLAND NW1 7DX
+SN 0885-2308
+EI 
+J9 COMPUT SPEECH LANG
+JI Comput. Speech Lang.
+PD JAN 15
+PY 1997
+VL 11
+IS 1
+BP 1
+EP 16
+DI 10.1006/csla.1996.0020
+PG 16
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA WU722
+UT WOS:A1997WU72200001
+DA 2023-11-10
+ER
+
+PT J
+AU Jeusfeld, MA
+   Bui, TX
+AF Jeusfeld, MA
+   Bui, TX
+TI Distributed decision support and organizational connectivity: A case study
+SO DECISION SUPPORT SYSTEMS
+LA English
+DT Article; Proceedings Paper
+DE decision support system; distributed processing; Internet/Intranet; data and model repository; World-Wide-Web
+AB While the Internet has been grabbing most of the attention of the information systems researchers and practitioners, online transaction processing systems still take the lion's share of business information systems. Although many Decision Support Systems (DSS) have been developed, they failed to become mainstream products due to their Limited availability, applicability, and interoperability. In this paper, we propose a script language to make use of the vast resource of the Internet as a means (i) to better make DSS known to potential users, and (ii) to allow construction of DSS from DSS components stored on various Internet sites. With the proposed script language, we contend that DSS would have a greater potential of gaining a larger share of use among the business community. Contrasting to other approaches that advocate for a central clearinghouse of DSS components, we propose a bottom-up strategy, i.e., users and developers of DSS's cooperate in weaving a web of distributed DSS components to form a federated network of on-line DSS repositories. The purpose of the proposed script language is to ensure effective search of DSS components and rapid development and deployment of application-specific DSS. The proposed method is scalable to support distributed platforms using multiple processors and/or application domains. A case study derived from a real life application in a multi-national company is discussed to illustrate the proposed approach.
+C1 USN, POSTGRAD SCH, DEPT SYST MANAGEMENT, MONTEREY, CA 93943 USA.
+   RHEIN WESTFAL TH AACHEN, AACHEN, GERMANY.
+C3 United States Department of Defense; United States Navy; Naval Postgraduate School; RWTH Aachen University
+CR [Anonymous], 1991, DISTRIBUTED DECISION, V0, P0
+   BARNERSLEE T, 1995, UNIFORM RESOURCE LOC, V0, P0
+   Bhargava HK, 1995, PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON DECISION SUPPORT SYSTEMS, V0, P499
+   Bhargava HK, 1995, PROCEEDINGS OF THE THIRD INTERNATIONAL CONFERENCE ON DECISION SUPPORT SYSTEMS, V0, P507
+   ELLIS CA, 1992, P 3 INT WORKSH INT C, V0, P0
+   FELTER R, 1989, DECISION SUPPORT ASS, V0, P0
+   GENESERETH MR, 1994, COMMUN ACM, V37, P48, DOI 10.1145/176789.176794
+   GENESERETH MR, 1994, ACM, V37, P147
+   GOUL M, 1900, P517, V0, P0
+   KALAKOTA SB, 1995, P 3 INT C DEC SUPP S, V0, P373
+   Nestor J, 1990, IDL LANGUAGE ITS IMP, V0, P0
+   PAPAKONSTANTINOU Y, 1995, PROC INT CONF DATA, V0, PP251, DOI 10.1109/ICDE.1995.380386
+   Sprague RH, 1982, BUILDING EFFECTIVE D, V0, P0
+NR 13
+TC 10
+Z9 15
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-9236
+EI 
+J9 DECIS SUPPORT SYST
+JI Decis. Support Syst.
+PD MAR 15
+PY 1997
+VL 19
+IS 3
+BP 215
+EP 225
+DI 10.1016/S0167-9236(96)00057-7
+PG 11
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Operations Research & Management Science
+SC Computer Science; Operations Research & Management Science
+GA WY206
+UT WOS:A1997WY20600005
+DA 2023-11-10
+ER
+
+PT J
+AU Morik, K
+   Brockhausen, P
+AF Morik, K
+   Brockhausen, P
+TI A multistrategy approach to relational knowledge discovery in databases
+SO MACHINE LEARNING
+LA English
+DT Article; Proceedings Paper
+DE knowledge discovery in databases; inductive logic programming; functional dependencies; numerical intervals; background knowledge
+ID functional-dependency
+AB When learning from very large databases, the reduction of complexity is extremely important. Two extremes of making knowledge discovery in databases (KDD) feasible have been put forward. One extreme is to choose a very simple hypothesis language, thereby being capable of very fast learning on real-world databases. The opposite extreme is to select a small data set, thereby being able to learn very expressive (first-order logic) hypotheses. A multistrategy approach allows one to include most of these advantages and exclude most of the disadvantages. Simpler learning algorithms detect hierarchies which are used to structure the hypothesis space for a more complex learning algorithm. The better structured the hypothesis space is, the better learning can prune away uninteresting or losing hypotheses and the faster it becomes. We have combined inductive logic programming (ILP) directly with a relational database management system. The ILP algorithm is controlled in a model-driven way by the user and in a data-driven way by structures that are induced by three simple learning algorithms.
+RP Morik, K (通讯作者)，UNIV DORTMUND, DEPT COMP SCI, LS 8, D-44221 DORTMUND, GERMANY.
+CR Agrawal R, 1996, ADV KNOWLEDGE DISCOV, V0, P0
+   [Anonymous], 1988, PRINCIPLES DATABASE, V0, P0
+   [Anonymous], 1991, KNOWLEDGE DISCOVERY, V0, P0
+   BEERI C, 1984, J ACM, V31, P30, DOI 10.1145/2422.322414
+   BELL S, 1995, P 1 INT C KNOWL DISC, V0, P27
+   BERGADANO F, 1991, MACHINE LEARNING INT, V0, P0
+   Brachman RJ, 1996, ADV KNOWLEDGE DISCOV, V0, P0
+   CAI Y, 1991, KNOWLEDGE DISCOVERY, V0, P0
+   De Raedt L, 1992, INTERACTIVE THEORY R, V0, P0
+   DERAEDT L, 1992, INDUCTIVE LOGIC PROG, V0, P0
+   DZEROSKI S, 1996, ADV KNOWLEDGE DISCOV, V0, P0
+   FLACH PA, 1992, INDUCTIVE LOGIC PROG, V0, P0
+   FLACH PA, 1993, LECT NOTES ARTIF INT, V667, P83
+   HELFT N, 1987, P 2 EUR WORK SESS LE, V0, P0
+   KANELLAKIS P, 1990, FORMAL MODELS SEMANT, V0, P0
+   Kietz J, 1994, SIGART B, V5, P22
+   Kietz JU, 1992, INDUCTIVE LOGIC PROG, V0, P0
+   KIETZ JU, 1996, THESIS TU BERLIN, V0, P0
+   KIETZ JU, 1988, P EKAW 88 SANKT AUG, V0, P1
+   Lavrac N, 1994, INDUCTIVE LOGIC PROG, V0, P146
+   LINDNER G, 1995, STAT MACHINE LEARNIN, V0, P163
+   MANNILA H, 1994, DATA KNOWL ENG, V12, P83, DOI 10.1016/0169-023X(94)90023-X
+   MANNILA H, 1996, CYBERNET SYST, V2, P973
+   MANNILA H, 1995, STAT MACHINE LEARNIN, V0, P1
+   MICHALSKI RS, 1994, MACHINE LEARNING, V4, P0
+   MICHALSKI RS, 1983, MACHINE LEARNING, V1, P0
+   MORIK K, 1993, KNOWLEDGE ACQUISITIO, V0, P0
+   MUGGLETON S, 1995, NEW GENERAT COMPUT, V13, P245, DOI 10.1007/BF03037227
+   MUGGLETON S, 1994, J LOGIC PROGRAM, V20, P629, DOI 10.1016/0743-1066(94)90035-3
+   PAZZANI M, 1992, MACH LEARN, V9, P57, DOI 10.1023/A:1022628829777
+   PAZZANI MJ, 1995, P 1 INT C KNOWL DISC, V0, P228
+   QUINLAN JR, 1990, MACH LEARN, V5, P239, DOI 10.1007/BF00117105
+   Savnik I, 1993, P KDD 99 WORKSH KNOW, V0, P174
+   WETTSCHERECK D, 1995, MACH LEARN, V19, P5, DOI 10.1007/BF00994658
+   WROBEL S, 1996, 2 INT C KNOWL DISC D, V0, P214
+NR 36
+TC 12
+Z9 12
+U1 0
+U2 2
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0885-6125
+EI 1573-0565
+J9 MACH LEARN
+JI Mach. Learn.
+PD JUN 15
+PY 1997
+VL 27
+IS 3
+BP 287
+EP 312
+DI 10.1023/A:1007317925872
+PG 26
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA XQ298
+UT WOS:A1997XQ29800005
+DA 2023-11-10
+ER
+
+PT J
+AU Brown, KN
+   Cagan, J
+AF Brown, KN
+   Cagan, J
+TI Optimized process planning by generative simulated annealing
+SO AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND MANUFACTURING
+LA English
+DT Article
+DE process planning; simulated annealing; shape grammar; semantics; optimization
+ID shape; features; grammar; model
+AB Manufacturing process planning is a difficult problem with a prohibitively large search space. It is normally tackled by decomposing goal objects into features, and then sequencing features to obtain a plan. This paper investigates an alternative approach. The capabilities of a manufacturing process are represented by a formal language of shape, in which sentences correspond to manufacturable objects. The language is interpreted to describe process plans corresponding to the shape generation, complete with cost estimates. A macro layer that describes single operations of the machine is implemented on top of the formal language. The space it describes is searched by the generative simulated annealing algorithm, a stochastic search technique based on simulated annealing. Plans that are close to the optimum are generated in reasonable time.
+C1 UNIV ABERDEEN, DEPT COMP SCI, ABERDEEN AB24 3UE, SCOTLAND.
+   CARNEGIE MELLON UNIV, DEPT MECH ENGN, PITTSBURGH, PA 15213 USA.
+C3 University of Aberdeen; Carnegie Mellon University
+CR [Anonymous], 1985, INTRO AUTOMATED PROC, V0, P0
+   [Anonymous], 1991, PROC 4 INT C GENETIC, V0, P0
+   BROWN KN, 1994, IFIP TRANS B, V18, P135
+   Brown KN, 1996, ARTIF INTELL ENG, V10, P153, DOI 10.1016/0954-1810(95)00025-9
+   BROWN KN, 1995, RES ENG DES, V7, P151, DOI 10.1007/BF01638097
+   BROWN KN, 1992, ARTIFICIAL INTELLIGENCE IN DESIGN 92, V0, P287
+   BROWN KN, 1996, ADV FORMAL DESIGN ME, V0, P59
+   CAGAN J, 1993, ENVIRON PLANN B, V20, P5, DOI 10.1068/b200005
+   CAGAN J, 1997, IN PRESS COMPUTATION, V0, P0
+   Chuang S-H, 1991, RESEARCH IN ENGINEERING DESIGN, V2, P147, DOI 10.1007/BF01578996
+   FINGER S, 1990, P 1 INT WORKSH FORM, V0, P133
+   FINGER S, 1990, 2 INT C DES THEOR ME, V0, P0
+   Fitzhorn PA, 1990, (AI EDAM) ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN, V0, P0
+   FLEMMING U, 1987, ENVIRON PLANN B, V14, P323, DOI 10.1068/b140323
+   FU Z, 1991, 1991 ASME DES AUT C, V0, P0
+   GASCHNIG J, 1979, CMUCS79124, V0, P0
+   Green RE, 1992, MACHINERYS HDB, V0, P0
+   HARVEY WD, 1995, THESIS U STANFORD ST, V0, P0
+   HAYES C, 1989, J MANUF SYST, V8, P1, DOI 10.1016/0278-6125(89)90015-0
+   JOSHI S, 1988, COMPUT AIDED DESIGN, V20, P58, DOI 10.1016/0010-4485(88)90050-4
+   KIRKPATRICK S, 1983, SCIENCE, V220, P671, DOI 10.1126/science.220.4598.671
+   Knuth DE, 1968, MATHEMATICAL SYSTEMS THEORY, V2, P127, DOI 10.1007/BF01692511
+   MAREFAT M, 1996, P 1996 ASME DES ENG, V0, P0
+   Nau DS, 1995, IJCAI-95. PROCEEDINGS OF THE FOURTEENTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P1670
+   Opitz H, 1970, CLASSIFICATION SYSTE, V0, P0
+   PENJAM J, 1990, THEOR COMPUT SCI, V71, P241, DOI 10.1016/0304-3975(90)90200-2
+   REDDY G, 1995, J MECH DESIGN, V117, P315, DOI 10.1115/1.2826141
+   Rinderle JR, 1991, RESEARCH IN ENGINEERING DESIGN, V2, P137, DOI 10.1007/BF01578995
+   SCHMIDT LC, 1995, RES ENG DES, V7, P102, DOI 10.1007/BF01606905
+   SELMAN B, 1992, P 10 NAT C ART INT A, V0, P440
+   SHAH J, 1989, MANUFACTURING REV, V2, P204
+   Shah JJ, 1991, RESEARCH IN ENGINEERING DESIGN, V2, P93, DOI 10.1007/BF01579254
+   SRIKANTAPPA AB, 1992, P ASME COMP ENG C, V0, P245
+   STINY G, 1978, ENVIRON PLANN B, V5, P5, DOI 10.1068/b050005
+   Stiny G, 1991, RESEARCH IN ENGINEERING DESIGN, V2, P171, DOI 10.1007/BF01578998
+   STINY G, 1980, ENVIRON PLANN B, V7, P343, DOI 10.1068/b070343
+   STINY G, 1981, ENVIRON PLANN B, V8, P257, DOI 10.1068/b080257
+   SZYKMAN S, 1995, J MECH DESIGN, V117, P308, DOI 10.1115/1.2826140
+   SZYKMAN S, 1993, ADV DESIGN AUTOMATIO, V0, P527
+NR 40
+TC 36
+Z9 36
+U1 1
+U2 3
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0890-0604
+EI 1469-1760
+J9 AI EDAM
+JI AI EDAM-Artif. Intell. Eng. Des. Anal. Manuf.
+PD JUN 15
+PY 1997
+VL 11
+IS 3
+BP 219
+EP 235
+DI 10.1017/S0890060400003140
+PG 17
+WC Computer Science, Artificial Intelligence; Computer Science, Interdisciplinary Applications; Engineering, Multidisciplinary; Engineering, Manufacturing
+SC Computer Science; Engineering
+GA XQ043
+UT WOS:A1997XQ04300005
+DA 2023-11-10
+ER
+
+PT J
+AU Fourer, R
+AF Fourer, R
+TI Database structures for mathematical programming models
+SO DECISION SUPPORT SYSTEMS
+LA English
+DT Article
+DE database; relational database; hierarchical database; mathematical programming; linear programming; large-scale optimization; production planning; steel
+ID languages; system; steel
+AB In the design and use of large-scale mathematical programming systems, a substantial portion of the effort has no direct relation to the variables and constraints, but is instead concerned with the description, manipulation and display of data. Established principles of database design do not apply directly to mathematical programming, however, because there are significant differences of organization and content between the data for an optimization model and the data for a conventional database application such as payroll or order entry. The goal of this work is thus to derive and elucidate fundamental principles of database construction for the specific case of large-scale mathematical programming. Alternative formulations of a steel mill planning model, combining aspects of production and network linear programming, are presented as an example; these formulations are shown to correspond to relational and hierarchical database schemes that have contrasting strengths and weaknesses. A particular implementation of a database system for steel optimization is then introduced and discussed, and a variety of promising generalizations are surveyed. (C) 1997 Elsevier Science B.V.
+RP Fourer, R (通讯作者)，NORTHWESTERN UNIV,DEPT IND ENGN & MANAGEMENT SCI,EVANSTON,IL 60208, USA.
+CR ATAMTURK A, 1996, ARMOS RELATIONAL MOD, V0, P0
+   BAKER TE, 1986, HIERARCHICAL RELATIO, V0, P0
+   BIELEFELD FW, 1986, INTERFACES, V16, P41, DOI 10.1287/inte.16.4.41
+   Bisschop J, 1993, AIMMS MODELING SYSTE, V0, P0
+   Bisschop JJ, 1993, COMPUTATIONAL OPTIMIZATION AND APPLICATIONS, V1, P415, DOI 10.1007/BF00248765
+   BISSCHOP JJ, 1993, MANAGE SCI, V39, P746, DOI 10.1287/mnsc.39.6.746
+   BONCZEK R, 1978, RAIRO-RECH OPER, V12, P117
+   Choobineh J, 1991, ORSA JOURNAL ON COMPUTING, V3, P358, DOI 10.1287/ijoc.3.4.358
+   CLEAVES GW, 1990, INTERFACES, V20, P83, DOI 10.1287/inte.20.6.83
+   CODD EF, 1993, PROVIDING OLAP ON LI, V0, P0
+   DATE CJ, 1990, INTRO DATABASE SYSTE, V0, P0
+   DUTTA G, 1996, THESIS NW U, V0, P0
+   DUTTA G, 1996, SURVEY MATH PROGRAMM, V0, P0
+   Dutta Goutam, 1994, INT T OPER RES, V0, P0, DOI DOI 10.1016/0969-6016(94)90042-6
+   FABIAN T, 1958, MANAGE SCI, V4, P415, DOI 10.1287/mnsc.4.4.415
+   FINKELSTEIN R, 1995, UNDERSTANDING NEED O, V0, P0
+   FOURER R, 1990, MANAGE SCI, V36, P519, DOI 10.1287/mnsc.36.5.519
+   FOURER R, 1990, DATABASE STRUCTURES, V0, P0
+   Fourer R, 1993, AMPL MODELING LANGUA, V0, P0
+   GREENBERG HJ, 1993, ACM T MATH SOFTWARE, V19, P233, DOI 10.1145/152613.152619
+   GREENBERG HJ, 1993, COMPUTER ASSISTED AN, V0, P0
+   *KEN SYST CORP, 1995, INTR MULT DAT TECHN, V0, P0
+   KENDRICK D, 1984, PLANNING INVESTMENT, V0, P0
+   KUIP CAC, 1993, EUR J OPER RES, V67, P25, DOI 10.1016/0377-2217(93)90320-M
+   LENARD ML, 1990, 29 TIMS ORSA JOINT N, V0, P0
+   MARSTEN RE, 1981, ACM T MATH SOFTWARE, V7, P481, DOI 10.1145/355972.355976
+   Mitra G, 1995, COMPUTATIONAL OPTIMIZATION AND APPLICATIONS, V4, P263, DOI 10.1007/BF01300874
+   MULLERMERBACH H, 1990, IMA J MATH APPL BUSI, V2, P141
+   PALMER KH, 1984, MODEL MANAGEMENT FRA, V0, P63
+   PASQUIER J, 1985, CONVENIENT TECHNIQUE, V0, P0
+   PERLMAN G, 1993, INSIDE 4 DIMENSION, V0, P0
+   ROTH MA, 1988, ACM T DATABASE SYST, V13, P389, DOI 10.1145/49346.49347
+   SAVAGE SL, 1990, 29 TIMS ORSA JOINT N, V0, P0
+   SINHA GP, 1995, INTERFACES, V25, P6, DOI 10.1287/inte.25.1.6
+   Stohr EA, 1980, INTERNATIONAL JOURNAL OF POLICY ANALYSIS AND INFORMATION SYSTEMS, V4, P105
+   Ullman JD, 1988, PRINCIPLES DATABASE, V0, P0
+   WELCH JS, 1987, IMA J MATH MATNAGEME, V1, P237
+NR 38
+TC 23
+Z9 24
+U1 1
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-9236
+EI 
+J9 DECIS SUPPORT SYST
+JI Decis. Support Syst.
+PD AUG 15
+PY 1997
+VL 20
+IS 4
+BP 317
+EP 344
+DI 10.1016/S0167-9236(97)00007-9
+PG 28
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems; Operations Research & Management Science
+SC Computer Science; Operations Research & Management Science
+GA YL003
+UT WOS:A1997YL00300003
+DA 2023-11-10
+ER
+
+PT J
+AU Leone, N
+   Pizzutit, C
+   Rullo, P
+AF Leone, N
+   Pizzutit, C
+   Rullo, P
+TI Efficient evaluation of a class of ordered logic programs
+SO DATA & KNOWLEDGE ENGINEERING
+LA English
+DT Article
+DE ordered logic programming; well-founded semantics; fixpoint semantics; quasi-stratified programs
+AB Ordered Logic (OL) enhances logic programming by the capability of modeling complex knowledge, by permitting a natural representation of several forms of non-monotonic reasoning. Both well-founded and stable model semantics for OL programs can be found in the literature [7,20,22]. This paper focuses on the problem of the efficient evaluation of the well-founded semantics of OL programs. First, a class of OL programs, called quasi-stratified programs, is presented, Then, an algorithm for the efficient bottom-up evaluation of the well-founded model of quasi-stratified programs is provided. Quasi-stratified programs evaluation has been implemented in KIWIS, an advanced environment for large database systems, whose query language is based on OL.
+C1 UNIV CALABRIA, DEIS, CNR, ISI, I-87036 Arcavacata Di Rende, ITALY.
+   VIENNA TECH UNIV, DEPT INFORMAT SYST, A-1040 VIENNA, AUSTRIA.
+   UNIV REGGIO CALABRIA, DIMET, I-89100 Reggio Di Calabria, ITALY.
+C3 Consiglio Nazionale delle Ricerche (CNR); University of Calabria; Technische Universitat Wien; Universita Mediterranea di Reggio Calabria
+CR ABITEBOUL S, 1989, SIGMOD REC, V18, P159, DOI 10.1145/66926.66941
+   Abiteboul S, 1990, DATA & KNOWLEDGE ENGINEERING, V5, P263, DOI 10.1016/0169-023X(90)90016-7
+   AHLSEN, 1991, P 3 INT C CAISE 91 T, V0, P0
+   AITKACI H, 1986, J LOGIC PROGRAM, V3, P185, DOI 10.1016/0743-1066(86)90013-0
+   Apt K, 1987, FDN DEDUCTIVE DATABA, V0, P89
+   BARAL C, 1994, J LOGIC PROGRAM, V20, P73, DOI 10.1016/0743-1066(94)90025-6
+   Buccafurri F, 1996, J LOGIC PROGRAM, V27, P5, DOI 10.1016/0743-1066(95)00076-3
+   BUCCAFURRI F, 1995, P 6 INT C DAT EXP SY, V0, P0
+   CHEN W, 1989, MAR P ACM SIGACT SIG, V0, P369
+   CONERY JS, 1987, CISTR8709 U OR, V0, P0
+   DENECKER M, 1993, MIT PS LOG, V0, P147
+   Fitting M, 1985, JOURNAL OF LOGIC PROGRAMMING, V2, P295, DOI 10.1016/S0743-1066(85)80005-4
+   GELFOND M, 1990, LOGIC PROGRAMM, V0, P579
+   KIFER M, 1989, MAY P ACM SIGMO C MA, V0, P134
+   KIFER M, 1990, 9014 STAT U NEW YORK, V0, P0
+   KUPER GM, 1987, P ACM PODS, V0, P11
+   Laenens E, 1990, JOURNAL OF LOGIC AND COMPUTATION, V1, P159, DOI 10.1093/logcom/1.2.159
+   Laenens E, 1992, JOURNAL OF LOGIC AND COMPUTATION, V2, P133, DOI 10.1093/logcom/2.2.133
+   LAENENS E, 1990, THESIS U ANTWERP, V0, P0
+   LAENENS E, 1990, P ACM SIGMOD, V0, P0
+   LEONE N, 1992, LECT NOTES COMPUT SC, V593, P632
+   LEONE N, 1993, NEW GENERAT COMPUT, V12, P91, DOI 10.1007/BF03038273
+   Leone N, 1993, JOURNAL OF LOGIC AND COMPUTATION, V3, P621, DOI 10.1093/logcom/3.6.621
+   LEONE N, 1996, IN PRESS IEEE T KNOW, V0, P0
+   MAIER M, 1986, P WORKSHOP F DEDUCTI, V0, P6
+   MOORE RC, 1985, ARTIF INTELL, V25, P75, DOI 10.1016/0004-3702(85)90042-6
+   NAQVI SA, 1989, LOGIC LANGUAGE DATA, V0, P0
+   PRZUMUSINSKI T, 1988, FDN DEDUCTIVE DATABA, V0, P193
+   PRZYMUSINSKI T, 1989, S PRINCIPLES DATABAS, V0, P11
+   SACCA D, 1996, IN PRESS J COMPUT SY, V0, P0
+   TARJAN R, 1972, SIAM J COMPUTING JUN, V1, P0
+   Tarski A, 1955, PACIFIC J MATH, V5, P285, DOI 10.2140/PJM.1955.5.285
+   Touretzky DS, 1986, MATH INHERITANCE SYS, V0, P0
+   Ullman JD, 1988, PRINCIPLES DATABASE, V0, P0
+   Van Gelder A, 1988, PROCEEDINGS OF THE SEVENTH ACM SIGACT-SIGMOD-SIGART SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS, V0, PP221, DOI 10.1145/308386.308444
+NR 35
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0169-023X
+EI 1872-6933
+J9 DATA KNOWL ENG
+JI Data Knowl. Eng.
+PD AUG 15
+PY 1997
+VL 23
+IS 2
+BP 185
+EP 214
+DI 10.1016/S0169-023X(96)00050-X
+PG 30
+WC Computer Science, Artificial Intelligence; Computer Science, Information Systems
+SC Computer Science
+GA XR368
+UT WOS:A1997XR36800004
+DA 2023-11-10
+ER
+
+PT J
+AU DellaPietra, S
+   DellaPietra, V
+   Lafferty, J
+AF DellaPietra, S
+   DellaPietra, V
+   Lafferty, J
+TI Inducing features of random fields
+SO IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+LA English
+DT Article
+DE random field; Kullback-Leibler divergence; iterative scaling; maximum entropy; EM algorithm; statistical learning; clustering; word morphology; natural language processing
+ID maximum-likelihood; images; distributions
+AB We present a technique for constructing random fields from a see of training samples. The learning paradigm builds increasingly complex fields by allowing potential functions, or features, that are supported by increasingly large subgraphs. Each feature has a weight that is trained by minimizing the Kuliback-Leibler divergence between the model and the empirical distribution of the training data. A greedy algorithm determines how features are incrementally added to the field and an iterative scaling algorithm is used to estimate the optimal values of the weights. The random field models and techniques introduced in this paper differ from those common to much of the computer vision literature in that the underlying random fields are non-Markovian and have a large number of parameters that must be estimated. Relations to other learning approaches, including decision trees, are given. As a demonstration of the method, we describe its application to the problem of automatic word classification in natural language processing.
+C1 CARNEGIE MELLON UNIV,SCH COMP SCI,DEPT COMP SCI,PITTSBURGH,PA 15213.
+C3 Carnegie Mellon University
+RP DellaPietra, S (通讯作者)，RENAISSANCE TECHNOL,STONY BROOK,NY 11790, USA.
+CR ALMEIDA MP, 1993, ANN APPL PROBAB, V3, P103
+   [Anonymous], 1992, ANN APPL PROBAB, V0, P0
+   BALRAM N, 1993, IEEE T INFORM THEORY, V39, P1333, DOI 10.1109/18.243450
+   Berger AL, 1996, COMPUT LINGUIST, V22, P39
+   BREIAMN L, 1984, CLASSIFICATION REGRE, V0, P0
+   Brown DT, 1959, INFORM CONTROL, V2, P386, DOI 10.1016/S0019-9958(59)80016-4
+   Brown PF, 1992, COMPUTATIONAL LINGUISTICS, V18, P467
+   Brown PF, 1990, COMPUTATIONAL LINGUISTICS, V16, P79
+   CHALMOND B, 1989, PATTERN RECOGN, V22, P747, DOI 10.1016/0031-3203(89)90011-3
+   CSISZAR I, 1989, ANN STAT, V17, P1409, DOI 10.1214/aos/1176347279
+   CSISZAR I, 1975, ANN PROBAB, V3, P146, DOI 10.1214/aop/1176996454
+   Csiszar I, 1984, STAT DECISIONS DEDEW, V1, P205
+   DARROCH JN, 1972, ANN MATH STAT, V43, P1470, DOI 10.1214/aoms/1177692379
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+   DIACONIS P, 1979, ANN STAT, V7, P269, DOI 10.1214/aos/1176344611
+   FERRARI P, 1993, ANN APPL PROBAB, V3, P137
+   GEMAN S, 1984, IEEE T PATTERN ANAL, V6, P721, DOI 10.1109/TPAMI.1984.4767596
+   GEYER CJ, 1992, J R STAT SOC B, V54, P657
+   JAYNES ET, 1983, PAPERS PROBABILITY S, V0, P0
+   LAFFERTY J, 1993, P 9 ANN C U WAT CTR, V0, P0
+   POTAMIANOS GG, 1993, IEEE T INFORM THEORY, V39, P1322, DOI 10.1109/18.243449
+   YOUNES L, 1988, ANN I H POINCARE-PR, V24, P269
+NR 22
+TC 466
+Z9 484
+U1 0
+U2 25
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314
+SN 0162-8828
+EI 
+J9 IEEE T PATTERN ANAL
+JI IEEE Trans. Pattern Anal. Mach. Intell.
+PD APR 15
+PY 1997
+VL 19
+IS 4
+BP 380
+EP 393
+DI 10.1109/34.588021
+PG 14
+WC Computer Science, Artificial Intelligence; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA WW122
+UT WOS:A1997WW12200008
+DA 2023-11-10
+ER
+
+PT J
+AU Zancanaro, M
+   Stock, O
+   Strapparava, C
+AF Zancanaro, M
+   Stock, O
+   Strapparava, C
+TI Multimodal interaction for information access: Exploiting cohesion
+SO COMPUTATIONAL INTELLIGENCE
+LA English
+DT Article
+DE natural language processing; dialogue management; anaphora; multimodal systems; hypertexts; human-computer interaction
+AB Multimodality is a powerful concept for dealing with dialogue cohesion in a human-computer natural language (NL)-centered system. This work is a modest step toward more effective exploitation of the potentially large bandwidth of communication provided by this situation. The relations between exploration, navigation, and NL-based communication are discussed in general and with reference to two prototypes. Light cognitive load feedback and direct manipulation are proposed so that user and system can cooperate in mutually establishing the structure of the ongoing dialogue. The main points are: (i) use of an appropriate dialogue structure to constrain inference in the anaphora resolution process; (ii) use of a graphical representation of the structure, to limit the problem of opacity; (iii) allowance for the possibility of direct manipulation on this representation, to avoid the necessity of operating linguistically at the metalevel. The context of the work is within NL-centered multimodal information access systems, in which basic entities are pairs (most commonly question and answer). A dialogue model is provided by a modified version of the centering model; it is both sufficiently simple to be displayed in an intuitive fashion on the screen, and sufficiently powerful to give accurate results. An extension of the discourse model, oriented to the treatment of deixis, is also proposed. Finally, steps toward an overall approach to the integration of navigational and mediated aspects of interaction are discussed.
+C1 IST RIC SCI & TECNOL,I-38050 TRENT,ITALY.
+CR [Anonymous], 1974, PAPERS FUNCTIONAL SE, V0, P0
+   ARENS Y, 1993, INTELLIGENT MULTIMED, V0, P0
+   ARENS Y, 1993, P 13 INT JOINT C ART, V0, P0
+   BRENNAN SE, 1987, P 2K ANN M ASS COMP, V0, P0
+   CARENINI G, 1993, APPL ARTIFICIAL INTE, V7, P0
+   CLAASSEN W, 1993, UNPUB AUTOMATIC REFE, V0, P0
+   CLARK HH, 1983, J VERBAL LEARNING VE, V22, P0
+   COHEN P, 1991, 514 SRI INT, V0, P0
+   COHEN P, 1984, COMPUTATIONAL LINGUI, V10, P0
+   COHEN P, 1989, P CHI 89 AUST, V0, P0
+   DIEUGENIO B, 1990, P INT C COMP LING HE, V0, P0
+   FEINER S, 1990, P AAAI 90 BOST, V0, P0
+   Grosz B, 1986, COMPUTATIONAL LINGUI, V12, P0
+   HAJICOVA E, 1982, P INT C COMP LING CO, V0, P0
+   JOSHI AK, 1979, P 6 INT JOINT C ART, V0, P0
+   JOSHI AK, 1981, P 7 INT JOINT C ART, V0, P0
+   KAMEYAMA M, 1986, P 24 ANN M ASS COMP, V0, P0
+   KOBSA A, 1986, P 11 C COMP LING BON, V0, P0
+   Levinson Stephen C, 1993, PRAGMATICS, V0, P0
+   MAYBURY MT, 1991, P 9 AAAI C AN CA, V0, P0
+   MOORE JD, 1990, P AAAI 90 BOST, V0, P0
+   NEAL JG, 1988, INTELLIGENT USER INT, V0, P0
+   POLANYI L, 1987, 6409 BBN LABS, V0, P0
+   REICHMAN R, 1978, COGNITIVE SCI, V2, P0
+   REITER EC, 1992, P 3 C APPL NAT LANG, V0, P0
+   SAMEKLODOVICI V, 1990, P 9 EUR C ART INT ST, V0, P0
+   SIDNER C, 1983, COMPUTATIONAL MODELS, V0, P0
+   STOCK O, 1991, P 12 INT JOINT C ART, V0, P0
+   STOCK O, 1992, P 10 EUR C ART INT V, V0, P0
+   STOCK O, 1993, INTELLIGENT MULTIMED, V0, P0
+   STRAPPARAVA C, 1991, LECT NOTES ARTIFICIA, V549, P0
+   WAHLSTER W, 1992, COMMUNICATION ARTIFI, V0, P0
+   WALKER M, 1990, P INT C COMP LING CO, V0, P0
+   WATERWORTH JH, 1991, HYPERMEDIA, V3, P0
+NR 37
+TC 6
+Z9 6
+U1 0
+U2 4
+PU BLACKWELL PUBLISHERS
+PI CAMBRIDGE
+PA 350 MAIN STREET, STE 6, CAMBRIDGE, MA 02148-5023
+SN 0824-7935
+EI 
+J9 COMPUT INTELL
+JI Comput. Intell.
+PD NOV 15
+PY 1997
+VL 13
+IS 4
+BP 439
+EP 464
+DI 10.1111/0824-7935.00047
+PG 26
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA YL307
+UT WOS:A1997YL30700001
+DA 2023-11-10
+ER
+
+PT J
+AU Stolcke, A
+AF Stolcke, A
+TI Linguistic knowledge and empirical methods in speech recognition
+SO AI MAGAZINE
+LA English
+DT Article
+AB Automatic speech recognition is one of the fastest growing and commercially mast promising applications of natural language technology. The technology has achieved a point where carefully designed systems for suitably constrained applications are a reality. Commercial systems are available today for such tasks as large-vocabulary dictation and voice control of medical equipment. This article reviews how state-of-the-art speech-recognition systems combine statistical modeling, linguistic knowledge, and machine learning to achieve their performance and points out some of the research issues in the field.
+C1 SRI Int, Speech Res & Technol Lab, Menlo Park, CA 94025 USA.
+C3 SRI International
+RP Stolcke, A (通讯作者)，SRI Int, Speech Res & Technol Lab, 333 Ravenswood Ave, Menlo Park, CA 94025 USA.
+CR BAHL LR, 1989, IEEE T ACOUST SPEECH, V37, P1001, DOI 10.1109/29.32278
+   BAHL LR, 1983, IEEE T PATTERN ANAL, V5, P179, DOI 10.1109/TPAMI.1983.4767370
+   Brown PF, 1992, COMPUTATIONAL LINGUISTICS, V18, P467
+   CHELBA C, 1997, P 5 EUR C SPEECH COM, V5, P2775
+   Church KW, 1991, COMPUTER SPEECH AND LANGUAGE, V5, P19, DOI 10.1016/0885-2308(91)90016-J
+   *DARPA, 1997, LARG VOC CONV SPEECH, V0, P0
+   DIGALAKIS V, 1994, P IEEE INT C AC SPEE, V1, P537
+   Duda RO, 1973, PATTERN CLASSIFICATI, V3, P0
+   Jelinek F, 1997, STAT METHODS SPEECH, V0, P0
+   JELINEK F, 1992, NATO ASI SER, V0, P346
+   JELINEK F, 1991, P 2 EUR C SPEECH COM, V0, P1037
+   JURAFSKY D, 1995, P IEEE C AC SPEECH S, V1, P189
+   Lari K, 1991, COMPUTER SPEECH AND LANGUAGE, V5, P237, DOI 10.1016/0885-2308(91)90009-F
+   MOORE R, 1995, P ARPA SPOK LANG SYS, V0, P261
+   OSTENDORF M, 1991, P DARPA WORKSH SPEEC, V0, P83
+   Rabiner Lawrence, 1993, FUNDAMENTALS SPEECH, V0, P0
+   RILEY MD, 1991, P IEEE C AC SPEECH S, V2, P737
+   WOOTERS C, 1994, INT C SPOK LANG PROC, V0, P0
+NR 19
+TC 4
+Z9 4
+U1 0
+U2 0
+PU AMER ASSOC ARTIFICIAL INTELL
+PI MENLO PK
+PA 445 BURGESS DRIVE, MENLO PK, CA 94025-3496 USA
+SN 0738-4602
+EI 
+J9 AI MAG
+JI AI Mag.
+PD WIN 15
+PY 1997
+VL 18
+IS 4
+BP 25
+EP 31
+DI 
+PG 7
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA YN301
+UT WOS:000071153200004
+DA 2023-11-10
+ER
+
+PT J
+AU Menzies, T
+   Compton, P
+AF Menzies, T
+   Compton, P
+TI Applications of abduction: Hypothesis testing of neuroendocrinological qualitative compartmental models
+SO ARTIFICIAL INTELLIGENCE IN MEDICINE
+LA English
+DT Article
+DE abduction; neuroendocrinology; hypothesis testing; qualitative reasoning
+ID default; logic
+AB It is difficult to assess hypothetical models in poorly measured domains such as neuroendocrinology. Without a large library of observations to constrain inference, the execution of such incomplete models implies making assumptions. Mutually exclusive assumptions must be kept in separate worlds. We define a general abductive multiple-worlds engine that assesses such models by (i) generating the worlds and (ii) tests if these worlds contain known behaviour. World generation is constrained via the use of relevant envisionment. We describe QCM, a modeling language for compartmental models that can be processed by this inference engine. This tool has been used to find faults in theories published in international refereed journals; i.e. QCM can detect faults which are invisible to other methods. The generality and computational limits of this approach are discussed. In short, this approach is applicable to any representation that can be compiled into an and-or graph, provided the graphs are not too big or too intricate (fanout < 7). (C) 1997 Elsevier Science B.V.
+RP Menzies, T (通讯作者)，UNIV NEW S WALES,SCH COMP SCI & ENGN,DEPT ARTIFICIAL INTELLIGENCE,SYDNEY,NSW 2052,AUSTRALIA.
+CR BREUKER J, 1994, 8 EUR KNOWL ACQ WORK, V0, P118
+   BYLANDER T, 1991, ARTIF INTELL, V49, P25, DOI 10.1016/0004-3702(91)90005-5
+   CLANCEY WJ, 1985, ARTIF INTELL, V27, P289, DOI 10.1016/0004-3702(85)90016-5
+   CLANCEY WJ, 1992, ARTIF INTELL, V53, P1, DOI 10.1016/0004-3702(92)90037-X
+   Clark P, 1993, P 10 INT C MACH LEAR, V0, P49
+   COIERA E, 1992, KNOWL ENG REV, V7, P1
+   COLES HS, 1974, THINKING FUTURE CRIT, V0, P0
+   Console L, 1991, COMPUTATIONAL INTELLIGENCE, V7, P133, DOI 10.1111/j.1467-8640.1991.tb00388.x
+   CRAWFORD J, 1992, RECENT ADV QUALITATI, V0, P0
+   DARDEN L, 1990, COMPUTATIONAL MODELS, V0, P0
+   DEKLEER J, 1986, ARTIF INTELL, V28, P163, DOI 10.1016/0004-3702(86)90081-0
+   DEKLEER J, 1984, ARTIF INTELL, V25, P7
+   ESHGHI K, 1993, IJCAI 93, V1, P3
+   FALKENHAINER B, 1990, 1990 SPRING S AUT AB, V0, P135
+   FELDMAN B, 1989, P JOINT AUSTR C ART, V0, P319
+   FELDMAN B, 1989, 4 AAAI SPONS KNOWL A, V0, P0
+   FORBUS K, 1986, AAAI 86, V0, P113
+   FORBUS KD, 1984, ARTIF INTELL, V24, P85, DOI 10.1016/0004-3702(84)90038-9
+   FORBUS KD, 1992, RECENT ADV QUALITATI, V0, P245
+   GINSBERG A, 1987, P 3 ANN EXP SYST GOV, V0, P102
+   Glass L, 1988, CLOCKS CHAOS, V0, P0, DOI DOI 10.1515/9780691221793
+   HAMSCHER W, 1990, AAAI SPRING S AUT AB, V0, P96
+   HIRATA K, 1994, P 14 INT MACH LEARN, V14, P16
+   HIRATA K, 1900, V14, V0, P0
+   IWASAKI Y, 1986, ARTIF INTELL, V29, P3, DOI 10.1016/0004-3702(86)90089-5
+   IWASAKI Y, 1988, P AAAI 88, V0, P313
+   IWASAKI Y, 1989, HDB ARTIFICIAL INTEL, V4, P323
+   KNEGER DT, 1980, NEUROENDOCRINOLOGY, V0, P3
+   KUIPERS B, 1986, ARTIF INTELL, V29, P229
+   KUIPERS BJ, 1993, ARTIF INTELL, V59, P125, DOI 10.1016/0004-3702(93)90178-E
+   LEAKE DB, 1993, IJCAI-93, VOLS 1 AND 2, P24
+   LEVINS R, 1985, QUALITATIVE MODELING, V0, P0
+   MACKWORTH AK, 1992, ARTIF INTELL, V58, P3, DOI 10.1016/0004-3702(92)90003-G
+   MACKWORTH AK, 1977, ARTIF INTELL, V8, P99, DOI 10.1016/0004-3702(77)90007-8
+   MCINTOSH JEA, 1980, MATH MODELLING COMPU, V0, P0
+   Meadows DH, 2013, LIMITS GROWTH 1972, V0, P0
+   MENZIES GD, 1985, ECONOMETRIC ANAL DAR, V0, P0
+   Menzies T, 1994, PROCEEDINGS OF THE 7TH AUSTRALIAN JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE. ARTIFICIAL INTELLIGENCE. AI94. SOWING THE SEEDS FOR THE FUTURE, V0, P149
+   MENZIES T, 1996, ECAI 96, V0, P0
+   MENZIES T, 1995, THESIS U NEW S WALES, V0, P0
+   MENZIES T, 1992, P 7 AAAI SPONS BANFF, V0, P0
+   MENZIES TJ, 1996, P MELB WORKSH INT DE, V0, P0
+   MENZIES TJ, 1995, AUSTR COGN SCI SOC 3, V0, P0
+   MENZIES TJ, 1992, P AAAI S DIAGR REAS, V0, P0
+   MENZIES TJ, 1996, INT J HUMAN COMP SEP, V0, P0
+   MOBERG D, 1992, COMMUNICATION, V0, P0
+   NG HT, 1990, 1990 SPRING S AUT AB, V0, P13
+   POOLE D, 1990, INT J INTELL SYST, V5, P521, DOI 10.1002/int.4550050506
+   POOLE D, 1990, 1990 SPRING S AUT AB, V0, P106
+   PREECE A, 1992, ECAI 92, V0, P0
+   REITER R, 1980, ARTIF INTELL, V13, P81, DOI 10.1016/0004-3702(80)90014-4
+   RENNELS GD, 1989, AI MAGAZINE SPR, V0, P49
+   RIEGER C, 1977, IJCAI 77, V0, P250
+   Selman B, 1990, AAAI-90 PROCEEDINGS. EIGHTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P343
+   SMYTHE GA, 1982, ENDOCRINOLOGY, V110, P376, DOI 10.1210/endo-110-2-376
+   SMYTHE GA, 1989, ENDOCRINE PANCREAS, V0, P0
+   SMYTHE GA, 1987, EXP CLIN ENDOCRINOL, V6, P141
+   SWANSON DR, 1990, B MED LIBR ASSOC, V78, P29
+   ZIATEREVA N, 1992, ARTIFICIAL INTELLIGE, V6, P0
+NR 60
+TC 18
+Z9 18
+U1 1
+U2 4
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0933-3657
+EI 
+J9 ARTIF INTELL MED
+JI Artif. Intell. Med.
+PD JUN 15
+PY 1997
+VL 10
+IS 2
+BP 145
+EP 175
+DI 10.1016/S0933-3657(97)00391-6
+PG 31
+WC Computer Science, Artificial Intelligence; Engineering, Biomedical; Medical Informatics
+SC Computer Science; Engineering; Medical Informatics
+GA XF486
+UT WOS:A1997XF48600004
+PM 9201384
+DA 2023-11-10
+ER
+
+PT J
+AU Kyburg, HE
+AF Kyburg, HE
+TI Combinatorial semantics: Semantics for frequent validity
+SO COMPUTATIONAL INTELLIGENCE
+LA English
+DT Article
+DE semantics; uncertainty; nonmonotonic logic; probability; uncertain inference; approximate validity; inductive logic
+AB In ordinary first-order logic, a valid inference in a language L is one in which the conclusion is true in every model of the language in which the premises are true. To accommodate inductive/uncertain/probabilistic/nonmonotonic inference, we weaken that demand to the demand that the conclusion be true in a large proportion of the models in which the relevant premises are true. More generally, we say that an inference is [p, q] valid if its conclusion is true in a proportion lying between p and q of those models in which the relevant premises are true. If we include a statistical variable binding operator ''%'' in our language, there are many quite general (and useful) things we can say about uncertain validity. A surprising result is that some of these things may conflict with Bayesian conditionalization.
+RP Kyburg, HE (通讯作者)，UNIV ROCHESTER,601 ELMWOOD AVE,ROCHESTER,NY 14627, USA.
+CR BACCHUS F, 1992, AAAI-92 PROCEEDINGS : TENTH NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P602
+   BACCHUS F, 1992, REPRESENTING REASONI, V0, P0
+   CARNAP R, 1950, LOGICAL F PROBABILIT, V0, P0
+   Carnap Rudolf, 1952, CONTINUUM INDUCTIVE, V0, P0
+   Carnap Rudolf, 1980, STUDIES INDUCTIVE LO, VII, P7
+   Carnap Rudolf, 1971, STUDIES INDUCTIVE LO, VI, P33
+   DAVIDSON D, 1966, J PHILOS, V63, P778, DOI 10.2307/2023808
+   Geffner H, 1992, MINDS AND MACHINES, V2, P51, DOI 10.1007/BF00261289
+   Genesereth MR, 1987, LOGICAL FDN ARTIFICI, V0, P0
+   GROVE AJ, 1992, 7 IEEE S LOG COMP SC, V0, P22
+   HALPERN JY, 1990, ARTIF INTELL, V46, P311, DOI 10.1016/0004-3702(90)90019-V
+   Hintikka Jaakko, 1966, ASPECTS INDUCTIVE LO, V0, P113
+   ISRAEL D, 1980, 1ST P ANN NAT C ART, V0, P99
+   JAYNES ET, 1958, COLLOQUIUM LECT PURE, V4, P152
+   Johnson W E, 1932, MIND, V41, P409, DOI 10.1093/mind/XLI.164.409
+   JOHNSON WE, 1932, PROBABILITY MIND, V41, P1
+   JOHNSON WE, 1932, PROBABILITY MIND, V41, P281
+   KYBURG H, 1983, RECENT WORK PHILOS, V0, P87
+   Kyburg HE, 1961, PROBABILITY LOGIC RA, V0, P0
+   Kyburg HE, 1991, P 12 INT JOINT C ART, V0, P1196
+   KYBURG HE, 1990, MINN STUD PHILOS SCI, V14, P158
+   KYBURG HE, 1988, THEOR DECIS, V25, P137
+   KYBURG HE, 1983, PHILOS SCI, V50, P374, DOI 10.1086/289125
+   KYBURG HE, 1991, UNCERTAINTY, V0, P228
+   KYBURG HE, 1991, LECT NOTES COMPUTER, V0, P204
+   KYBURG HE, 1974, LOGICAL F STATISTICA, V0, P0
+   KYBURG HE, 1990, SYNTHESE, V85, P475
+   LOUI RP, 1986, P 1986 WORKSH UNCERT, V0, P183
+   MENDELSON E, 1979, ILNTRO MATH LOGIC, V0, P0
+   Mill JS, 1843, SYSTEM LOGIC RATIOCI, V0, P0
+   Nagel E, 1939, PRINCIPLES THEORY PR, V0, P0
+   NELSON G, 1955, FACT FICTION FORECAS, V0, P0
+   NILSSON NJ, 1986, ARTIF INTELL, V28, P71, DOI 10.1016/0004-3702(86)90031-7
+   Pearl J, 1988, MORGAN KAUFMANN SERI, V0, P0
+   Pollock J, 1990, NOMIC PROBABILITY FD, V0, P0
+   Popper KR, 2002, LOGIC SCI DISCOVERY, V0, P0
+   QUINE WVO, 1951, MATHEMATICAL LOGIC, V0, P0
+   Reichenbach Hans, 1949, THEORY PROBABILITY, V0, P0
+   Touretzky DS, 1986, MATH INHERITANCE SYS, V0, P0
+NR 40
+TC 9
+Z9 9
+U1 0
+U2 0
+PU BLACKWELL PUBLISHERS
+PI CAMBRIDGE
+PA 350 MAIN STREET, STE 6, CAMBRIDGE, MA 02148-5023
+SN 0824-7935
+EI 
+J9 COMPUT INTELL
+JI Comput. Intell.
+PD MAY 15
+PY 1997
+VL 13
+IS 2
+BP 215
+EP 257
+DI 10.1111/0824-7935.00039
+PG 43
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA WY155
+UT WOS:A1997WY15500003
+DA 2023-11-10
+ER
+

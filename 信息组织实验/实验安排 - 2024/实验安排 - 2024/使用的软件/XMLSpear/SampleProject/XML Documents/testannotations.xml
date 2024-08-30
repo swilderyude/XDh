@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person title="Ms."
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../XML%20Schemas/testannotations.xsd">
+    <child/>
+    <child/>
+</person>

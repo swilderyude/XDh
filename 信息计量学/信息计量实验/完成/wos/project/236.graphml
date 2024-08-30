@@ -1,0 +1,3906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">KLEIN M</data>
+  <data key="label">KLEIN M</data>
+  <data key="author">Klein M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="1">
+  <data key="name">LIN D</data>
+  <data key="label">LIN D</data>
+  <data key="author">Lin D</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="2">
+  <data key="name">LAMPLE G</data>
+  <data key="label">LAMPLE G</data>
+  <data key="author">Lample G</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">35</data>
+</node>
+<node id="3">
+  <data key="name">JOACHIMS T</data>
+  <data key="label">JOACHIMS T</data>
+  <data key="author">Joachims T</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="4">
+  <data key="name">COVER TM</data>
+  <data key="label">COVER TM</data>
+  <data key="author">Cover TM</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="5">
+  <data key="name">ORTMANNS S</data>
+  <data key="label">ORTMANNS S</data>
+  <data key="author">Ortmanns S</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="6">
+  <data key="name">VASWANI A</data>
+  <data key="label">VASWANI A</data>
+  <data key="author">Vaswani A</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">267</data>
+</node>
+<node id="7">
+  <data key="name">HANDSCHUH S</data>
+  <data key="label">HANDSCHUH S</data>
+  <data key="author">Handschuh S</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="8">
+  <data key="name">COLLOBERT R</data>
+  <data key="label">COLLOBERT R</data>
+  <data key="author">Collobert R</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">56</data>
+</node>
+<node id="9">
+  <data key="name">BREGMAN LM</data>
+  <data key="label">BREGMAN LM</data>
+  <data key="author">Bregman LM</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="10">
+  <data key="name">KLEIN DAN</data>
+  <data key="label">KLEIN DAN</data>
+  <data key="author">Klein DAN</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="11">
+  <data key="name">KARPATHY A</data>
+  <data key="label">KARPATHY A</data>
+  <data key="author">Karpathy A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="12">
+  <data key="name">KLEIN D</data>
+  <data key="label">KLEIN D</data>
+  <data key="author">Klein D</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="13">
+  <data key="name">STOLCKE A</data>
+  <data key="label">STOLCKE A</data>
+  <data key="author">Stolcke A</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="14">
+  <data key="name">JOHNSON M</data>
+  <data key="label">JOHNSON M</data>
+  <data key="author">Johnson M</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="15">
+  <data key="name">PENNINGTON JEFFREY</data>
+  <data key="label">PENNINGTON JEFFREY</data>
+  <data key="author">Pennington JEFFREY</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">133</data>
+</node>
+<node id="16">
+  <data key="name">KIRCHHOFF K</data>
+  <data key="label">KIRCHHOFF K</data>
+  <data key="author">Kirchhoff K</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="17">
+  <data key="name">HO TK</data>
+  <data key="label">HO TK</data>
+  <data key="author">Ho TK</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="18">
+  <data key="name">MAYNARD D</data>
+  <data key="label">MAYNARD D</data>
+  <data key="author">Maynard D</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="19">
+  <data key="name">BROWN TB</data>
+  <data key="label">BROWN TB</data>
+  <data key="author">Brown TB</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+</node>
+<node id="20">
+  <data key="name">GILDEA D</data>
+  <data key="label">GILDEA D</data>
+  <data key="author">Gildea D</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="21">
+  <data key="name">FISCUS JG</data>
+  <data key="label">FISCUS JG</data>
+  <data key="author">Fiscus JG</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="22">
+  <data key="name">SISKIND JM</data>
+  <data key="label">SISKIND JM</data>
+  <data key="author">Siskind JM</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="23">
+  <data key="name">SUTSKEVER ILYA</data>
+  <data key="label">SUTSKEVER ILYA</data>
+  <data key="author">Sutskever ILYA</data>
+  <data key="year">2018</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="24">
+  <data key="name">DEERWESTER S</data>
+  <data key="label">DEERWESTER S</data>
+  <data key="author">Deerwester S</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="25">
+  <data key="name">LI J</data>
+  <data key="label">LI J</data>
+  <data key="author">Li J</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">19</data>
+</node>
+<node id="26">
+  <data key="name">VAN DERAALSTWMP</data>
+  <data key="label">VAN DERAALSTWMP</data>
+  <data key="author">Van DERAALSTWMP</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="27">
+  <data key="name">ZHU J</data>
+  <data key="label">ZHU J</data>
+  <data key="author">Zhu J</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="28">
+  <data key="name">CENSOR Y</data>
+  <data key="label">CENSOR Y</data>
+  <data key="author">Censor Y</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="29">
+  <data key="name">CORTES C</data>
+  <data key="label">CORTES C</data>
+  <data key="author">Cortes C</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="30">
+  <data key="name">BENGIO Y</data>
+  <data key="label">BENGIO Y</data>
+  <data key="author">Bengio Y</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">93</data>
+</node>
+<node id="31">
+  <data key="name">DENG J</data>
+  <data key="label">DENG J</data>
+  <data key="author">Deng J</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="32">
+  <data key="name">BAHDANAU D</data>
+  <data key="label">BAHDANAU D</data>
+  <data key="author">Bahdanau D</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">87</data>
+</node>
+<node id="33">
+  <data key="name">QUINLAN JR</data>
+  <data key="label">QUINLAN JR</data>
+  <data key="author">Quinlan JR</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="34">
+  <data key="name">GRISHMAN R</data>
+  <data key="label">GRISHMAN R</data>
+  <data key="author">Grishman R</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="35">
+  <data key="name">LIN C-Y</data>
+  <data key="label">LIN C-Y</data>
+  <data key="author">Lin C-Y</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">22</data>
+</node>
+<node id="36">
+  <data key="name">ELMAN JL</data>
+  <data key="label">ELMAN JL</data>
+  <data key="author">Elman JL</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="37">
+  <data key="name">BYRNE W</data>
+  <data key="label">BYRNE W</data>
+  <data key="author">Byrne W</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="38">
+  <data key="name">BENATALLAH B</data>
+  <data key="label">BENATALLAH B</data>
+  <data key="author">Benatallah B</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="39">
+  <data key="name">LIU YH</data>
+  <data key="label">LIU YH</data>
+  <data key="author">Liu YH</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">46</data>
+</node>
+<node id="40">
+  <data key="name">BRILL E</data>
+  <data key="label">BRILL E</data>
+  <data key="author">Brill E</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="41">
+  <data key="name">GUARINO N</data>
+  <data key="label">GUARINO N</data>
+  <data key="author">Guarino N</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="42">
+  <data key="name">MALOUF R</data>
+  <data key="label">MALOUF R</data>
+  <data key="author">Malouf R</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="43">
+  <data key="name">GRIFFITHS TL</data>
+  <data key="label">GRIFFITHS TL</data>
+  <data key="author">Griffiths TL</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="44">
+  <data key="name">LEWIS DD</data>
+  <data key="label">LEWIS DD</data>
+  <data key="author">Lewis DD</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="45">
+  <data key="name">CONNEAU ALEXIS</data>
+  <data key="label">CONNEAU ALEXIS</data>
+  <data key="author">Conneau ALEXIS</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">22</data>
+</node>
+<node id="46">
+  <data key="name">ZHANG Y</data>
+  <data key="label">ZHANG Y</data>
+  <data key="author">Zhang Y</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">64</data>
+</node>
+<node id="47">
+  <data key="name">USCHOLD M</data>
+  <data key="label">USCHOLD M</data>
+  <data key="author">Uschold M</data>
+  <data key="year">2006</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="48">
+  <data key="name">ZHANG T</data>
+  <data key="label">ZHANG T</data>
+  <data key="author">Zhang T</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="49">
+  <data key="name">KEERTHI SS</data>
+  <data key="label">KEERTHI SS</data>
+  <data key="author">Keerthi SS</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="50">
+  <data key="name">HEARST MA</data>
+  <data key="label">HEARST MA</data>
+  <data key="author">Hearst MA</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="51">
+  <data key="name">LECUN Y</data>
+  <data key="label">LECUN Y</data>
+  <data key="author">Lecun Y</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="52">
+  <data key="name">BULYKO I</data>
+  <data key="label">BULYKO I</data>
+  <data key="author">Bulyko I</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="53">
+  <data key="name">ZIMMERMANN M</data>
+  <data key="label">ZIMMERMANN M</data>
+  <data key="author">Zimmermann M</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="54">
+  <data key="name">FREITAG D</data>
+  <data key="label">FREITAG D</data>
+  <data key="author">Freitag D</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="55">
+  <data key="name">RUMELHART DE</data>
+  <data key="label">RUMELHART DE</data>
+  <data key="author">Rumelhart DE</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="56">
+  <data key="name">MOHRI M</data>
+  <data key="label">MOHRI M</data>
+  <data key="author">Mohri M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="57">
+  <data key="name">TEH YW</data>
+  <data key="label">TEH YW</data>
+  <data key="author">Teh YW</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="58">
+  <data key="name">SURDEANU M</data>
+  <data key="label">SURDEANU M</data>
+  <data key="author">Surdeanu M</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="59">
+  <data key="name">KOEHN P</data>
+  <data key="label">KOEHN P</data>
+  <data key="author">Koehn P</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">29</data>
+</node>
+<node id="60">
+  <data key="name">GOODMAN J</data>
+  <data key="label">GOODMAN J</data>
+  <data key="author">Goodman J</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="61">
+  <data key="name">LIANG P</data>
+  <data key="label">LIANG P</data>
+  <data key="author">Liang P</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="62">
+  <data key="name">RADFORD ALEC</data>
+  <data key="label">RADFORD ALEC</data>
+  <data key="author">Radford ALEC</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">91</data>
+</node>
+<node id="63">
+  <data key="name">REITER E</data>
+  <data key="label">REITER E</data>
+  <data key="author">Reiter E</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="64">
+  <data key="name">BREIMAN L</data>
+  <data key="label">BREIMAN L</data>
+  <data key="author">Breiman L</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="65">
+  <data key="name">BACCHIANI M</data>
+  <data key="label">BACCHIANI M</data>
+  <data key="author">Bacchiani M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="66">
+  <data key="name">CLARK J</data>
+  <data key="label">CLARK J</data>
+  <data key="author">Clark J</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="67">
+  <data key="name">RAFFEL C</data>
+  <data key="label">RAFFEL C</data>
+  <data key="author">Raffel C</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">60</data>
+</node>
+<node id="68">
+  <data key="name">SOCHER RICHARD</data>
+  <data key="label">SOCHER RICHARD</data>
+  <data key="author">Socher RICHARD</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">29</data>
+</node>
+<node id="69">
+  <data key="name">MIKOLOV T</data>
+  <data key="label">MIKOLOV T</data>
+  <data key="author">Mikolov T</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">222</data>
+</node>
+<node id="70">
+  <data key="name">SUNDERMEYER M</data>
+  <data key="label">SUNDERMEYER M</data>
+  <data key="author">Sundermeyer M</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="71">
+  <data key="name">BROWN PF</data>
+  <data key="label">BROWN PF</data>
+  <data key="author">Brown PF</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">51</data>
+</node>
+<node id="72">
+  <data key="name">BURNARD L</data>
+  <data key="label">BURNARD L</data>
+  <data key="author">Burnard L</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="73">
+  <data key="name">LAFFERTY J</data>
+  <data key="label">LAFFERTY J</data>
+  <data key="author">Lafferty J</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="74">
+  <data key="name">JANSEN BJ</data>
+  <data key="label">JANSEN BJ</data>
+  <data key="author">Jansen BJ</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="75">
+  <data key="name">LEWIS M</data>
+  <data key="label">LEWIS M</data>
+  <data key="author">Lewis M</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">19</data>
+</node>
+<node id="76">
+  <data key="name">GOODMAN JT</data>
+  <data key="label">GOODMAN JT</data>
+  <data key="author">Goodman JT</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="77">
+  <data key="name">CHELBA C</data>
+  <data key="label">CHELBA C</data>
+  <data key="author">Chelba C</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="78">
+  <data key="name">TOMASELLO M</data>
+  <data key="label">TOMASELLO M</data>
+  <data key="author">Tomasello M</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="79">
+  <data key="name">GAUVAIN JL</data>
+  <data key="label">GAUVAIN JL</data>
+  <data key="author">Gauvain JL</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="80">
+  <data key="name">MIIKKULAINEN R</data>
+  <data key="label">MIIKKULAINEN R</data>
+  <data key="author">Miikkulainen R</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="81">
+  <data key="name">LIU Y</data>
+  <data key="label">LIU Y</data>
+  <data key="author">Liu Y</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">82</data>
+</node>
+<node id="82">
+  <data key="name">LIU X</data>
+  <data key="label">LIU X</data>
+  <data key="author">Liu X</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">19</data>
+</node>
+<node id="83">
+  <data key="name">HERMANSKY H</data>
+  <data key="label">HERMANSKY H</data>
+  <data key="author">Hermansky H</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="84">
+  <data key="name">SIMONYAN K</data>
+  <data key="label">SIMONYAN K</data>
+  <data key="author">Simonyan K</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">27</data>
+</node>
+<node id="85">
+  <data key="name">PAPINENI K</data>
+  <data key="label">PAPINENI K</data>
+  <data key="author">Papineni K</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">111</data>
+</node>
+<node id="86">
+  <data key="name">GALES MJF</data>
+  <data key="label">GALES MJF</data>
+  <data key="author">Gales MJF</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="87">
+  <data key="name">CHEN SF</data>
+  <data key="label">CHEN SF</data>
+  <data key="author">Chen SF</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="88">
+  <data key="name">*NIST</data>
+  <data key="label">*NIST</data>
+  <data key="author">*NIST</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="89">
+  <data key="name">WOLF T</data>
+  <data key="label">WOLF T</data>
+  <data key="author">Wolf T</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">61</data>
+</node>
+<node id="90">
+  <data key="name">BLUM A</data>
+  <data key="label">BLUM A</data>
+  <data key="author">Blum A</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="91">
+  <data key="name">HINTON GE</data>
+  <data key="label">HINTON GE</data>
+  <data key="author">Hinton GE</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">15</data>
+</node>
+<node id="92">
+  <data key="name">SAHLGREN M</data>
+  <data key="label">SAHLGREN M</data>
+  <data key="author">Sahlgren M</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="93">
+  <data key="name">CARUANA R</data>
+  <data key="label">CARUANA R</data>
+  <data key="author">Caruana R</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="94">
+  <data key="name">HODOSH M</data>
+  <data key="label">HODOSH M</data>
+  <data key="author">Hodosh M</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="95">
+  <data key="name">CONNEAU A</data>
+  <data key="label">CONNEAU A</data>
+  <data key="author">Conneau A</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="96">
+  <data key="name">SHA F</data>
+  <data key="label">SHA F</data>
+  <data key="author">Sha F</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="97">
+  <data key="name">MINKA T</data>
+  <data key="label">MINKA T</data>
+  <data key="author">Minka T</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="98">
+  <data key="name">GRUBER TR</data>
+  <data key="label">GRUBER TR</data>
+  <data key="author">Gruber TR</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="99">
+  <data key="name">FREUND Y</data>
+  <data key="label">FREUND Y</data>
+  <data key="author">Freund Y</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="100">
+  <data key="name">HINES ML</data>
+  <data key="label">HINES ML</data>
+  <data key="author">Hines ML</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="101">
+  <data key="name">POVEY D</data>
+  <data key="label">POVEY D</data>
+  <data key="author">Povey D</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="102">
+  <data key="name">ALLEN JF</data>
+  <data key="label">ALLEN JF</data>
+  <data key="author">Allen JF</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="103">
+  <data key="name">CARRERAS XAVIER</data>
+  <data key="label">CARRERAS XAVIER</data>
+  <data key="author">Carreras XAVIER</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="104">
+  <data key="name">GEBSER M</data>
+  <data key="label">GEBSER M</data>
+  <data key="author">Gebser M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="105">
+  <data key="name">ANGLUIN D</data>
+  <data key="label">ANGLUIN D</data>
+  <data key="author">Angluin D</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="106">
+  <data key="name">BAHL LR</data>
+  <data key="label">BAHL LR</data>
+  <data key="author">Bahl LR</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="107">
+  <data key="name">KARVOUNARAKIS G</data>
+  <data key="label">KARVOUNARAKIS G</data>
+  <data key="author">Karvounarakis G</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="108">
+  <data key="name">SCHUTZE H</data>
+  <data key="label">SCHUTZE H</data>
+  <data key="author">Schutze H</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="109">
+  <data key="name">TASKAR B</data>
+  <data key="label">TASKAR B</data>
+  <data key="author">Taskar B</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="110">
+  <data key="name">RABINER LR</data>
+  <data key="label">RABINER LR</data>
+  <data key="author">Rabiner LR</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="111">
+  <data key="name">JURAFSKY D</data>
+  <data key="label">JURAFSKY D</data>
+  <data key="author">Jurafsky D</data>
+  <data key="year">2012</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="112">
+  <data key="name">LAMEL L</data>
+  <data key="label">LAMEL L</data>
+  <data key="author">Lamel L</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="113">
+  <data key="name">SRIVASTAVA N</data>
+  <data key="label">SRIVASTAVA N</data>
+  <data key="author">Srivastava N</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">19</data>
+</node>
+<node id="114">
+  <data key="name">CRAMMER K</data>
+  <data key="label">CRAMMER K</data>
+  <data key="author">Crammer K</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="115">
+  <data key="name">YANG Z</data>
+  <data key="label">YANG Z</data>
+  <data key="author">Yang Z</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">20</data>
+</node>
+<node id="116">
+  <data key="name">CHANG CC</data>
+  <data key="label">CHANG CC</data>
+  <data key="author">Chang CC</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="117">
+  <data key="name">PALMER M</data>
+  <data key="label">PALMER M</data>
+  <data key="author">Palmer M</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="118">
+  <data key="name">BUITELAAR P</data>
+  <data key="label">BUITELAAR P</data>
+  <data key="author">Buitelaar P</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="119">
+  <data key="name">SCHWENK H</data>
+  <data key="label">SCHWENK H</data>
+  <data key="author">Schwenk H</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="120">
+  <data key="name">LEGGETTER CJ</data>
+  <data key="label">LEGGETTER CJ</data>
+  <data key="author">Leggetter CJ</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="121">
+  <data key="name">PANG B</data>
+  <data key="label">PANG B</data>
+  <data key="author">Pang B</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="122">
+  <data key="name">DEMPSTER AP</data>
+  <data key="label">DEMPSTER AP</data>
+  <data key="author">Dempster AP</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="123">
+  <data key="name">SENNRICH R</data>
+  <data key="label">SENNRICH R</data>
+  <data key="author">Sennrich R</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">50</data>
+</node>
+<node id="124">
+  <data key="name">CARLSON R</data>
+  <data key="label">CARLSON R</data>
+  <data key="author">Carlson R</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="125">
+  <data key="name">ISLAM A</data>
+  <data key="label">ISLAM A</data>
+  <data key="author">Islam A</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="126">
+  <data key="name">FLORESCU D</data>
+  <data key="label">FLORESCU D</data>
+  <data key="author">Florescu D</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="127">
+  <data key="name">SOLTAU H</data>
+  <data key="label">SOLTAU H</data>
+  <data key="author">Soltau H</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="128">
+  <data key="name">YANG J</data>
+  <data key="label">YANG J</data>
+  <data key="author">Yang J</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="129">
+  <data key="name">ZITOUNI I</data>
+  <data key="label">ZITOUNI I</data>
+  <data key="author">Zitouni I</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="130">
+  <data key="name">CHARNIAK E</data>
+  <data key="label">CHARNIAK E</data>
+  <data key="author">Charniak E</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="131">
+  <data key="name">NEY H</data>
+  <data key="label">NEY H</data>
+  <data key="author">Ney H</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="132">
+  <data key="name">DIETTERICH TG</data>
+  <data key="label">DIETTERICH TG</data>
+  <data key="author">Dietterich TG</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="133">
+  <data key="name">STONE M</data>
+  <data key="label">STONE M</data>
+  <data key="author">Stone M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="134">
+  <data key="name">WANG C</data>
+  <data key="label">WANG C</data>
+  <data key="author">Wang C</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="135">
+  <data key="name">VINYALS O</data>
+  <data key="label">VINYALS O</data>
+  <data key="author">Vinyals O</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">32</data>
+</node>
+<node id="136">
+  <data key="name">KEENAN EL</data>
+  <data key="label">KEENAN EL</data>
+  <data key="author">Keenan EL</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="137">
+  <data key="name">VAPNIK V</data>
+  <data key="label">VAPNIK V</data>
+  <data key="author">Vapnik V</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="138">
+  <data key="name">AHO AV</data>
+  <data key="label">AHO AV</data>
+  <data key="author">Aho AV</data>
+  <data key="year">2014</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="139">
+  <data key="name">LIN TY</data>
+  <data key="label">LIN TY</data>
+  <data key="author">Lin TY</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">18</data>
+</node>
+<node id="140">
+  <data key="name">MANMATHA R</data>
+  <data key="label">MANMATHA R</data>
+  <data key="author">Manmatha R</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="141">
+  <data key="name">WANG Y</data>
+  <data key="label">WANG Y</data>
+  <data key="author">Wang Y</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="142">
+  <data key="name">WANG W</data>
+  <data key="label">WANG W</data>
+  <data key="author">Wang W</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="143">
+  <data key="name">WANG X</data>
+  <data key="label">WANG X</data>
+  <data key="author">Wang X</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="144">
+  <data key="name">MILLER GA</data>
+  <data key="label">MILLER GA</data>
+  <data key="author">Miller GA</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="145">
+  <data key="name">GRAVES A</data>
+  <data key="label">GRAVES A</data>
+  <data key="author">Graves A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">169</data>
+</node>
+<node id="146">
+  <data key="name">LEE J</data>
+  <data key="label">LEE J</data>
+  <data key="author">Lee J</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="147">
+  <data key="name">JIN Y</data>
+  <data key="label">JIN Y</data>
+  <data key="author">Jin Y</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="148">
+  <data key="name">VANDERAALST WMP</data>
+  <data key="label">VANDERAALST WMP</data>
+  <data key="author">Vanderaalst WMP</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="149">
+  <data key="name">SUTSKEVER I</data>
+  <data key="label">SUTSKEVER I</data>
+  <data key="author">Sutskever I</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">18</data>
+</node>
+<node id="150">
+  <data key="name">LOWE DG</data>
+  <data key="label">LOWE DG</data>
+  <data key="author">Lowe DG</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="151">
+  <data key="name">NEAL RM</data>
+  <data key="label">NEAL RM</data>
+  <data key="author">Neal RM</data>
+  <data key="year">2010</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="152">
+  <data key="name">YAGER RR</data>
+  <data key="label">YAGER RR</data>
+  <data key="author">Yager RR</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="153">
+  <data key="name">RADFORD A</data>
+  <data key="label">RADFORD A</data>
+  <data key="author">Radford A</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">84</data>
+</node>
+<node id="154">
+  <data key="name">ROBERTSON SE</data>
+  <data key="label">ROBERTSON SE</data>
+  <data key="author">Robertson SE</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="155">
+  <data key="name">KIM W</data>
+  <data key="label">KIM W</data>
+  <data key="author">Kim W</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="156">
+  <data key="name">CAMBRIA E</data>
+  <data key="label">CAMBRIA E</data>
+  <data key="author">Cambria E</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="157">
+  <data key="name">KIROS R</data>
+  <data key="label">KIROS R</data>
+  <data key="author">Kiros R</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="158">
+  <data key="name">MARCUS MP</data>
+  <data key="label">MARCUS MP</data>
+  <data key="author">Marcus MP</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">21</data>
+</node>
+<node id="159">
+  <data key="name">DEVLIN J</data>
+  <data key="label">DEVLIN J</data>
+  <data key="author">Devlin J</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">312</data>
+</node>
+<node id="160">
+  <data key="name">AGICHTEIN E</data>
+  <data key="label">AGICHTEIN E</data>
+  <data key="author">Agichtein E</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="161">
+  <data key="name">KIM Y</data>
+  <data key="label">KIM Y</data>
+  <data key="author">Kim Y</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">67</data>
+</node>
+<node id="162">
+  <data key="name">WEBER R</data>
+  <data key="label">WEBER R</data>
+  <data key="author">Weber R</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="163">
+  <data key="name">XIA F</data>
+  <data key="label">XIA F</data>
+  <data key="author">Xia F</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="164">
+  <data key="name">JELINEK F</data>
+  <data key="label">JELINEK F</data>
+  <data key="author">Jelinek F</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="165">
+  <data key="name">ZHANG H</data>
+  <data key="label">ZHANG H</data>
+  <data key="author">Zhang H</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="166">
+  <data key="name">YURET D</data>
+  <data key="label">YURET D</data>
+  <data key="author">Yuret D</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="167">
+  <data key="name">MNIH A</data>
+  <data key="label">MNIH A</data>
+  <data key="author">Mnih A</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="168">
+  <data key="name">HE KM</data>
+  <data key="label">HE KM</data>
+  <data key="author">He KM</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">66</data>
+</node>
+<node id="169">
+  <data key="name">PETERS ME</data>
+  <data key="label">PETERS ME</data>
+  <data key="author">Peters ME</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">67</data>
+</node>
+<node id="170">
+  <data key="name">SALTON G</data>
+  <data key="label">SALTON G</data>
+  <data key="author">Salton G</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">16</data>
+</node>
+<node id="171">
+  <data key="name">LEVELT WJM</data>
+  <data key="label">LEVELT WJM</data>
+  <data key="author">Levelt WJM</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="172">
+  <data key="name">MIHALCEA R</data>
+  <data key="label">MIHALCEA R</data>
+  <data key="author">Mihalcea R</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="173">
+  <data key="name">ZHANG M</data>
+  <data key="label">ZHANG M</data>
+  <data key="author">Zhang M</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="174">
+  <data key="name">BLEI DM</data>
+  <data key="label">BLEI DM</data>
+  <data key="author">Blei DM</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">30</data>
+</node>
+<node id="175">
+  <data key="name">NIVRE J</data>
+  <data key="label">NIVRE J</data>
+  <data key="author">Nivre J</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="176">
+  <data key="name">TSOCHANTARIDIS I</data>
+  <data key="label">TSOCHANTARIDIS I</data>
+  <data key="author">Tsochantaridis I</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="177">
+  <data key="name">KRIZHEVSKY ALEX</data>
+  <data key="label">KRIZHEVSKY ALEX</data>
+  <data key="author">Krizhevsky ALEX</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="178">
+  <data key="name">KINGMA DP</data>
+  <data key="label">KINGMA DP</data>
+  <data key="author">Kingma DP</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">124</data>
+</node>
+<node id="179">
+  <data key="name">JAIN AK</data>
+  <data key="label">JAIN AK</data>
+  <data key="author">Jain AK</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="180">
+  <data key="name">LEONE N</data>
+  <data key="label">LEONE N</data>
+  <data key="author">Leone N</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="181">
+  <data key="name">VOORHEES EM</data>
+  <data key="label">VOORHEES EM</data>
+  <data key="author">Voorhees EM</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="182">
+  <data key="name">COLLINS M</data>
+  <data key="label">COLLINS M</data>
+  <data key="author">Collins M</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">26</data>
+</node>
+<node id="183">
+  <data key="name">SOCHER R</data>
+  <data key="label">SOCHER R</data>
+  <data key="author">Socher R</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+</node>
+<node id="184">
+  <data key="name">GOODFELLOW I</data>
+  <data key="label">GOODFELLOW I</data>
+  <data key="author">Goodfellow I</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">12</data>
+</node>
+<node id="185">
+  <data key="name">DONAHUE J</data>
+  <data key="label">DONAHUE J</data>
+  <data key="author">Donahue J</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="186">
+  <data key="name">YANG ZW</data>
+  <data key="label">YANG ZW</data>
+  <data key="author">Yang ZW</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">33</data>
+</node>
+<node id="187">
+  <data key="name">KOHAVI R</data>
+  <data key="label">KOHAVI R</data>
+  <data key="author">Kohavi R</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="188">
+  <data key="name">ZADEH LA</data>
+  <data key="label">ZADEH LA</data>
+  <data key="author">Zadeh LA</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="189">
+  <data key="name">FRIEDMAN J</data>
+  <data key="label">FRIEDMAN J</data>
+  <data key="author">Friedman J</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="190">
+  <data key="name">CHIANG D</data>
+  <data key="label">CHIANG D</data>
+  <data key="author">Chiang D</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="191">
+  <data key="name">RATNAPARKHI A</data>
+  <data key="label">RATNAPARKHI A</data>
+  <data key="author">Ratnaparkhi A</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="192">
+  <data key="name">CHOMSKY N</data>
+  <data key="label">CHOMSKY N</data>
+  <data key="author">Chomsky N</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="193">
+  <data key="name">HOFMANN T</data>
+  <data key="label">HOFMANN T</data>
+  <data key="author">Hofmann T</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="194">
+  <data key="name">VEDANTAM R</data>
+  <data key="label">VEDANTAM R</data>
+  <data key="author">Vedantam R</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="195">
+  <data key="name">DAELEMANS W</data>
+  <data key="label">DAELEMANS W</data>
+  <data key="author">Daelemans W</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="196">
+  <data key="name">NASRABADI NASSERM</data>
+  <data key="label">NASRABADI NASSERM</data>
+  <data key="author">Nasrabadi NASSERM</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="197">
+  <data key="name">KIRYAKOV A</data>
+  <data key="label">KIRYAKOV A</data>
+  <data key="author">Kiryakov A</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="198">
+  <data key="name">KATZ SM</data>
+  <data key="label">KATZ SM</data>
+  <data key="author">Katz SM</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="199">
+  <data key="name">CADOLI M</data>
+  <data key="label">CADOLI M</data>
+  <data key="author">Cadoli M</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="200">
+  <data key="name">PEARL J</data>
+  <data key="label">PEARL J</data>
+  <data key="author">Pearl J</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="201">
+  <data key="name">NOY NF</data>
+  <data key="label">NOY NF</data>
+  <data key="author">Noy NF</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="202">
+  <data key="name">PAPADIMITRIOU C</data>
+  <data key="label">PAPADIMITRIOU C</data>
+  <data key="author">Papadimitriou C</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="203">
+  <data key="name">RATH TM</data>
+  <data key="label">RATH TM</data>
+  <data key="author">Rath TM</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="204">
+  <data key="name">KOUDAS N</data>
+  <data key="label">KOUDAS N</data>
+  <data key="author">Koudas N</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="205">
+  <data key="name">WU Y</data>
+  <data key="label">WU Y</data>
+  <data key="author">Wu Y</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="206">
+  <data key="name">XU P</data>
+  <data key="label">XU P</data>
+  <data key="author">Xu P</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="207">
+  <data key="name">MCCALLUM A</data>
+  <data key="label">MCCALLUM A</data>
+  <data key="author">Mccallum A</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">8</data>
+</node>
+<node id="208">
+  <data key="name">HE K</data>
+  <data key="label">HE K</data>
+  <data key="author">He K</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">13</data>
+</node>
+<node id="209">
+  <data key="name">BELLEGARDA JR</data>
+  <data key="label">BELLEGARDA JR</data>
+  <data key="author">Bellegarda JR</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="210">
+  <data key="name">OCH FJ</data>
+  <data key="label">OCH FJ</data>
+  <data key="author">Och FJ</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">23</data>
+</node>
+<node id="211">
+  <data key="name">BANERJEE S</data>
+  <data key="label">BANERJEE S</data>
+  <data key="author">Banerjee S</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="212">
+  <data key="name">BRANTS T</data>
+  <data key="label">BRANTS T</data>
+  <data key="author">Brants T</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="213">
+  <data key="name">DAUME H</data>
+  <data key="label">DAUME H</data>
+  <data key="author">Daume H</data>
+  <data key="year">2009</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="214">
+  <data key="name">ROSENFELD R</data>
+  <data key="label">ROSENFELD R</data>
+  <data key="author">Rosenfeld R</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="215">
+  <data key="name">BOJANOWSKI P</data>
+  <data key="label">BOJANOWSKI P</data>
+  <data key="author">Bojanowski P</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">42</data>
+</node>
+<node id="216">
+  <data key="name">[ANONYMOUS]</data>
+  <data key="label">[ANONYMOUS]</data>
+  <data key="author">[Anonymous]</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">900</data>
+</node>
+<node id="217">
+  <data key="name">KOHONEN T</data>
+  <data key="label">KOHONEN T</data>
+  <data key="author">Kohonen T</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="218">
+  <data key="name">MAEDCHE A</data>
+  <data key="label">MAEDCHE A</data>
+  <data key="author">Maedche A</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="219">
+  <data key="name">MANNING CD</data>
+  <data key="label">MANNING CD</data>
+  <data key="author">Manning CD</data>
+  <data key="year">2015</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">11</data>
+</node>
+<node id="220">
+  <data key="name">BERGER AL</data>
+  <data key="label">BERGER AL</data>
+  <data key="author">Berger AL</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="221">
+  <data key="name">NATARAJAN P</data>
+  <data key="label">NATARAJAN P</data>
+  <data key="author">Natarajan P</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="222">
+  <data key="name">DALAL N</data>
+  <data key="label">DALAL N</data>
+  <data key="author">Dalal N</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="223">
+  <data key="name">SZEGEDY C</data>
+  <data key="label">SZEGEDY C</data>
+  <data key="author">Szegedy C</data>
+  <data key="year">2019</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="224">
+  <data key="name">MANNING CHRISTOPHER</data>
+  <data key="label">MANNING CHRISTOPHER</data>
+  <data key="author">Manning CHRISTOPHER</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="225">
+  <data key="name">KOH KM</data>
+  <data key="label">KOH KM</data>
+  <data key="author">Koh KM</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="226">
+  <data key="name">HORROCKS I</data>
+  <data key="label">HORROCKS I</data>
+  <data key="author">Horrocks I</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="227">
+  <data key="name">LEVIN BETH</data>
+  <data key="label">LEVIN BETH</data>
+  <data key="author">Levin BETH</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="228">
+  <data key="name">ROARK B</data>
+  <data key="label">ROARK B</data>
+  <data key="author">Roark B</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">14</data>
+</node>
+<node id="229">
+  <data key="name">MIKOLOV TOMAS</data>
+  <data key="label">MIKOLOV TOMAS</data>
+  <data key="author">Mikolov TOMAS</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">68</data>
+</node>
+<node id="230">
+  <data key="name">FANG H</data>
+  <data key="label">FANG H</data>
+  <data key="author">Fang H</data>
+  <data key="year">2017</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="231">
+  <data key="name">WOODLAND PC</data>
+  <data key="label">WOODLAND PC</data>
+  <data key="author">Woodland PC</data>
+  <data key="year">2013</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="232">
+  <data key="name">HUANG L</data>
+  <data key="label">HUANG L</data>
+  <data key="author">Huang L</data>
+  <data key="year">2011</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="233">
+  <data key="name">EMAMI A</data>
+  <data key="label">EMAMI A</data>
+  <data key="author">Emami A</data>
+  <data key="year">2007</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="234">
+  <data key="name">KNESER R</data>
+  <data key="label">KNESER R</data>
+  <data key="author">Kneser R</data>
+  <data key="year">2005</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">20</data>
+</node>
+<node id="235">
+  <data key="name">VISHWANATHAN SVN</data>
+  <data key="label">VISHWANATHAN SVN</data>
+  <data key="author">Vishwanathan SVN</data>
+  <data key="year">2008</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<edge source="1" target="170">
+  <data key="weight">0.5</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="2" target="8">
+  <data key="weight">0.3718678951263428</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="3" target="97">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="3" target="235">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="4" target="28">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="6" target="46">
+  <data key="weight">0.275945782661438</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="6" target="115">
+  <data key="weight">0.3721041679382324</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="6" target="123">
+  <data key="weight">0.3321819305419922</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="6" target="159">
+  <data key="weight">0.5600000023841858</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="7" target="218">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="8" target="15">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="8" target="91">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="8" target="161">
+  <data key="weight">0.43915504217147827</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="8" target="169">
+  <data key="weight">0.3843075633049011</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="8" target="177">
+  <data key="weight">0.5345224738121033</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="8" target="183">
+  <data key="weight">0.588348388671875</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="8" target="229">
+  <data key="weight">0.45675015449523926</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="9" target="28">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="10" target="151">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="11" target="135">
+  <data key="weight">0.7777777910232544</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="12" target="59">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="12" target="182">
+  <data key="weight">0.6546536684036255</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="13" target="37">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="13" target="79">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="13" target="138">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="13" target="198">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="14" target="109">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="14" target="158">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="15" target="215">
+  <data key="weight">0.4874502420425415</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="16" target="106">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="16" target="209">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="17" target="234">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="18" target="103">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="19" target="153">
+  <data key="weight">0.41066157817840576</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="19" target="159">
+  <data key="weight">0.4266551733016968</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="20" target="182">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="21" target="119">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="22" target="93">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="23" target="145">
+  <data key="weight">0.3960590362548828</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="24" target="92">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="26" target="38">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="27" target="28">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="28" target="29">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="28" target="54">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="28" target="73">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="28" target="179">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="29" target="116">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="30" target="69">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="30" target="70">
+  <data key="weight">0.566138505935669</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="30" target="110">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="30" target="142">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="30" target="159">
+  <data key="weight">5.477226068251184E-7</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="31" target="51">
+  <data key="weight">0.384615421295166</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="31" target="84">
+  <data key="weight">0.8366600275039673</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="31" target="94">
+  <data key="weight">7.826238288544118E-7</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="31" target="223">
+  <data key="weight">0.5188745260238647</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="31" target="230">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="32" target="85">
+  <data key="weight">0.36957454681396484</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="33" target="130">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="34" target="103">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="35" target="85">
+  <data key="weight">0.6396021246910095</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="36" target="228">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="38" target="66">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="38" target="126">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="39" target="159">
+  <data key="weight">0.485983669757843</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="40" target="182">
+  <data key="weight">0.4472135901451111</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="41" target="47">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="41" target="98">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="41" target="197">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="41" target="201">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="42" target="211">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="43" target="174">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="43" target="193">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="44" target="105">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="44" target="166">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="45" target="159">
+  <data key="weight">0.36037498712539673</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="47" target="143">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="49" target="97">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="50" target="81">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="51" target="184">
+  <data key="weight">0.4003204107284546</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="52" target="142">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="53" target="81">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="55" target="151">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="56" target="101">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="56" target="106">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="56" target="228">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="57" target="111">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="57" target="164">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="57" target="174">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="59" target="190">
+  <data key="weight">6.761234203622735E-7</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="60" target="77">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="61" target="151">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="62" target="159">
+  <data key="weight">0.5879747271537781</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="63" target="85">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="64" target="165">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="64" target="214">
+  <data key="weight">0.7302967309951782</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="65" target="228">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="67" target="75">
+  <data key="weight">0.49030429124832153</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="67" target="89">
+  <data key="weight">0.374502956867218</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="67" target="159">
+  <data key="weight">0.4029332399368286</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="71" target="81">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="71" target="85">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="71" target="92">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="71" target="206">
+  <data key="weight">9.999999974752427E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="71" target="210">
+  <data key="weight">0.7412493228912354</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="71" target="213">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="72" target="136">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="72" target="181">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="72" target="224">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="73" target="109">
+  <data key="weight">8.164966516233108E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="74" target="172">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="76" target="198">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="77" target="80">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="77" target="133">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="77" target="137">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="77" target="142">
+  <data key="weight">9.999999974752427E-7</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="77" target="155">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="82" target="118">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="82" target="231">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="83" target="91">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="84" target="177">
+  <data key="weight">0.55901700258255</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="85" target="194">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="86" target="231">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="87" target="119">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="87" target="166">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="88" target="109">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="90" target="132">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="90" target="228">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="92" target="125">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="92" target="172">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="93" target="128">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="93" target="129">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="93" target="189">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="93" target="221">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="94" target="135">
+  <data key="weight">0.8249579071998596</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="94" target="139">
+  <data key="weight">0.7216878533363342</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="94" target="185">
+  <data key="weight">0.8017837405204773</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="96" target="109">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="97" target="225">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="99" target="228">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="101" target="231">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="102" target="201">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="103" target="182">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="103" target="227">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="103" target="235">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="104" target="180">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="108" target="122">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="108" target="170">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="109" target="114">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="110" target="192">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="110" target="222">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="111" target="196">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="113" target="161">
+  <data key="weight">0.35043835639953613</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="116" target="188">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="117" target="176">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="118" target="144">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="119" target="142">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="119" target="234">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="120" target="231">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="121" target="183">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="122" target="164">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="124" target="128">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="124" target="133">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="124" target="171">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="127" target="131">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="128" target="150">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="130" target="164">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="130" target="181">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="130" target="182">
+  <data key="weight">6.299408141785534E-7</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="131" target="164">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="134" target="150">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="135" target="194">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="140" target="203">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="141" target="222">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="142" target="206">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="142" target="220">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="142" target="233">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="143" target="217">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="145" target="178">
+  <data key="weight">0.4157397150993347</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="145" target="185">
+  <data key="weight">0.5500190854072571</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="149" target="216">
+  <data key="weight">0.28127193450927734</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="151" target="158">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="154" target="160">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="156" target="207">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="157" target="185">
+  <data key="weight">0.771516740322113</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="158" target="175">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="158" target="182">
+  <data key="weight">8.660254025016911E-7</data>
+  <data key="slice">2</data>
+  <data key="year">2009</data>
+</edge>
+<edge source="158" target="212">
+  <data key="weight">0.6123724579811096</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="159" target="168">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="159" target="186">
+  <data key="weight">0.37981510162353516</data>
+  <data key="slice">8</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="159" target="216">
+  <data key="weight">4.6142127985149273E-7</data>
+  <data key="slice">9</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="160" target="176">
+  <data key="weight">0.3333333730697632</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="163" target="210">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="163" target="232">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="173" target="190">
+  <data key="weight">0.800000011920929</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="176" target="182">
+  <data key="weight">0.6546536684036255</data>
+  <data key="slice">3</data>
+  <data key="year">2011</data>
+</edge>
+<edge source="180" target="199">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="180" target="202">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="181" target="211">
+  <data key="weight">0.5</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="182" target="207">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="182" target="219">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">5</data>
+  <data key="year">2015</data>
+</edge>
+<edge source="187" target="219">
+  <data key="weight">0.5</data>
+  <data key="slice">6</data>
+  <data key="year">2017</data>
+</edge>
+<edge source="190" target="210">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2013</data>
+</edge>
+<edge source="191" target="195">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+<edge source="191" target="207">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="197" target="218">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="198" target="206">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="198" target="209">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="206" target="214">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">1</data>
+  <data key="year">2007</data>
+</edge>
+<edge source="208" target="223">
+  <data key="weight">0.4447495937347412</data>
+  <data key="slice">7</data>
+  <data key="year">2019</data>
+</edge>
+<edge source="216" target="217">
+  <data key="weight">0.34815531969070435</data>
+  <data key="slice">0</data>
+  <data key="year">2005</data>
+</edge>
+</graph>
+</graphml>

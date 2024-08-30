@@ -1,0 +1,30 @@
+:Base clc4.hlp
+1 程序的主界面 =main_face
+1 菜单 = menu
+1 工具栏 = tool_bar
+1 检索窗
+2 检索窗 = search_window
+2 检索栏 = search_bar
+2 类目树框 = tree_window
+2 浏览框 = view_window
+1 详细窗
+2 详细窗 = detail_window
+2 邻近类目框 =list_window
+2 超文本框 =hyper_window
+2 MARC框 =marc_window
+1 如何 ...
+2 如何检索 = use_search
+2 如何进行高级检索 = logic_search
+2 检索项输入域和通配符 = search_term
+2 如何查看类目详细内容 =view_detail
+2 如何设定详细窗和类目树互动及浏览窗和类目树互动  = mutual_detail
+2 如何查看调试信息栏 = debug_menu
+2 如何设置和取消平面布局 = face_change
+2 如何设定剪贴板链接口参数 = copypaste_cfg
+2 如何在检索中利用结果集 = resultset_search
+2 如何保存检索结果到文件 = save_result_set
+2 如何从文件装载结果集 = load_result_set
+2 如何在超文本中加入评注 =add_pingzu
+2 如何检索评注信息 = search_pingzu
+2 如何导出和导入评注文字 = import_pingzu
+

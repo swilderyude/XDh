@@ -1,0 +1,56 @@
+clc4.exe	yy	CLC4主程序
+dtlib99.dll	yy	公共函数库
+dtscript.dll	yy	DTScript语言环境
+fulltextsearch.dll	yy	数据库环境
+marcedit.dll	yy	MARC编辑器
+moban32.dll	yy	定长输入模板
+hyper32.dll	yy	超文本环境
+splitctrl.dll	yy	布局控件
+dtlist.dll	yy	表格控件
+marcext.dll	yy	MARC函数库
+
+database.bin	ny	数据库文件
+dbdefinition.cfg	yy	数据库结构定义文件
+
+
+dbnotesdef.cfg	yy	评注数据库结构定义文件
+
+pass2.content	ny	“全部途径”全文索引
+
+pass2_999.content	ny	“类名路径”全文索引
+
+from.cfg	yy	检索途径配置文件
+match.cfg	yy	匹配方式配置文件
+keys.cfg	yy	检索点配置文件
+marcfilter.cfg	yy	将MARC记录过滤为全文检索需要的正文格式
+stopword.cfg	yy	非用字配置文件
+stopwordnumber.cfg	yy	非用字配置文件
+tishi.cfg	yy	MARC编辑窗提示信息配置文件
+tree.cfg	yy	类目树配置文件
+browse.flt	yy	浏览格式配置文件
+hypermain.flt	yy	超文本显示格式配置文件
+hyperlink.flt	yy	超文本显示格式配置文件
+multihyper.flt	yy	超文本显示格式配置文件(范围)
+fb.tbl		yy	通用复分表名字对照表
+
+clc4.hlp	yy	帮助文件
+clc4.cnt	yy	帮助目录文件
+
+classtip.flt	yy	提示小窗口显示格式配置文件
+
+bwh.txt	yy	中图法编委会名单
+readme.txt	yy	最新说明文件
+
+mfc42.dll	yy	MFC库文件
+MFC42D.DLL	nn	MFC库文件
+MFC42U.DLL	nn	MFC库文件
+MFC42UD.DLL	nn	MFC库文件
+MFCD42D.DLL	nn	MFC库文件
+MFCD42UD.DLL	nn	MFC库文件
+MFCN42D.DLL	nn	MFC库文件
+MFCN42UD.DLL	nn	MFC库文件
+mfco42d.dll	nn	MFC库文件
+MFCO42UD.DLL	nn	MFC库文件
+MSVCIRTD.DLL	nn	MFC库文件
+MSVCRT.DLL	yy	MFC库文件
+MSVCRTD.DLL	nn	MFC库文件

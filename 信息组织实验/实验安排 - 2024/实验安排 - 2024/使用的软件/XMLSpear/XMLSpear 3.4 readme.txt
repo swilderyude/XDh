@@ -1,0 +1,108 @@
+All Platforms
+============
+XMLSpear is free software for personal use.
+Please send yor feedback to xmlspear@donkeydevelopment.com or on the forum http://donkeydevelopment.com/forums.
+
+Commercial use must be approved by donkeydevelopment.
+Just send an email to xmlspear@donkeydevelopment.com with the subject "licence request".
+In the body of te email give the following information:
+
+    * name of your company
+    * type of company
+    * where do you use it for
+    * do you use the MQSeries Plugin
+    * optional : what do you like to get implemented
+
+You may use the save-as option if you want maximum savety/security while editing existing files.
+Donkeydevelopment does not take any responsibility for problems or damage caused by this software.
+Please visit our website www.donkeydevelopment frequently to get the latest updates.
+
+Installation:
+=============
+Unpack the folder and drag it to your appplication folder
+
+
+De-Installation:
+Trash the XMLSpear folder.
+
+See further instructions for your platform below.
+
+By editing the XMLSpear.properties file you can do some global settings for the application.
+
+
+All rights reserved
+DonkeyDevelopment
+
+
+Starting
+========
+
+MacOS X
+________
+Option 1
+For the first run: right-click the XMLSpear application icon and choose open from the popup menu.
+Next times : just double click the XMLSpear application icon.
+
+
+Option 2
+In terminal use cd command  to switch to the directory containing this readme file.
+
+When in this directory:
+
+java -Xms128m -Xmx1024m -Dcom.apple.mrj.application.apple.menu.about.name=XMLSpear -classpath lib/loader.jar com.dd.classloader.Loader XMLSpear.properties
+
+Option 3
+In terminal : go to the XMLSpear directory and then type: ./XMLSpear.sh
+You have to give run permissions to the script.
+
+
+-----------------------------------------------------------------------
+
+
+Windows
+________
+Option 1
+just doubleclick the XMLSpear.exe file.
+
+You may make a shortcut of this file to your desktop.
+Do do this: 
+- right click the XMLSpear.exe application and then choose: Send to desktop(shortcut)
+
+
+Option 2
+just doubleclick the XMLSpear.bat file.
+
+
+Linux
+________
+In terminal : go to the XMLSpear directory and then type: ./XMLSpear.sh
+Note:
+You have to give run permissions to the script XMLSpear.sh.
+This can be done by right-clicking the script--> Properties. And then enable the script to run.
+It can also be done from the termimal while in the XMLSpear directory: chmod ugo+x XMLSpear.sh
+
+You can make a desktop shortcut.
+The way to this, depends on your Linux environment.
+
+In Fedora 24 (gnome) you can create xmlspear.desktop file in direcory:
+/usr/share/applications with following content:
+
+
+[Desktop Entry]
+Name=XMLSpear
+Comment=Editor for XML files
+Comment[nl]=Bewerken XML bestanden
+Exec=/home/dick/Software/XMLSpear/XMLSpear.sh
+Terminal=true
+Type=Application
+Icon=/home/dick/Software/XMLSpear/icon/xmlspear_128.png
+StartupNotify=true
+Categories=GTK;GNOME;Utility;
+
+
+
+Note:
+You may have to logoff/logon to get shortcut active.
+
+-------------------------------------------------------------------------
+

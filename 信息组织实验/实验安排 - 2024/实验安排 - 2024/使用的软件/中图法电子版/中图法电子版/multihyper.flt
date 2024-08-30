@@ -1,0 +1,637 @@
+
+### 中图法第4版 MARC数据 详细显示 dtscript程序
+
+Open(HyperFn,"d")
+
+if (_nHyperWidth < 400)
+	_nHyperWidth = 400
+
+fnprintf(HyperFn,"{MapStyle:1}{PageHeight:2000}{PageWidth:%d}{TopBlank:0}{BottomBlank:0}",_nHyperWidth - 20)
+
+fnprintf(HyperFn, "{size:20}{font:\"Times New Roman\"}类号范围 %s\r\n", _sRange)
+
+_sShuoMing << "类号范围 "
+_sShuoMing <<  _sRange
+
+Record {
+
+### 存放中间结果的字符串
+string s01   #  拼音2**$a...
+string s02   #  主题词2**$a...
+string s03   #  注释3**$a
+string s04   #  中图法类号681$a$b
+string s05   #  英译名4**$8eng$abdcf
+string s06   #  代 4**$6a**$abcfxyz
+string s07   #  属 5**$5g$abcfxyz
+string s08   #  分 5**$5h$abcfxyz
+string s09   #  参 5**$5k$abcfxyz
+string s10   #  族 5**$5z$abcfxyz
+
+string s20   #  来源
+string s21   #  001
+
+string s30   #  跳转到图书的检索词
+string s31   #  日期
+
+
+string sLevel	# 类级
+string sParentLink	# 上级类目锚点
+string sChildLink	# 下级类目锚点
+string sHeader		# 头标区
+int chHeader06
+int chHeader07
+
+int nLevel
+string sLeiMing
+
+
+
+
+#### 头标区
+Field "hdr" {
+	sHeader = _FIELD
+	chHeader06 = StrToChar(&sHeader, 6)
+	chHeader07 = StrToChar(&sHeader, 7)
+}
+
+#### 001
+Field "001" {
+      string s
+      int len
+      StrCat(&s21,_FIELD)
+}
+
+Field "100" {
+      string tt
+      string s
+      SubField "$a" {
+
+         CopyStr(_SUBFIELD,0,4,&tt)
+         StrCat(&s,&tt)
+         StrCat(&s,"-")
+
+         CopyStr(_SUBFIELD,4,2,&tt)
+         StrCat(&s,&tt)
+         StrCat(&s,"-")
+
+         CopyStr(_SUBFIELD,6,2,&tt)
+         StrCat(&s,&tt)
+         }
+      Final {
+         s31 = s
+         }
+}
+
+
+Field "260" {
+	string a
+	string b
+	string c
+	string m
+	string z
+
+        SubField "a" {
+#		a << "{Color:255,0,0}{Font:\"Times New Roman\"}{fontstyle:BD}"
+        	a << _SUBFIELD
+#		a << "{fontstyle:BD-}{font:黑体}{Color:0,0,0}"
+	}
+        SubField "b" {
+		b << _SUBFIELD
+	}
+        SubField "c" {
+		c << _SUBFIELD
+	}
+        SubField "h" {
+		sLevel =  _SUBFIELD
+		nLevel = stoi(sLevel)
+	}
+        SubField "m" {
+		m << _SUBFIELD
+	}
+        SubField "z" {
+		z << _SUBFIELD
+	}
+
+
+	if (StrLen(&c)) {
+		MakeFufenName(a,c,&s02)
+#		s02 << "/"
+#		s02 << c
+	}
+	else
+		s02 << a
+
+	if (chHeader06 == 'y') {
+		StrIns(&s02, 0, "[")
+		s02 << "]"
+	}
+	s02 << " "
+	sLeiMing << m
+
+	if (StrLen(&b)) {
+		s02 << "{{"
+		s02 << b
+		s02 << "}}"
+	}	
+
+
+
+	break
+}
+
+
+#### 2**
+Field "2**" {
+        int pinyin
+        string s
+        string s1
+        int eng
+
+        SubField "$a" {
+           StrCat(&s,_SUBFIELD)
+           StrCat(&s1,_SUBFIELD)
+           }
+        SubField "$b" {
+           StrCat(&s,_SUBFIELD)
+           }
+        SubField "$c" {
+           StrCat(&s,_SUBFIELD)
+           }
+        SubField "$f" {
+           StrCat(&s,_SUBFIELD)
+           }
+        SubField "$x" {
+           StrCat(&s,_SUBFIELD)
+           }
+        SubField "$y" {
+           StrCat(&s,_SUBFIELD)
+           }
+        SubField "$z" {
+           StrCat(&s,_SUBFIELD)
+           }
+        SubField "$7" {
+           if (StrCmp(_SUBFIELD,"ba")==0)
+              eng = 1
+           if (StrCmp(_SUBFIELD,"ec")==0)
+              pinyin = 1
+           }
+
+        Final {
+           if (pinyin==0&&eng==0) {
+              s30 = s1
+              s02 = s
+              }
+           else
+              s01 = s
+
+           }
+}
+
+
+
+Field "33*" {
+	string a
+	string b
+	string c
+	string s6
+	string z
+	string sStyle
+	string sWord
+	string sMode
+
+
+	if (StrLen(s03))
+		s03 << "\\r"
+	if (_FIELDNAME == "332")
+		s03 << "<{Font:\"楷体_GB2312\"}"
+
+	SubField "n" {
+
+	# 将前面积累的各个子字段内容处理
+
+	# $a+$z情形 -- 复分表中条目
+		if (StrLen(a) && StrLen(z)) {
+			sStyle << " style=fufen"
+			sWord << a
+			sWord << "|"
+			sWord << z
+
+			s03 << "{HB}"
+			s03 << a
+			s03 << "{HE}"
+			s03 << "{act:\"s word='"
+			s03 << sWord
+			s03 << "'"
+			s03 << sStyle
+			if (StrLen(sMode)) {
+				s03 << " mode67="
+				s03 << sMode
+			}
+			s03 << "\"}"
+			goto SKIP	
+		}
+
+	# $z情形 -- 复分表
+	# 如果为专类复分表，是否需要显示超文本时展开下级?
+		if ( StrLen(z)) {
+			string sName
+			sName = z
+			if (StrLen(z)>=3 && memcmp(z, "fb", 2)==0) {
+				sStyle << " style='fb'"
+				RplcStr(&sName, "fb.tbl")
+			}
+
+			sWord << z
+
+			s03 << "{HB}"
+			s03 << sName
+			s03 << "{HE}"
+			s03 << "{act:\"s word='"
+			s03 << sWord
+			s03 << "'"
+			s03 << sStyle
+			if (StrLen(sMode)) {
+				s03 << " mode67="
+				s03 << sMode
+			}
+			s03 << "\"}"
+			goto SKIP	
+		}
+	# $a+$c 情形
+		if (StrLen(a) && StrLen(c)) {
+			string sMerge
+
+			sprintf(&sStyle, " list='%s/%s'", a, c)
+
+			sWord << a
+
+			MakeFufenName(a,c,&sMerge)
+
+			s03 << "{HB}"
+			s03 << sMerge
+			s03 << "{HE}"
+			s03 << "{act:\"s word='"
+			s03 << sWord
+			s03 << "'"
+			s03 << sStyle
+			if (StrLen(sMode)) {
+				s03 << " mode67="
+				s03 << sMode
+			}
+			s03 << "\"}"
+			goto SKIP	
+
+		}
+
+	# $a情形
+
+		if (StrLen(a)) {
+			if (SubStr(a, "/") != -1) # D1/3情形
+				sStyle << " style=range"
+			else
+				sStyle << " style=prev"
+			sWord << a
+
+			s03 << "{HB}"
+			s03 << a
+			s03 << "{HE}"
+			s03 << "{act:\"s word='"
+			s03 << sWord
+			s03 << "'"
+			s03 << sStyle
+			if (StrLen(sMode)) {
+				s03 << " mode67="
+				s03 << sMode
+			}
+			s03 << "\"}"
+			goto SKIP	
+		}
+
+:SKIP
+
+		s03 << _SUBFIELD
+		a = ""
+		b = ""
+		c = ""
+		s6 = ""
+		z = ""
+		sStyle = ""
+		sWord = ""
+	}
+	SubField "a" {
+		a << _SUBFIELD
+	}
+	SubField "b" {
+		b << _SUBFIELD
+	}
+	SubField "c" {
+		c << _SUBFIELD
+	}
+	SubField "z" {
+		if (StrLen(z))
+			z << "|"
+		z << _SUBFIELD
+	}
+	SubField "6" {
+		s6 << _SUBFIELD
+	}
+
+
+	if (_FIELDNAME == "332")
+		s03 << "{Font:\"Times New Roman\"}>"
+	break
+
+}
+
+Field "91*" {
+	string sMode
+
+	if (StrLen(s03))
+		s03 << "\\r"
+	if (_FIELDNAME == "332")
+		s03 << "<{Font:\"楷体_GB2312\"}"
+	SubField "a" {
+		int ch
+		# 看第一位是否为字母
+		ch = StrToChar(_SUBFIELD, 0)
+		if (ch < 'A' || ch > 'Z')
+			sMode = "[xy][abc]"
+
+		s03 << "{HB}"
+		s03 << _SUBFIELD
+		s03 << "{HE}"
+		s03 << "{act:\"s word='"
+		s03 << _SUBFIELD
+		s03 << "' style=prev"
+		if (StrLen(sMode)) {
+			s03 << " mode67="
+			s03 << sMode
+		}
+		s03 << "\"}"
+
+
+	}
+	SubField "b" {
+		s03 << "{HB}"
+		s03 << _SUBFIELD
+		s03 << "{HE}"
+		s03 << "{act:\"s word='"
+		s03 << _SUBFIELD
+		s03 << "' style=prev\"}"
+	}
+	SubField "c" {
+		s03 << "/"
+		s03 << _SUBFIELD
+	}
+	SubField "m" {
+		s03 << _SUBFIELD
+	}
+	SubField "n" {
+		s03 << _SUBFIELD
+	}
+	SubField "t" {
+		s03 << "{fontstyle:IT}{color:0,0,255}"
+		s03 << _SUBFIELD
+		s03 << "{fontstyle:IT-}{color:0,0,0}"
+	}
+	SubField "z" {
+		s03 << "{HB}"
+		s03 << _SUBFIELD
+		s03 << "{HE}"
+		s03 << "{act:\"s word='"
+		s03 << _SUBFIELD
+# 331$z中，如果为fb?， style应当为fb，否则style为缺省即可，因为专类复分表已经归到类下面管理
+		if (StrLen(_SUBFIELD)>=3 && memcmp(_SUBFIELD, "fb", 2)==0)
+			s03 << "' style='fb'\"}"
+		else
+			s03 << "'\"}"
+	}
+	if (_FIELDNAME == "332")
+		s03 << "{Font:\"Times New Roman\"}>"
+	break
+
+}
+
+
+
+
+#### 460
+Field "460" {
+	string a
+	string h
+	string m
+
+	SubField "a" {
+
+	}
+	SubField "m" {
+
+	}
+	SubField "h" {
+
+	}
+
+	
+
+}
+
+#### 560
+Field "560" {
+	string a
+	string h
+	string m
+	string s5
+	string z
+	string c
+	string b
+	int chHeader06
+	int chHeader07
+	string sMode67
+
+	SubField "5" {
+		s5 = _SUBFIELD
+	}
+
+	SubField "a" {
+		a = _SUBFIELD
+	}
+	SubField "b" {
+		b = _SUBFIELD
+	}
+	SubField "c" {
+		c = _SUBFIELD
+	}
+	SubField "m" {
+		m = _SUBFIELD
+	}
+	SubField "h" {
+		h = _SUBFIELD
+	}
+	SubField "z" {
+		z << "|"
+		z << _SUBFIELD
+	}
+	SubField "H" {
+		chHeader06 = StrToChar(&_SUBFIELD, 0)
+		chHeader07 = StrToChar(&_SUBFIELD, 1)
+	}
+
+	if (chHeader06 && chHeader07) {
+		sprintf(&sMode67, "%c%c", chHeader06, chHeader07) 
+	}
+
+	if (s5 == "ng" || s5 == "eg") {
+		if (StrLen(sParentLink))
+			sParentLink << "\\r"
+		sParentLink << "{HB}"
+
+		sParentLink << a
+		sParentLink << b
+		if (StrLen(&c)) {
+			sParentLink << "/"
+			sParentLink << c
+		}
+
+		sParentLink << "{HE}"
+		sParentLink << "{act:\"s word='"
+		sParentLink << a
+		sParentLink << b
+		if (StrLen(&z)==0)
+			sParentLink << c
+		sParentLink << z
+		sParentLink << "'"
+		if (StrLen(&z))
+			sParentLink << " style=fufen"
+		else {
+		if (StrLen(&c)) {
+			if (chHeader06=='x')
+				sParentLink << " style=range"			
+			else
+				sParentLink << " style=shuoming"
+			}
+		}
+		if (StrLen(sMode67)) {
+			sParentLink << " mode67="
+			sParentLink << sMode67
+		}
+		sParentLink << "\"}\\t"
+		sParentLink << " "
+		sParentLink << m
+	}
+	if (s5 == "nh" || s5 == "eh") {
+		if (StrLen(sChildLink))
+			sChildLink << "\\r"
+		sChildLink << "{HB}"
+		if (chHeader06 == 't')
+			sChildLink << "{{"
+		if (chHeader06 == 'y')
+			sChildLink << "["
+		sChildLink << a
+		sChildLink << b
+		if (StrLen(&c)) {
+			sChildLink << "/"
+			sChildLink << c
+		}
+		if (chHeader06 == 't')
+			sChildLink << "}}"
+		if (chHeader06 == 'y')
+			sChildLink << "]"
+		sChildLink << "{HE}"
+		sChildLink << "{act:\"s word='"
+		sChildLink << a
+		sChildLink << b
+		if (StrLen(&z)==0)
+			sChildLink << c
+		sChildLink << z
+		sChildLink << "'"
+		if (chHeader06 == 't')
+			sChildLink << " style=t"
+		if (chHeader06 == 'y')
+			sChildLink << " style=y"
+		if (StrLen(&z))
+			sChildLink << " style=fufen"
+		else {
+#		if (StrLen(&c))
+#			sChildLink << " style=shuoming"
+		if (StrLen(&c)) {
+			if (chHeader06=='x')
+				sChildLink << " style=range"			
+			else
+				sChildLink << " style=shuoming"
+			}
+		
+		}
+		if (StrLen(sMode67)) {
+			sChildLink << " mode67="
+			sChildLink << sMode67
+		}
+		sChildLink << "\"}\\t"
+		sChildLink << " "
+		sChildLink << m
+	}
+
+}
+
+
+
+{
+	string stemp
+	int nSize = 18
+	int nLeft = 60
+
+	int nPerCharWidth = 14
+
+	if (nLevel) {
+		nSize = 24 - ((nLevel - 1)* 2)
+		if (nSize < 18)
+			nSize = 18
+		nLeft = 90 + ((nLevel - 1) * 12)
+	}
+	else {
+		nLeft = 90 + ((5 - 1) * 12)
+	}
+
+
+
+fnprintf(HyperFn,"{ParagraphBegin}{LeftBorder:%d}{RightBorder:%d}", nLeft + nPerCharWidth, _nHyperWidth - 20)
+fnprintf(HyperFn,"{Indent:%d}{LineSep:4}", nLeft)
+
+
+stemp << s02
+stemp << "\\t"
+stemp << sLeiMing
+
+    fnprintf(HyperFn, "{ParagraphBegin}{LeftBorder:%d}{Indent:0}{RightBorder:%d}\\r{Font:\"Times New Roman\"}{tabs:0, %d}{size:18}%s{size:18}{ParagraphEnd}", nLeft + nPerCharWidth, _nHyperWidth - 20, nLeft + nPerCharWidth,  &stemp)
+
+
+#    fnprintf(HyperFn,"\\r{Font:黑体}{size:%d}%s{Font:\"Times New Roman\"}{size:18}",nSize, &sLeiMing)
+#	fnprintf(HyperFn, "{ParagraphEnd}")
+
+	if (StrLen(&s03)) {
+
+		fnprintf(HyperFn, "{ParagraphBegin}{LeftBorder:%d}{Indent:%d}{LineSep:6}{RightBorder:%d}{Font:\"Times New Roman\"}{size:16}%s{ParagraphEnd}", nLeft + 2*nPerCharWidth, nLeft + 3*nPerCharWidth, _nHyperWidth - 20, &s03)
+
+	}
+
+
+
+
+
+
+} # end of final
+
+
+fnprintf(HyperFn,"{HeaderBegin:N1}{Font:\"Times New Roman\"}{size:18}")
+fnprintf(HyperFn,"{Tabs:290}")
+fnprintf(HyperFn,"%s","\\t%PageNo%/%PageCount%")
+fnprintf(HyperFn,"{HeaderEnd}")
+fnprintf(HyperFn,"{RooterBegin:N1,NE}{Font:\"Times New Roman\"}{size:18}")
+fnprintf(HyperFn,"{Tabs:270}")
+fnprintf(HyperFn,"\\t(续下片)")
+fnprintf(HyperFn,"{RooterEnd}")
+
+
+
+} # end of record
+
+stop
